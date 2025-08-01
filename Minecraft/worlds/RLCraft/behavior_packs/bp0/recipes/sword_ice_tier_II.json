@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:neptunium_ingot"}],"description":{"identifier":"hfrlc:ice_sword"},"tags":["crafting_table"],"pattern":[" B ","ABA"," C "],"key":{"A":{"item":"hfrlc:ice_essence"},"B":{"item":"hfrlc:neptunium_ingot"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:ice_sword"}}}

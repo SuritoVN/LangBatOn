@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:leather"}],"description":{"identifier":"hfrlc:sleeping_bag"},"tags":["crafting_table"],"pattern":[" AA","BBB"],"key":{"A":{"item":"minecraft:leather"},"B":{"item":"minecraft:wool"}},"result":{"item":"hfrlc:sleeping_bag"}}}

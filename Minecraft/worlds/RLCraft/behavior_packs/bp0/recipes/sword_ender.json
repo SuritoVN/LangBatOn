@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:voidsteel_ingot"}],"description":{"identifier":"hfrlc:ender_sword"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"hfrlc:voidsteel_ingot"},"B":{"item":"hfrlc:voidsteel_ingot"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:ender_sword"}}}

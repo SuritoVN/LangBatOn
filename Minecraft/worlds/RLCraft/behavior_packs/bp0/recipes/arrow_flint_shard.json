@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:flint_shard"}],"description":{"identifier":"minecraft:arrow_from_shard"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"hfrlc:flint_shard"},"B":{"item":"minecraft:stick"},"C":{"item":"minecraft:feather"}},"result":{"item":"minecraft:arrow","count":4}}}

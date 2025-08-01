@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.hf_rl.dungeon_door":{"initial_state":"default","states":{"default":{"transitions":[{"close":"q.property('hfrlc:closing')"}],"animations":["open"]},"close":{"animations":["close"]}}}}}

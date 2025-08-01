@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.death_box.particle":{"loop":true,"animation_length":3,"particle_effects":{"0.0":{"effect":"soul_particle","locator":"locator"},"0.75":{"effect":"soul_particle","locator":"locator2"},"1.5":{"effect":"soul_particle","locator":"locator3"},"2.25":{"effect":"soul_particle","locator":"locator4"}}}}}

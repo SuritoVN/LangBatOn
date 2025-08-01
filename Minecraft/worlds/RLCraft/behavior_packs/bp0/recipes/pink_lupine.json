@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:recipe_shapeless":{"unlock":[{"item":"hfrlc:pink_lupine"}],"description":{"identifier":"hfrlc:pink_lupine"},"tags":["crafting_table"],"ingredients":[{"item":"hfrlc:pink_lupine","count":1}],"result":{"item":"minecraft:pink_dye","count":1}}}

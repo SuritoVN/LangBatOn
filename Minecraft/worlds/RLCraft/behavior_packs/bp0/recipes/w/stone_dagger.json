@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:cobblestone"}],"description":{"identifier":"hfrlc:stone_dagger"},"tags":["crafting_table"],"pattern":["R","X"],"key":{"X":{"item":"minecraft:stick"},"R":{"item":"minecraft:cobblestone"}},"result":{"item":"hfrlc:stone_dagger"}}}

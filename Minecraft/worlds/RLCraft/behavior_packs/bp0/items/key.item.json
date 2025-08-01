@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"hfrlc:key","menu_category":{"category":"items"}},"components":{"minecraft:icon":"hfrlc:key","minecraft:block_placer":{"block":"hfrlc:key","replace_block_item":true},"minecraft:max_stack_size":1,"minecraft:hand_equipped":true}}}

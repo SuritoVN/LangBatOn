@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"hfrlc:sweet_pea","menu_category":{"category":"nature"}},"components":{"minecraft:icon":"hfrlc_sweet_pea","minecraft:display_name":{"value":"tile.hfrlc:sweet_pea.name"},"minecraft:block_placer":{"block":"hfrlc:sweet_pea","replace_block_item":true}}}}

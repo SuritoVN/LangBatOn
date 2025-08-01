@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.wyvern_projectile.idle":{"loop":true,"animation_length":1.5,"particle_effects":{"0.0":{"effect":"wyvern_projectile","locator":"wyvern_projectile"}}}}}

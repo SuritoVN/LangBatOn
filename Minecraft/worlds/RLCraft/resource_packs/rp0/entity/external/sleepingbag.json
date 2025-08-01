@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hfrlc:sleepingbag","geometry":{"default":"geometry.sleepingbag"},"textures":{"default":"textures/sleepingbag"},"materials":{"default":"entity_alphatest"},"spawn_egg":{"texture":"sleeping_bag"},"render_controllers":["controller.render.default"]}}}

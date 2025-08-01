@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:recipe_shapeless":{"unlock":[{"item":"hfrlc:jungle_flower"}],"description":{"identifier":"hfrlc:jungle_flower"},"tags":["crafting_table"],"ingredients":[{"item":"hfrlc:jungle_flower","count":1}],"result":{"item":"minecraft:orange_dye","count":1}}}

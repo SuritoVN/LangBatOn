@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:warmer2"},"tags":["crafting_table"],"pattern":["ADA","DXD","ADA"],"key":{"A":{"item":"hfrlc:power_shard"},"X":{"item":"minecraft:fire_charge"},"D":{"item":"hfrlc:fire_essence"}},"result":{"item":"hfrlc:warmer"}}}

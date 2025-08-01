@@ -1,0 +1,1139 @@
+action.guidebook.title=§lMenú de RLCraft
+action.guidebook.how_to_play=§l§2Cómo Jugar
+action.guidebook.how_to_start=§l§2Cómo Empezar
+action.guidebook.thirst_title=§l§bSed
+action.guidebook.grave_title=§l§4Tumbas
+action.guidebook.level_title=§l§eSubir de Nivel
+action.guidebook.temp_title=§l§6Temperatura
+action.guidebook.trinket_title=§l§dAmuletos
+action.guidebook.way_title=§l§bViaja por el Mundo
+action.guidebook.taming_title=§l§9Domesticación
+action.guidebook.dungeons_title=§l§5Mazmorras
+action.guidebook.gameplay_settings_title=§l§8Ajustes de Juego
+action.guidebook.visual_settings_title=§l§8Ajustes Visuales
+action.guidebook.social_title=§l§9¡Únete a nuestro Discord!
+action.guidebook.youtube_title=§l§c¡Mira el Tutorial!
+action.guidebook.creditsandlicenses_title=§l§6Créditos y Licencias
+action.guidebook.credits_title=§l§6Créditos
+action.guidebook.licenses_title=§l§9Licencias
+action.guidebook.rlcraft_title=§l§8RLCraft
+action.guidebook.notreepunching_title=§l§cNo Golpear Árboles
+action.guidebook.weapons_title=§l§3Armas
+action.guidebook.skybox_title=§l§tSkybox
+action.guidebook.back=<< Volver
+action.guidebook.trinket_fix=§lReparar Amuletos
+action.guidebook.adding_packs_title=§l§nAñadiendo Paquetes
+action.guidebook.adding_packs2_title=§l§8Usar RLCraft con otros paquetes
+action.guidebook.video_explaination_title=§l§8Tutorial en Video
+action.guidebook.add_aands_title=§l§8Jugando con §lActions & Stuff
+action.guidebook.add_more_packs_title=§l§8Jugando con otros paquetes
+action.guidebook.realms_disclaimer_title=§l§8Aviso sobre Realms
+action.guidebook.play_title=§l§8Continuar
+
+action.guidebook.thirst_disable=Barra de Sed
+action.guidebook.temp_disable=Barra de Temperatura
+action.guidebook.lens_disable=Destello de Lente
+action.guidebook.wood_punching=Debilitación de Minado a Mano
+action.guidebook.lagwarn=Mensajes de Lag
+action.guidebook.damage_indicator=Indicador de Daño
+action.guidebook.natural_regen=Regeneración Natural
+action.guidebook.skyspires=Generación de Torres Celestes
+action.guidebook.dungeons=Generación de Mazmorras
+action.guidebook.structure_speed=Velocidad de Generación de Estructuras
+action.guidebook.vv_optimization=Optimización de Visuales Vibrantes
+action.guidebook.bodyparts_posx=Posición X de Partes del Cuerpo
+action.guidebook.bodyparts_posy=Posición Y de Partes del Cuerpo
+
+action.guidebook.how_start_text=~LINEBREAK~§l1. Recolecta Grava:§r Encuentra y mina grava para conseguir pedernal.~LINEBREAK~~LINEBREAK~§l2. Procesa el Pedernal:§r Rompe el pedernal sobre piedra para afilarlo. (Golpea cualquier bloque de piedra con pedernal en la mano)~LINEBREAK~~LINEBREAK~§l3. Recolecta Palos:§r Rompe hojas para obtener palos.~LINEBREAK~~LINEBREAK~§l4. Fabrica un Cuchillo:§r Usa el pedernal y un palo para hacer un cuchillo.~LINEBREAK~~LINEBREAK~§l5. Recolecta Fibra Vegetal:§r Usa el cuchillo para cortar pasto y recolectar fibra vegetal.~LINEBREAK~~LINEBREAK~§l6. Fabrica una Cuerda de Fibra Vegetal:§r Combina fibras vegetales para hacer una cuerda.~LINEBREAK~~LINEBREAK~§l7. Fabrica un Hacha de Pedernal:§r Combina pedernal, un palo y una cuerda para crear un hacha de pedernal.~LINEBREAK~~LINEBREAK~§l8. Talar Madera:§r Usa el hacha para cortar árboles.~LINEBREAK~~LINEBREAK~§l9. Fabrica Herramientas de Madera:§r Usa madera para fabricar herramientas.~LINEBREAK~~LINEBREAK~§l10.§r En cuanto puedas, §lusa el Menú de Niveles§r.~LINEBREAK~~LINEBREAK~¡Felicidades! ¡Ahora estás listo para valerte por ti mismo!~LINEBREAK~
+action.guidebook.thirst_body=~LINEBREAK~§r§l§bSed§r es una mecánica crítica de supervivencia que requiere mantenerte hidratado. Puedes hacerlo bebiendo agua, comiendo frutas y consumiendo sopas.~LINEBREAK~~LINEBREAK~§r¡No mantenerte hidratado resultará en efectos negativos que reducirán tus probabilidades de sobrevivir!~LINEBREAK~
+action.guidebook.grave_body=~LINEBREAK~§rUna tumba aparecerá en el lugar de tu muerte. Interactúa con la tumba para recuperar tus objetos.~LINEBREAK~~LINEBREAK~§7§oNota: Las tumbas no aparecerán si mueres en Lava, si el modo Difícil está activado, o si la regla keepInventory está activada.~LINEBREAK~
+action.guidebook.level_body=~LINEBREAK~§rRLCraft añade un sistema único de §l§aniveles.~LINEBREAK~~LINEBREAK~§rEl §l§aMenú de Niveles§r es el objeto más importante de tu inventario, §lúsalo tan pronto consigas experiencia.§r~LINEBREAK~~LINEBREAK~§rPara usar objetos y herramientas poderosas, debes alcanzar ciertos niveles mínimos.~LINEBREAK~~LINEBREAK~§rSube tus habilidades usando niveles de experiencia.~LINEBREAK~~LINEBREAK~§rNuevas habilidades se desbloquean cada 10 niveles en una categoría, ¡hasta nivel 50!~LINEBREAK~
+action.guidebook.temp_body=~LINEBREAK~§rEn RLCraft, cada bioma afecta la temperatura de tu cuerpo. Los biomas cálidos te harán §6Sobrecalentarte§r, y los fríos te harán §bCongelarte§r.~LINEBREAK~~LINEBREAK~§l§bHielo Eterno [Amuleto]§r y estar cerca de §bbloques fríos§r te ayudarán a resistir el §6calor§r.~LINEBREAK~~LINEBREAK~§l§6Ascuas Eternas [Amuleto]§r y estar cerca de §6bloques calientes§r te ayudarán a resistir el §bfrío§r.~LINEBREAK~
+action.guidebook.trinket_body=~LINEBREAK~§l§6La bolsa de amuletos§r en RLCraft tiene 6 espacios:§r 3 para objetos especiales (como §l§bHielo Eterno [Amuleto]§r) y 3 para anillos.~LINEBREAK~~LINEBREAK~§rLos amuletos se pueden fabricar, encontrar en mazmorras difíciles o conseguir al derrotar jefes y enemigos normales.~LINEBREAK~~LINEBREAK~§7§oConsejo: Si los amuletos dejan de funcionar, presiona el botón que dice "Reparar Amuletos".~LINEBREAK~
+action.guidebook.way_body=~LINEBREAK~§r§l§7Piedras de teletransporte:§r Activa estas piedras alrededor del mundo para viajar rápidamente entre ubicaciones.~LINEBREAK~~LINEBREAK~§r§l§dPergamino de Teletransporte:§r Te permite volver instantáneamente a tu punto de aparición.~LINEBREAK~~LINEBREAK~§r§l§bPoción de Retorno:§r Te teletransporta al lugar donde moriste por última vez.~LINEBREAK~~LINEBREAK~§r§l§bSaco de Dormir:§r Te permite saltarte la noche sin cambiar tu punto de reaparición.~LINEBREAK~
+action.guidebook.taming_body=~LINEBREAK~§rPuedes domesticar dragones caídos interactuando con ellos. Una vez domesticados, puedes montarlos y equiparlos con armadura. La armadura de dragón puede fabricarse o encontrarse en cofres.~LINEBREAK~
+action.guidebook.dungeons_body=~LINEBREAK~§rExplorar mazmorras es peligroso, ¡pero el botín y la experiencia valen el riesgo!~LINEBREAK~~LINEBREAK~¡No te apresures! Las mazmorras pueden ser muy difíciles. Mejora tus habilidades y tu equipo antes de intentarlo.~LINEBREAK~~LINEBREAK~§lHay diferentes niveles de mazmorras:§r una casa abandonada te dará herramientas básicas, pero los barcos pirata o torres celestes ofrecen artefactos poderosos.~LINEBREAK~~LINEBREAK~§lLas Mazmorras Subterráneas§r tienen jefes letales y son las más peligrosas, pero también tienen el mejor botín. ¿Alguien quiere donas?~LINEBREAK~
+action.guidebook.social_body=~LINEBREAK~§rEscanea el código QR a continuación o usa este enlace para unirte a nuestro Discord:~LINEBREAK~honeyfrost.net/discord~LINEBREAK~
+action.guidebook.youtube_body=~LINEBREAK~§rEscanea el código QR a continuación o visita nuestro canal de YouTube:~LINEBREAK~youtube.com/@Honeyfrost~LINEBREAK~
+action.guidebook.credits_body=~LINEBREAK~Agradecemos a las siguientes personas y organizaciones por su contribución a RLCraft: Edición Bedrock.~LINEBREAK~~LINEBREAK~§lCreador de RLCraft:§r~LINEBREAK~- Shivaxi~LINEBREAK~~LINEBREAK~§lProductores:§r~LINEBREAK~- Benjamin Deconihout~LINEBREAK~- Haik Ishacian~LINEBREAK~- Mikhail Kuznetsov~LINEBREAK~- Nathan Gaillot~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~~LINEBREAK~§lDesarrolladores:§r~LINEBREAK~- Amman~LINEBREAK~- Ashfaqur Rahman Chowdhury~LINEBREAK~- Alan Capellino~LINEBREAK~- Christian Mari Cabral~LINEBREAK~- Furkan Sancak~LINEBREAK~- Mathias Santos~LINEBREAK~- Muhammet Vebi~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~§lArtistas:§r~LINEBREAK~- [lista continua de nombres sin traducir]~LINEBREAK~~LINEBREAK~¡Y muchos más!~LINEBREAK~~LINEBREAK~§lArte Promocional:§r~LINEBREAK~- [lista continua]~LINEBREAK~~LINEBREAK~§lTester:§r~LINEBREAK~- [lista continua]~LINEBREAK~
+action.guidebook.rlcraft_body=~LINEBREAK~RLCraft - En colaboración con Shivaxi~LINEBREAK~
+action.guidebook.notreepunching_body=~LINEBREAK~Licencia MIT~LINEBREAK~~LINEBREAK~Copyright (C) [2021] [Alex O'Neill (AlcatrazEscapee)]~LINEBREAK~~LINEBREAK~Se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluidos sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y permitir a las personas a quienes se les proporcione el Software que lo hagan, sujeto a las siguientes condiciones:~LINEBREAK~~LINEBREAK~El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.~LINEBREAK~~LINEBREAK~EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS PERO NO LIMITADAS A GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.~LINEBREAK~
+action.guidebook.weapons_body=~LINEBREAK~Armas - Licencia de XP Games~LINEBREAK~
+action.guidebook.skybox_body=~LINEBREAK~Minecraft Better Skybox por Hybred~LINEBREAK~
+action.guidebook.video_explaination_body=~LINEBREAK~Ve a §lYouTube§r y escribe: Honeyfrost RLCraft How to use A&S and Packs, o escanea el código QR abajo:~LINEBREAK~ 
+action.guidebook.add_aands_body=~LINEBREAK~Explicación en video disponible en la página anterior del menú.~LINEBREAK~~LINEBREAK~§lPara usar A&S:§r~LINEBREAK~1: No debe haber paquetes activos en los recursos globales~LINEBREAK~2: RLCraft debe estar en la parte superior de los paquetes de recursos activos, con A&S debajo~LINEBREAK~~LINEBREAK~§lCómo eliminar paquetes de los Recursos Globales§r~LINEBREAK~1: Ve al menú principal de Minecraft~LINEBREAK~2: Entra en configuración~LINEBREAK~3: Baja hasta Recursos Globales~LINEBREAK~4: Elimina todos los paquetes activos en Recursos Globales~LINEBREAK~5: ¡Listo!~LINEBREAK~~LINEBREAK~§lCómo poner RLCraft como el paquete de recursos principal§r~LINEBREAK~1: Ve al menú principal de Minecraft~LINEBREAK~2: Haz clic en Jugar~LINEBREAK~3: Haz clic en Editar al lado de RLCraft Bedrock Edition~LINEBREAK~4: Si aún no lo hiciste, haz clic en el botón azul: Desbloquear Configuración y luego en Desbloquear de todos modos~LINEBREAK~5: Baja en el menú y haz clic en Paquetes de Recursos~LINEBREAK~6: Ve a Disponibles~LINEBREAK~7: Abre Propios~LINEBREAK~8: Haz clic en Activar al lado de A&S~LINEBREAK~9: Haz clic en el botón Activo~LINEBREAK~11: Mueve RLCraft a la primera posición (debe estar arriba)~LINEBREAK~12: ¡Listo!~LINEBREAK~~LINEBREAK~Este producto no está afiliado ni respaldado por Action's and Stuff. Todos los nombres, marcas y contenidos son propiedad de sus respectivos dueños.~LINEBREAK~ 
+action.guidebook.add_more_packs_body=~LINEBREAK~Explicación en video disponible en la página anterior del menú.~LINEBREAK~~LINEBREAK~RLCraft Bedrock Edition está diseñado como una experiencia completa, y aunque generalmente funciona con la mayoría de los paquetes, añadir complementos no visuales puede romper el juego o causar retrasos, especialmente en dispositivos más pequeños. Sin embargo, si aún deseas añadir algunos, así es cómo hacerlo:~LINEBREAK~~LINEBREAK~§lPara usar otros paquetes:§r~LINEBREAK~1: No debe haber paquetes activos en los recursos globales~LINEBREAK~2: RLCraft debe estar en la parte superior de los paquetes de Recursos y de Comportamiento activos~LINEBREAK~~LINEBREAK~§lCómo eliminar paquetes de los Recursos Globales§r~LINEBREAK~1: Ve al menú principal de Minecraft~LINEBREAK~2: Entra en configuración~LINEBREAK~3: Baja hasta Recursos Globales~LINEBREAK~4: Elimina todos los paquetes activos en Recursos Globales~LINEBREAK~5: ¡Listo!~LINEBREAK~~LINEBREAK~§lCómo poner RLCraft como el paquete principal de Recursos y Comportamiento:§r~LINEBREAK~1: Ve al menú principal de Minecraft~LINEBREAK~2: Haz clic en Jugar~LINEBREAK~3: Haz clic en Editar al lado de RLCraft Bedrock Edition~LINEBREAK~4: Si aún no lo hiciste, haz clic en el botón azul: Desbloquear Configuración y luego en Desbloquear de todos modos~LINEBREAK~5: Baja en el menú y haz clic en Paquetes de Recursos o Paquetes de Comportamiento~LINEBREAK~6: Ve a Disponibles en la categoría deseada~LINEBREAK~7: Abre Propios~LINEBREAK~8: Haz clic en Activar al lado del paquete de recursos y todos los paquetes de datos que desees añadir~LINEBREAK~9: Haz clic en el botón Activo~LINEBREAK~11: Mueve RLCraft a la primera posición (debe estar arriba)~LINEBREAK~12: ¡Listo!~LINEBREAK~ 
+action.guidebook.realms_disclaimer_body=~LINEBREAK~Realms a veces puede desordenar el orden de tus Paquetes de Recursos y Comportamiento, como reiniciarlos o bloquear su posición al reconectarte. Es un error conocido de su parte, y no podemos controlarlo.~LINEBREAK~~LINEBREAK~Si te ocurre este problema, recomendamos eliminar cualquier paquete añadido y jugar RLCraft solo para una mejor experiencia.~LINEBREAK~~LINEBREAK~Dicho esto, si aún deseas intentar añadir otros paquetes, los pasos están listados abajo, y hay una explicación en video disponible en el menú anterior. Solo ten en cuenta que podrías tener problemas.~LINEBREAK~~LINEBREAK~§lPara usar otros paquetes:§r~LINEBREAK~1: RLCraft debe estar en la parte superior de los Paquetes de Recursos y Comportamiento activos de tu Realm~LINEBREAK~2: La casilla "Requerir que los jugadores descarguen paquetes de recursos opcionales para unirse" en la configuración de Add-On de tu Realm debe estar activada~LINEBREAK~3: No debe haber paquetes activos en tus recursos globales personales~LINEBREAK~~LINEBREAK~§lCómo eliminar paquetes de tus Recursos Globales:§r~LINEBREAK~1: Ve al menú principal de Minecraft~LINEBREAK~2: Entra en configuración~LINEBREAK~3: Baja hasta Recursos Globales~LINEBREAK~4: Elimina todos los paquetes activos en Recursos Globales~LINEBREAK~5: ¡Listo!~LINEBREAK~ 
+
+action.guidebook.retry_tutorial=§l§8Reintentar Tutorial
+action.guidebook.already_doing_tutorial=§cOh, mira quién olvidó que está hasta el cuello en el tutorial. Lo estás haciendo, genio.
+action.guidebook.tuto_nearby=§cBuen intento, pero no. No puedes reiniciar el tutorial aquí ahora mismo. Ve a tropezar a otro lado o desperdicia unos minutos de tu preciosa vida esperando.
+action.guidebook.be_full_health_first=§cWow, valiente intentar eso medio muerto. Necesitas estar con salud completa para usar este objeto, genio.
+translate.tutorial.crouch_to_skip=Mantén :_input_key.sneak: para saltar la escena.
+translate.tutorial.break_grass_with_knife=§c¡Rompe el pasto con el cuchillo!
+translate.tutorial.break_log_with_axe=§c¡Rompe el tronco con el hacha!
+translate.tutorial.break_stone_with_pickaxe=§c¡Rompe la piedra con el pico!
+action.item_block=§cEh, no puedes usar este objeto ahora mismo.
+action.guidebook.tutorial_body=~LINEBREAK~¿Te sientes perdido? ¿Quieres volver a jugar el tutorial?~LINEBREAK~~LINEBREAK~Al reiniciar el tutorial, tus objetos se guardan y serán devueltos al terminar.~LINEBREAK~
+action.guidebook.yes=Sí
+action.guidebook.no=No
+
+tuto_dragon.idle_bored=¡Date prisa!
+tuto_dragon.idle_bored2=¿Todavía sigues ahí?
+tuto_dragon.idle_bored3=¡Vamos! No tengo todo el día.
+tuto_dragon.dialogue.1=¡Hola! Bienvenido a RLCraft.
+tuto_dragon.dialogue.2=¡Antes de empezar, debes firmar el contrato!
+tuto_dragon.dialogue.3=¡Veamos de qué estás hecho realmente!
+tuto_dragon.dialogue.4=¡Elige tu Dificultad!
+tuto_dragon.dialogue.5=¡Temeroso pero razonable!
+tuto_dragon.dialogue.6=¡Perfectamente equilibrado, como todo debe ser!
+tuto_dragon.dialogue.7=Valiente... o tonto. El tiempo lo dirá.
+tuto_dragon.dialogue.8=¿No sabes nada de RLCraft, verdad? Vamos a arreglar eso.
+tuto_dragon.dialogue.9=Ah... alguien que cree que es más listo que los demás. Qué adorable.
+tuto_dragon.dialogue.10=¿Estás seguro de que quieres saltártelo?
+tuto_dragon.dialogue.11=Muy bien, veamos cuánto duras.
+tuto_dragon.dialogue.12=¡Buena suerte!
+
+tutorial.dialogue.subtitles1=§7Subtítulos: §6Empecemos cortando un poco de madera.
+tutorial.dialogue.subtitles2=§7Subtítulos: §6Más difícil de lo que parece, ¿verdad? En RLCraft, las cosas funcionan diferente, y lo que sirve en Minecraft normal no siempre te servirá aquí. Déjame mostrarte cómo recolectar madera.
+tutorial.dialogue.subtitles3=§7Subtítulos: §6Empieza minando grava para conseguir pedernal. Es un material esencial para fabricar tus primeras herramientas.
+tutorial.dialogue.subtitles4=§7Subtítulos: §6Ahora, toma ese pedernal y golpéalo contra piedra para obtener fragmentos de pedernal.
+tutorial.dialogue.subtitles5=§7Subtítulos: §6Luego, rompe algunas hojas para recolectar palos.
+tutorial.dialogue.subtitles6=§7Subtítulos: §6¡Buen trabajo! Ahora puedes fabricar tu primera herramienta combinando los fragmentos de pedernal y los palos para hacer un cuchillo.
+tutorial.dialogue.subtitles7=§7Subtítulos: §6Úsalo para recolectar tres fibras vegetales del pasto, y luego combínalas para hacer cuerda de fibra vegetal.
+tutorial.dialogue.subtitles8=§7Subtítulos: §6¡Genial! Has reunido los materiales para fabricar un hacha de pedernal, tu primera herramienta para cortar madera.
+tutorial.dialogue.subtitles9=§7Subtítulos: §6Úsala para recolectar tres trozos de madera.
+tutorial.dialogue.subtitles10=§7Subtítulos: §6Excelente, úsalos para fabricar un pico de madera.
+tutorial.dialogue.subtitles11=§7Subtítulos: §6Ahora, para usar objetos en RLCraft, necesitas alcanzar su nivel requerido. Pasa el cursor sobre tu pico en el inventario para ver sus requisitos, o intenta usarlo para descubrirlo.
+tutorial.dialogue.subtitles12=§7Subtítulos: §6Necesitarás experiencia para subir el nivel de minería. Aquí, acaba con esas hormigas.
+tutorial.dialogue.subtitles13=§7Subtítulos: §6Ahora que tienes experiencia, abre el menú de niveles usando el objeto de subir nivel en tu barra rápida.
+tutorial.dialogue.subtitles14=§7Subtítulos: §6Aquí puedes ver y mejorar tus habilidades de Ataque, Defensa, Agilidad y Minería. Subir de nivel es clave en RLCraft, ya que te permite usar mejores herramientas y desbloquear habilidades nuevas cada 10 niveles.~LINEBREAK~~LINEBREAK~Por ahora, invierte tu experiencia en Minería.
+tutorial.dialogue.subtitles15=§7Subtítulos: §6Excelente, tu habilidad de minería ahora está en nivel 3. Intenta usar tu pico de madera.
+tutorial.dialogue.subtitles16=§7Subtítulos: §6Bien, ahora recuerda: En RLCraft, está bien morir, y conservarás todos tus niveles de habilidad tras la muerte.~LINEBREAK~~LINEBREAK~¡Lo que realmente importa es subir tus habilidades y mejorar a lo largo del viaje!
+tutorial.dialogue.subtitles17=§7Subtítulos: §6Pasemos a la curación. ¿Ves el daño que sufriste al luchar contra las hormigas?~LINEBREAK~~LINEBREAK~En RLCraft, si ciertas partes del cuerpo reciben mucho daño, obtendrás penalizaciones, así que estar en buena forma y curarse cuando sea necesario es esencial.
+tutorial.dialogue.subtitles18=§7Subtítulos: §6Para curarte, usa objetos curativos como vendas. Podrás encontrarlos en estructuras o fabricarlos tú mismo.~LINEBREAK~~LINEBREAK~Abre el cofre y cúrate.
+tutorial.dialogue.subtitles19=§7Subtítulos: §6En RLCraft, hasta que duermas en una cama, reaparecerás en un lugar aleatorio del mundo cada vez que mueras. Así que cuando encuentres un sitio que te guste, asegúrate de fabricar una cama y dormir en ella para establecer tu punto de reaparición.
+tutorial.dialogue.subtitles20=§7Subtítulos: §6Ahora hablemos de la temperatura corporal. En RLCraft, los entornos calientes y fríos alteran gradualmente tu temperatura. Si te expones demasiado tiempo, te sobrecalentarás o morirás de frío. Asegurémonos de que eso no pase en los primeros cinco minutos.
+tutorial.dialogue.subtitles21=§7Subtítulos: §6Aquí, ¡he subido la temperatura! Salta al agua para enfriarte y estabilizar tu temperatura antes de sufrir agotamiento por calor.
+tutorial.dialogue.subtitles22=§7Subtítulos: §6Bien, pero ahora te estás congelando. Acércate a una fuente de calor para calentarte.
+tutorial.dialogue.subtitles23=§7Subtítulos: §6Buen trabajo, también hay otras formas de equilibrar tu temperatura corporal, como comer ciertas frutas, y las descubrirás mientras juegas.
+tutorial.dialogue.subtitles24=§7Subtítulos: §6Pasemos al siguiente tema: Amuletos.~LINEBREAK~~LINEBREAK~Son objetos poderosos que otorgan mejoras e inmunidades a lo largo del juego. Toma el del cofre para ver cómo funciona.
+tutorial.dialogue.subtitles25=§7Subtítulos: §6Cada amuleto tiene su propia historia, que explica sus efectos y dónde colocarlo en la bolsa de amuletos. Como regla general, los objetos mágicos van a la izquierda de la bolsa y los anillos a la derecha.~LINEBREAK~~LINEBREAK~Equipa el Amuleto del Cuerno de Cabra.
+tutorial.dialogue.subtitles26=§7Subtítulos: §6¡Bien hecho! Todo este entrenamiento te ha dado sed. Puedes saciarla bebiendo agua, comiendo o nadando.~LINEBREAK~~LINEBREAK~He dejado comida y bebida para ti en el cofre, adelante y toma algo.
+tutorial.dialogue.subtitles27=§7Subtítulos: §6Increíble trabajo, has terminado el tutorial y acabas de comenzar a aprender sobre RLCraft. ¡Es hora de empezar tu aventura!~LINEBREAK~~LINEBREAK~Si quieres activar o desactivar funciones, puedes hacerlo desde el Menú de RLCraft en la sección de Ajustes. Y si deseas más información sobre cosas que no pudimos cubrir aquí, o incluso repetir el tutorial, puedes hacerlo desde el menú en la sección de ayuda.~LINEBREAK~~LINEBREAK~Buena suerte allá afuera.
+
+
+action.temp.hot=§7§l[Advertencia]: §c¡Tienes demasiado CALOR!
+action.temp.cold=§7§l[Advertencia]: §b¡Tienes demasiado FRÍO!
+action.thirst.low=§7§l[Advertencia]: §6¡Estás deshidratado!
+action.backpack.jump=§6:_input_key.sneak: + :_input_key.jump: + :_input_key.attack: para quitar la Mochila
+action.wind_sword.stop_using=- Deja de usar para lanzar -
+action.elemental_sword.cycle=- :_input_key.sneak: para cambiar §6Elementos§f -
+action.elemental_sword.earth=- §2Tierra§f -
+action.elemental_sword.fire=- §4Fuego§f -
+action.elemental_sword.water=- §9Agua§f -
+action.elemental_sword.air=- §7Aire§f -
+action.elemental_sword.lightning=- §bRayo§f -
+detect.lag=§5§l[Mundo]: §r§a¡Optimizando Rendimiento! §7Eliminando objetos caídos en 30 segundos.
+detect.lag.low_ram=§5§l[Mundo]: §r§a¡Optimizando Rendimiento! §7Eliminando objetos caídos en 10 segundos.
+detect.lag10=§5§l[Mundo]: §r§7¡Eliminado!
+action.wyvern.tamed=¿Deseas perdonar y domesticar a este Dragón?
+action.wyvern.spare=Perdonar
+action.wyvern.slay=Matar
+generate.boss_tower=§l§2[Mundo]: §r§7Se generó una Torre Celeste en
+generate.dungeon=§l§2[Mundo]: §r§7Se generó una Mazmorra en
+generate.boss= §7con un jefe dentro
+action.warpstone.title=Nombre de Piedra de Teletransporte
+action.warpstone.list=Lista de Piedras de Teletransporte
+action.warpstone.body=Agrega un nombre a esta Piedra de Teletransporte
+action.warpstone.name=Nombre
+action.system_level.only_use=§c¡Tranquilo, crack! Solo puedes subir 3 niveles de habilidad durante el tutorial.
+action.system_level.only_mining=§cSolo puedes subir Minería durante el tutorial.
+water_flasks.uses= usos
+action.teleport_scroll.cancel=§c¡Brillante! No tienes un punto de reaparición establecido.
+active.saving_grace=§aMira quién tuvo suerte. Gracia Salvadora está activa de nuevo, así que intenta no desperdiciarla.
+blocked.agility=§c§lTu Agilidad es muy baja para usar este objeto.
+blocked.melee=§c§lTu Cuerpo a Cuerpo es muy bajo para usar este objeto.
+blocked.mining=§c§lTu Minería es muy baja para usar este objeto.
+blocked.armor=§c§lTu Defensa es muy baja para usar este objeto.
+action.dodge=§a¡Felicidades! Esquivaste una flecha.
+action.grave_hit=§c¡Aléjate, ladrón de tumbas! No puedes abrir esta tumba porque no es tuya.
+action.warpstone_name=§c¡Impresionante! Ya tienes una piedra de teletransporte con ese nombre. Quizá intenta ser original por una vez.
+action.max_hearts=§cMírate, todo al máximo. Has alcanzado el número máximo de corazones, así que deja de soñar más alto.
+action.reach_level=§aNivel alcanzado
+action.in_melee= en Cuerpo a Cuerpo
+action.in_agility= en Agilidad
+action.in_mining= en Minería
+action.in_armor= en Armadura
+action.you_need=§cNecesitas 
+action.need_xp= niveles de experiencia para mejorar esta categoría.
+action.stop_move=§cTranquilo, turbo. Debes dejar de moverte para usar el objeto.
+action.limit_level=§cYa estás en el nivel máximo de esta categoría, siéntate.
+action.duplicate_trinket=§cSolo se puede equipar un amuleto de cada tipo a la vez.
+action.dead=§cMoriste en 
+action.dead_burned=mientras intentabas nadar en lava y todo se §cquemó§r.
+action.dead_hard=No se dejó tumba... §cElegiste Difícil. ¡Elegiste sufrir!
+action.cooling_down=En enfriamiento...
+action.warpstone_break=§cLas piedras de teletransporte generadas naturalmente no se pueden eliminar.
+action.speed_skill=§l§d--Habilidad de Velocidad Desbloqueada: §r§6Obtienes §lVelocidad 1§r§6 permanentemente.§r
+action.arrow_skill=§l§d--Habilidad de Flecha de Levitación Desbloqueada: §r§6Tu §lAtaque a Distancia§r§6 tiene §a+20% de probabilidad§6 de aplicar §7Levitación.§r
+action.dodge_skill=§l§d--Habilidad de Esquivar Desbloqueada: §r§6Obtienes §a+10%§6 de probabilidad de §lEsquivar§r§6 un ataque, §a5% §6por cada §a5 niveles de Agilidad.§r
+action.critical_skill=§l§d--Habilidad de Crítico con Arco Desbloqueada: §r§6Tu §lAtaque a Distancia§r§6 tiene §a+50% de probabilidad§6 de causar Daño §7Crítico.§r
+action.mastery_skill=§l§d--Maestría en Agilidad Desbloqueada: §r§6Elimina el §lDaño por Caída§r§6, no se te acabarán las flechas.§r
+action.haste_skill=§l§d--Habilidad de Prisa Desbloqueada: §r§6Obtienes §lPrisa 2§r§6 permanentemente.§r
+action.obsidian_skill=§l§d--Habilidad Rompe-Obsidiana Desbloqueada: §r§6Obtienes §lPrisa 4§r§6 al minar §5Obsidiana.§r
+action.sustaining_skill=§l§d--Golpes Sostenidos Desbloqueado: §r§6Recuperas §a+1 y +1§6 por cada §a10 bloques§6 que mines.§r
+action.material_skill=§l§d--Habilidad de Materiales Valiosos Desbloqueada: §r§6Obtienes §a+0.5%§6 de probabilidad de conseguir §lMateriales Valiosos§r§6 al minar piedra.§r
+action.luck_skill=§l§d--Habilidad de Suerte Desbloqueada: §r§6Obtienes §lSuerte 2§r§6, obtienes materiales extra al minar minerales.§r
+action.chance_skill=§l§d--Habilidad de Probabilidad Crítica Desbloqueada: §r§6Tus §lAtaques§r§6 tienen §a+20% de probabilidad§6 de causar Daño §lCrítico§6.§r
+action.stun_skill=§l§d--Habilidad de Aturdir Desbloqueada: §r§6Tus §lAtaques§r§6 tienen §a+10% de probabilidad§6 de causar §lAturdimiento§r§6.§r
+action.area_skill=§l§d--Habilidad de Daño en Área Desbloqueada: §r§6Tus §lAtaques§r§6 tienen §a+15% de probabilidad§6 de dañar enemigos cercanos.§r
+action.vampirism_skill=§l§d--Habilidad de Vampirismo Desbloqueada: §r§6Tus §lAtaques§r§6 te curan §a+1§6 por cada §l10 de daño§r§6 que inflijas.§r
+action.melee_skill=§l§d--Maestría en Cuerpo a Cuerpo Desbloqueada: §r§6Tus §lAtaques§r§7 infligen §a+50%§6 más de daño.§r
+action.thorns_skill=§l§d--Habilidad de Espinas II Desbloqueada: §r§6Al ser golpeado, devuelves igual cantidad de daño al enemigo.§r
+action.boost_skill=§l§d--Impulso de Vida Desbloqueado: §r§6Recibes §a+2 por cada §b10 niveles de Armadura.§r
+action.bodyparts_skill=§l§d--Habilidad de Resistencia Corporal Desbloqueada: §r§6Obtienes resistencia adicional en §lPartes del Cuerpo§r, §a+0.5 por cada §b5 niveles de Armadura.§r
+action.heal_skill=§l§d--Habilidad de Curación Desbloqueada: §r§6Al golpear, tienes §a+15% de probabilidad§6 de curarte §a+5.§r
+action.saving_skill=§l§d--Gracia Salvadora Desbloqueada: §r§6§lEvita la muerte§r§6 una vez cada §a5 minutos.§r
+translate.hfrlc.need_key=§cNecesitas una llave para abrir esta puerta.
+
+tile.hfrlc:jar1.name=Frasco
+tile.hfrlc:jar2.name=Frasco
+tile.hfrlc:barrier_collision.name=Colisión de Barrera
+tile.hfrlc:barrier_collision2.name=Colisión de Barrera Sólida
+tile.hfrlc:blue_bush.name=Arbusto de Bayas Heladas
+tile.hfrlc:orange_bush.name=Arbusto de Fruta Brasa
+tile.hfrlc:clover.name=Trébol
+tile.hfrlc:mushroom.name=Hongo
+tile.hfrlc:pebble.name=Guijarro
+tile.hfrlc:flint_pebble.name=Guijarro de Pedernal
+tile.hfrlc:grass.name=Césped
+tile.hfrlc:cattail.name=Enea
+tile.hfrlc:wheat_grass.name=Pasto de Trigo
+tile.hfrlc:arctic_flowers.name=Flores Árticas
+tile.hfrlc:arid_flowers.name=Flores Áridas
+tile.hfrlc:tropical_flowers.name=Flores Tropicales
+tile.hfrlc:brown_mushroom.name=Hongo Marrón
+tile.hfrlc:red_mushroom.name=Hongo Rojo
+tile.hfrlc:cactus.name=Cactus
+tile.hfrlc:lavender.name=Lavanda
+tile.hfrlc:bellflower.name=Campanilla
+tile.hfrlc:jungle_flower.name=Flor de la Jungla
+tile.hfrlc:pansy.name=Pensamiento
+tile.hfrlc:bracken.name=Helecho
+tile.hfrlc:fireweed.name=Hierba de Fuego
+tile.hfrlc:pink_lupine.name=Lupino Rosa
+tile.hfrlc:purple_heather.name=Brezo Morado
+tile.hfrlc:purple_lupine.name=Lupino Morado
+tile.hfrlc:white_heather.name=Brezo Blanco
+tile.hfrlc:white_lupine.name=Lupino Blanco
+tile.hfrlc:jungle_bush.name=Arbusto de Jungla
+tile.hfrlc:red_roots.name=Raíces Rojas
+tile.hfrlc:sweet_pea.name=Guisante Dulce
+tile.hfrlc:canola_flower.name=Canola
+tile.hfrlc:hogweed_flower.name=Hierba Gigante
+tile.hfrlc:carcass.name=Cadáver
+tile.hfrlc:clam.name=Almeja
+tile.hfrlc:cow_skull.name=Cráneo de Vaca
+tile.hfrlc:seashells.name=Conchas Marinas
+tile.hfrlc:starfish.name=Estrella de Mar
+tile.hfrlc:pumpkin.name=Calabaza
+tile.hfrlc:dungeon_door.name=Puerta de Mazmorra
+tile.hfrlc:dungeon_door_desert.name=Puerta de Mazmorra del Desierto
+tile.hfrlc:dungeon_door_snow.name=Puerta de Mazmorra de Hielo
+tile.hfrlc:dungeon_door_red_desert.name=Puerta de Mazmorra del Desierto Rojo
+tile.hfrlc:dungeon_door_key.name=Puerta con Llave
+tile.hfrlc:key_block.name=Llave
+
+## ===== ENTIDADES VISUALES DE MOCHILA =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:backpack_visual_big.name=§fMochila Grande
+item.spawn_egg.entity.hfrlc:backpack_visual_mid.name=§fMochila Mediana
+item.spawn_egg.entity.hfrlc:backpack_visual.name=§fMochila Pequeña
+
+## Entidades
+entity.hfrlc:backpack_visual_big.name=Mochila Grande
+entity.hfrlc:backpack_visual_mid.name=Mochila Mediana
+entity.hfrlc:backpack_visual.name=Mochila Pequeña
+
+## ===== ENTIDADES JEFE =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:dwarf_king.name=§pHuevo de Otorlum el Rey Enano§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:god_boss.name=§pHuevo de Tulum el Gran Maestro§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:knight_king.name=§pHuevo de Skellor el Guardián§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:orc_boss.name=§pHuevo de Dalokug el Líder§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:pirate_king.name=§pHuevo de Varek Capitán de los Siete Mares§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:rlc_golem.name=§pHuevo del Guardián de la Torre§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:skeleton_boss.name=§pHuevo del Caballero de la Muerte§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:death_knight.name=§pHuevo del Caballero de la Muerte§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:spider_king.name=§pHuevo de Karak el Tejedor de Telarañas§r~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:frog_king.name=§pHuevo de Froggy la Rana~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:griffin.name=§pHuevo de Noffrig Tejedor de Nubes~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:leshen.name=§pHuevo del Hombre Salvaje del Bosque~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:ogre.name=§pHuevo de Ogro el Ogro~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:orc_king.name=§pHuevo de Orkul el Orco~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:spider_queen.name=§pHuevo de la Reina Araña~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:werewolf.name=§pHuevo del Licántropo Alfa~LINEBREAK~§7Jefe
+item.spawn_egg.entity.hfrlc:ant_queen.name=§pHuevo de la Reina Hormiga~LINEBREAK~§7Jefe
+
+## Entidades
+entity.hfrlc:dwarf_king_death.name=§l§aOtorlum el Rey Enano
+entity.hfrlc:dwarf_king.name=§l§aOtorlum el Rey Enano
+entity.hfrlc:god_boss_death.name=§l§6Tulum el Gran Maestro
+entity.hfrlc:god_boss.name=§l§6Tulum el Gran Maestro
+entity.hfrlc:knight_king_death.name=§l§uSkellor el Guardián
+entity.hfrlc:knight_king.name=§l§uSkellor el Guardián
+entity.hfrlc:orc_boss_death.name=§l§4Dalokug el Líder
+entity.hfrlc:orc_boss.name=§l§4Dalokug el Líder
+entity.hfrlc:pirate_king.name=§3§lVarek Capitán de los Siete Mares
+entity.hfrlc:rlc_golem.name=§l§fGuardián de la Torre
+entity.hfrlc:skeleton_boss.name=§l§4Caballero de la Muerte
+entity.hfrlc:death_knight.name=Caballero de la Muerte
+entity.hfrlc:spider_king.name=§l§nKarak el Tejedor de Telarañas
+entity.hfrlc:frog_king.name=§l§aFroggy la Rana
+entity.hfrlc:griffin.name=§lNoffrig Tejedor de Nubes
+entity.hfrlc:leshen.name=§lHombre Salvaje del Bosque
+entity.hfrlc:ogre.name=§l§8Ogro el Ogro
+entity.hfrlc:orc_king.name=§l§2Orkul el Orco
+entity.hfrlc:spider_queen.name=§l§4Reina Araña
+entity.hfrlc:werewolf.name=§l§8Licántropo Alfa
+entity.hfrlc:ant_queen.name=Reina Hormiga
+
+## ===== ENTIDADES DRAGÓN (HOSTILES - DERROTA PARA MONTAR) =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:wyvern_air.name=Huevo de Dragón de Aire~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_dark.name=Huevo de Dragón Oscuro~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_earth.name=Huevo de Dragón de Tierra~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_fire.name=Huevo de Dragón de Fuego~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_ice.name=Huevo de Dragón de Hielo~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_lightning.name=Huevo de Dragón de Rayo~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_nature.name=Huevo de Dragón de Naturaleza~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_poison.name=Huevo de Dragón Venenoso~LINEBREAK~§7Hostil (Derrota para montar)
+item.spawn_egg.entity.hfrlc:wyvern_water.name=Huevo de Dragón de Agua~LINEBREAK~§7Hostil (Derrota para montar)
+
+## Entidades
+entity.hfrlc:wyvern_air.name=§7§lDragón de Aire
+entity.hfrlc:wyvern_dark.name=§8§lDragón Oscuro
+entity.hfrlc:wyvern_earth.name=§6§lDragón de Tierra
+entity.hfrlc:wyvern_fire.name=§c§lDragón de Fuego
+entity.hfrlc:wyvern_ice.name=§b§lDragón de Hielo
+entity.hfrlc:wyvern_lightning.name=§e§lDragón de Rayo
+entity.hfrlc:wyvern_nature.name=§a§lDragón de Naturaleza
+entity.hfrlc:wyvern_poison.name=§d§lDragón Venenoso
+entity.hfrlc:wyvern_water.name=§9§lDragón de Agua
+
+## ===== ENTIDADES HOSTILES =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:dwarf.name=Huevo de Enano~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:knight.name=Huevo de Caballero~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:orc.name=Huevo de Orco~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:pirate_shark.name=Huevo de Tiburón Pirata~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:pirate.name=Huevo de Pirata~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:frog.name=Huevo de Rana~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:yeti.name=Huevo de Yeti~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:snake.name=Huevo de Serpiente~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:sworm.name=Huevo de Gusano Gigante~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:ancient_titan.name=Huevo de Titán Ancestral~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:bee_queen.name=Huevo de Reina Abeja~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:cyclop.name=Huevo de Cíclope~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:divine_warrior.name=Huevo de Guerrero Divino~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:golem.name=Huevo de Gólem~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:icebutterfly.name=Huevo de Mariposa de Hielo~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:monkey_king.name=Huevo de Rey Mono~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:orc_leader.name=Huevo de Líder Orco~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:pumpkinkido.name=Huevo de Segador~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:samurai.name=Huevo de Samurái~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:satyre.name=Huevo de Sátiro~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:shogun.name=Huevo de Shogun Muerto~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:crocodile.name=Huevo de Cocodrilo~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:dead_shooter.name=Huevo de Tirador Muerto~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:little_ant.name=Huevo de Hormiga Pequeña~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:sea_serpent.name=Huevo de Serpiente Marina~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:mosquito.name=Huevo de Mosquito~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:rat.name=Huevo de Rata~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:big_bad_fish.name=Huevo de Pez Malo Grande~LINEBREAK~§7Hostil
+item.spawn_egg.entity.hfrlc:sandworm_head.name=Huevo de Gusano de Arena~LINEBREAK~§7Hostil
+
+## Entidades
+entity.hfrlc:dwarf.name=Enano
+entity.hfrlc:knight.name=Caballero
+entity.hfrlc:orc.name=Orco
+entity.hfrlc:pirate_shark.name=Tiburón Pirata
+entity.hfrlc:pirate.name=Pirata
+entity.hfrlc:frog.name=Rana
+entity.hfrlc:yeti.name=Yeti
+entity.hfrlc:snake.name=Serpiente
+entity.hfrlc:sworm.name=Gusano Gigante
+entity.hfrlc:sworm_mouth.name=Gusano Gigante
+entity.hfrlc:ancient_titan.name=Titán Ancestral
+entity.hfrlc:bee_queen.name=Reina Abeja
+entity.hfrlc:cyclop.name=Cíclope
+entity.hfrlc:divine_warrior.name=Guerrero Divino
+entity.hfrlc:golem.name=Gólem
+entity.hfrlc:icebutterfly.name=Mariposa de Hielo
+entity.hfrlc:monkey_king.name=Rey Mono
+entity.hfrlc:orc_leader.name=Líder Orco
+entity.hfrlc:pumpkinkido.name=Segador
+entity.hfrlc:samurai.name=Samurái
+entity.hfrlc:satyre.name=Sátiro
+entity.hfrlc:shogun.name=Shogun Muerto
+entity.hfrlc:crocodile.name=Cocodrilo
+entity.hfrlc:dead_shooter.name=Tirador Muerto
+entity.hfrlc:little_ant.name=Hormiga Pequeña
+entity.hfrlc:sea_serpent.name=Serpiente Marina
+entity.hfrlc:mosquito.name=Mosquito
+entity.hfrlc:rat.name=Rata
+entity.hfrlc:big_bad_fish.name=Pez Malo Grande
+entity.hfrlc:sandworm_head.name=Gusano de Arena
+entity.hfrlc:sandworm_wheel.name=Gusano de Arena
+entity.hfrlc:sandworm_tail.name=Gusano de Arena
+
+## ===== ENTIDADES NEUTRALES =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:bear.name=Huevo de Oso Pardo~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:boar.name=Huevo de Jabalí~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:skunk.name=Huevo de Mofeta~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:wolf.name=Huevo de Lobo Gigante~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:goat_king.name=Huevo de Rey Cabra~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:paon.name=Huevo de Pavo Real~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:spirit_warrior.name=Huevo de Guerrero Espíritu~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:tree_spirit.name=Huevo de Espíritu del Árbol~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:scorpion.name=Huevo de Escorpión~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:baby_scorpion.name=Huevo de Escorpión Pequeño~LINEBREAK~§7Neutral
+item.spawn_egg.entity.hfrlc:giant_snail.name=Huevo de Caracol Gigante~LINEBREAK~§7Neutral
+
+## Entidades
+entity.hfrlc:bear.name=Oso Pardo
+entity.hfrlc:boar.name=Jabalí
+entity.hfrlc:skunk.name=Mofeta
+entity.hfrlc:wolf.name=Lobo Gigante
+entity.hfrlc:goat_king.name=Rey Cabra
+entity.hfrlc:paon.name=Pavo Real
+entity.hfrlc:spirit_warrior.name=Guerrero Espíritu
+entity.hfrlc:tree_spirit.name=Espíritu del Árbol
+entity.hfrlc:scorpion.name=Escorpión
+entity.hfrlc:baby_scorpion.name=Escorpión Pequeño
+entity.hfrlc:giant_snail.name=Caracol Gigante
+
+## ===== ENTIDADES AMIGABLES =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:firefly.name=Huevo de Luciérnaga~LINEBREAK~§7Amigable
+item.spawn_egg.entity.hfrlc:eagle.name=Huevo de Águila~LINEBREAK~§7Amigable
+item.spawn_egg.entity.hfrlc:healingfairy.name=Huevo de Hada Curativa~LINEBREAK~§7Amigable
+item.spawn_egg.entity.hfrlc:pigeon.name=Huevo de Paloma~LINEBREAK~§7Amigable
+item.spawn_egg.entity.hfrlc:deer.name=Huevo de Ciervo~LINEBREAK~§7Amigable
+item.spawn_egg.entity.hfrlc:mini_snail.name=Huevo de Caracol Pequeño~LINEBREAK~§7Amigable
+
+## Entidades
+entity.hfrlc:firefly.name=Luciérnaga
+entity.hfrlc:eagle.name=Águila
+entity.hfrlc:healingfairy.name=Hada Curativa
+entity.hfrlc:pigeon.name=Paloma
+entity.hfrlc:deer.name=Ciervo
+entity.hfrlc:mini_snail.name=Caracol Pequeño
+
+## ===== ENTIDADES DE MONTURA =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:aeris.name=Huevo de Aeris~LINEBREAK~§7Neutral (Montura)
+item.spawn_egg.entity.hfrlc:biglizard.name=Huevo de Lagarto Grande~LINEBREAK~§7Neutral (Montura)
+item.spawn_egg.entity.hfrlc:hippocampus.name=Huevo de Hipocampo~LINEBREAK~§7Amigable (Montura)
+
+## Entidades
+entity.hfrlc:aeris.name=Aeris
+entity.hfrlc:biglizard.name=Lagarto Grande
+entity.hfrlc:hippocampus.name=Hipocampo
+
+## ===== ENTIDADES NPC COMERCIANTE =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:ant_women.name=Huevo de Mujer Hormiga~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:cowbow.name=Huevo de Vaquero~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:dark_sensei.name=Huevo de Sensei Oscuro~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:divine_island.name=Huevo de Isla Divina~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:dragon_hunter.name=Huevo de Cazador de Dragones~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:harry.name=Huevo de Harry~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:merchant_orc.name=Huevo de Orco Mercader~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:port_sailor.name=Huevo de Capitán~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:white_sensei.name=Huevo de Sensei Blanco~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:witch.name=Huevo de Bruja~LINEBREAK~§7NPC Comerciante
+item.spawn_egg.entity.hfrlc:wizard_golem.name=Huevo de Gólem Mago~LINEBREAK~§7NPC Comerciante
+
+## Entidades
+entity.hfrlc:ant_women.name=Mujer Hormiga
+entity.hfrlc:cowbow.name=Vaquero
+entity.hfrlc:dark_sensei.name=Sensei Oscuro
+entity.hfrlc:divine_island.name=Isla Divina
+entity.hfrlc:dragon_hunter.name=Cazador de Dragones
+entity.hfrlc:harry.name=Harry
+entity.hfrlc:merchant_orc.name=Orco Mercader
+entity.hfrlc:port_sailor.name=Capitán
+entity.hfrlc:white_sensei.name=Sensei Blanco
+entity.hfrlc:witch.name=Bruja
+entity.hfrlc:wizard_golem.name=Gólem Mago
+
+## ===== OBJETOS ESPECIALES =====
+## Huevos de Aparición
+item.spawn_egg.entity.hfrlc:djinn.name=Lámpara Antigua~LINEBREAK~§7¡Frótala!
+item.spawn_egg.entity.hfrlc:sleepingbag.name=Saco de Dormir
+
+## Entidades
+entity.hfrlc:djinn.name=Genio
+entity.hfrlc:sleepingbag.name=Saco de Dormir
+
+## ===== PROYECTILES Y FLECHAS =====
+entity.hfrlc:cannon_ball.name=Bala de Cañón
+entity.hfrlc:dwarf_arrow.name=Enano
+entity.hfrlc:knight_arrow.name=Caballero
+entity.hfrlc:orc_arrow.name=Orco
+entity.hfrlc:pirate_arrow.name=Pirata
+entity.hfrlc:pirate_shot.name=Pirata
+entity.hfrlc:deadshooter_arrow.name=Tirador Muerto
+entity.hfrlc:fire_arrow.name=Flecha
+entity.hfrlc:ice_arrow.name=Flecha
+entity.hfrlc:player_bow.name=Flecha
+entity.hfrlc:player_trident.name=Tridente
+
+## ===== PROYECTILES DE DRAGÓN =====
+entity.hfrlc:wyvern_fire_loot.name=Dragón de Fuego
+entity.hfrlc:wyvern_air_knockback_player.name=Dragón de Aire
+entity.hfrlc:wyvern_air_knockback.name=Dragón de Aire
+entity.hfrlc:wyvern_air_projectile_player.name=Dragón de Aire
+entity.hfrlc:wyvern_dark_projectile_player.name=Dragón Oscuro
+entity.hfrlc:wyvern_earth_projectile_player.name=Dragón de Tierra
+entity.hfrlc:wyvern_fire_projectile_player.name=Dragón de Fuego
+entity.hfrlc:wyvern_ice_projectile_player.name=Dragón de Hielo
+entity.hfrlc:wyvern_lightning_projectile_player.name=Dragón de Rayo
+entity.hfrlc:wyvern_nature_projectile_player.name=Dragón de Naturaleza
+entity.hfrlc:wyvern_poison_projectile_player.name=Dragón Venenoso
+entity.hfrlc:wyvern_water_projectile_player.name=Dragón de Agua
+entity.hfrlc:wyvern_air_tame.name=Dragón de Aire
+entity.hfrlc:wyvern_dark_tame.name=Dragón Oscuro
+entity.hfrlc:wyvern_earth_tame.name=Dragón de Tierra
+entity.hfrlc:wyvern_fire_tame.name=Dragón de Fuego
+entity.hfrlc:wyvern_ice_tame.name=Dragón de Hielo
+entity.hfrlc:wyvern_lightning_tame.name=Dragón de Rayo
+entity.hfrlc:wyvern_nature_tame.name=Dragón de Naturaleza
+entity.hfrlc:wyvern_poison_tame.name=Dragón Venenoso
+entity.hfrlc:wyvern_water_tame.name=Dragón de Agua
+entity.hfrlc:wyvern_air_projectile1.name=Dragón de Aire
+entity.hfrlc:wyvern_air_projectile2.name=Dragón de Aire
+entity.hfrlc:wyvern_air_projectile3.name=Dragón de Aire
+entity.hfrlc:wyvern_air_projectile4.name=Dragón de Aire
+entity.hfrlc:wyvern_air_projectile5.name=Dragón de Aire
+entity.hfrlc:wyvern_dark_projectile1.name=Dragón Oscuro
+entity.hfrlc:wyvern_dark_projectile2.name=Dragón Oscuro
+entity.hfrlc:wyvern_dark_projectile3.name=Dragón Oscuro
+entity.hfrlc:wyvern_dark_projectile4.name=Dragón Oscuro
+entity.hfrlc:wyvern_dark_projectile5.name=Dragón Oscuro
+entity.hfrlc:wyvern_earth_projectile1.name=Dragón de Tierra
+entity.hfrlc:wyvern_earth_projectile2.name=Dragón de Tierra
+entity.hfrlc:wyvern_earth_projectile3.name=Dragón de Tierra
+entity.hfrlc:wyvern_earth_projectile4.name=Dragón de Tierra
+entity.hfrlc:wyvern_earth_projectile5.name=Dragón de Tierra
+entity.hfrlc:wyvern_fire_projectile1.name=Dragón de Fuego
+entity.hfrlc:wyvern_fire_projectile2.name=Dragón de Fuego
+entity.hfrlc:wyvern_fire_projectile3.name=Dragón de Fuego
+entity.hfrlc:wyvern_fire_projectile4.name=Dragón de Fuego
+entity.hfrlc:wyvern_fire_projectile5.name=Dragón de Fuego
+entity.hfrlc:wyvern_ice_projectile1.name=Dragón de Hielo
+entity.hfrlc:wyvern_ice_projectile2.name=Dragón de Hielo
+entity.hfrlc:wyvern_ice_projectile3.name=Dragón de Hielo
+entity.hfrlc:wyvern_ice_projectile4.name=Dragón de Hielo
+entity.hfrlc:wyvern_ice_projectile5.name=Dragón de Hielo
+entity.hfrlc:wyvern_lightning_projectile1.name=Dragón de Rayo
+entity.hfrlc:wyvern_lightning_projectile2.name=Dragón de Rayo
+entity.hfrlc:wyvern_lightning_projectile3.name=Dragón de Rayo
+entity.hfrlc:wyvern_lightning_projectile4.name=Dragón de Rayo
+entity.hfrlc:wyvern_lightning_projectile5.name=Dragón de Rayo
+entity.hfrlc:wyvern_nature_projectile1.name=Dragón de Naturaleza
+entity.hfrlc:wyvern_nature_projectile2.name=Dragón de Naturaleza
+entity.hfrlc:wyvern_nature_projectile3.name=Dragón de Naturaleza
+entity.hfrlc:wyvern_nature_projectile4.name=Dragón de Naturaleza
+entity.hfrlc:wyvern_nature_projectile5.name=Dragón de Naturaleza
+entity.hfrlc:wyvern_poison_projectile1.name=Dragón Venenoso
+entity.hfrlc:wyvern_poison_projectile2.name=Dragón Venenoso
+entity.hfrlc:wyvern_poison_projectile3.name=Dragón Venenoso
+entity.hfrlc:wyvern_poison_projectile4.name=Dragón Venenoso
+entity.hfrlc:wyvern_poison_projectile5.name=Dragón Venenoso
+entity.hfrlc:wyvern_water_projectile1.name=Dragón de Agua
+entity.hfrlc:wyvern_water_projectile2.name=Dragón de Agua
+entity.hfrlc:wyvern_water_projectile3.name=Dragón de Agua
+entity.hfrlc:wyvern_water_projectile4.name=Dragón de Agua
+entity.hfrlc:wyvern_water_projectile5.name=Dragón de Agua
+
+## ===== ENTIDADES DE ARMAS =====
+entity.hfrlc:wand_lightning_projectile.name=Varita Mágica
+entity.hfrlc:fire_aspect.name=Aspecto de Fuego
+entity.hfrlc:wyvern1.name=Dragón
+entity.hfrlc:wyvern2.name=Dragón
+entity.hfrlc:wyvern3.name=Dragón
+entity.hfrlc:wyvern4.name=Dragón
+entity.hfrlc:wyvern5.name=Dragón
+entity.hfrlc:dragon_attack_knockback.name=Dragón
+entity.hfrlc:holdfire.name=Dragón
+entity.hfrlc:wyvern_attack_knockback.name=Dragón
+
+## ===== ENTIDADES DE ESPADAS ESPECIALES =====
+entity.hfrlc:air_sword.controller.name=Espada del Viento
+entity.hfrlc:air_sword.throw.name=Espada del Viento
+entity.hfrlc:dirt_projectile.name=Espada de Tierra
+entity.hfrlc:earth_sword.attack.explode.name=Espada del Terreno
+entity.hfrlc:earth_sword.attack2.name=Espada del Terreno
+entity.hfrlc:earth_sword.attack.name=Espada del Terreno
+entity.hfrlc:earth_sword.attack.target.name=Espada del Terreno
+entity.hfrlc:fire_sword.defense.name=Espada de Llamas
+entity.hfrlc:fire_sword.projectile.name=Espada de Llamas
+entity.hfrlc:fire_sword_boost.name=Espada de Llamas
+entity.hfrlc:ice_cube.projectile.name=Espada de Escarcha
+entity.hfrlc:ice_cube.explode.name=Espada de Escarcha
+entity.hfrlc:ice_spikes.name=Espada de Escarcha
+entity.hfrlc:ice_sword.target.name=Espada de Escarcha
+entity.hfrlc:ice_sword.attack.name=Espada de Escarcha
+entity.hfrlc:rocks.name=Espada de la Selva
+entity.hfrlc:lava_sword.explode.name=Espada Meteoro
+entity.hfrlc:lava_sword.projectile.name=Espada Meteoro
+entity.hfrlc:light_sword_boost.name=Espada de Luminiscencia
+entity.hfrlc:light_sword.glow.name=Espada de Luminiscencia
+entity.hfrlc:nether_sword.target.name=Espada del Nether
+entity.hfrlc:nether_sword.fire_attack.name=Espada del Nether
+entity.hfrlc:nether_sword.fire_attack.explode.name=Espada del Nether
+entity.hfrlc:spawn.controller.name=Espada del Nether
+entity.hfrlc:ocean_sword.attack.ripple.name=Espada del Mar
+entity.hfrlc:ocean_sword.attack.name=Espada del Mar
+entity.hfrlc:ocean_sword.boost.name=Espada del Mar
+entity.hfrlc:thunder_sword.explode_small.name=Espada del Trueno
+entity.hfrlc:thunder_sword.impact.name=Espada del Trueno
+entity.hfrlc:thunder_sword.explode.name=Espada del Trueno
+entity.hfrlc:particle_rider.name=Partícula
+entity.hfrlc:poison_projectile.name=Espada Venenosa
+entity.hfrlc:spike_sword_boost.name=Espada de Impulso
+entity.hfrlc:spike_sword.target.name=Espada de Impulso
+entity.hfrlc:tornado.name=Tornado
+entity.hfrlc:toxic.name=Espada Venenosa
+entity.hfrlc:water_beam_projectile.name=Espada Acuática
+entity.hfrlc:weapon13_knockback.name=Escudo de Madera
+
+## ===== ENTIDADES DE GENERADOR Y ALEATORIZADOR =====
+entity.hfrlc:web.name=Telaraña
+entity.hfrlc:2_boss.name=Aleatorizador de Jefe 2
+entity.hfrlc:boss_tower_random.name=Aleatorizador de Jefe
+entity.hfrlc:skysmall_random.name=Aleatorizador de Jefe
+entity.hfrlc:boss_tower.name=Generador de Torre Celestial
+entity.hfrlc:dungeon.name=Generador de Mazmorra
+entity.hfrlc:random_npc_dungeon.name=Aleatorizador de NPC de Mazmorra
+entity.hfrlc:random_npc.name=Aleatorizador de NPC
+entity.hfrlc:random_wyvern.name=Aleatorizador de Dragón
+
+## ===== ENTIDADES DE EFECTOS ESPECIALES =====
+entity.hfrlc:lens_sun.name=Destello de Lente
+entity.hfrlc:npcsign.name=Cartel de NPC
+entity.hfrlc:explode_tower.name=Explosionador de Torre
+entity.hfrlc:explode.name=Explosionador
+entity.hfrlc:knockback.name=Empujador
+entity.hfrlc:sing.name=Cantar
+entity.hfrlc:wyvern_explode.name=Explosión de Dragón
+entity.hfrlc:wither_skull_dangerous.name=Cráneo de Wither Peligroso
+entity.hfrlc:ender_tp_dummy.name=Perla de Ender
+entity.hfrlc:drop_item.name=Soltar Objeto
+entity.hfrlc:play_the_tutorial.name=Dragón
+entity.hfrlc:acid.name=Ácido
+entity.hfrlc:leshen_scream.name=§lHombre Salvaje del Bosque
+entity.hfrlc:ogre_attack.name=§l§8Ogro el Ogro
+entity.hfrlc:roots.name=Raíces
+entity.hfrlc:black_room.name=Habitación Negra
+
+## ===== ENTIDADES DEL SISTEMA DE SUPERVIVENCIA/CRAFTING =====
+entity.hfrlc:bodyparts.name=Partes del Cuerpo
+entity.hfrlc:cold_temperature.name=Temperatura Fría
+entity.hfrlc:hot_temperature.name=Temperatura Caliente
+entity.hfrlc:temperature.name=Temperatura
+entity.hfrlc:fiber_string.name=Cuerda de Fibra
+entity.hfrlc:fiber.name=Fibra
+entity.hfrlc:flint_axe.name=Hacha de Pedernal
+entity.hfrlc:flint_dagger.name=Daga de Pedernal
+entity.hfrlc:flint_shard.name=Fragmento de Pedernal
+entity.hfrlc:flint.name=Pedernal
+entity.hfrlc:goat_horn.name=Cuerno de Cabra
+entity.hfrlc:stick.name=Palo
+entity.hfrlc:stone_axe.name=Hacha de Piedra
+entity.hfrlc:stone_pickaxe.name=Pico de Piedra
+entity.hfrlc:stone_sword.name=Espada de Piedra
+entity.hfrlc:wood_axe.name=Hacha de Madera
+entity.hfrlc:wood_pickaxe.name=Pico de Madera
+entity.hfrlc:wood_sword.name=Espada de Madera
+entity.hfrlc:wood.name=Madera
+
+## ===== ENTIDADES DE UI Y SISTEMA =====
+entity.hfrlc:guide_texts.name=Textos de Guía
+entity.hfrlc:heal_items.name=Objetos de Curación
+entity.hfrlc:thirts_items.name=Objetos para la Sed
+entity.hfrlc:trinket_bag.name=Bolsa de Amuletos
+entity.hfrlc:trinket_lore.name=Historia de Amuletos
+entity.hfrlc:trinket_ui.name=Interfaz de Amuletos
+entity.hfrlc:system_level_item.name=Objeto de Nivel del Sistema
+entity.hfrlc:system_level_ui.name=Interfaz de Nivel del Sistema
+entity.hfrlc:system_level.name=Menú de Nivelación
+entity.hfrlc:trinket_menu.name=Menú de Amuletos
+
+## ===== ENTIDADES DE INTERACCIÓN CON EL MUNDO =====
+entity.hfrlc:tombs.name=Tumba
+entity.hfrlc:warpstone.name=Piedra de Teletransporte
+
+
+action.interact.rotate=Rotar
+action.interact.paint=Pintar
+action.interact.wear=Interactuar para usar
+action.interact.sit=Sentarse
+action.interact.ride=Montar
+action.interact.wyvern.saddle=Ensillar
+action.interact.wyvern.armor=Equipar Armadura
+action.interact.wyvern.shoot=Disparar
+action.interact.pick_up=Recoger
+
+action.hint.tuto_dragon.hint.1=§6[!] Puedes cambiar la dificultad~LINEBREAK~   más tarde en configuración.
+action.hint.tuto_dragon.hint.2=§6[!] Jugar el tutorial~LINEBREAK~   es altamente recomendado.
+action.hint.tuto_dragon.hint.3=§6[!] Solo omite si ya~LINEBREAK~   has hecho el tutorial.
+action.hint.tuto_dragon.hint.4=§6[!] RLCraft: Edición Bedrock es~LINEBREAK~   diferente de RLCraft: Edición Java.
+action.hint.tuto_dragon.hint.5=§6[!] RLCraft transforma completamente~LINEBREAK~   el Gameloop Vanilla de Minecraft.
+
+action.hint.exit.hfrlc:sleepingbag=:_input_key.sneak: para salir
+action.hint.warpstone=§b:_input_key.attack:§r para abrir menú. §b:_input_key.sneak:§r + §b:_input_key.attack:§r para destruir.
+action.hint.exit.hfrlc:stool=:_input_key.sneak: para salir
+action.hint.exit.hfrlc:woodchair=:_input_key.sneak: para salir
+action.hint.exit.hfrlc:woolchair=:_input_key.sneak: para salir
+action.hint.exit.hfrlc:woolcouch=:_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_air=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_dark=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_earth=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_fire=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_ice=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_lightning=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_nature=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_poison=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:wyvern_water=:_input_key.use: para disparar, :_input_key.sneak: para salir
+action.hint.exit.hfrlc:hippocampus=:_input_key.sneak: para salir del Hipocampo
+action.hint.exit.hfrlc:aeris=Mira arriba y abajo para volar
+action.hint.exit.hfrlc:biglizard=:_input_key.sneak: para salir del Lagarto Grande
+
+action.black_room.start=Iniciar
+action.sleepingbag=§c¿Qué es esto, hora de la siesta? No puedes dormir durante el día, así que mantente despierto y sufre como el resto.
+
+
+hfrlc:bow=Arco de RLCraft
+hfrlc:dragon_armor=Armadura de Dragón
+hfrlc:healing_capsule=Cápsula de Curación
+hfrlc:levelup_token=Token de Subida de Nivel
+hfrlc:travel=Viaje
+hfrlc:trinkets=Amuletos
+hfrlc:important_items=Objetos Importantes
+hfrlc:dragon_scales=Escamas de Dragón
+hfrlc:dragon_parts=Partes de Dragón
+hfrlc:coins=Monedas
+hfrlc:essences=Esencias
+hfrlc:backpack=Mochila
+hfrlc:furniture=Muebles
+
+## FOOD
+item.hfrlc:cooked_boar_meat=Carne de Jabalí Cocida
+item.hfrlc:cooked_deer_meat=Carne de Ciervo Cocida
+item.hfrlc:cooked_eagle_meat=Carne de Águila Cocida
+item.hfrlc:cooked_grizzly_meat=Carne de Oso Grizzly Cocida
+item.hfrlc:cooked_rat_meat=Carne de Rata Cocida
+item.hfrlc:cooked_skunk_meat=Carne de Mofeta Cocida
+item.hfrlc:cooked_snake_meat=Carne de Serpiente Gristly Cocida
+item.hfrlc:cooked_wolf_meat=Carne de Lobo Cocida
+item.hfrlc:raw_boar_meat=Carne de Jabalí Cruda
+item.hfrlc:raw_deer_meat=Carne de Ciervo Cruda
+item.hfrlc:raw_eagle_meat=Carne de Águila Cruda
+item.hfrlc:raw_grizzly_meat=Carne de Oso Grizzly Cruda
+item.hfrlc:raw_rat_meat=Carne de Rata Cruda
+item.hfrlc:raw_skunk_meat=Carne de Mofeta Cruda
+item.hfrlc:raw_snake_meat=Carne de Serpiente Gristly Cruda
+item.hfrlc:raw_wolf_meat=Carne de Lobo Cruda
+
+## CRAFTING MATERIALS
+item.hfrlc:black_dragon_scales=§fEscamas de Dragón Negras
+item.hfrlc:blue_dragon_scales=§fEscamas de Dragón Azules
+item.hfrlc:brown_dragon_scales=§fEscamas de Dragón Marrones
+item.hfrlc:diamond_wyvern_armor=§fArmadura de Dragón de Diamante
+item.hfrlc:dragon_heart=§dCorazón de Dragón
+item.hfrlc:dragon_skull=§dCráneo de Dragón
+item.hfrlc:flaming_dragon_blood=§fEspíritu de Dragón Llameante
+item.hfrlc:flint_shard=§fFragmento de Pedernal
+item.hfrlc:gold_wyvern_armor=§fArmadura de Dragón Dorada
+item.hfrlc:green_dragon_scales=§fEscamas de Dragón Verdes
+item.hfrlc:ice_dragon_blood=§fEspíritu de Dragón de Hielo
+item.hfrlc:info_book=§fMenú de RLCraft
+item.hfrlc:iron_wyvern_armor=§fArmadura de Dragón de Hierro
+item.hfrlc:netherite_wyvern_armor=§fArmadura de Dragón de Netherita
+item.hfrlc:paint=Brocha
+item.hfrlc:plant_fibers_rope=§fCuerda de Fibras Vegetales
+item.hfrlc:plant_fibers=§fFibras Vegetales
+item.hfrlc:red_dragon_scales=§fEscamas de Dragón Rojas
+
+## COSAS EN VENTA
+item.hfrlc:pirate_armor_plates=§fCaja de Pieles~LINEBREAK~§7Valor: 1
+item.hfrlc:pirate_cloth=§fTela Pirata~LINEBREAK~§7Valor: 1
+item.leather.name=Cuero~LINEBREAK~§7Valor: 1
+item.rabbit_hide.name=Cuero de Conejo~LINEBREAK~§7Valor: 1
+item.quartz.name=§fCuarzo del Nether~LINEBREAK~§7Valor: 1
+item.nautilus_shell.name=§fConcha de Nautilus~LINEBREAK~§7Valor: 1
+item.gold_ingot.name=Lingote de Oro~LINEBREAK~§7Valor: 2
+item.iron_ingot.name=Lingote de Hierro~LINEBREAK~§7Valor: 1
+item.netherite_ingot.name=§bLingote de Netherite~LINEBREAK~§7Valor: 4
+item.netherite_scrap.name=§bFragmento de Netherite~LINEBREAK~§7Valor: 1
+item.echo_shard.name=§bFragmento de Eco~LINEBREAK~§7Valor: 1
+item.diamond.name=Diamante~LINEBREAK~§7Valor: 3
+item.emerald.name=Esmeralda~LINEBREAK~§7Valor: 1
+item.hfrlc:ancient_sprouts=§fBrotaciones Antiguas~LINEBREAK~§7Valor: 1
+item.hfrlc:scorpion_tails=§fCola de Escorpión~LINEBREAK~§7Valor: 3
+item.hfrlc:samurai_armor_plates=§fPlacas Antiguas~LINEBREAK~§7Valor: 3
+item.amethyst_shard.name=Fragmento de Amatista~LINEBREAK~§7Valor: 1
+item.spider_eye.name=Ojo de Araña~LINEBREAK~§7Valor: 1
+item.fermented_spider_eye.name=Ojo de Araña Fermentado~LINEBREAK~§7Valor: 3
+item.hfrlc:dragon_bone=§bHueso de Dragón~LINEBREAK~§7Valor: 1
+item.hfrlc:wyvern_skull=§bFragmento de Cráneo de Dragón~LINEBREAK~§7Valor: 2
+item.hfrlc:wither_bone=§fHueso de Wither~LINEBREAK~§7Valor: 4
+item.slime_ball.name=Bola de Slime~LINEBREAK~§7Valor: 1
+item.wind_charge.name=Carga de Viento~LINEBREAK~§7Valor: 1
+item.armadillo_scute.name=Escama de Armadillo~LINEBREAK~§7Valor: 2
+item.turtle_shell_piece.name=Escama de Tortuga~LINEBREAK~§7Valor: 2
+item.shulker_shell.name=Concha de Shulker~LINEBREAK~§7Valor: 2
+item.book.name=§fLibro~LINEBREAK~§7Valor: 2
+item.heart_of_the_sea.name=§fCorazón del Mar~LINEBREAK~§7Valor: 1
+item.hfrlc:orcish_scribbles=§bNota Orca~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Las letras parecen primitivas,~LINEBREAK~§o  pero su significado~LINEBREAK~  es desconocido."§r
+item.hfrlc:knight_orders=§bÓrdenes del Caballero~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Están buscando~LINEBREAK~§o  algo...~LINEBREAK~§o  o a alguien..."§r
+item.hfrlc:dwarven_tome=§bTomo Enano~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Incluso en papel,~LINEBREAK~§o  el enano parece tallado~LINEBREAK~§o  con cincel."§r
+item.hfrlc:tower_blessing=§bProfecía Divina~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Solo ves tu~LINEBREAK~§o  propio reflejo en~LINEBREAK~§o  este pergamino."§r
+
+## CRISTALES DE PODER
+item.hfrlc:power_crystal=§bCristal de Poder
+item.hfrlc:power_shard=§bFragmento de Poder
+
+## CRISTALES DE SALUD
+item.hfrlc:health_crystal=§cCristal de Salud~LINEBREAK~§7Regeneración II (0:03)~LINEBREAK~Aumenta la salud permanentemente
+item.hfrlc:health_crystal_shard=§cFragmento de Salud
+
+## TODO SOBRE MEJORAS DE NIVEL
+item.hfrlc:xp=§eTomo de Experiencia~LINEBREAK~§7+15 Niveles
+item.hfrlc:agility_token=§ePiedra Rúnica de Agilidad~LINEBREAK~§7+1 Nivel en Agilidad
+item.hfrlc:melee_token=§ePiedra Rúnica de Combate~LINEBREAK~§7+1 Nivel en Cuerpo a Cuerpo
+item.hfrlc:mining_token=§ePiedra Rúnica de Minería~LINEBREAK~§7+1 Nivel en Minería
+item.hfrlc:armor_token=§ePiedra Rúnica de Armadura~LINEBREAK~§7+1 Nivel en Armadura
+
+## MENÚ
+item.hfrlc:system_level=§f§lMenú de Niveles§r~LINEBREAK~§7Interactúa para abrir la interfaz
+item.hfrlc:trinket_menu=§f§lBolsa de Amuletos§r~LINEBREAK~§7Interactúa para abrir la interfaz
+
+## OBJETOS DE CURA
+item.hfrlc:bandage=§fVendaje~LINEBREAK~§7Regeneración II (0:03)~LINEBREAK~Cura extremidades rotas
+item.hfrlc:heal1=§fFrasco de Curación~LINEBREAK~§7Regeneración V (0:01)
+item.hfrlc:heal2=§bBotella de Curación~LINEBREAK~§7Regeneración V (0:06)~LINEBREAK~Cura extremidades rotas
+item.hfrlc:heal3=§dBrebaje de Curación~LINEBREAK~§7Salud Instantánea X~LINEBREAK~Cura extremidades rotas
+item.hfrlc:blue_bush_fruit=Frutabrisal~LINEBREAK~§7Resistencia al Calor I
+item.hfrlc:orange_bush_fruit=Fruta Ígnea~LINEBREAK~§7Resistencia al Frío I
+item.hfrlc:pumpkin_slice=Rebanada de Calabaza
+item.hfrlc:red_root=Raíz Escarlata
+
+## OBJETOS ÚTILES
+item.hfrlc:recover_potion=§fPoción de Retorno~LINEBREAK~§7Te teletransporta a tu último punto de muerte
+item.hfrlc:sleeping_bag=§fSaco de Dormir~LINEBREAK~§7No establece punto de aparición
+item.hfrlc:teleport_scroll=§fPergamino de Teletransporte~LINEBREAK~§7Te teletransporta a tu último punto de aparición
+item.hfrlc:warpstone=§fPiedra de Distorsión~LINEBREAK~§7Golpea para abrir la interfaz
+item.hfrlc:water_flasks_empty=§fCantimplora~LINEBREAK~§7Quedan 0 usos.~LINEBREAK~Llénala con agua
+item.hfrlc:water_flasks=§fCantimplora
+item.hfrlc:copper_coin=Moneda de Cobre
+item.hfrlc:silver_coin=Moneda de Plata
+item.hfrlc:gold_coin=Moneda de Oro
+item.hfrlc:air_essence=§bEsencia de Aire
+item.hfrlc:earth_essence=§bEsencia de Tierra
+item.hfrlc:fire_essence=§bEsencia de Fuego
+item.hfrlc:ice_essence=§bEsencia de Hielo
+item.hfrlc:thunder_essence=§dPiedra del Trueno
+item.hfrlc:water_essence=§bEsencia de Agua
+item.hfrlc:briariron_ingot=§bLingote de Hierro Espinoso
+item.hfrlc:neptunium_ingot=§bLingote de Neptunio
+item.hfrlc:shadow_stone=§bPiedra Sombría
+item.hfrlc:voidsteel_ingot=§dLingote de Acero del Vacío
+
+## ARMADURA
+item.turtle_helmet.name=§l§fCasco de Tortuga§r§f~LINEBREAK~ 
+item.elytra.name=§l§fÉlitros§r§f~LINEBREAK~
+
+item.leather_boots.name=§l§fBotas de Cuero§r§f~LINEBREAK~ 
+item.leather_chestplate.name=§l§fTúnica de Cuero§r§f~LINEBREAK~ 
+item.leather_helmet.name=§l§fCasco de Cuero§r§f~LINEBREAK~ 
+item.leather_leggings.name=§l§fPantalones de Cuero§r§f~LINEBREAK~ 
+
+item.golden_boots.name=§l§fBotas de Oro§r§f~LINEBREAK~ 
+item.golden_chestplate.name=§l§fPeto de Oro§r§f~LINEBREAK~ 
+item.golden_helmet.name=§l§fCasco de Oro§r§f~LINEBREAK~ 
+item.golden_leggings.name=§l§fPantalones de Oro§r§f~LINEBREAK~ 
+
+item.hfrlc:pirate_boots=§l§fBotas de Corsario§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidad II (Conjunto Completo)~LINEBREAK~+1 Respiración Acuática (Conjunto Completo)
+item.hfrlc:pirate_chestplate=§l§fTúnica de Corsario§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidad II (Conjunto Completo)~LINEBREAK~+1 Respiración Acuática (Conjunto Completo)
+item.hfrlc:pirate_helmet=§l§fTricornio de Corsario§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidad II (Conjunto Completo)~LINEBREAK~+1 Respiración Acuática (Conjunto Completo)
+item.hfrlc:pirate_leggings=§l§fPantalones de Corsario§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidad II (Conjunto Completo)~LINEBREAK~+1 Respiración Acuática (Conjunto Completo)
+
+item.iron_boots.name=§l§fBotas de Hierro§r§f~LINEBREAK~ 
+item.iron_chestplate.name=§l§fPeto de Hierro§r§f~LINEBREAK~ 
+item.iron_helmet.name=§l§fCasco de Hierro§r§f~LINEBREAK~ 
+item.iron_leggings.name=§l§fPantalones de Hierro§r§f~LINEBREAK~ 
+
+item.chainmail_boots.name=§l§fBotas de Malla§r§f~LINEBREAK~ 
+item.chainmail_chestplate.name=§l§fPeto de Malla§r§f~LINEBREAK~ 
+item.chainmail_helmet.name=§l§fCasco de Malla§r§f~LINEBREAK~ 
+item.chainmail_leggings.name=§l§fPantalones de Malla§r§f~LINEBREAK~ 
+
+item.diamond_boots.name=§l§fBotas de Diamante§r§f~LINEBREAK~ 
+item.diamond_chestplate.name=§l§fPeto de Diamante§r§f~LINEBREAK~ 
+item.diamond_helmet.name=§l§fCasco de Diamante§r§f~LINEBREAK~ 
+item.diamond_leggings.name=§l§fPantalones de Diamante§r§f~LINEBREAK~ 
+
+item.netherite_boots.name=§l§fBotas de Netherita§r§f~LINEBREAK~ 
+item.netherite_chestplate.name=§l§fPeto de Netherita§r§f~LINEBREAK~ 
+item.netherite_helmet.name=§l§NCasco de Netherita§r§f~LINEBREAK~ 
+item.netherite_leggings.name=§l§fPantalones de Netherita§r§f~LINEBREAK~ 
+
+item.hfrlc:blue_dragon_boots=§l§fBotas de Dragón Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Calor I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:blue_dragon_chestplate=§l§fPeto de Dragón Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Calor I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:blue_dragon_helmet=§l§fCasco de Dragón Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Calor I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:blue_dragon_leggings=§l§fPantalones de Dragón Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Calor I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+
+item.hfrlc:brown_dragon_boots=§l§fBotas de Dragón Marrón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:brown_dragon_chestplate=§l§fPeto de Dragón Marrón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:brown_dragon_helmet=§l§fCasco de Dragón Marrón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:brown_dragon_leggings=§l§fPantalones de Dragón Marrón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+
+item.hfrlc:green_dragon_boots=§l§fBotas de Dragón Verde§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Veneno (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:green_dragon_chestplate=§l§fPeto de Dragón Verde§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Veneno (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:green_dragon_helmet=§l§fCasco de Dragón Verde§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Veneno (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:green_dragon_leggings=§l§fPantalones de Dragón Verde§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Veneno (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+
+item.hfrlc:red_dragon_boots=§l§fBotas de Dragón Rojo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Frío I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:red_dragon_chestplate=§l§fPeto de Dragón Rojo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Frío I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:red_dragon_helmet=§l§fCasco de Dragón Rojo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Frío I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:red_dragon_leggings=§l§fPantalones de Dragón Rojo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia al Frío I (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+
+item.hfrlc:dark_dragon_boots=§l§fBotas de Dragón Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Ceguera (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Oscuridad (Conjunto Completo)
+item.hfrlc:dark_dragon_chestplate=§l§fPeto de Dragón Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Ceguera (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Oscuridad (Conjunto Completo)
+item.hfrlc:dark_dragon_helmet=§l§fCasco de Dragón Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Ceguera (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Oscuridad (Conjunto Completo)
+item.hfrlc:dark_dragon_leggings=§l§fLeotardos de Dragón Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Ceguera (Conjunto Completo)~LINEBREAK~+1 Resistencia a la Oscuridad (Conjunto Completo)
+
+item.hfrlc:earth_dragon_boots=§l§fBotas de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:earth_dragon_chestplate=§l§fPeto de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:earth_dragon_helmet=§l§fCasco de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+item.hfrlc:earth_dragon_leggings=§l§fLeotardos de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Resistencia al Retroceso (Conjunto Completo)~LINEBREAK~+1 Resistencia I (Conjunto Completo)
+
+item.hfrlc:samurai_boots=§l§fBotas Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Fuerza I (Conjunto Completo)
+item.hfrlc:samurai_chestplate=§l§fPeto Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Fuerza I (Conjunto Completo)
+item.hfrlc:samurai_helmet=§l§fCasco Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Fuerza I (Conjunto Completo)
+item.hfrlc:samurai_leggings=§l§fLeotardos Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Protección de Extremidades~LINEBREAK~+1 Fuerza I (Conjunto Completo)
+
+## TRINKETS
+item.hfrlc:golden_ring=§l§fAnillo Dorado§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Se siente un poco~LINEBREAK~§o  más pesado de lo que parece."§r
+item.hfrlc:ancient_root=§l§fRaíz Antigua§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia a Lentitud~LINEBREAK~~LINEBREAK~§7§o"Madera nudosa~LINEBREAK~§o  absorbe la fatiga."§r
+item.hfrlc:goat_horns=§l§fCuernos de Cabra§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia a Fatiga Minera~LINEBREAK~~LINEBREAK~§7§o"Chapado en oro."§r
+item.hfrlc:cyclops_eye=§l§fOjo de Cíclope§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia a Ceguera~LINEBREAK~Resistencia a Oscuridad~LINEBREAK~~LINEBREAK~§7§o"Útil incluso si~LINEBREAK~§o  tienes dos ojos."§r
+item.hfrlc:teddy_of_comfort=§l§fOsito de Confort§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneración I~LINEBREAK~~LINEBREAK~§7§o"Los abrazos curan~LINEBREAK~§o  todas las heridas."§r
+item.hfrlc:warmer=§l§fAscua Eterna§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia al Frío~LINEBREAK~~LINEBREAK~§7§o"Una pequeña brasa está~LINEBREAK~§o  envuelta en llamas.~LINEBREAK~§o  No importa el frío,~LINEBREAK~§o  te mantendrá cálido."§r
+item.hfrlc:ice_bag=§l§fHielo Eterno§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia al Calor~LINEBREAK~~LINEBREAK~§7§o"El hielo no se derrite~LINEBREAK~§o  sin importar el calor."§r
+item.hfrlc:antidote_vital=§l§fFrasco de Antídoto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia al Veneno~LINEBREAK~~LINEBREAK~§7§o"El líquido dentro~LINEBREAK~§o  permanece inmóvil sin~LINEBREAK~§o  importar cuánto~LINEBREAK~§o  lo agites."§r
+item.hfrlc:greatest_shield=§l§fGran Escudo§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia al Retroceso~LINEBREAK~Aumento de Salud I~LINEBREAK~~LINEBREAK~§7§o"Absorbe~LINEBREAK~§o  toda vibración."§r
+item.hfrlc:ring_jump=§l§fAnillo de Salto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Salto Mejorado II~LINEBREAK~~LINEBREAK~§7§o"Te sientes mucho más ligero~LINEBREAK~§o  que antes... Curioso."§r
+item.hfrlc:ring_speed=§l§fDedos Rápidos§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Velocidad I~LINEBREAK~~LINEBREAK~§7§o"Susurra con~LINEBREAK~§o  el deseo de~LINEBREAK~§o  estar en otro lugar."§r
+item.hfrlc:blessed_water=§l§fAgua Bendita§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia a Wither~LINEBREAK~~LINEBREAK~§7§o"Una gota basta~LINEBREAK~§o  para eliminar toda~LINEBREAK~§o  corrupción."§r
+item.hfrlc:mining_amulet=§l§fAmuleto Minero§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Prisa I~LINEBREAK~~LINEBREAK~§7§o"Ilumina el camino~LINEBREAK~§o  hacia adelante."§r
+item.hfrlc:shulker_anchor=§l§fAncla de Shulker§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia a Levitación~LINEBREAK~~LINEBREAK~§7§o"Algo mágico~LINEBREAK~§o  lo imanta al suelo."§r
+item.hfrlc:dragon_eyes=§l§fOjo del Dragón§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia al Fuego~LINEBREAK~Visión Nocturna~LINEBREAK~Resistencia a Oscuridad~LINEBREAK~~LINEBREAK~§7§o"Mirada ardiente que~LINEBREAK~§o  quema todas las sombras."§r
+item.hfrlc:ring_regeneration=§l§fAnillo de Regeneración§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneración I~LINEBREAK~~LINEBREAK~§7§o"Pulsa~LINEBREAK~§o  en tu dedo."§r
+item.hfrlc:ring_resistance=§l§fAnillo de Resistencia§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia I~LINEBREAK~~LINEBREAK~§7§o"Templado en pruebas~LINEBREAK~§o  de resistencia."§r
+item.hfrlc:ring_strength=§l§fAnillo de Fuerza§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Fuerza I~LINEBREAK~~LINEBREAK~§7§o"El poder de un gigante~LINEBREAK~§o  duerme dentro."§r
+item.hfrlc:feather_swiftness=§l§fPluma de Agilidad§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Velocidad II~LINEBREAK~Caída Lenta II~LINEBREAK~~LINEBREAK~§7§o"No importa a dónde vayas~LINEBREAK~§o  el viento te seguirá."§r
+item.hfrlc:great_horn_shield=§l§fGran Escudo Cornudo§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistencia al Retroceso~LINEBREAK~Resistencia a Fatiga Minera~LINEBREAK~Aumento de Salud I~LINEBREAK~~LINEBREAK~§7§o"Imbuido con~LINEBREAK~§o  un sello protector."§r
+item.hfrlc:withering_necklace=§l§fCollar Marchito§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Aspecto Wither I~LINEBREAK~~LINEBREAK~§7§o"La calavera Wither parece~LINEBREAK~§o  estar inactiva."§r
+item.hfrlc:panacea=§p§lPanacea§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lOBJETO LEGENDARIO§r§9~LINEBREAK~~LINEBREAK~Resistencia a la Ceguera~LINEBREAK~Resistencia a la Lentitud~LINEBREAK~Resistencia al Veneno~LINEBREAK~Resistencia a Wither~LINEBREAK~Resistencia a Fatiga Minera~LINEBREAK~Resistencia a Levitación~LINEBREAK~~LINEBREAK~§7§o"Un solo remedio para~LINEBREAK~§o  curarlos a todos."§r
+item.hfrlc:dragon_slayer_cape=§p§lCapa del Cazador de Dragones§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lOBJETO LEGENDARIO§r§9~LINEBREAK~~LINEBREAK~Resistencia a la Ceguera~LINEBREAK~Resistencia a la Lentitud~LINEBREAK~Resistencia al Veneno~LINEBREAK~Resistencia a Wither~LINEBREAK~Resistencia al Retroceso~LINEBREAK~Resistencia a Explosiones~LINEBREAK~Resistencia al Fuego~LINEBREAK~Resistencia a Fatiga Minera~LINEBREAK~~LINEBREAK~§7§o"Tejida con~LINEBREAK~§o  la victoria sobre~LINEBREAK~§o  bestias caídas."§r
+item.hfrlc:dragon_slayer_ring=§p§lAnillo del Cazador de Dragones§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lOBJETO LEGENDARIO§r§9~LINEBREAK~~LINEBREAK~Fuerza II~LINEBREAK~Aumento de Salud V~LINEBREAK~Resistencia I~LINEBREAK~~LINEBREAK~§7§o"Aquel al que~LINEBREAK~§o  temen..."§r
+item.hfrlc:lapis_ring=§l§fAnillo de Lapislázuli§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"No tan reflectante~LINEBREAK~§o  pero sin duda elegante."§r
+item.hfrlc:silver_ring=§l§fAnillo de Hierro§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Brilla lo suficiente~LINEBREAK~§o  como para que alguien lo confunda~LINEBREAK~§o  con plata."§r
+item.hfrlc:netherite_ring=§l§fAnillo de Netherite§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"No pertenece~LINEBREAK~§o  a este plano. Alguien~LINEBREAK~§o  debería devolverlo~LINEBREAK~§o  al Nether."§r
+
+## SWORDS
+item.wooden_sword.name=§l§fEspada de Madera§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Tu primer paso~LINEBREAK~§o  hacia la maestría."§r
+item.stone_sword.name=§l§fEspada de Piedra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Base sólida~LINEBREAK~§o  para un guerrero."§r
+item.golden_sword.name=§l§fEspada de Oro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Brillante pero~LINEBREAK~§o  poco resistente."§r
+item.hfrlc:spike_sword=§l§fImpulso§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para obtener un~LINEBREAK~impulso en el aire.~LINEBREAK~Reparar con Lingote de Hierro.~LINEBREAK~~LINEBREAK~§7§o"Desafía la gravedad con~LINEBREAK~§o  cada golpe."§r
+item.iron_sword.name=§l§fEspada de Hierro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Acero confiable~LINEBREAK~§o  forjado con destreza."§r
+item.hfrlc:darkness_sword=§l§fDesgarrasombras§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para ocultarte en las sombras.~LINEBREAK~Reparar con Piedra Sombría.~LINEBREAK~~LINEBREAK~§7§o"Los enemigos caídos~LINEBREAK~§o  van al~LINEBREAK~§o  Reino de las Sombras."§r
+item.hfrlc:weapon_4=§l§fEspada de Hueso§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Reparar con Piedra Sombría.~LINEBREAK~~LINEBREAK~§7§o"El filo afilado~LINEBREAK~§o  de la muerte."§r
+item.hfrlc:water_sword=§l§fCorriente§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para lanzar un proyectil de agua.~LINEBREAK~Reparar con Esencia de Agua.~LINEBREAK~~LINEBREAK~§7§o"El agua pura fluye~LINEBREAK~§o  a través del acero."§r
+item.diamond_sword.name=§l§fEspada de Diamante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Perfección cristalina~LINEBREAK~§o  en forma de arma."§r
+item.hfrlc:air_sword=§l§fVigilancia§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para generar una ráfaga de viento.~LINEBREAK~Reparar con Esencia de Aire.~LINEBREAK~~LINEBREAK~§7§o"Domina el poder~LINEBREAK~§o  del propio viento."§r
+item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para hacer un super salto.~LINEBREAK~Reparar con Esencia de Aire.~LINEBREAK~~LINEBREAK~§7§o"Salta hasta~LINEBREAK~§o  las estrellas."§r
+item.hfrlc:weapon_8=§l§fEspada de Hielo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~~LINEBREAK~§9Reparar con Esencia de Hielo.~LINEBREAK~~LINEBREAK~§7§o"La mordida del invierno~LINEBREAK~§o  hecha realidad."§r
+item.netherite_sword.name=§l§fEspada de Netherite§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada en las profundidades~LINEBREAK~§o  del Nether."§r
+item.hfrlc:fire_sword=§l§fEspada Llameante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para lanzar un proyectil de fuego.~LINEBREAK~Reparar con Esencia de Fuego.~LINEBREAK~~LINEBREAK~§6Aspecto Ígneo~LINEBREAK~~LINEBREAK~§7§o"Proyectiles ardientes~LINEBREAK~§o  abrasan a los enemigos."§r
+item.hfrlc:ice_sword=§l§fGlaciar§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para lanzar un proyectil de hielo.~LINEBREAK~Genera picos de hielo al agacharse y atacar.~LINEBREAK~Reparar con Esencia de Hielo.~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~~LINEBREAK~§7§o"Picos de hielo perforan~LINEBREAK~§o  al agacharse."§r
+item.hfrlc:ocean_sword=§l§fPerforamareas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usar + Agacharse para lanzar un proyectil de agua.~LINEBREAK~Usa el objeto para generar~LINEBREAK~una onda acuática.~LINEBREAK~Reparar con Lingote de Neptunio.~LINEBREAK~~LINEBREAK~§7§o"Las olas chocan~LINEBREAK~§o  a tu mando."§r
+item.hfrlc:weapon_6=§l§fEspada de Elden§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder antiguo~LINEBREAK~§o  fluye por el acero."§r
+item.hfrlc:weapon_7=§l§fEspada Larga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Alcance extendido~LINEBREAK~§o  para combates prolongados."§r
+item.hfrlc:weapon_5=§l§fEspada Martillo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder aplastante~LINEBREAK~§o  con filo cortante."§r
+item.hfrlc:dragon_bone_sword=§l§fEspada Larga de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada con restos~LINEBREAK~§o  de dragones antiguos."§r
+item.hfrlc:earth_sword=§l§fRajasuelo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para generar estalactitas~LINEBREAK~que dañan a entidades cercanas.~LINEBREAK~Reparar con Lingote de Briariron.~LINEBREAK~~LINEBREAK~§7§o"Lanzas de piedra emergen~LINEBREAK~§o  del suelo."§r
+item.hfrlc:ice_dragon_bone_sword=§l§fVentisca§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"Hielo y hueso~LINEBREAK~§o  forjados como uno."§r
+item.hfrlc:fire_dragon_bone_sword=§l§fCanción de Brasas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Ígneo~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"Forjada en fuego~LINEBREAK~§o  de dragón."§r
+item.hfrlc:lava_sword=§l§fEspada Meteoro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para generar meteoros.~LINEBREAK~Reparar con Esencia de Fuego.~LINEBREAK~~LINEBREAK~§7§o"Meteoros caen~LINEBREAK~§o  desde los cielos."§r
+item.hfrlc:ender_sword=§l§fDestello§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para teletransportarte al objetivo.~LINEBREAK~Reparar con Lingote de Acero Vacío.~LINEBREAK~~LINEBREAK~§7§o"Teletranspórtate a donde~LINEBREAK~§o  apuntes."§r
+item.hfrlc:storm_sword=§l§fTorbellino§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para generar un huracán.~LINEBREAK~Reparar con Piedra del Trueno.~LINEBREAK~~LINEBREAK~§7§o"Las tormentas se doblan~LINEBREAK~§o  a tu voluntad."§r
+item.hfrlc:thunder_sword=§l§fRompetormentas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para generar un rayo.~LINEBREAK~Reparar con Piedra del Trueno.~LINEBREAK~~LINEBREAK~§9Aspecto Eléctrico~LINEBREAK~~LINEBREAK~§7§o"El trueno obedece~LINEBREAK~§o  cada golpe tuyo."§r
+item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lOBJETO LEGENDARIO§r§9~LINEBREAK~~LINEBREAK~§r§dAgáchate para cambiar Elementos~LINEBREAK~~LINEBREAK~§7§o"Al fin...~LINEBREAK~§o  puedo descansar."§r
+item.hfrlc:dirt_sword=§l§fEspada de Tierra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para lanzar un proyectil de tierra.~LINEBREAK~Reparar con Tierra.~LINEBREAK~~LINEBREAK~§7§o"La base de la tierra~LINEBREAK~§o  hecha arma."§r
+item.hfrlc:jungle_sword=§l§fSiempreverde§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para hacer brotar~LINEBREAK~una piedra desde el suelo.~LINEBREAK~Reparar con Esencia de Tierra.~LINEBREAK~~LINEBREAK~§7§o"Anhela la tierra~LINEBREAK~§o  bajo sus pies."§r
+
+## GREATSWORDS
+item.hfrlc:wither_sword=§l§fVerdugo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para disparar~LINEBREAK~proyectiles de wither.~LINEBREAK~Reparar con Núcleo Pesado.~LINEBREAK~~LINEBREAK~§uAspecto de Wither~LINEBREAK~~LINEBREAK~§7§o"La muerte misma guía~LINEBREAK~§o  esta hoja."§r
+item.hfrlc:nether_sword=§l§fFuego Infernal§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Úsala para generar un ataque de lava.~LINEBREAK~Reparar con Núcleo Pesado.~LINEBREAK~~LINEBREAK~§7§o"El fuego del infierno fluye~LINEBREAK~§o  por su hoja."§r
+item.hfrlc:poison_sword=§l§fEspinadellodo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa el objeto para lanzar~LINEBREAK~un proyectil venenoso.~LINEBREAK~Reparar con Núcleo Pesado.~LINEBREAK~~LINEBREAK~§2Venenosa~LINEBREAK~~LINEBREAK~§7§o"El veneno gotea desde~LINEBREAK~§o  su filo."§r
+
+## KATANAS
+item.hfrlc:weapon_10=§l§fKatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"El camino de la~LINEBREAK~§o  espada encarnado."§r
+item.hfrlc:dragon_bone_katana=§l§fKatana de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"Un arma elegante~LINEBREAK~§o  para una era más~LINEBREAK~§o  civilizada."§r
+item.hfrlc:ice_dragon_bone_katana=§l§fMordisco Helado§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"Espíritu de dragón fusionado~LINEBREAK~§o  con hielo creó~LINEBREAK~§o  un vínculo lo bastante fuerte~LINEBREAK~§o  para cortar cualquier metal."§r
+item.hfrlc:fire_dragon_bone_katana=§l§fDespertar Ígneo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Ígneo~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"El espíritu del Dragón de Fuego~LINEBREAK~§o  pulsa dentro de~LINEBREAK~§o  su empuñadura."§r
+item.hfrlc:legendary_katana=§l§pKatana Espiritual§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lOBJETO LEGENDARIO§r~LINEBREAK~~LINEBREAK~§7§o"Un espíritu ancestral~LINEBREAK~§o  guía esta hoja."§r
+
+## DAGGERS
+item.hfrlc:flint_dagger=§l§fCuchillo de Pedernal§r§f~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Suficientemente bueno para~LINEBREAK~§o  extraer fibra de las plantas."§r
+item.hfrlc:wooden_dagger=§l§fDaga de Madera§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Apenas~LINEBREAK~§o  corta papel."§r
+item.hfrlc:golden_dagger=§l§fDaga Dorada§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Se astilla~LINEBREAK~§o  con cada golpe."§r
+item.hfrlc:stone_dagger=§l§fDaga de Piedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Es pesada pero~LINEBREAK~§o  no tan roma como parece."§r
+item.hfrlc:iron_dagger=§l§fDaga de Hierro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Su filo afilado~LINEBREAK~§o  anhela apuñalar a alguien."§r
+item.hfrlc:weapon_9=§l§fJambiya§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Su empuñadura dorada está~LINEBREAK~§o  grabada con ornamentos~LINEBREAK~§o  desconocidos para ti."§r
+item.hfrlc:diamond_dagger=§l§fDaga de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Delicada en apariencia~LINEBREAK~§o  mortal en precisión."§r
+item.hfrlc:netherite_dagger=§l§fDaga de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Metal oscuro~LINEBREAK~§o  brilla con púrpura~LINEBREAK~§o  a la luz del día."§r
+item.hfrlc:dragon_bone_dagger=§l§fDaga de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Probabilidad de infligir daño doble~LINEBREAK~~LINEBREAK~§3RompeDragones~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Garra de dragón~LINEBREAK~§o  bajo tu control."§r
+item.hfrlc:ice_dragon_bone_dagger=§l§fFragmento Invernal§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~§3RompeDragones~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"Espíritu de dragón fusionado~LINEBREAK~§o  con hielo creó~LINEBREAK~§o  un vínculo lo bastante fuerte~LINEBREAK~§o  para cortar cualquier metal."§r
+item.hfrlc:fire_dragon_bone_dagger=§l§fFilo Ardiente§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Ígneo~LINEBREAK~§3RompeDragones~LINEBREAK~§pRecolección de Fibra~LINEBREAK~~LINEBREAK~§7§o"El espíritu del Dragón de Fuego~LINEBREAK~§o  pulsa dentro de~LINEBREAK~§o  su empuñadura."§r
+
+## SPEARS
+item.hfrlc:wooden_spear=§l§fLanza de Madera§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Un palo con~LINEBREAK~§o  ambiciones puntiagudas."§r
+item.hfrlc:golden_spear=§l§fLanza Dorada§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dorada pero~LINEBREAK~§o  no tan valiosa."§r
+item.hfrlc:stone_spear=§l§fLanza de Piedra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiva pero~LINEBREAK~§o  sorprendentemente eficaz."§r
+item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"El honor guía~LINEBREAK~§o  cada estocada."§r
+item.hfrlc:iron_spear=§l§fLanza de Hierro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fiable y~LINEBREAK~§o  bien equilibrada."§r
+item.hfrlc:diamond_spear=§l§fLanza de Diamante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Excelencia penetrante~LINEBREAK~§o  hecha realidad."§r
+item.hfrlc:netherite_spear=§l§fLanza de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Oscuridad irrompible~LINEBREAK~§o  forjada en acero."§r
+item.hfrlc:dragon_bone_spear=§l§fLanza de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"La esencia de dragón~LINEBREAK~§o  afila la punta."§r
+item.hfrlc:ice_dragon_bone_spear=§l§fInviernóspiro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"Aliento helado~LINEBREAK~§o  hecho acero."§r
+item.hfrlc:fire_dragon_bone_spear=§l§fEspina Ígnea§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Ígneo~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"La punta arde con~LINEBREAK~§o  llama eterna."§r
+
+## TRIDENTES
+item.trident.name=§l§fTridente§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Huele a~LINEBREAK~§o  pescado..."§r
+item.hfrlc:weapon_11=§l§fTridente de Neptunio§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Daño de Proyectil~LINEBREAK~Lealtad~LINEBREAK~Reparar con Lingote de Neptunio.~LINEBREAK~~LINEBREAK~§7§o"Tres puntas de~LINEBREAK~§o  furia acuática."§r
+
+## MAZAS DE GUERRA
+item.hfrlc:dragon_bone_hammer=§l§fMartillo de Guerra de Hueso de Dragón§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder dracónico bruto~LINEBREAK~§o  en forma de arma."§r
+item.hfrlc:ice_dragon_bone_hammer=§l§fDominio§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"Invierno eterno~LINEBREAK~§o  en forma de arma."§r
+item.hfrlc:fire_dragon_bone_hammer=§l§fHorno§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Ígneo~LINEBREAK~§3RompeDragones~LINEBREAK~~LINEBREAK~§7§o"Ira fundida en~LINEBREAK~§o  forma física."§r
+item.mace.name=§l§fMaza§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cada golpe tiene un~LINEBREAK~§o  sabor sísmico."§r
+
+## ESCUDOS
+item.hfrlc:weapon_13=§l§fEscudo de Madera§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Protección simple~LINEBREAK~§o  del regalo de la naturaleza."§r
+item.shield.name=§l§fEscudo§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Podría hacerlo todo el día..."§r
+
+
+## BASTONES
+item.hfrlc:weapon_12=§l§fVarita Mágica§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Energías arcanas~LINEBREAK~§o  fluyen dentro."§r
+
+## ARCOS
+item.crossbow.name=§l§fBallesta§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Preferida por~LINEBREAK~§o  los Illagers."§r
+item.bow.name=§l§fArco§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Que tu flecha~LINEBREAK~§o  golpee y atraviese."§r
+item.hfrlc:weapon_1=§l§fArco Largo§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 Daño de Proyectil§r~LINEBREAK~~LINEBREAK~§7§o"Alcance extendido~LINEBREAK~§o  para disparos precisos."§r
+item.hfrlc:dragon_bone_bow=§l§fArco de Hueso de Dragón§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 Daño de Proyectil~LINEBREAK~~LINEBREAK~§7§o"Poder antiguo~LINEBREAK~§o  guía cada flecha."§r
+item.hfrlc:fire_dragon_bow=§l§fChispa Ígnea§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Ígneo~LINEBREAK~§9+20 Daño de Proyectil~LINEBREAK~~LINEBREAK~§7§o"Las flechas se encienden con~LINEBREAK~§o  llama de dragón."§r
+item.hfrlc:ice_dragon_bone_bow=§l§fChispa Gélida§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto de Escarcha~LINEBREAK~§9+20 Daño de Proyectil~LINEBREAK~~LINEBREAK~§7§o"Las flechas se congelan~LINEBREAK~§o  en vuelo."§r
+
+## HERRAMIENTAS
+item.wooden_axe.name=§l§fHacha de Madera§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Es endeble, pero~LINEBREAK~  servirá."§r
+item.wooden_shovel.name=§l§fPala de Madera§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"¡La peor pesadilla de la tierra!~LINEBREAK~  ...Hasta que se rompa."§r
+item.wooden_pickaxe.name=§l§fPico de Madera§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"El amigo menos querido~LINEBREAK~  de la piedra."§r
+item.wooden_hoe.name=§l§fAzada de Madera§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"La tierra no tiene~LINEBREAK~  oportunidad... probablemente."§r
+
+item.stone_axe.name=§l§fHacha de Piedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Suficiente para cortar~LINEBREAK~  algo de leña muerta."§r
+item.stone_shovel.name=§l§fPala de Piedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hora de explorar~LINEBREAK~  más profundo."§r
+item.stone_pickaxe.name=§l§fPico de Piedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Veamos cuántas~LINEBREAK~  piedras puede picar una piedra..."§r
+item.stone_hoe.name=§l§fAzada de Piedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"La agricultura acaba de~LINEBREAK~  mejorar con piedras."§r
+
+item.iron_axe.name=§l§fHacha de Hierro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hacha confiable para madera."§r
+item.iron_shovel.name=§l§fPala de Hierro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Soy uno con la tierra.~LINEBREAK~  Y la tierra está conmigo."§r
+item.iron_pickaxe.name=§l§fPico de Hierro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"¡Convierte montañas en guijarros!~LINEBREAK~  Un golpe a la vez..."§r
+item.iron_hoe.name=§l§fAzada de Hierro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aquí habrá un campo de trigo."§r
+
+item.golden_axe.name=§l§fHacha de Oro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Si tan solo fuera tan~LINEBREAK~  resistente como~LINEBREAK~  hermosa..."§r
+item.golden_shovel.name=§l§fPala de Oro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hermosa...~LINEBREAK~  pero delicada."§r
+item.golden_pickaxe.name=§l§fPico de Oro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Midas estaría orgulloso...~LINEBREAK~y en bancarrota."§r
+item.golden_hoe.name=§l§fAzada de Oro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hecha en el Nether."§r
+
+item.diamond_axe.name=§l§fHacha de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Una sola basta para~LINEBREAK~  derribar un pequeño~LINEBREAK~  bosque."§r
+item.diamond_shovel.name=§l§fPala de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Porque a veces~LINEBREAK~  hay que excavar~LINEBREAK~  con estilo."§r
+item.diamond_pickaxe.name=§l§fPico de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hasta la obsidiana~LINEBREAK~  tiembla nerviosamente..."§r
+item.diamond_hoe.name=§l§fAzada de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"¿Un poco exagerada~LINEBREAK~  para papas?"§r
+
+item.netherite_axe.name=§l§fHacha de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fundida de un material~LINEBREAK~  de otro mundo."§r
+item.netherite_shovel.name=§l§fPala de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada donde los demonios~LINEBREAK~  temen pisar."§r
+item.netherite_pickaxe.name=§l§fPico de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"¡Hasta la bedrock!~LINEBREAK~  Y más allá!"§r
+item.netherite_hoe.name=§l§fAzada de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"¿Agricultura?~LINEBREAK~  ¿Con tu talento?"§r
+
+item.hfrlc:flint_axe=§l§fHacha de Pedernal§r§f~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiva pero~LINEBREAK~§o  sorprendentemente afilada."§r
+item.hfrlc:weapon_3=§l§fHachuela de Hueso§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDaño§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Reparar con Piedra de Sombra.~LINEBREAK~~LINEBREAK~§7§o"Pequeña pero~LINEBREAK~§o  devastadoramente afilada."§r
+
+item.hfrlc:dungeon_door=Puerta de Mazmorra
+item.hfrlc:dungeon_door_desert=Puerta de Mazmorra del Desierto
+item.hfrlc:dungeon_door_snow=Puerta de Mazmorra de Hielo
+item.hfrlc:dungeon_door_red_desert=Puerta de Mazmorra del Desierto Rojo
+item.hfrlc:dungeon_door_key=Llave de Puerta
+item.hfrlc:key=Llave
+
+death.attack.anvil=F en el chat por %1$s
+death.attack.arrow=¡MAMÁ, SACA LA CÁMARA!
+death.attack.bullet=¡MAMÁ, SACA LA CÁMARA!
+death.attack.cactus=Eres el MVP, la Presa Más Valiosa.
+death.attack.drown=Ni siquiera estaba tan profundo, %1$s.
+death.attack.explosion=Logro Desbloqueado: Respawn Profesional.
+death.attack.explosion.by.bed=¡Déjalo COCINAR!
+death.attack.explosion.player=Cómo NO entrenar a tu dragón
+death.attack.fall=La gravedad dijo "siéntate, %1$s"
+death.attack.fallingBlock=Registro de cambios: La vida nerfeada.
+death.attack.fireball=¡LEBROOON!
+death.attack.fireworks=¿Se te olvidó curarte, verdad?
+death.attack.flyIntoWall=¡Daño Emocional!
+death.attack.generic=%1$s murió
+death.attack.indirectMagic=%1$s no es el G.O.A.T.
+death.attack.inFire=¡Supa hot fire ohhhhh!!!
+death.attack.inWall=¿Fue lag o falta de habilidad?
+death.attack.lava=Al menos no llevaste a tu caballo al lava.
+death.attack.lightningBolt=Git Gud.
+death.attack.maceSmash.player=%1$s fue aplastado por %2$s
+death.attack.maceSmash.player.item=%1$s fue aplastado por %2$s con %3$s
+death.attack.magic=Considera beber agua regularmente; durante las comidas, el esfuerzo físico y al notar señales tempranas de sed.
+death.attack.magma=¿Necesitas un abrazo?
+death.attack.mob=%1$s no cumplió los requisitos para sobrevivir.
+death.attack.mob.item=%1$s no cumplió los requisitos para sobrevivir.
+death.attack.onFire=¡La muerte viene CALIENTE!
+death.attack.outOfWorld=Ya nivel 50 en respawneo.
+death.attack.player=%1$s no cumplió los requisitos para sobrevivir.
+death.attack.player.item=%1$s no cumplió los requisitos para sobrevivir.
+death.attack.spit=%1$s fue escupido en la cara por %2$s
+death.attack.starve=RIP, al menos lo intentaste.
+death.attack.sweetBerry=Eres el MVP, la Presa Más Valiosa.
+death.attack.thorns=Eres el MVP, la Presa Más Valiosa.
+death.attack.trident=%1$s fue empalado hasta la muerte por %2$s
+death.attack.wither=Debiste traer leche
+death.attack.freeze=Debiste ir con Jhonny Dang
+death.attack.sonicBoom.player=Debiste presionar X para esquivar.
+death.attack.stalactite=Si hubiera un logro por morir, lo habrías desbloqueado dos veces.
+death.attack.stalagmite=%1$s lo intentó tanto, pero cayó aún más.
+death.fell.accident.generic=La gravedad dijo "siéntate, %1$s"
+
+pack.name=RLCraft Bedrock Edition RP
+pack.description=§l§c[!] ¡Este paquete debe ir por encima de todos los demás!§r | Basado en el modpack original de Java por Shivaxi | Por Honeyfrost con Skybox de Hybred

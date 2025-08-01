@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:mining_amulet"},"unlock":[{"item":"minecraft:echo_shard"}],"tags":["crafting_table"],"pattern":["DD ","D A"," AX"],"key":{"A":{"item":"minecraft:gold_ingot"},"X":{"item":"minecraft:echo_shard"},"D":{"item":"minecraft:iron_ingot"}},"result":{"item":"hfrlc:mining_amulet"}}}

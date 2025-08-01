@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.one_sec.freeze_during_attack":{"states":{"default":{"transitions":[{"freeze":"q.is_delayed_attacking"}]},"freeze":{"transitions":[{"default":"!q.is_delayed_attacking"}],"on_entry":["/effect @s slowness 1 255 true"]}}}}}

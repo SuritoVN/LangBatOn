@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:teleport_scroll"}],"description":{"identifier":"hfrlc:recover_potion"},"tags":["crafting_table"],"pattern":[" V ","PTP"," P "],"key":{"P":{"item":"minecraft:glass"},"T":{"item":"hfrlc:teleport_scroll"},"V":{"item":"hfrlc:voidsteel_ingot"}},"result":{"item":"hfrlc:recover_potion"}}}

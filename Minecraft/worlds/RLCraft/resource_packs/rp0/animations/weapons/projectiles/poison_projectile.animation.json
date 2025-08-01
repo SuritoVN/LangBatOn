@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.poison_projectile.setup":{"loop":true,"bones":{"bone":{"rotation":["math.sin(q.anim_time *1000) *10","math.cos(q.anim_time *1000) *10","math.sin(q.anim_time *1000) *10"],"position":[0,0,0]}},"particle_effects":{"0.0":{"effect":"trail","locator":"trail"}}}}}

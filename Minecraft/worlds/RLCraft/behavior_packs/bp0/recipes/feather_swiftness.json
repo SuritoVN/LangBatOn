@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:feather"}],"description":{"identifier":"hfrlc:feather_swiftness"},"tags":["crafting_table"],"pattern":["GAA","ADA","AAG"],"key":{"G":{"item":"hfrlc:ring_speed"},"A":{"item":"minecraft:emerald"},"D":{"item":"minecraft:feather"}},"result":{"item":"hfrlc:feather_swiftness"}}}

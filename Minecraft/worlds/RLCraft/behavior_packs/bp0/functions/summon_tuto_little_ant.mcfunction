@@ -1,0 +1,5 @@
+summon hfrlc:little_ant ~~-5.5~1 180 0 "hfrlc:tuto_ant"
+summon hfrlc:little_ant ~~-5.5~1 180 0 "hfrlc:tuto_ant"
+summon hfrlc:little_ant ~~-5.5~1 180 0 "hfrlc:tuto_ant"
+summon hfrlc:little_ant ~~-5.5~1 180 0 "hfrlc:tuto_ant"
+summon hfrlc:little_ant ~~-5.5~1 180 0 "hfrlc:tuto_ant"

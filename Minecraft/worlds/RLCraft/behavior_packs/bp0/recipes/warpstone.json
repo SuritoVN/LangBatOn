@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:teleport_scroll"}],"description":{"identifier":"hfrlc:warpstone"},"tags":["crafting_table"],"pattern":["GAG","GXG","GAG"],"key":{"G":{"item":"minecraft:stone"},"A":{"item":"hfrlc:voidsteel_ingot"},"X":{"item":"hfrlc:teleport_scroll"}},"result":{"item":"hfrlc:warpstone"}}}

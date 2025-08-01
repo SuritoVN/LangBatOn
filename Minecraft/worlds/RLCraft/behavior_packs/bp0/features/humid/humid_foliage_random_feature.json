@@ -1,0 +1,1 @@
+{"format_version":"1.21.60","minecraft:weighted_random_feature":{"description":{"identifier":"hfrlc:humid/humid_foliage_random_feature"},"features":[["hfrlc:humid/humid_jungle_flower_scatter_feature",30],["hfrlc:humid/humid_tropical_flowers_scatter_feature",30],["hfrlc:humid/humid_jungle_bush_scatter_feature",30],["hfrlc:generic/generic_mushroom_scatter_feature",10]]}}

@@ -1,0 +1,37 @@
+{
+  "materials": {
+    "custom_enchanted_blend:entity_alphablend": {
+      "+defines": ["ALPHA_TEST", "GLINT"]
+    },
+    "custom_enchanted_outline:entity_alphablend": {
+      "+defines": ["USE_UV_ANIM"],
+      "+samplerStates": [
+        {
+          "samplerIndex": 0,
+          "textureWrap": "Repeat"
+        }
+      ]
+    },
+    "custom_enchanted:entity_static": {
+      "+defines": ["USE_UV_ANIM", "USE_EMISSIVE", "USE_COLOR_MASK"],
+      "+samplerStates": [
+        {
+          "samplerIndex": 0,
+          "textureWrap": "Repeat"
+        }
+      ],
+      "+states": ["Blending", "DisableCulling"],
+      "blendDst": "One",
+      "blendSrc": "One",
+      "depthFunc": "Equal"
+    },
+    "lens_sun:entity_alphablend": {
+      "+states": ["Blending", "DisableDepthWrite", "DisableCulling"],
+      "-defines": ["FANCY"],
+      "blendDst": "One",
+      "blendSrc": "SourceAlpha",
+      "depthFunc": "Always"
+    },
+    "version": "1.0.0"
+  }
+}

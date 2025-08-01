@@ -1,0 +1,1 @@
+{"format_version":"1.13.0","minecraft:aggregate_feature":{"description":{"identifier":"hfrlc:biome/ice_birch/tree/ice_birch_tree_feature"},"early_out":"first_failure","features":["hfrlc:biome/ice_birch/tree/ice_birch_tree_placement_feature","hfrlc:biome/ice_birch/tree/ice_birch_tree_placement_clean_feature","hfrlc:biome/ice_birch/tree/ice_birch_tree_scatter_feature"]}}

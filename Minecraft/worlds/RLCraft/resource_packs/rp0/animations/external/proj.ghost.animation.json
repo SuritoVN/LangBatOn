@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.geometry.hf.ghost_proj.float":{"loop":true,"bones":{"leftArm":{"rotation":["-90 + math.sin(query.life_time*260 )*3",0,0]},"rightArm":{"rotation":["-90 + math.sin(query.life_time*260 )*3",0,0]},"ghost":{"position":[0,"math.sin(query.life_time*160 )*3",0]}}}}}

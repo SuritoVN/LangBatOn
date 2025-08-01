@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:recipe_shapeless":{"unlock":[{"item":"hfrlc:cow_skull"}],"description":{"identifier":"hfrlc:bonemeal_cow_skull"},"tags":["crafting_table"],"ingredients":[{"item":"hfrlc:cow_skull","count":1}],"result":{"item":"minecraft:bone_meal","count":3}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:recipe_shapeless":{"unlock":[{"item":"hfrlc:fireweed"}],"description":{"identifier":"hfrlc:fireweed"},"tags":["crafting_table"],"ingredients":[{"item":"hfrlc:fireweed","count":1}],"result":{"item":"minecraft:magenta_dye","count":1}}}

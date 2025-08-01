@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"hfrlc:bonemealfromwitherbone"},"tags":["crafting_table"],"ingredients":[{"item":"hfrlc:wither_bone","count":1}],"result":{"item":"minecraft:bone_meal","count":3}}}

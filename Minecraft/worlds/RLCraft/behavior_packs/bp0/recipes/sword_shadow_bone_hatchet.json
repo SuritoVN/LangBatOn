@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:shadow_stone"}],"description":{"identifier":"hfrlc:weapon_3"},"tags":["crafting_table"],"pattern":["DSD","DCD"," C "],"key":{"C":{"item":"hfrlc:wither_bone"},"D":{"item":"hfrlc:shadow_stone"},"S":{"item":"hfrlc:power_crystal"}},"result":{"item":"hfrlc:weapon_3"}}}

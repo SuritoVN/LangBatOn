@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animations":{"animation.lens_sun":{"loop":true,"bones":{"root":{"rotation":["v.a","v.b * v.u",0]},"flare1":{"scale":1.5},"flare2":{"rotation":["v.h","v.i",0],"position":["v.j","v.k",0],"scale":2},"flare3":{"rotation":["v.l","v.m",0],"position":["v.n","v.o",0]}}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:recipe_shapeless":{"unlock":[{"item":"hfrlc:sweet_pea"}],"description":{"identifier":"hfrlc:sweet_pea"},"tags":["crafting_table"],"ingredients":[{"item":"hfrlc:sweet_pea","count":1}],"result":{"item":"minecraft:pink_dye","count":1}}}

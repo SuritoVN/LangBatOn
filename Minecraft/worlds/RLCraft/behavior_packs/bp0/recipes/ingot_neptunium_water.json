@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:power_crystal"}],"description":{"identifier":"hfrlc:neptunium_ingot_water"},"tags":["crafting_table"],"pattern":[" A ","AXA"," A "],"key":{"A":{"item":"hfrlc:water_essence"},"X":{"item":"hfrlc:power_crystal"}},"result":{"item":"hfrlc:neptunium_ingot"}}}

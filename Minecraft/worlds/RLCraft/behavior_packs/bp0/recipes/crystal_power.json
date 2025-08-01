@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:power_shard"}],"description":{"identifier":"hfrlc:power_crystal"},"tags":["crafting_table"],"pattern":["GGG","GGG","GGG"],"key":{"G":{"item":"hfrlc:power_shard"}},"result":{"item":"hfrlc:power_crystal"}}}

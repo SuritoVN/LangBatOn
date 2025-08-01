@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:power_crystal"}],"description":{"identifier":"hfrlc:voidsteel_ingot"},"tags":["crafting_table"],"pattern":[" A ","AXA"," A "],"key":{"A":{"item":"hfrlc:shadow_stone"},"X":{"item":"hfrlc:power_crystal"}},"result":{"item":"hfrlc:voidsteel_ingot"}}}

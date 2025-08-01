@@ -1,0 +1,1 @@
+{"format_version":"1.19.0","minecraft:recipe_shapeless":{"unlock":[{"item":"hfrlc:lavender"}],"description":{"identifier":"hfrlc:lavender"},"tags":["crafting_table"],"ingredients":[{"item":"hfrlc:lavender","count":1}],"result":{"item":"minecraft:purple_dye","count":1}}}

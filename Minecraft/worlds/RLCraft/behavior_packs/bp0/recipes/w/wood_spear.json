@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:wooden_spear"},"tags":["crafting_table"],"pattern":["  R"," X ","X  "],"key":{"X":{"item":"minecraft:stick"},"R":{"item":"minecraft:planks"}},"result":{"item":"hfrlc:wooden_spear"}}}

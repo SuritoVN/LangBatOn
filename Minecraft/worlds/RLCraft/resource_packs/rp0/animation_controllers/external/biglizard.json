@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.biglizard":{"states":{"default":{"animations":["biglizard_idle"],"transitions":[{"moving":"query.modified_move_speed > 0.1"}]},"moving":{"animations":["biglizard_walk"],"transitions":[{"default":"query.modified_move_speed < 0.1"}]}}}}}

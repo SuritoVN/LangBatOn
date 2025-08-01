@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animations":{"animation.scorpion.tick":{"loop":true,"animation_length":0.01,"timeline":{"0.0":["/scriptevent hfrlc:tick_entity"]}},"animation.scorpion.death":{"loop":true,"animation_length":6,"timeline":{"5.05":["/event entity @s hfrlc:despawn"]}}}}

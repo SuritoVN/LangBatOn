@@ -1,0 +1,1140 @@
+action.guidebook.title=§lRLCraft 메뉴
+action.guidebook.how_to_play=§l§2플레이 방법
+action.guidebook.how_to_start=§l§2시작하는 방법
+action.guidebook.thirst_title=§l§b갈증
+action.guidebook.grave_title=§l§4무덤
+action.guidebook.level_title=§l§e레벨링
+action.guidebook.temp_title=§l§6온도
+action.guidebook.trinket_title=§l§d장신구
+action.guidebook.way_title=§l§b세계 여행
+action.guidebook.taming_title=§l§9조련
+action.guidebook.dungeons_title=§l§5던전
+action.guidebook.gameplay_settings_title=§l§8게임 설정
+action.guidebook.visual_settings_title=§l§8시각 설정
+action.guidebook.social_title=§l§9디스코드 참여하기!
+action.guidebook.youtube_title=§l§c튜토리얼 보기!
+action.guidebook.creditsandlicenses_title=§l§6제작진 및 라이선스
+action.guidebook.credits_title=§l§6제작진
+action.guidebook.licenses_title=§l§9라이선스
+action.guidebook.rlcraft_title=§l§8RLCraft
+action.guidebook.notreepunching_title=§l§c나무를 주먹으로 치지 마세요
+action.guidebook.weapons_title=§l§3무기
+action.guidebook.skybox_title=§l§t스카이박스
+action.guidebook.back=<< 뒤로
+action.guidebook.trinket_fix=§l장신구 수정
+action.guidebook.adding_packs_title=§l§n팩 추가하기
+action.guidebook.adding_packs2_title=§l§8RLCraft를 다른 팩과 함께 사용하기
+action.guidebook.video_explaination_title=§l§8영상 튜토리얼
+action.guidebook.add_aands_title=§l§8§lActions & Stuff와 함께 플레이하기
+action.guidebook.add_more_packs_title=§l§8다른 팩과 함께 플레이하기
+action.guidebook.realms_disclaimer_title=§l§8Realms 관련 안내
+action.guidebook.play_title=§l§8계속하기
+
+action.guidebook.thirst_disable=갈증 표시줄
+action.guidebook.temp_disable=온도 표시줄
+action.guidebook.lens_disable=렌즈 플레어
+action.guidebook.wood_punching=손 채굴 너프
+action.guidebook.lagwarn=렉 해소 메시지
+action.guidebook.damage_indicator=피해 표시기
+action.guidebook.natural_regen=자연 회복
+action.guidebook.skyspires=스카이스파이어 생성
+action.guidebook.dungeons=던전 생성
+action.guidebook.structure_speed=구조물 생성 속도
+action.guidebook.vv_optimization=화려한 비주얼 최적화
+action.guidebook.bodyparts_posx=신체 부위 위치 X
+action.guidebook.bodyparts_posy=신체 부위 위치 Y
+
+action.guidebook.how_start_text=~LINEBREAK~§l1. 자갈 수집:§r 자갈을 찾아 채굴하여 부싯돌을 얻으세요.~LINEBREAK~~LINEBREAK~§l2. 부싯돌 가공:§r 돌 위에 부딪혀 부싯돌을 날카롭게 만드세요. (손에 든 부싯돌로 돌 재질을 타격하세요)~LINEBREAK~~LINEBREAK~§l3. 막대기 수집:§r 나뭇잎을 부수어 막대기를 얻으세요.~LINEBREAK~~LINEBREAK~§l4. 나이프 제작:§r 부싯돌과 막대기를 사용하여 나이프를 만드세요.~LINEBREAK~~LINEBREAK~§l5. 식물 섬유 수집:§r 나이프로 풀을 잘라 식물 섬유를 얻으세요.~LINEBREAK~~LINEBREAK~§l6. 식물 섬유 로프 제작:§r 식물 섬유를 조합하여 로프를 만드세요.~LINEBREAK~~LINEBREAK~§l7. 부싯돌 도끼 제작:§r 부싯돌 하나, 막대기 하나, 식물 섬유 로프 하나를 조합하여 부싯돌 도끼를 만드세요.~LINEBREAK~~LINEBREAK~§l8. 나무 베기:§r 부싯돌 도끼로 나무를 베세요.~LINEBREAK~~LINEBREAK~§l9. 나무 도구 제작:§r 나무를 사용하여 도구를 만드세요.~LINEBREAK~~LINEBREAK~§l10.§r 가능한 빨리 §l레벨링 메뉴§r를 사용하세요!~LINEBREAK~~LINEBREAK~축하합니다! 이제 독립할 준비가 되었습니다!~LINEBREAK~ 
+action.guidebook.thirst_body=~LINEBREAK~§r§l§b갈증§r은 생존에 매우 중요한 요소로, 수분을 유지해야 합니다. 물을 마시거나, 과일을 먹거나, 수프를 섭취하여 수분을 보충하세요.~LINEBREAK~~LINEBREAK~§r수분을 유지하지 않으면 부정적인 효과가 발생하여 생존 확률이 낮아집니다!~LINEBREAK~ 
+action.guidebook.grave_body=~LINEBREAK~§r사망한 장소에 무덤이 생성됩니다. 무덤과 상호작용하여 아이템을 회수하세요.~LINEBREAK~~LINEBREAK~§7§o참고: 용암에서 사망하거나, 하드 모드가 활성화되어 있거나, keepInventory 게임 규칙이 켜져 있으면 무덤이 생성되지 않습니다.~LINEBREAK~
+action.guidebook.level_body=~LINEBREAK~§rRLCraft는 독특한 §l§a레벨링 시스템§r을 도입합니다.~LINEBREAK~~LINEBREAK~§r§l§a레벨링 메뉴§r는 인벤토리에서 가장 중요한 아이템이며, 경험치를 얻자마자 사용해야 합니다.~LINEBREAK~~LINEBREAK~§r강력한 아이템과 도구를 사용하려면 특정 레벨을 달성해야 합니다.~LINEBREAK~~LINEBREAK~§r경험치를 사용하여 스킬을 업그레이드하세요.~LINEBREAK~~LINEBREAK~§r각 카테고리에서 10레벨마다 새로운 능력이 해금되며, 최대 50레벨까지 가능합니다!~LINEBREAK~ 
+action.guidebook.temp_body=~LINEBREAK~§rRLCraft에서는 각 생물군계가 체온에 영향을 줍니다! 따뜻한 생물군계에서는 §6과열§r되고, 추운 지역에서는 §b얼어붙게§r 됩니다.~LINEBREAK~~LINEBREAK~§l§b영원의 얼음 [장신구]§r와 §b차가운 블록§r 근처에 머물면 §6열기§r를 견딜 수 있습니다.~LINEBREAK~~LINEBREAK~§l§6영원의 불씨 [장신구]§r와 §6뜨거운 블록§r 근처에 머물면 §b추위§r를 견딜 수 있습니다.~LINEBREAK~ 
+action.guidebook.trinket_body=~LINEBREAK~§l§6장신구 가방§r에는 총 6개의 슬롯이 있으며, §r특수 아이템(예: §l§b영원의 얼음 [장신구]§r) 3개와 반지 3개를 장착할 수 있습니다.~LINEBREAK~~LINEBREAK~§r장신구는 제작하거나 어려운 던전에서 찾거나 보스 및 일반 몬스터를 처치하여 얻을 수 있습니다.~LINEBREAK~~LINEBREAK~§7§o팁: 장신구가 작동하지 않을 경우 "장신구 수정" 버튼을 누르세요.~LINEBREAK~ 
+action.guidebook.way_body=~LINEBREAK~§r§l§7워프스톤:§r 세계 곳곳에 있는 워프스톤을 활성화하여 빠르게 위치를 이동할 수 있습니다.~LINEBREAK~~LINEBREAK~§r§l§d순간이동 두루마리:§r 설정한 스폰 지점으로 즉시 돌아갈 수 있습니다.~LINEBREAK~~LINEBREAK~§r§l§b회상 물약:§r 마지막으로 사망한 위치로 순간이동할 수 있습니다.~LINEBREAK~~LINEBREAK~§r§l§b수면 매트:§r 침대의 리스폰 지점을 유지한 채 밤을 건너뛸 수 있습니다.~LINEBREAK~ 
+action.guidebook.taming_body=~LINEBREAK~§r죽인 드래곤을 상호작용하여 조련할 수 있습니다. 조련된 드래곤은 탈 수 있으며, 방어구를 장착할 수도 있습니다. 드래곤 방어구는 제작하거나 상자에서 획득할 수 있습니다.~LINEBREAK~ 
+action.guidebook.dungeons_body=~LINEBREAK~§r던전 탐험은 매우 위험하지만, 귀중한 전리품과 경험치를 얻을 수 있어 그만한 가치가 있습니다!~LINEBREAK~~LINEBREAK~서두르지 마세요. 던전은 매우 어려울 수 있습니다! 능력을 업그레이드하고 좋은 장비를 준비한 뒤 도전하세요.~LINEBREAK~~LINEBREAK~§l던전에는 다양한 등급이 존재합니다:§r 폐가는 생존에 필요한 기본 도구를 제공하지만, 해적선이나 스카이스파이어에서는 강력한 유물을 발견할 수 있습니다.~LINEBREAK~~LINEBREAK~§l지하 던전§r에는 강력한 보스가 있으며 가장 위험하지만 가장 강력한 전리품이 가득합니다. 도넛 먹고 싶은 사람?~LINEBREAK~ 
+action.guidebook.social_body=~LINEBREAK~§r아래 QR 코드를 스캔하거나 다음 링크를 통해 디스코드에 참여하세요!~LINEBREAK~honeyfrost.net/discord~LINEBREAK~ 
+action.guidebook.youtube_body=~LINEBREAK~§r아래 QR 코드를 스캔하거나 유튜브 채널에 방문하세요!~LINEBREAK~youtube.com/@Honeyfrost~LINEBREAK~ 
+action.guidebook.credits_body=~LINEBREAK~RLCraft: Bedrock Edition에 기여해주신 다음 분들과 단체들께 감사드립니다.~LINEBREAK~~LINEBREAK~§lRLCraft 제작자:§r~LINEBREAK~- Shivaxi~LINEBREAK~~LINEBREAK~§l프로듀서:§r~LINEBREAK~- Benjamin Deconihout~LINEBREAK~- Haik Ishacian~LINEBREAK~- Mikhail Kuznetsov~LINEBREAK~- Nathan Gaillot~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~~LINEBREAK~§l개발자:§r~LINEBREAK~- Amman~LINEBREAK~- Ashfaqur Rahman Chowdhury~LINEBREAK~- Alan Capellino~LINEBREAK~- Christian Mari Cabral~LINEBREAK~- Furkan Sancak~LINEBREAK~- Mathias Santos~LINEBREAK~- Muhammet Vebi~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~§l아티스트:§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Alexander Shimarov~LINEBREAK~- Andrey Voshin~LINEBREAK~- Artem Baklin~LINEBREAK~- Benjamin Goicoechea~LINEBREAK~- Cao Xiao Dong~LINEBREAK~- Eduardo Da Costa~LINEBREAK~- Egor Chiganenko~LINEBREAK~- Isaac Jeremy Rivera Moran~LINEBREAK~- Ivan Perminov~LINEBREAK~- Ivanovo Deryabikha~LINEBREAK~- Jeremy Ben Ammar~LINEBREAK~- Josiah Hockett~LINEBREAK~- Jules Graire~LINEBREAK~- Julien Rouget~LINEBREAK~- Kirill Kruglov~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Lu Runzi~LINEBREAK~- Mads Lykke-Bertelsen~LINEBREAK~- Mark van Voornveld~LINEBREAK~- Omar Hafiz~LINEBREAK~- Oleh Batozhskyi~LINEBREAK~- ORCS004~LINEBREAK~- Pierre Malot~LINEBREAK~- Samuel Lepage~LINEBREAK~- Semyon Alexeyevich Uski~LINEBREAK~- Theo Lestavel~LINEBREAK~- Uliana Shvadchenko~LINEBREAK~- Victor Rouget~LINEBREAK~- Vladimir Savelev~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~그리고 더 많은 분들!~LINEBREAK~~LINEBREAK~§l일러스트:§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Dennis Wonneberger~LINEBREAK~- Ethan Mulwee~LINEBREAK~- Mathieu Lavaissiere~LINEBREAK~- Nathan Regina De Morais~LINEBREAK~- Obi.Blue~LINEBREAK~- Oleg Fedorov~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~- Sedov Denis~LINEBREAK~- Terry Gillaux~LINEBREAK~~LINEBREAK~§l테스터:§r~LINEBREAK~- Amman~LINEBREAK~- Ivanov Oleg~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Pierre Pujol~LINEBREAK~- Rareloot~LINEBREAK~- Robert~LINEBREAK~ 
+action.guidebook.rlcraft_body=~LINEBREAK~RLCraft - Shivaxi와의 협업~LINEBREAK~ 
+action.guidebook.notreepunching_body=~LINEBREAK~MIT 라이선스~LINEBREAK~~LINEBREAK~저작권 (C) [2021] [Alex O'Neill (AlcatrazEscapee)]~LINEBREAK~~LINEBREAK~본 소프트웨어 및 관련 문서 파일("소프트웨어")의 사본을 얻은 모든 사람은 소프트웨어를 제한 없이 사용, 복사, 수정, 병합, 게시, 배포, 서브라이센스, 판매할 수 있으며, 소프트웨어가 제공되는 조건 하에 타인에게 동일한 권리를 부여할 수 있습니다.~LINEBREAK~~LINEBREAK~위 저작권 고지 및 이 허가 고지는 소프트웨어의 모든 사본 또는 상당 부분에 포함되어야 합니다.~LINEBREAK~~LINEBREAK~소프트웨어는 명시적 또는 묵시적 보증 없이 "있는 그대로" 제공됩니다. 상업성, 특정 목적에 대한 적합성, 비침해에 대한 보증을 포함하지만 이에 제한되지 않습니다. 어떠한 경우에도 저자 또는 저작권 보유자는 소프트웨어 또는 소프트웨어의 사용 또는 기타 거래로 인해 발생하는 청구, 손해 또는 기타 책임에 대해 책임을 지지 않습니다.~LINEBREAK~ 
+action.guidebook.weapons_body=~LINEBREAK~무기 - XP Games 라이선스~LINEBREAK~ 
+action.guidebook.skybox_body=~LINEBREAK~Minecraft Better Skybox by Hybred~LINEBREAK~ 
+action.guidebook.video_explaination_body=~LINEBREAK~§lYouTube§r에서 "Honeyfrost RLCraft How to use A&S and Packs"를 검색하거나 아래 QR 코드를 스캔하세요.~LINEBREAK~
+action.guidebook.add_aands_body=~LINEBREAK~이전 메뉴 페이지에서 영상 설명을 확인할 수 있습니다.~LINEBREAK~~LINEBREAK~§lA&S 사용 방법:§r~LINEBREAK~1: 글로벌 리소스에 활성화된 팩이 없어야 합니다~LINEBREAK~2: RLCraft가 활성화된 리소스 팩의 최상단에 있어야 하며, 그 아래에 A&S가 있어야 합니다~LINEBREAK~~LINEBREAK~§l글로벌 리소스에서 팩 제거 방법§r~LINEBREAK~1: 마인크래프트 메인 메뉴로 이동~LINEBREAK~2: 설정으로 이동~LINEBREAK~3: 아래로 스크롤하여 글로벌 리소스로 이동~LINEBREAK~4: 글로벌 리소스에서 활성화된 모든 팩 제거~LINEBREAK~5: 완료되었습니다!~LINEBREAK~~LINEBREAK~§lRLCraft를 최상단 리소스 팩으로 설정하는 방법§r~LINEBREAK~1: 마인크래프트 메인 메뉴로 이동~LINEBREAK~2: 플레이 클릭~LINEBREAK~3: RLCraft Bedrock Edition 오른쪽의 수정 클릭~LINEBREAK~4: 아직 하지 않았다면 파란색 "설정 잠금 해제" 클릭 후 "무시하고 해제" 클릭~LINEBREAK~5: 메뉴를 내려 리소스 팩 클릭~LINEBREAK~6: 사용 가능으로 이동~LINEBREAK~7: 소유함 열기~LINEBREAK~8: A&S 오른쪽의 활성화 클릭~LINEBREAK~9: 활성화된 버튼 클릭~LINEBREAK~11: RLCraft를 맨 위로 이동 (최상단이어야 합니다)~LINEBREAK~12: 완료되었습니다!~LINEBREAK~~LINEBREAK~이 제품은 Actions & Stuff와 제휴하거나 이를 후원하지 않습니다. 모든 이름, 브랜드, 콘텐츠는 각 소유자의 자산입니다.~LINEBREAK~
+action.guidebook.add_more_packs_body=~LINEBREAK~이전 메뉴 페이지에서 영상 설명을 확인할 수 있습니다.~LINEBREAK~~LINEBREAK~RLCraft Bedrock Edition은 완성된 경험을 위해 설계되었으며, 대부분의 팩과 호환되지만 비주얼이 아닌 애드온을 추가하면 게임이 깨지거나 특히 저사양 기기에서 렉이 발생할 수 있습니다. 그래도 추가하고 싶다면 다음 단계를 따르세요:~LINEBREAK~~LINEBREAK~§l다른 팩 사용 방법:§r~LINEBREAK~1: 글로벌 리소스에 활성화된 팩이 없어야 합니다~LINEBREAK~2: RLCraft는 리소스 팩과 비헤이비어 팩 모두에서 활성화된 팩의 최상단에 있어야 합니다~LINEBREAK~~LINEBREAK~§l글로벌 리소스에서 팩 제거 방법§r~LINEBREAK~1: 마인크래프트 메인 메뉴로 이동~LINEBREAK~2: 설정으로 이동~LINEBREAK~3: 아래로 스크롤하여 글로벌 리소스로 이동~LINEBREAK~4: 글로벌 리소스에서 활성화된 모든 팩 제거~LINEBREAK~5: 완료되었습니다!~LINEBREAK~~LINEBREAK~§lRLCraft를 최상단 리소스 팩 및 비헤이비어 팩으로 설정하는 방법:§r~LINEBREAK~1: 마인크래프트 메인 메뉴로 이동~LINEBREAK~2: 플레이 클릭~LINEBREAK~3: RLCraft Bedrock Edition 오른쪽의 수정 클릭~LINEBREAK~4: 아직 하지 않았다면 파란색 "설정 잠금 해제" 클릭 후 "무시하고 해제" 클릭~LINEBREAK~5: 메뉴를 내려 리소스 팩 또는 비헤이비어 팩 클릭~LINEBREAK~6: 원하는 항목에서 사용 가능으로 이동~LINEBREAK~7: 소유함 열기~LINEBREAK~8: 원하는 리소스 팩 및 데이터 팩 오른쪽의 활성화 클릭~LINEBREAK~9: 활성화된 버튼 클릭~LINEBREAK~11: RLCraft를 맨 위로 이동 (최상단이어야 합니다)~LINEBREAK~12: 완료되었습니다!~LINEBREAK~
+action.guidebook.realms_disclaimer_body=~LINEBREAK~Realms에서는 리소스 팩 및 비헤이비어 팩의 순서를 재설정하거나 잠가버리는 등의 오류가 발생할 수 있습니다. 이는 알려진 버그이며 우리가 제어할 수 없습니다.~LINEBREAK~~LINEBREAK~이런 문제가 발생할 경우, 추가된 팩을 제거하고 RLCraft만으로 플레이하는 것을 권장합니다.~LINEBREAK~~LINEBREAK~그럼에도 다른 팩을 추가하고 싶다면 아래 단계를 따라 주세요. 이전 메뉴에서 영상 설명도 확인할 수 있습니다. 단, 문제가 발생할 수 있습니다.~LINEBREAK~~LINEBREAK~§l다른 팩 사용 방법:§r~LINEBREAK~1: RLCraft는 Realm의 리소스 팩 및 비헤이비어 팩 모두에서 최상단에 있어야 합니다~LINEBREAK~2: Realms 애드온 설정의 상단에 있는 "플레이어가 선택적 리소스 팩을 다운로드해야 접속 가능" 옵션을 활성화해야 합니다~LINEBREAK~3: 개인 글로벌 리소스에는 활성화된 팩이 없어야 합니다~LINEBREAK~~LINEBREAK~§l글로벌 리소스에서 팩 제거 방법:§r~LINEBREAK~1: 마인크래프트 메인 메뉴로 이동~LINEBREAK~2: 설정으로 이동~LINEBREAK~3: 아래로 스크롤하여 글로벌 리소스로 이동~LINEBREAK~4: 글로벌 리소스에서 활성화된 모든 팩 제거~LINEBREAK~5: 완료되었습니다!~LINEBREAK~
+
+action.guidebook.retry_tutorial=§l§8튜토리얼 다시 시작
+action.guidebook.already_doing_tutorial=§c오, 갑자기 자신이 튜토리얼 중이라는 걸 잊은 사람 등장. 너 지금 튜토리얼 하고 있어, 천재야.
+action.guidebook.tuto_nearby=§c좋은 시도지만, 안돼. 여기서는 지금 튜토리얼을 다시 시작할 수 없어. 다른 데 가서 비틀거리거나 소중한 인생의 몇 분을 허비해봐.
+action.guidebook.be_full_health_first=§c와, 반쯤 죽은 상태에서 시도하다니 대단하네. 이 아이템을 사용하려면 체력이 가득 차 있어야 해, 천재야.
+translate.tutorial.crouch_to_skip=:_input_key.sneak: 키를 눌러 장면 건너뛰기!
+translate.tutorial.break_grass_with_knife=§c나이프로 풀을 부수세요!
+translate.tutorial.break_log_with_axe=§c도끼로 통나무를 부수세요!
+translate.tutorial.break_stone_with_pickaxe=§c곡괭이로 돌을 부수세요!
+action.item_block=§c지금은 이 아이템을 사용할 수 없습니다.
+action.guidebook.tutorial_body=~LINEBREAK~길을 잃으셨나요? 튜토리얼을 다시 플레이하시겠습니까?~LINEBREAK~~LINEBREAK~튜토리얼을 다시 시작해도 아이템은 저장되며, 튜토리얼이 끝나면 다시 돌려받습니다.~LINEBREAK~ 
+action.guidebook.yes=예
+action.guidebook.no=아니오
+
+tuto_dragon.idle_bored=서둘러!
+tuto_dragon.idle_bored2=아직도 거기 있어?
+tuto_dragon.idle_bored3=어서! 나 하루 종일 한가하지 않아.
+tuto_dragon.dialogue.1=안녕하세요! RLCraft에 오신 것을 환영합니다.
+tuto_dragon.dialogue.2=시작하기 전에, 계약서에 서명해야 합니다!
+tuto_dragon.dialogue.3=당신의 진짜 실력을 확인해봅시다!
+tuto_dragon.dialogue.4=난이도를 선택하세요!
+tuto_dragon.dialogue.5=겁이 많지만 합리적인 선택이군요!
+tuto_dragon.dialogue.6=모든 것이 균형 잡힌 완벽한 선택이군요!
+tuto_dragon.dialogue.7=용감하군요... 아니면 어리석은 걸까요. 시간이 말해줄 겁니다.
+tuto_dragon.dialogue.8=RLCraft에 대해 아무것도 모르시나요? 바로잡아 드릴게요.
+tuto_dragon.dialogue.9=아하... 다른 사람들보다 똑똑하다고 생각하는군요. 귀엽네요.
+tuto_dragon.dialogue.10=정말 건너뛰시겠습니까?
+tuto_dragon.dialogue.11=좋아요, 얼마나 오래 버틸 수 있을지 봅시다.
+tuto_dragon.dialogue.12=행운을 빕니다!
+
+tutorial.dialogue.subtitles1=§7자막: §6먼저 나무를 베는 것부터 시작해봅시다.
+tutorial.dialogue.subtitles2=§7자막: §6생각보다 어렵죠? RLCraft에서는 모든 것이 다르게 작동합니다. 일반 마인크래프트에서 통하는 방식이 여기선 항상 통하지 않아요. 나무를 수집하는 방법을 알려드릴게요.
+tutorial.dialogue.subtitles3=§7자막: §6먼저 자갈을 채굴하여 부싯돌을 모으세요. 시작 도구를 만들기 위한 필수 재료입니다.
+tutorial.dialogue.subtitles4=§7자막: §6이제 그 부싯돌을 돌에 부딪혀 부싯돌 조각을 만드세요.
+tutorial.dialogue.subtitles5=§7자막: §6다음으로, 나뭇잎을 부수어 막대기를 수집하세요.
+tutorial.dialogue.subtitles6=§7자막: §6좋아요! 이제 부싯돌 조각과 막대기를 조합해 첫 도구인 부싯돌 나이프를 만들 수 있습니다!
+tutorial.dialogue.subtitles7=§7자막: §6풀에서 식물 섬유 3개를 수집한 후, 이를 조합하여 식물 섬유 로프를 만드세요.
+tutorial.dialogue.subtitles8=§7자막: §6훌륭해요! 이제 나무를 수집할 수 있는 첫 도구인 부싯돌 도끼를 만들 재료를 모았어요!
+tutorial.dialogue.subtitles9=§7자막: §6도끼를 사용해 나무 3개를 수집하세요.
+tutorial.dialogue.subtitles10=§7자막: §6좋아요, 나무를 사용해 나무 곡괭이를 만들어보세요.
+tutorial.dialogue.subtitles11=§7자막: §6RLCraft에서는 아이템을 사용하려면 필요한 레벨을 달성해야 합니다. 인벤토리에서 곡괭이에 마우스를 올려 레벨 요구 사항을 확인하거나 직접 사용해보세요.
+tutorial.dialogue.subtitles12=§7자막: §6채광 스킬을 올리려면 경험치가 필요합니다. 저 개미들을 처치해보세요.
+tutorial.dialogue.subtitles13=§7자막: §6이제 경험치를 얻었으니, 단축바에 있는 레벨업 아이템을 사용해 레벨링 메뉴를 여세요.
+tutorial.dialogue.subtitles14=§7자막: §6여기에서 공격력, 방어력, 민첩성, 채광 스킬을 확인하고 업그레이드할 수 있어요. RLCraft에서는 레벨업이 핵심이며, 더 좋은 도구를 사용하거나 10레벨마다 새로운 능력을 해금할 수 있습니다. 지금은 채광 스킬에 경험치를 투자하세요.
+tutorial.dialogue.subtitles15=§7자막: §6좋아요! 이제 채광 스킬이 3레벨입니다. 나무 곡괭이를 사용해보세요.
+tutorial.dialogue.subtitles16=§7자막: §6잘하셨습니다! RLCraft에서는 죽는 것도 괜찮아요. 죽어도 스킬 레벨은 유지됩니다. 진짜 중요한 건 스킬을 올리고 자신을 발전시키는 것이죠!
+tutorial.dialogue.subtitles17=§7자막: §6이제 회복에 대해 알아봅시다. 개미와 싸우면서 받은 피해 보셨죠? RLCraft에서는 특정 신체 부위가 너무 많이 다치면 디버프가 생기므로, 상태를 잘 유지하고 필요할 때 회복하는 것이 중요합니다.
+tutorial.dialogue.subtitles18=§7자막: §6자신을 치유하려면 붕대 같은 회복 아이템을 사용하세요. 월드 곳곳에 있는 구조물에서 찾거나 직접 제작할 수 있습니다. 상자를 열고 회복해보세요.
+tutorial.dialogue.subtitles19=§7자막: §6RLCraft에서는 침대에서 자지 않으면 죽을 때마다 월드 내 무작위 위치에서 부활합니다. 마음에 드는 장소를 찾았다면 침대를 제작하고 잠을 자서 스폰 지점을 설정하세요!
+tutorial.dialogue.subtitles20=§7자막: §6다음은 체온에 대해 알아봅시다. RLCraft에서는 더운 환경과 추운 환경 모두 시간이 지나면 체온을 무너뜨립니다. 너무 오래 노출되면 과열되거나 얼어 죽을 수 있습니다. 시작 5분 안에 그런 일이 생기지 않도록 해봅시다.
+tutorial.dialogue.subtitles21=§7자막: §6여기, 제가 온도를 올려봤어요! 열사병이 오기 전에 물에 뛰어들어 체온을 식히고 안정시키세요.
+tutorial.dialogue.subtitles22=§7자막: §6좋아요, 하지만 이제는 너무 추워졌군요! 열원 근처로 이동해 체온을 높이세요.
+tutorial.dialogue.subtitles23=§7자막: §6잘하셨어요! 특정 과일을 먹는 등 체온을 조절하는 다양한 방법이 있습니다. 플레이하면서 직접 찾아보세요.
+tutorial.dialogue.subtitles24=§7자막: §6다음 주제로 넘어가봅시다: 장신구입니다. 장신구는 여정 중에 다양한 버프와 면역을 제공하는 강력한 아이템이에요. 상자에 있는 것을 꺼내 작동 방식을 확인해보세요.
+tutorial.dialogue.subtitles25=§7자막: §6각 장신구는 고유한 설명이 있으며, 효과와 장신구 가방에서 어디에 장착해야 하는지를 알려줍니다. 일반적으로 마법 아이템은 가방의 왼쪽, 반지는 오른쪽에 장착합니다. 염소 뿔 장신구를 착용해보세요.
+tutorial.dialogue.subtitles26=§7자막: §6잘하셨습니다! 이 훈련 덕분에 약간 목이 마르신 것 같군요. 물을 마시거나 음식을 먹거나 수영을 해서 갈증을 해소할 수 있습니다. 상자에 음식과 음료를 넣어뒀으니, 하나 챙기세요.
+tutorial.dialogue.subtitles27=§7자막: §6정말 훌륭했어요! 이제 튜토리얼을 마쳤고, RLCraft의 진짜 배움이 시작되었습니다. 이제 모험을 시작할 시간이에요! 기능을 전환하고 싶다면 설정 메뉴에서 변경할 수 있고, 여기서 다루지 못한 정보나 튜토리얼을 다시 보고 싶다면 도움말 메뉴를 확인하세요. 행운을 빕니다!
+
+
+action.temp.hot=§7§l[경고]: §c너무 뜨거워요!
+action.temp.cold=§7§l[경고]: §b너무 추워요!
+action.thirst.low=§7§l[경고]: §6탈수 상태입니다!
+action.backpack.jump=§6:_input_key.sneak: + :_input_key.jump: + :_input_key.attack: 로 배낭 제거
+action.wind_sword.stop_using=- 사용을 중지하면 투척합니다 -
+action.elemental_sword.cycle=- :_input_key.sneak: 키로 §6원소§f 전환 -
+action.elemental_sword.earth=- §2대지§f -
+action.elemental_sword.fire=- §4불§f -
+action.elemental_sword.water=- §9물§f -
+action.elemental_sword.air=- §7바람§f -
+action.elemental_sword.lightning=- §b번개§f -
+detect.lag=§5§l[월드]: §r§a성능 최적화 중! §730초 후에 떨어진 아이템을 제거합니다.
+detect.lag.low_ram=§5§l[월드]: §r§a성능 최적화 중! §710초 후에 떨어진 아이템을 제거합니다.
+detect.lag10=§5§l[월드]: §r§7정리 완료!
+action.wyvern.tamed=이 드래곤을 살려 조련하시겠습니까?
+action.wyvern.spare=살린다
+action.wyvern.slay=처치한다
+generate.boss_tower=§l§2[월드]: §r§7스카이스파이어가 생성되었습니다:
+generate.dungeon=§l§2[월드]: §r§7던전이 생성되었습니다:
+generate.boss= §7보스가 포함되어 있음
+action.warpstone.title=워프스톤 이름
+action.warpstone.list=워프스톤 목록
+action.warpstone.body=이 워프스톤에 이름을 지정하세요
+action.warpstone.name=이름
+action.system_level.only_use=§c진정하세요, 야망가님! 튜토리얼 중에는 스킬을 최대 3레벨까지만 올릴 수 있어요.
+action.system_level.only_mining=§c튜토리얼 중에는 채광 스킬만 올릴 수 있습니다.
+water_flasks.uses= 회 사용 가능
+action.teleport_scroll.cancel=§c훌륭하군요! 리스폰 지점이 설정되어 있지 않습니다.
+active.saving_grace=§a이런 이런, 운이 좋네요. 세이빙 그레이스가 다시 활성화되었습니다. 이번엔 낭비하지 마세요.
+blocked.agility=§c§l민첩성이 너무 낮아 이 아이템을 사용할 수 없습니다.
+blocked.melee=§c§l근접 전투 스킬이 너무 낮아 이 아이템을 사용할 수 없습니다.
+blocked.mining=§c§l채광 스킬이 너무 낮아 이 아이템을 사용할 수 없습니다.
+blocked.armor=§c§l방어력이 너무 낮아 이 아이템을 사용할 수 없습니다.
+action.dodge=§a축하합니다! 화살을 회피했습니다.
+action.grave_hit=§c물러서요, 무덤 도둑! 이 무덤은 당신 것이 아니므로 열 수 없습니다.
+action.warpstone_name=§c대단하군요! 이미 동일한 이름의 워프스톤이 존재합니다. 이번엔 좀 더 독창적으로 해보는 건 어때요?
+action.max_hearts=§c최대 하트 수에 도달했습니다. 더 이상은 욕심내지 마세요.
+action.reach_level=§a레벨 도달:
+action.in_melee= 근접 전투
+action.in_agility= 민첩성
+action.in_mining= 채광
+action.in_armor= 방어력
+action.you_need=§c필요한 경험치:
+action.need_xp= 레벨이 이 카테고리를 향상시키는 데 필요합니다.
+action.stop_move=§c진정하세요! 아이템을 사용하려면 움직임을 멈추세요.
+action.limit_level=§c이 카테고리의 최대 레벨에 이미 도달했습니다. 이제는 좀 쉬세요.
+action.duplicate_trinket=§c같은 종류의 장신구는 한 번에 하나만 장착할 수 있습니다.
+action.dead=§c당신은 이곳에서 사망했습니다:
+action.dead_burned=용암 속에서 수영하려다 모든 것이 §c불탔습니다§r.
+action.dead_hard=무덤이 남겨지지 않았습니다... §c당신은 하드를 선택했습니다. 고통을 선택한 것이죠!
+action.cooling_down=쿨다운 중...
+action.warpstone_break=§c자연 생성된 워프스톤은 제거할 수 없습니다.
+action.speed_skill=§l§d--속도 스킬 해금: §r§6영구적으로 §l속도 1§r§6을 얻습니다.§r
+action.arrow_skill=§l§d--공중 화살 스킬 해금: §r§6§l원거리 공격§r§6 시 §a20% 확률§6로 §7공중 부양§6을 부여합니다.§r
+action.dodge_skill=§l§d--회피 스킬 해금: §r§6§l공격 회피§r§6 확률 §a10%§6 증가, §a민첩 5레벨당 5%§6 추가.§r
+action.critical_skill=§l§d--치명타 활 스킬 해금: §r§6§l원거리 공격§r§6 시 §a50% 확률§6로 §7치명타 피해§6를 줍니다.§r
+action.mastery_skill=§l§d--민첩 숙련 스킬 해금: §r§6§l낙하 피해 면역§r§6 및 화살 소모 없음.§r
+action.haste_skill=§l§d--신속 스킬 해금: §r§6영구적으로 §l신속 2§r§6를 얻습니다.§r
+action.obsidian_skill=§l§d--흑요석 파괴자 스킬 해금: §r§6§5흑요석§6 채굴 시 §l신속 4§r§6 효과 부여.§r
+action.sustaining_skill=§l§d--지속 채굴 스킬 해금: §r§6블록 §a10개§6 채굴마다 §a+1 & +1§6 회복.§r
+action.material_skill=§l§d--귀중한 재료 스킬 해금: §r§6돌 채굴 시 §l귀중한 재료§r§6 획득 확률 §a0.5%§6 증가.§r
+action.luck_skill=§l§d--행운 스킬 해금: §r§6§l행운 2§r§6 부여, 광물 채굴 시 추가 재료 획득 가능.§r
+action.chance_skill=§l§d--치명타 확률 스킬 해금: §r§6§l공격§r§6 시 §a20% 확률§6로 §l치명타 피해§6 적용.§r
+action.stun_skill=§l§d--기절 스킬 해금: §r§6§l공격§r§6 시 §a10% 확률§6로 §l기절§r§6 부여.§r
+action.area_skill=§l§d--광역 피해 스킬 해금: §r§6§l공격§r§6 시 §a15% 확률§6로 주변 적에게 피해.§r
+action.vampirism_skill=§l§d--흡혈 스킬 해금: §r§6§l공격§r§6 시 §a10 피해마다 +1 회복.§r
+action.melee_skill=§l§d--근접 숙련 스킬 해금: §r§6§l공격§r§7 시 피해량 §a+50%§6 증가.§r
+action.thorns_skill=§l§d--가시 II 스킬 해금: §r§6피격 시 받은 피해만큼 반사 피해를 가함.§r
+action.boost_skill=§l§d--체력 증가 스킬 해금: §r§6§b방어력 10레벨§r§6당 §a+2§6 추가 체력 부여.§r
+action.bodyparts_skill=§l§d--신체 부위 저항 스킬 해금: §r§6§b방어력 5레벨§r§6당 신체 부위 저항 §a+0.5§r 증가.§r
+action.heal_skill=§l§d--치유 스킬 해금: §r§6피격 시 §a15% 확률§6로 §a+5§6 회복.§r
+action.saving_skill=§l§d--세이빙 그레이스 스킬 해금: §r§6§l사망 회피§r§6, §a5분§6에 한 번 가능.§r
+translate.hfrlc.need_key=§c이 문을 열려면 열쇠가 필요합니다.
+
+tile.hfrlc:jar1.name=항아리
+tile.hfrlc:jar2.name=항아리
+tile.hfrlc:barrier_collision.name=장벽 충돌
+tile.hfrlc:barrier_collision2.name=고체 장벽 충돌
+tile.hfrlc:blue_bush.name=서리베리 덤불
+tile.hfrlc:orange_bush.name=엠버프루트 덤불
+tile.hfrlc:clover.name=클로버
+tile.hfrlc:mushroom.name=버섯
+tile.hfrlc:pebble.name=조약돌
+tile.hfrlc:flint_pebble.name=부싯돌 조약돌
+tile.hfrlc:grass.name=잔디
+tile.hfrlc:cattail.name=부들
+tile.hfrlc:wheat_grass.name=밀풀
+tile.hfrlc:arctic_flowers.name=북극 꽃
+tile.hfrlc:arid_flowers.name=건조 지대 꽃
+tile.hfrlc:tropical_flowers.name=열대 꽃
+tile.hfrlc:brown_mushroom.name=갈색 버섯
+tile.hfrlc:red_mushroom.name=빨간 버섯
+tile.hfrlc:cactus.name=선인장
+tile.hfrlc:lavender.name=라벤더
+tile.hfrlc:bellflower.name=종꽃
+tile.hfrlc:jungle_flower.name=정글 꽃
+tile.hfrlc:pansy.name=팬지
+tile.hfrlc:bracken.name=고사리
+tile.hfrlc:fireweed.name=불꽃풀
+tile.hfrlc:pink_lupine.name=핑크 루핀
+tile.hfrlc:purple_heather.name=보라색 히더
+tile.hfrlc:purple_lupine.name=보라색 루핀
+tile.hfrlc:white_heather.name=하얀 히더
+tile.hfrlc:white_lupine.name=하얀 루핀
+tile.hfrlc:jungle_bush.name=정글 덤불
+tile.hfrlc:red_roots.name=붉은 뿌리
+tile.hfrlc:sweet_pea.name=스위트 피
+tile.hfrlc:canola_flower.name=카놀라
+tile.hfrlc:hogweed_flower.name=돼지풀
+tile.hfrlc:carcass.name=사체
+tile.hfrlc:clam.name=조개
+tile.hfrlc:cow_skull.name=소 해골
+tile.hfrlc:seashells.name=조개껍데기
+tile.hfrlc:starfish.name=불가사리
+tile.hfrlc:pumpkin.name=호박
+tile.hfrlc:dungeon_door.name=던전 문
+tile.hfrlc:dungeon_door_desert.name=사막 던전 문
+tile.hfrlc:dungeon_door_snow.name=얼음 던전 문
+tile.hfrlc:dungeon_door_red_desert.name=붉은 사막 던전 문
+tile.hfrlc:dungeon_door_key.name=열쇠 문
+tile.hfrlc:key_block.name=열쇠
+
+## ===== BACKPACK VISUAL ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:backpack_visual_big.name=§f큰 배낭
+item.spawn_egg.entity.hfrlc:backpack_visual_mid.name=§f중간 배낭
+item.spawn_egg.entity.hfrlc:backpack_visual.name=§f작은 배낭
+
+## Entities
+entity.hfrlc:backpack_visual_big.name=큰 배낭
+entity.hfrlc:backpack_visual_mid.name=중간 배낭
+entity.hfrlc:backpack_visual.name=작은 배낭
+
+## ===== BOSS ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:dwarf_king.name=§p드워프 왕 오토를럼 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:god_boss.name=§p대마스터 툴럼 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:knight_king.name=§p수호자 스켈로르 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:orc_boss.name=§p지도자 달로쿠그 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:pirate_king.name=§p칠해의 선장 바렉 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:rlc_golem.name=§p탑 수호자 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:skeleton_boss.name=§p죽음의 기사 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:death_knight.name=§p죽음의 기사 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:spider_king.name=§p거미줄 짜는 카라크 스폰 에그§r~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:frog_king.name=§p개구리 프로기 스폰 에그~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:griffin.name=§p구름 짜는 노프리그 스폰 에그~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:leshen.name=§p숲의 야인 스폰 에그~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:ogre.name=§p오거 오그로 스폰 에그~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:orc_king.name=§p오크 오르쿨 스폰 에그~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:spider_queen.name=§p거미 여왕 스폰 에그~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:werewolf.name=§p알파 라이칸 스폰 에그~LINEBREAK~§7보스
+item.spawn_egg.entity.hfrlc:ant_queen.name=§p개미 여왕 스폰 에그~LINEBREAK~§7보스
+
+## Entities
+entity.hfrlc:dwarf_king_death.name=§l§a드워프 왕 오토를럼
+entity.hfrlc:dwarf_king.name=§l§a드워프 왕 오토를럼
+entity.hfrlc:god_boss_death.name=§l§6대마스터 툴럼
+entity.hfrlc:god_boss.name=§l§6대마스터 툴럼
+entity.hfrlc:knight_king_death.name=§l§u수호자 스켈로르
+entity.hfrlc:knight_king.name=§l§u수호자 스켈로르
+entity.hfrlc:orc_boss_death.name=§l§4지도자 달로쿠그
+entity.hfrlc:orc_boss.name=§l§4지도자 달로쿠그
+entity.hfrlc:pirate_king.name=§3§l칠해의 선장 바렉
+entity.hfrlc:rlc_golem.name=§l§f탑 수호자
+entity.hfrlc:skeleton_boss.name=§l§4죽음의 기사
+entity.hfrlc:death_knight.name=죽음의 기사
+entity.hfrlc:spider_king.name=§l§n거미줄 짜는 카라크
+entity.hfrlc:frog_king.name=§l§a개구리 프로기
+entity.hfrlc:griffin.name=§l구름 짜는 노프리그
+entity.hfrlc:leshen.name=§l숲의 야인
+entity.hfrlc:ogre.name=§l§8오거 오그로
+entity.hfrlc:orc_king.name=§l§2오크 오르쿨
+entity.hfrlc:spider_queen.name=§l§4거미 여왕
+entity.hfrlc:werewolf.name=§l§8알파 라이칸
+entity.hfrlc:ant_queen.name=개미 여왕
+
+## ===== DRAGON ENTITIES (HOSTILE - DEFEAT TO MOUNT) =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:wyvern_air.name=바람 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_dark.name=어둠 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_earth.name=대지 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_fire.name=불 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_ice.name=얼음 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_lightning.name=번개 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_nature.name=자연 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_poison.name=독 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+item.spawn_egg.entity.hfrlc:wyvern_water.name=물 드래곤 스폰 에그~LINEBREAK~§7적대적 (탑승하려면 처치)
+
+## Entities
+entity.hfrlc:wyvern_air.name=§7§l바람 드래곤
+entity.hfrlc:wyvern_dark.name=§8§l어둠 드래곤
+entity.hfrlc:wyvern_earth.name=§6§l대지 드래곤
+entity.hfrlc:wyvern_fire.name=§c§l불 드래곤
+entity.hfrlc:wyvern_ice.name=§b§l얼음 드래곤
+entity.hfrlc:wyvern_lightning.name=§e§l번개 드래곤
+entity.hfrlc:wyvern_nature.name=§a§l자연 드래곤
+entity.hfrlc:wyvern_poison.name=§d§l독 드래곤
+entity.hfrlc:wyvern_water.name=§9§l물 드래곤
+
+## ===== HOSTILE ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:dwarf.name=드워프 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:knight.name=기사 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:orc.name=오크 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:pirate_shark.name=해적 상어 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:pirate.name=해적 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:frog.name=개구리 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:yeti.name=예티 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:snake.name=뱀 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:sworm.name=스웜 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:ancient_titan.name=고대 타이탄 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:bee_queen.name=벌 여왕 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:cyclop.name=사이클롭스 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:divine_warrior.name=신성한 전사 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:golem.name=골렘 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:icebutterfly.name=얼음 나비 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:monkey_king.name=원숭이 왕 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:orc_leader.name=오크 리더 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:pumpkinkido.name=사신 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:samurai.name=사무라이 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:satyre.name=사티로스 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:shogun.name=죽은 쇼군 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:crocodile.name=악어 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:dead_shooter.name=죽은 사수 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:little_ant.name=작은 개미 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:sea_serpent.name=바다뱀 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:mosquito.name=모기 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:rat.name=쥐 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:big_bad_fish.name=거대 악어 물고기 스폰 에그~LINEBREAK~§7적대적
+item.spawn_egg.entity.hfrlc:sandworm_head.name=모래벌레 스폰 에그~LINEBREAK~§7적대적
+
+## Entities
+entity.hfrlc:dwarf.name=드워프
+entity.hfrlc:knight.name=기사
+entity.hfrlc:orc.name=오크
+entity.hfrlc:pirate_shark.name=해적 상어
+entity.hfrlc:pirate.name=해적
+entity.hfrlc:frog.name=개구리
+entity.hfrlc:yeti.name=예티
+entity.hfrlc:snake.name=뱀
+entity.hfrlc:sworm.name=스웜
+entity.hfrlc:sworm_mouth.name=스웜
+entity.hfrlc:ancient_titan.name=고대 타이탄
+entity.hfrlc:bee_queen.name=벌 여왕
+entity.hfrlc:cyclop.name=사이클롭스
+entity.hfrlc:divine_warrior.name=신성한 전사
+entity.hfrlc:golem.name=골렘
+entity.hfrlc:icebutterfly.name=얼음 나비
+entity.hfrlc:monkey_king.name=원숭이 왕
+entity.hfrlc:orc_leader.name=오크 리더
+entity.hfrlc:pumpkinkido.name=사신
+entity.hfrlc:samurai.name=사무라이
+entity.hfrlc:satyre.name=사티로스
+entity.hfrlc:shogun.name=죽은 쇼군
+entity.hfrlc:crocodile.name=악어
+entity.hfrlc:dead_shooter.name=죽은 사수
+entity.hfrlc:little_ant.name=작은 개미
+entity.hfrlc:sea_serpent.name=바다뱀
+entity.hfrlc:mosquito.name=모기
+entity.hfrlc:rat.name=쥐
+entity.hfrlc:big_bad_fish.name=거대 악어 물고기
+entity.hfrlc:sandworm_head.name=모래벌레
+entity.hfrlc:sandworm_wheel.name=모래벌레
+entity.hfrlc:sandworm_tail.name=모래벌레
+
+## ===== NEUTRAL ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:bear.name=회색곰 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:boar.name=멧돼지 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:skunk.name=스컹크 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:wolf.name=다이어울프 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:goat_king.name=염소 왕 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:paon.name=공작새 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:spirit_warrior.name=영혼 전사 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:tree_spirit.name=나무 정령 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:scorpion.name=전갈 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:baby_scorpion.name=작은 전갈 스폰 에그~LINEBREAK~§7중립
+item.spawn_egg.entity.hfrlc:giant_snail.name=거대 달팽이 스폰 에그~LINEBREAK~§7중립
+
+## Entities
+entity.hfrlc:bear.name=회색곰
+entity.hfrlc:boar.name=멧돼지
+entity.hfrlc:skunk.name=스컹크
+entity.hfrlc:wolf.name=다이어울프
+entity.hfrlc:goat_king.name=염소 왕
+entity.hfrlc:paon.name=공작새
+entity.hfrlc:spirit_warrior.name=영혼 전사
+entity.hfrlc:tree_spirit.name=나무 정령
+entity.hfrlc:scorpion.name=전갈
+entity.hfrlc:baby_scorpion.name=작은 전갈
+entity.hfrlc:giant_snail.name=거대 달팽이
+
+## ===== FRIENDLY ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:firefly.name=반딧불이 스폰 에그~LINEBREAK~§7우호적
+item.spawn_egg.entity.hfrlc:eagle.name=독수리 스폰 에그~LINEBREAK~§7우호적
+item.spawn_egg.entity.hfrlc:healingfairy.name=치유 요정 스폰 에그~LINEBREAK~§7우호적
+item.spawn_egg.entity.hfrlc:pigeon.name=비둘기 스폰 에그~LINEBREAK~§7우호적
+item.spawn_egg.entity.hfrlc:deer.name=사슴 스폰 에그~LINEBREAK~§7우호적
+item.spawn_egg.entity.hfrlc:mini_snail.name=작은 달팽이 스폰 에그~LINEBREAK~§7우호적
+
+## Entities
+entity.hfrlc:firefly.name=반딧불이
+entity.hfrlc:eagle.name=독수리
+entity.hfrlc:healingfairy.name=치유 요정
+entity.hfrlc:pigeon.name=비둘기
+entity.hfrlc:deer.name=사슴
+entity.hfrlc:mini_snail.name=작은 달팽이
+
+## ===== MOUNT ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:aeris.name=아에리스 스폰 에그~LINEBREAK~§7중립 (탈것)
+item.spawn_egg.entity.hfrlc:biglizard.name=큰 도마뱀 스폰 에그~LINEBREAK~§7중립 (탈것)
+item.spawn_egg.entity.hfrlc:hippocampus.name=히포캄포스 스폰 에그~LINEBREAK~§7우호적 (탈것)
+
+## Entities
+entity.hfrlc:aeris.name=아에리스
+entity.hfrlc:biglizard.name=큰 도마뱀
+entity.hfrlc:hippocampus.name=히포캄포스
+
+## ===== TRADER NPC ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:ant_women.name=개미 여인 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:cowbow.name=카우보이 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:dark_sensei.name=어둠의 선생 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:divine_island.name=신성한 섬 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:dragon_hunter.name=드래곤 헌터 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:harry.name=해리 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:merchant_orc.name=상인 오크 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:port_sailor.name=선장 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:white_sensei.name=하얀 선생 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:witch.name=마녀 스폰 에그~LINEBREAK~§7상인 NPC
+item.spawn_egg.entity.hfrlc:wizard_golem.name=마법사 골렘 스폰 에그~LINEBREAK~§7상인 NPC
+
+## Entities
+entity.hfrlc:ant_women.name=개미 여인
+entity.hfrlc:cowbow.name=카우보이
+entity.hfrlc:dark_sensei.name=어둠의 선생
+entity.hfrlc:divine_island.name=신성한 섬
+entity.hfrlc:dragon_hunter.name=드래곤 헌터
+entity.hfrlc:harry.name=해리
+entity.hfrlc:merchant_orc.name=상인 오크
+entity.hfrlc:port_sailor.name=선장
+entity.hfrlc:white_sensei.name=하얀 선생
+entity.hfrlc:witch.name=마녀
+entity.hfrlc:wizard_golem.name=마법사 골렘
+
+## ===== SPECIAL ITEMS =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:djinn.name=고대 램프~LINEBREAK~§7문지르세요!
+item.spawn_egg.entity.hfrlc:sleepingbag.name=침낭
+
+## Entities
+entity.hfrlc:djinn.name=지니
+entity.hfrlc:sleepingbag.name=침낭
+
+## ===== PROJECTILES AND ARROWS =====
+entity.hfrlc:cannon_ball.name=대포알
+entity.hfrlc:dwarf_arrow.name=드워프
+entity.hfrlc:knight_arrow.name=기사
+entity.hfrlc:orc_arrow.name=오크
+entity.hfrlc:pirate_arrow.name=해적
+entity.hfrlc:pirate_shot.name=해적
+entity.hfrlc:deadshooter_arrow.name=죽은 사수
+entity.hfrlc:fire_arrow.name=화살
+entity.hfrlc:ice_arrow.name=화살
+entity.hfrlc:player_bow.name=화살
+entity.hfrlc:player_trident.name=삼지창
+
+## ===== DRAGON PROJECTILES =====
+entity.hfrlc:wyvern_fire_loot.name=불 드래곤
+entity.hfrlc:wyvern_air_knockback_player.name=바람 드래곤
+entity.hfrlc:wyvern_air_knockback.name=바람 드래곤
+entity.hfrlc:wyvern_air_projectile_player.name=바람 드래곤
+entity.hfrlc:wyvern_dark_projectile_player.name=어둠 드래곤
+entity.hfrlc:wyvern_earth_projectile_player.name=대지 드래곤
+entity.hfrlc:wyvern_fire_projectile_player.name=불 드래곤
+entity.hfrlc:wyvern_ice_projectile_player.name=얼음 드래곤
+entity.hfrlc:wyvern_lightning_projectile_player.name=번개 드래곤
+entity.hfrlc:wyvern_nature_projectile_player.name=자연 드래곤
+entity.hfrlc:wyvern_poison_projectile_player.name=독 드래곤
+entity.hfrlc:wyvern_water_projectile_player.name=물 드래곤
+entity.hfrlc:wyvern_air_tame.name=바람 드래곤
+entity.hfrlc:wyvern_dark_tame.name=어둠 드래곤
+entity.hfrlc:wyvern_earth_tame.name=대지 드래곤
+entity.hfrlc:wyvern_fire_tame.name=불 드래곤
+entity.hfrlc:wyvern_ice_tame.name=얼음 드래곤
+entity.hfrlc:wyvern_lightning_tame.name=번개 드래곤
+entity.hfrlc:wyvern_nature_tame.name=자연 드래곤
+entity.hfrlc:wyvern_poison_tame.name=독 드래곤
+entity.hfrlc:wyvern_water_tame.name=물 드래곤
+entity.hfrlc:wyvern_air_projectile1.name=바람 드래곤
+entity.hfrlc:wyvern_air_projectile2.name=바람 드래곤
+entity.hfrlc:wyvern_air_projectile3.name=바람 드래곤
+entity.hfrlc:wyvern_air_projectile4.name=바람 드래곤
+entity.hfrlc:wyvern_air_projectile5.name=바람 드래곤
+entity.hfrlc:wyvern_dark_projectile1.name=어둠 드래곤
+entity.hfrlc:wyvern_dark_projectile2.name=어둠 드래곤
+entity.hfrlc:wyvern_dark_projectile3.name=어둠 드래곤
+entity.hfrlc:wyvern_dark_projectile4.name=어둠 드래곤
+entity.hfrlc:wyvern_dark_projectile5.name=어둠 드래곤
+entity.hfrlc:wyvern_earth_projectile1.name=대지 드래곤
+entity.hfrlc:wyvern_earth_projectile2.name=대지 드래곤
+entity.hfrlc:wyvern_earth_projectile3.name=대지 드래곤
+entity.hfrlc:wyvern_earth_projectile4.name=대지 드래곤
+entity.hfrlc:wyvern_earth_projectile5.name=대지 드래곤
+entity.hfrlc:wyvern_fire_projectile1.name=불 드래곤
+entity.hfrlc:wyvern_fire_projectile2.name=불 드래곤
+entity.hfrlc:wyvern_fire_projectile3.name=불 드래곤
+entity.hfrlc:wyvern_fire_projectile4.name=불 드래곤
+entity.hfrlc:wyvern_fire_projectile5.name=불 드래곤
+entity.hfrlc:wyvern_ice_projectile1.name=얼음 드래곤
+entity.hfrlc:wyvern_ice_projectile2.name=얼음 드래곤
+entity.hfrlc:wyvern_ice_projectile3.name=얼음 드래곤
+entity.hfrlc:wyvern_ice_projectile4.name=얼음 드래곤
+entity.hfrlc:wyvern_ice_projectile5.name=얼음 드래곤
+entity.hfrlc:wyvern_lightning_projectile1.name=번개 드래곤
+entity.hfrlc:wyvern_lightning_projectile2.name=번개 드래곤
+entity.hfrlc:wyvern_lightning_projectile3.name=번개 드래곤
+entity.hfrlc:wyvern_lightning_projectile4.name=번개 드래곤
+entity.hfrlc:wyvern_lightning_projectile5.name=번개 드래곤
+entity.hfrlc:wyvern_nature_projectile1.name=자연 드래곤
+entity.hfrlc:wyvern_nature_projectile2.name=자연 드래곤
+entity.hfrlc:wyvern_nature_projectile3.name=자연 드래곤
+entity.hfrlc:wyvern_nature_projectile4.name=자연 드래곤
+entity.hfrlc:wyvern_nature_projectile5.name=자연 드래곤
+entity.hfrlc:wyvern_poison_projectile1.name=독 드래곤
+entity.hfrlc:wyvern_poison_projectile2.name=독 드래곤
+entity.hfrlc:wyvern_poison_projectile3.name=독 드래곤
+entity.hfrlc:wyvern_poison_projectile4.name=독 드래곤
+entity.hfrlc:wyvern_poison_projectile5.name=독 드래곤
+entity.hfrlc:wyvern_water_projectile1.name=물 드래곤
+entity.hfrlc:wyvern_water_projectile2.name=물 드래곤
+entity.hfrlc:wyvern_water_projectile3.name=물 드래곤
+entity.hfrlc:wyvern_water_projectile4.name=물 드래곤
+entity.hfrlc:wyvern_water_projectile5.name=물 드래곤
+
+## ===== WEAPON ENTITIES =====
+entity.hfrlc:wand_lightning_projectile.name=마법 지팡이
+entity.hfrlc:fire_aspect.name=화염 속성
+entity.hfrlc:wyvern1.name=드래곤
+entity.hfrlc:wyvern2.name=드래곤
+entity.hfrlc:wyvern3.name=드래곤
+entity.hfrlc:wyvern4.name=드래곤
+entity.hfrlc:wyvern5.name=드래곤
+entity.hfrlc:dragon_attack_knockback.name=드래곤
+entity.hfrlc:holdfire.name=드래곤
+entity.hfrlc:wyvern_attack_knockback.name=드래곤
+
+## ===== SPECIAL SWORD ENTITIES =====
+entity.hfrlc:air_sword.controller.name=바람의 검
+entity.hfrlc:air_sword.throw.name=바람의 검
+entity.hfrlc:dirt_projectile.name=대지의 검
+entity.hfrlc:earth_sword.attack.explode.name=지형의 검
+entity.hfrlc:earth_sword.attack2.name=지형의 검
+entity.hfrlc:earth_sword.attack.name=지형의 검
+entity.hfrlc:earth_sword.attack.target.name=지형의 검
+entity.hfrlc:fire_sword.defense.name=화염의 검
+entity.hfrlc:fire_sword.projectile.name=화염의 검
+entity.hfrlc:fire_sword_boost.name=화염의 검
+entity.hfrlc:ice_cube.projectile.name=서리의 검
+entity.hfrlc:ice_cube.explode.name=서리의 검
+entity.hfrlc:ice_spikes.name=서리의 검
+entity.hfrlc:ice_sword.target.name=서리의 검
+entity.hfrlc:ice_sword.attack.name=서리의 검
+entity.hfrlc:rocks.name=열대우림의 검
+entity.hfrlc:lava_sword.explode.name=유성의 검
+entity.hfrlc:lava_sword.projectile.name=유성의 검
+entity.hfrlc:light_sword_boost.name=광휘의 검
+entity.hfrlc:light_sword.glow.name=광휘의 검
+entity.hfrlc:nether_sword.target.name=네더의 검
+entity.hfrlc:nether_sword.fire_attack.name=네더의 검
+entity.hfrlc:nether_sword.fire_attack.explode.name=네더의 검
+entity.hfrlc:spawn.controller.name=네더의 검
+entity.hfrlc:ocean_sword.attack.ripple.name=바다의 검
+entity.hfrlc:ocean_sword.attack.name=바다의 검
+entity.hfrlc:ocean_sword.boost.name=바다의 검
+entity.hfrlc:thunder_sword.explode_small.name=천둥의 검
+entity.hfrlc:thunder_sword.impact.name=천둥의 검
+entity.hfrlc:thunder_sword.explode.name=천둥의 검
+entity.hfrlc:particle_rider.name=파티클
+entity.hfrlc:poison_projectile.name=독의 검
+entity.hfrlc:spike_sword_boost.name=충격의 검
+entity.hfrlc:spike_sword.target.name=충격의 검
+entity.hfrlc:tornado.name=토네이도
+entity.hfrlc:toxic.name=독의 검
+entity.hfrlc:water_beam_projectile.name=아쿠아 검
+entity.hfrlc:weapon13_knockback.name=나무 방패
+
+## ===== GENERATOR AND RANDOMIZER ENTITIES =====
+entity.hfrlc:web.name=거미줄
+entity.hfrlc:2_boss.name=보스 랜덤화기 2
+entity.hfrlc:boss_tower_random.name=보스 랜덤화기
+entity.hfrlc:skysmall_random.name=보스 랜덤화기
+entity.hfrlc:boss_tower.name=천공탑 생성기
+entity.hfrlc:dungeon.name=던전 생성기
+entity.hfrlc:random_npc_dungeon.name=던전 NPC 랜덤화기
+entity.hfrlc:random_npc.name=NPC 랜덤화기
+entity.hfrlc:random_wyvern.name=드래곤 랜덤화기
+
+## ===== SPECIAL EFFECT ENTITIES =====
+entity.hfrlc:lens_sun.name=렌즈 플레어
+entity.hfrlc:npcsign.name=NPC 간판
+entity.hfrlc:explode_tower.name=탑 폭발기
+entity.hfrlc:explode.name=폭발기
+entity.hfrlc:knockback.name=넉백기
+entity.hfrlc:sing.name=노래
+entity.hfrlc:wyvern_explode.name=드래곤 폭발
+entity.hfrlc:wither_skull_dangerous.name=위험한 위더 해골
+entity.hfrlc:ender_tp_dummy.name=엔더 진주
+entity.hfrlc:drop_item.name=아이템 드롭
+entity.hfrlc:play_the_tutorial.name=드래곤
+entity.hfrlc:acid.name=산
+entity.hfrlc:leshen_scream.name=§l숲의 야인
+entity.hfrlc:ogre_attack.name=§l§8오거 오그로
+entity.hfrlc:roots.name=뿌리
+entity.hfrlc:black_room.name=검은 방
+
+## ===== SURVIVAL/CRAFTING SYSTEM ENTITIES =====
+entity.hfrlc:bodyparts.name=신체 부위
+entity.hfrlc:cold_temperature.name=낮은 온도
+entity.hfrlc:hot_temperature.name=높은 온도
+entity.hfrlc:temperature.name=온도
+entity.hfrlc:fiber_string.name=섬유 끈
+entity.hfrlc:fiber.name=섬유
+entity.hfrlc:flint_axe.name=부싯돌 도끼
+entity.hfrlc:flint_dagger.name=부싯돌 단검
+entity.hfrlc:flint_shard.name=부싯돌 조각
+entity.hfrlc:flint.name=부싯돌
+entity.hfrlc:goat_horn.name=염소 뿔
+entity.hfrlc:stick.name=막대기
+entity.hfrlc:stone_axe.name=돌 도끼
+entity.hfrlc:stone_pickaxe.name=돌 곡괭이
+entity.hfrlc:stone_sword.name=돌 검
+entity.hfrlc:wood_axe.name=나무 도끼
+entity.hfrlc:wood_pickaxe.name=나무 곡괭이
+entity.hfrlc:wood_sword.name=나무 검
+entity.hfrlc:wood.name=나무
+
+## ===== UI AND SYSTEM ENTITIES =====
+entity.hfrlc:guide_texts.name=가이드 텍스트
+entity.hfrlc:heal_items.name=치유 아이템
+entity.hfrlc:thirts_items.name=갈증 아이템
+entity.hfrlc:trinket_bag.name=장신구 가방
+entity.hfrlc:trinket_lore.name=장신구 설명
+entity.hfrlc:trinket_ui.name=장신구 UI
+entity.hfrlc:system_level_item.name=시스템 레벨 아이템
+entity.hfrlc:system_level_ui.name=시스템 레벨 UI
+entity.hfrlc:system_level.name=레벨링 메뉴
+entity.hfrlc:trinket_menu.name=장신구 메뉴
+
+## ===== WORLD INTERACTION ENTITIES =====
+entity.hfrlc:tombs.name=무덤
+entity.hfrlc:warpstone.name=워프스톤
+
+
+action.interact.rotate=회전
+action.interact.paint=칠하기
+action.interact.wear=착용하려면 상호작용
+action.interact.sit=앉기
+action.interact.ride=탑승
+action.interact.wyvern.saddle=안장 장착
+action.interact.wyvern.armor=갑옷 장착
+action.interact.wyvern.shoot=발사
+action.interact.pick_up=줍기
+
+action.hint.tuto_dragon.hint.1=§6[!] 설정에서 난이도를~LINEBREAK~   나중에 변경할 수 있습니다.
+action.hint.tuto_dragon.hint.2=§6[!] 튜토리얼을~LINEBREAK~   플레이하는 것을 강력히 권장합니다.
+action.hint.tuto_dragon.hint.3=§6[!] 이미 튜토리얼을~LINEBREAK~   완료했다면 건너뛰세요.
+action.hint.tuto_dragon.hint.4=§6[!] RLCraft: Bedrock Edition은~LINEBREAK~   RLCraft: Java Edition과 다릅니다.
+action.hint.tuto_dragon.hint.5=§6[!] RLCraft는 Minecraft의~LINEBREAK~   바닐라 게임 루프를 완전히 변화시킵니다.
+
+action.hint.exit.hfrlc:sleepingbag=:_input_key.sneak: 눌러서 나가기
+action.hint.warpstone=§b:_input_key.attack:§r 눌러 메뉴 열기. §b:_input_key.sneak:§r + §b:_input_key.attack:§r 눌러 파괴
+action.hint.exit.hfrlc:stool=:_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:woodchair=:_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:woolchair=:_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:woolcouch=:_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_air=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_dark=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_earth=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_fire=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_ice=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_lightning=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_nature=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_poison=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:wyvern_water=:_input_key.use: 눌러 발사, :_input_key.sneak: 눌러서 나가기
+action.hint.exit.hfrlc:hippocampus=:_input_key.sneak: 눌러서 하마캄푸스에서 내리기
+action.hint.exit.hfrlc:aeris=위·아래를 바라보며 비행
+action.hint.exit.hfrlc:biglizard=:_input_key.sneak: 눌러서 대형 도마뱀에서 내리기
+
+action.black_room.start=시작
+action.sleepingbag=§c이게 낮잠 시간이냐? 낮에는 잘 수 없으니 다른 이들처럼 깨어서 고통을 견뎌라.
+
+
+hfrlc:bow=RLCraft 활
+hfrlc:dragon_armor=드래곤 갑옷
+hfrlc:healing_capsule=치유 캡슐
+hfrlc:levelup_token=레벨업 토큰
+hfrlc:travel=여행
+hfrlc:trinkets=장신구
+hfrlc:important_items=중요 아이템
+hfrlc:dragon_scales=드래곤 비늘
+hfrlc:dragon_parts=드래곤 부위
+hfrlc:coins=동전
+hfrlc:essences=정수
+hfrlc:backpack=배낭
+hfrlc:furniture=가구
+
+
+## FOOD
+item.hfrlc:cooked_boar_meat=구운 멧돼지 고기
+item.hfrlc:cooked_deer_meat=구운 사슴 고기
+item.hfrlc:cooked_eagle_meat=구운 독수리 고기
+item.hfrlc:cooked_grizzly_meat=구운 불곰 고기
+item.hfrlc:cooked_rat_meat=구운 쥐 고기
+item.hfrlc:cooked_skunk_meat=구운 스컹크 고기
+item.hfrlc:cooked_snake_meat=구운 질긴 고기
+item.hfrlc:cooked_wolf_meat=구운 늑대 고기
+item.hfrlc:raw_boar_meat=생 멧돼지 고기
+item.hfrlc:raw_deer_meat=생 사슴 고기
+item.hfrlc:raw_eagle_meat=생 독수리 고기
+item.hfrlc:raw_grizzly_meat=생 불곰 고기
+item.hfrlc:raw_rat_meat=생 쥐 고기
+item.hfrlc:raw_skunk_meat=생 스컹크 고기
+item.hfrlc:raw_snake_meat=생 질긴 고기
+item.hfrlc:raw_wolf_meat=생 늑대 고기
+item.hfrlc:pumpkin_slice=호박 조각
+
+## CRAFTING MATERIALS
+item.hfrlc:black_dragon_scales=§f검은 드래곤 비늘
+item.hfrlc:blue_dragon_scales=§f파란 드래곤 비늘
+item.hfrlc:brown_dragon_scales=§f갈색 드래곤 비늘
+item.hfrlc:diamond_wyvern_armor=§f다이아몬드 드래곤 갑옷
+item.hfrlc:dragon_heart=§d드래곤 심장
+item.hfrlc:dragon_skull=§d드래곤 해골
+item.hfrlc:flaming_dragon_blood=§f불타는 드래곤의 정수
+item.hfrlc:flint_shard=§f부싯돌 조각
+item.hfrlc:gold_wyvern_armor=§f금 드래곤 갑옷
+item.hfrlc:green_dragon_scales=§f초록 드래곤 비늘
+item.hfrlc:ice_dragon_blood=§f얼음 드래곤의 정수
+item.hfrlc:info_book=§fRLCraft 메뉴
+item.hfrlc:iron_wyvern_armor=§f철 드래곤 갑옷
+item.hfrlc:netherite_wyvern_armor=§f네더라이트 드래곤 갑옷
+item.hfrlc:paint=붓
+item.hfrlc:plant_fibers_rope=§f식물 섬유 로프
+item.hfrlc:plant_fibers=§f식물 섬유
+item.hfrlc:red_dragon_scales=§f붉은 드래곤 비늘
+
+## THINGS FOR SALE
+item.hfrlc:pirate_armor_plates=§f가죽 상자~LINEBREAK~§7가치: 1
+item.hfrlc:pirate_cloth=§f해적 천~LINEBREAK~§7가치: 1
+item.leather.name=가죽~LINEBREAK~§7가치: 1
+item.rabbit_hide.name=토끼 가죽~LINEBREAK~§7가치: 1
+item.quartz.name=§f네더 석영~LINEBREAK~§7가치: 1
+item.nautilus_shell.name=§f앵무조개 껍데기~LINEBREAK~§7가치: 1
+item.gold_ingot.name=금괴~LINEBREAK~§7가치: 2
+item.iron_ingot.name=철괴~LINEBREAK~§7가치: 1
+item.netherite_ingot.name=§b네더라이트 주괴~LINEBREAK~§7가치: 4
+item.netherite_scrap.name=§b네더라이트 파편~LINEBREAK~§7가치: 1
+item.echo_shard.name=§b에코 파편~LINEBREAK~§7가치: 1
+item.diamond.name=다이아몬드~LINEBREAK~§7가치: 3
+item.emerald.name=에메랄드~LINEBREAK~§7가치: 1
+item.hfrlc:ancient_sprouts=§f고대 새싹~LINEBREAK~§7가치: 1
+item.hfrlc:scorpion_tails=§f전갈 꼬리~LINEBREAK~§7가치: 3
+item.hfrlc:samurai_armor_plates=§f고대 판금~LINEBREAK~§7가치: 3
+item.amethyst_shard.name=자수정 조각~LINEBREAK~§7가치: 1
+item.spider_eye.name=거미 눈~LINEBREAK~§7가치: 1
+item.fermented_spider_eye.name=발효된 거미 눈~LINEBREAK~§7가치: 3
+item.hfrlc:dragon_bone=§b드래곤 뼈~LINEBREAK~§7가치: 1
+item.hfrlc:wyvern_skull=§b드래곤 해골 조각~LINEBREAK~§7가치: 2
+item.hfrlc:wither_bone=§f위더 뼈~LINEBREAK~§7가치: 4
+item.slime_ball.name=슬라임 볼~LINEBREAK~§7가치: 1
+item.wind_charge.name=바람 폭발~LINEBREAK~§7가치: 1
+item.armadillo_scute.name=아르마딜로 비늘~LINEBREAK~§7가치: 2
+item.turtle_shell_piece.name=거북이 껍질 조각~LINEBREAK~§7가치: 2
+item.shulker_shell.name=슐커 껍질~LINEBREAK~§7가치: 2
+item.book.name=§f책~LINEBREAK~§7가치: 2
+item.heart_of_the_sea.name=§f바다의 심장~LINEBREAK~§7가치: 1
+item.hfrlc:orcish_scribbles=§b오크족 문서~LINEBREAK~§7가치: 1~LINEBREAK~~LINEBREAK~§7§o"글씨는 아주 원시적으로 보이지만,~LINEBREAK~§o  그 의미는~LINEBREAK~  알려지지 않았다."§r
+item.hfrlc:knight_orders=§b기사 명령서~LINEBREAK~§7가치: 1~LINEBREAK~~LINEBREAK~§7§o"그들은 무언가를~LINEBREAK~§o  찾고 있다...~LINEBREAK~§o  누군가일 수도..."§r
+item.hfrlc:dwarven_tome=§b드워프 서책~LINEBREAK~§7가치: 1~LINEBREAK~~LINEBREAK~§7§o"종이에 써도 드워프어는~LINEBREAK~§o  마치 정으로 새긴 듯 보인다."§r
+item.hfrlc:tower_blessing=§b신성한 예언~LINEBREAK~§7가치: 1~LINEBREAK~~LINEBREAK~§7§o"이 두루마리엔~LINEBREAK~§o  오직 자신의 모습만이~LINEBREAK~§o  비친다."§r
+
+## POWER CRYSTALS
+item.hfrlc:power_crystal=§b파워 크리스탈  
+item.hfrlc:power_shard=§b파워 파편
+
+## HEALTH CRYSTALS
+item.hfrlc:health_crystal=§c생명력 크리스탈~LINEBREAK~§7재생 II (0:03)~LINEBREAK~최대 체력 영구 증가  
+item.hfrlc:health_crystal_shard=§c생명력 파편  
+
+## ALL THINGS LEVELING
+item.hfrlc:xp=§e경험치 서적~LINEBREAK~§7+15 레벨  
+item.hfrlc:agility_token=§e민첩 룬석~LINEBREAK~§7민첩 +1 레벨  
+item.hfrlc:melee_token=§e근접 룬석~LINEBREAK~§7근접 +1 레벨  
+item.hfrlc:mining_token=§e채굴 룬석~LINEBREAK~§7채굴 +1 레벨  
+item.hfrlc:armor_token=§e방어 룬석~LINEBREAK~§7방어 +1 레벨
+
+## MENU
+item.hfrlc:system_level=§f§l레벨링 메뉴§r~LINEBREAK~§7상호작용하여 인터페이스 열기  
+item.hfrlc:trinket_menu=§f§l장신구 가방§r~LINEBREAK~§7상호작용하여 인터페이스 열기  
+
+## AID ITEMS
+item.hfrlc:bandage=§f붕대~LINEBREAK~§7재생 II (0:03)~LINEBREAK~부러진 부위 치료  
+item.hfrlc:heal1=§f치유의 플라스크~LINEBREAK~§7재생 V (0:01)  
+item.hfrlc:heal2=§b치유의 병~LINEBREAK~§7재생 V (0:06)~LINEBREAK~부러진 부위 치료  
+item.hfrlc:heal3=§d치유의 묘약~LINEBREAK~§7즉시 체력 X~LINEBREAK~부러진 부위 치료  
+item.hfrlc:blue_bush_fruit=서리열매~LINEBREAK~§7열기 저항 I  
+item.hfrlc:orange_bush_fruit=잿불열매~LINEBREAK~§7서리 저항 I  
+item.hfrlc:red_root=스칼렛 뿌리
+
+## UTILITY ITEMS
+item.hfrlc:recover_potion=§f귀환 물약~LINEBREAK~§7마지막 사망 지점으로 순간이동  
+item.hfrlc:sleeping_bag=§f슬리핑 백~LINEBREAK~§7리스폰 지점을 설정하지 않음  
+item.hfrlc:teleport_scroll=§f순간이동 스크롤~LINEBREAK~§7마지막 리스폰 지점으로 순간이동  
+item.hfrlc:warpstone=§f워프스톤~LINEBREAK~§7쳐서 인터페이스 열기  
+item.hfrlc:water_flasks_empty=§f워터스킨~LINEBREAK~§70회 사용 가능~LINEBREAK~물을 채우세요  
+item.hfrlc:water_flasks=§f워터스킨  
+item.hfrlc:copper_coin=구리 동전  
+item.hfrlc:silver_coin=은화  
+item.hfrlc:gold_coin=금화  
+item.hfrlc:air_essence=§b공기 정수  
+item.hfrlc:earth_essence=§b대지 정수  
+item.hfrlc:fire_essence=§b불 정수  
+item.hfrlc:ice_essence=§b얼음 정수  
+item.hfrlc:thunder_essence=§d천둥석  
+item.hfrlc:water_essence=§b물 정수  
+item.hfrlc:briariron_ingot=§b브라이어아이언 주괴  
+item.hfrlc:neptunium_ingot=§b넵투늄 주괴  
+item.hfrlc:shadow_stone=§b그림자 돌  
+item.hfrlc:voidsteel_ingot=§d공허강철 주괴
+
+## ARMOR
+item.turtle_helmet.name=§l§f거북이 헬멧§r§f~LINEBREAK~   
+item.elytra.name=§l§f겉날개§r§f~LINEBREAK~  
+
+item.leather_boots.name=§l§f가죽 부츠§r§f~LINEBREAK~   
+item.leather_chestplate.name=§l§f가죽 튜닉§r§f~LINEBREAK~   
+item.leather_helmet.name=§l§f가죽 헬멧§r§f~LINEBREAK~   
+item.leather_leggings.name=§l§f가죽 바지§r§f~LINEBREAK~   
+
+item.golden_boots.name=§l§f황금 부츠§r§f~LINEBREAK~   
+item.golden_chestplate.name=§l§f황금 흉갑§r§f~LINEBREAK~   
+item.golden_helmet.name=§l§f황금 헬멧§r§f~LINEBREAK~   
+item.golden_leggings.name=§l§f황금 바지§r§f~LINEBREAK~   
+
+item.hfrlc:pirate_boots=§l§f해적 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 속도 II (풀세트 착용 시)~LINEBREAK~+1 수중 호흡 (풀세트 착용 시)  
+item.hfrlc:pirate_chestplate=§l§f해적 튜닉§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 속도 II (풀세트 착용 시)~LINEBREAK~+1 수중 호흡 (풀세트 착용 시)  
+item.hfrlc:pirate_helmet=§l§f해적 삼각모§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 속도 II (풀세트 착용 시)~LINEBREAK~+1 수중 호흡 (풀세트 착용 시)  
+item.hfrlc:pirate_leggings=§l§f해적 바지§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 속도 II (풀세트 착용 시)~LINEBREAK~+1 수중 호흡 (풀세트 착용 시)  
+
+item.iron_boots.name=§l§f철 부츠§r§f~LINEBREAK~   
+item.iron_chestplate.name=§l§f철 흉갑§r§f~LINEBREAK~   
+item.iron_helmet.name=§l§f철 헬멧§r§f~LINEBREAK~   
+item.iron_leggings.name=§l§f철 바지§r§f~LINEBREAK~   
+
+item.chainmail_boots.name=§l§f사슬 갑옷 부츠§r§f~LINEBREAK~   
+item.chainmail_chestplate.name=§l§f사슬 갑옷 흉갑§r§f~LINEBREAK~   
+item.chainmail_helmet.name=§l§f사슬 갑옷 헬멧§r§f~LINEBREAK~   
+item.chainmail_leggings.name=§l§f사슬 갑옷 바지§r§f~LINEBREAK~   
+
+item.diamond_boots.name=§l§f다이아몬드 부츠§r§f~LINEBREAK~   
+item.diamond_chestplate.name=§l§f다이아몬드 흉갑§r§f~LINEBREAK~   
+item.diamond_helmet.name=§l§f다이아몬드 헬멧§r§f~LINEBREAK~   
+item.diamond_leggings.name=§l§f다이아몬드 바지§r§f~LINEBREAK~   
+
+item.netherite_boots.name=§l§f네더라이트 부츠§r§f~LINEBREAK~   
+item.netherite_chestplate.name=§l§f네더라이트 흉갑§r§f~LINEBREAK~   
+item.netherite_helmet.name=§l§f네더라이트 헬멧§r§f~LINEBREAK~   
+item.netherite_leggings.name=§l§f네더라이트 바지§r§f~LINEBREAK~  
+
+item.hfrlc:blue_dragon_boots=§l§f푸른 드래곤 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 열 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:blue_dragon_chestplate=§l§f푸른 드래곤 흉갑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 열 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:blue_dragon_helmet=§l§f푸른 드래곤 헬멧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 열 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:blue_dragon_leggings=§l§f푸른 드래곤 바지§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 열 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+
+item.hfrlc:brown_dragon_boots=§l§f갈색 드래곤 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:brown_dragon_chestplate=§l§f갈색 드래곤 흉갑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:brown_dragon_helmet=§l§f갈색 드래곤 헬멧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:brown_dragon_leggings=§l§f갈색 드래곤 바지§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+
+item.hfrlc:green_dragon_boots=§l§f초록 드래곤 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 독 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:green_dragon_chestplate=§l§f초록 드래곤 흉갑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 독 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:green_dragon_helmet=§l§f초록 드래곤 헬멧§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 독 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:green_dragon_leggings=§l§f초록 드래곤 바지§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 독 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+
+item.hfrlc:red_dragon_boots=§l§f붉은 드래곤 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 서리 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:red_dragon_chestplate=§l§f붉은 드래곤 흉갑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 서리 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:red_dragon_helmet=§l§f붉은 드래곤 헬멧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 서리 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:red_dragon_leggings=§l§f붉은 드래곤 바지§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 서리 저항 I (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+
+item.hfrlc:dark_dragon_boots=§l§f검은 드래곤 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 실명 저항 (풀 세트)~LINEBREAK~+1 어둠 저항 (풀 세트)
+item.hfrlc:dark_dragon_chestplate=§l§f검은 드래곤 흉갑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 실명 저항 (풀 세트)~LINEBREAK~+1 어둠 저항 (풀 세트)
+item.hfrlc:dark_dragon_helmet=§l§f검은 드래곤 헬멧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 실명 저항 (풀 세트)~LINEBREAK~+1 어둠 저항 (풀 세트)
+item.hfrlc:dark_dragon_leggings=§l§f검은 드래곤 바지§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 실명 저항 (풀 세트)~LINEBREAK~+1 어둠 저항 (풀 세트)
+
+item.hfrlc:earth_dragon_boots=§l§f드래곤본 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:earth_dragon_chestplate=§l§f드래곤본 흉갑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:earth_dragon_helmet=§l§f드래곤본 헬멧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+item.hfrlc:earth_dragon_leggings=§l§f드래곤본 바지§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 넉백 저항 (풀 세트)~LINEBREAK~+1 저항 I (풀 세트)
+
+item.hfrlc:samurai_boots=§l§f로닌 부츠§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 힘 I (풀 세트)
+item.hfrlc:samurai_chestplate=§l§f로닌 흉갑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 힘 I (풀 세트)
+item.hfrlc:samurai_helmet=§l§f로닌 헬멧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 힘 I (풀 세트)
+item.hfrlc:samurai_leggings=§l§f로닌 바지§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 팔다리 보호~LINEBREAK~+1 힘 I (풀 세트)
+
+## TRINKETS
+item.hfrlc:golden_ring=§l§f황금 반지§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"겉보기보다~LINEBREAK~§o  더 무겁게 느껴진다."§r
+item.hfrlc:ancient_root=§l§f고대의 뿌리§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~느려짐 저항~LINEBREAK~~LINEBREAK~§7§o"뒤틀린 나무가~LINEBREAK~§o  피로를 흡수한다."§r
+item.hfrlc:goat_horns=§l§f염소 뿔§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~채굴 피로 저항~LINEBREAK~~LINEBREAK~§7§o"금으로 장식되어 있다."§r
+item.hfrlc:cyclops_eye=§l§f사이클롭스의 눈§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~실명 저항~LINEBREAK~어둠 저항~LINEBREAK~~LINEBREAK~§7§o"두 눈이 있어도~LINEBREAK~§o  여전히 유용하다."§r
+item.hfrlc:teddy_of_comfort=§l§f위안의 곰인형§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~재생 I~LINEBREAK~~LINEBREAK~§7§o"포옹은 모든~LINEBREAK~§o  상처를 치유한다."§r
+item.hfrlc:warmer=§l§f영원의 불씨§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~추위 저항~LINEBREAK~~LINEBREAK~§7§o"작은 불씨가~LINEBREAK~§o  불길에 휩싸여 있다.~LINEBREAK~§o  추위 속에서도 따뜻함을 유지한다."§r
+item.hfrlc:ice_bag=§l§f영원의 얼음§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~더위 저항~LINEBREAK~~LINEBREAK~§7§o"얼음은 아무리 뜨거워도~LINEBREAK~§o  녹지 않는다."§r
+item.hfrlc:antidote_vital=§l§f해독의 약병§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~독 저항~LINEBREAK~~LINEBREAK~§7§o"얼마나 흔들어도~LINEBREAK~§o  내용물이 흔들리지 않는다."§r
+item.hfrlc:greatest_shield=§l§f위대한 방패§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~넉백 저항~LINEBREAK~체력 증가 I~LINEBREAK~~LINEBREAK~§7§o"모든 진동을~LINEBREAK~§o  흡수한다."§r
+item.hfrlc:ring_jump=§l§f점프의 반지§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~점프 강화 II~LINEBREAK~~LINEBREAK~§7§o"전보다 훨씬 가벼워진~LINEBREAK~§o  느낌이다... 신기하군."§r
+item.hfrlc:ring_speed=§l§f날쌘 손가락§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~속도 I~LINEBREAK~~LINEBREAK~§7§o"속삭임이 들려온다,~LINEBREAK~§o  어딘가로 가야 할~LINEBREAK~§o  것 같은 충동이..."§r
+item.hfrlc:blessed_water=§l§f축복받은 물§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~위더 저항~LINEBREAK~~LINEBREAK~§7§o"한 방울이면~LINEBREAK~§o  모든 부패를~LINEBREAK~§o  씻어낼 수 있다."§r
+item.hfrlc:mining_amulet=§l§f채굴의 부적§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~신속 I~LINEBREAK~~LINEBREAK~§7§o"길을~LINEBREAK~§o  밝혀준다."§r
+item.hfrlc:shulker_anchor=§l§f셜커 앵커§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~부양 저항~LINEBREAK~~LINEBREAK~§7§o"마법 같은 무언가가~LINEBREAK~§o  그것을 땅에 붙들어 맨다."§r
+item.hfrlc:dragon_eyes=§l§f드래곤의 눈§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~화염 저항~LINEBREAK~야간 투시~LINEBREAK~어둠 저항~LINEBREAK~~LINEBREAK~§7§o"불타는 시선이~LINEBREAK~§o  모든 그림자를 없앤다."§r
+item.hfrlc:ring_regeneration=§l§f재생의 반지§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~재생 I~LINEBREAK~~LINEBREAK~§7§o"손가락에서~LINEBREAK~§o  맥동이 느껴진다."§r
+item.hfrlc:ring_resistance=§l§f저항의 반지§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~저항 I~LINEBREAK~~LINEBREAK~§7§o"인내의 시련에서~LINEBREAK~§o  단련되었다."§r
+item.hfrlc:ring_strength=§l§f힘의 반지§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~힘 I~LINEBREAK~~LINEBREAK~§7§o"거인의 힘이~LINEBREAK~§o  잠들어 있다."§r
+item.hfrlc:feather_swiftness=§l§f깃털의 민첩함§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~속도 II~LINEBREAK~완만 낙하 II~LINEBREAK~~LINEBREAK~§7§o"어디를 가든~LINEBREAK~§o  바람이 따를 것이다."§r
+item.hfrlc:great_horn_shield=§l§f거대한 뿔 방패§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~넉백 저항~LINEBREAK~채굴 피로 저항~LINEBREAK~체력 증가 I~LINEBREAK~~LINEBREAK~§7§o"보호의 인장이~LINEBREAK~§o  주입되어 있다."§r
+item.hfrlc:withering_necklace=§l§f시들음의 목걸이§r§f~LINEBREAK~...~LINEBREAK~§9~LINEBREAK~위더 속성 I~LINEBREAK~~LINEBREAK~§7§o"위더 해골이~LINEBREAK~§o  잠들어 있는 듯하다."§r
+item.hfrlc:panacea=§p§l만병통치약§r§f~LINEBREAK~...~LINEBREAK~§p§l전설 아이템§r§9~LINEBREAK~~LINEBREAK~실명 저항~LINEBREAK~느려짐 저항~LINEBREAK~독 저항~LINEBREAK~위더 저항~LINEBREAK~채굴 피로 저항~LINEBREAK~부양 저항~LINEBREAK~~LINEBREAK~§7§o"모든 것을~LINEBREAK~§o  치유하는 하나의 해답."§r
+item.hfrlc:dragon_slayer_cape=§p§l용사냥꾼의 망토§r§f~LINEBREAK~...~LINEBREAK~§p§l전설 아이템§r§9~LINEBREAK~~LINEBREAK~실명 저항~LINEBREAK~느려짐 저항~LINEBREAK~독 저항~LINEBREAK~위더 저항~LINEBREAK~넉백 저항~LINEBREAK~폭발 저항~LINEBREAK~화염 저항~LINEBREAK~채굴 피로 저항~LINEBREAK~~LINEBREAK~§7§o"쓰러뜨린 짐승의~LINEBREAK~§o  승리로 짜여졌다."§r
+item.hfrlc:dragon_slayer_ring=§p§l용사냥꾼의 반지§r§f~LINEBREAK~...~LINEBREAK~§p§l전설 아이템§r§9~LINEBREAK~~LINEBREAK~힘 II~LINEBREAK~체력 증가 V~LINEBREAK~저항 I~LINEBREAK~~LINEBREAK~§7§o"그들이 두려워하는~LINEBREAK~§o  존재..."§r
+item.hfrlc:lapis_ring=§l§f청금석 반지§r§f~LINEBREAK~...~LINEBREAK~~LINEBREAK~§7§o"반짝이진 않지만~LINEBREAK~§o  확실히 고급스럽다."§r
+item.hfrlc:silver_ring=§l§f철 반지§r§f~LINEBREAK~...~LINEBREAK~~LINEBREAK~§7§o"반짝이는 모습에~LINEBREAK~§o  누군가는 은으로 착각할 것이다."§r
+item.hfrlc:netherite_ring=§l§f네더라이트 반지§r§f~LINEBREAK~...~LINEBREAK~~LINEBREAK~§7§o"이 세계에~LINEBREAK~§o  속하지 않은 물건이다. 누군가는~LINEBREAK~§o  그것을 네더로~LINEBREAK~§o  돌려보내야 한다."§r
+
+## SWORDS
+item.wooden_sword.name=§l§f나무 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"숙련으로 가는~LINEBREAK~§o  첫걸음."§r
+item.stone_sword.name=§l§f돌 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"전사의~LINEBREAK~§o  든든한 초석."§r
+item.golden_sword.name=§l§f황금 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"빛나지만~LINEBREAK~§o  튼튼하진 않아."§r
+item.hfrlc:spike_sword=§l§f충격§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9사용 시 공중에서 충격파 발생.~LINEBREAK~철괴로 수리.~LINEBREAK~~LINEBREAK~§7§o"휘두를 때마다~LINEBREAK~§o  중력을 거스른다."§r
+item.iron_sword.name=§l§f철 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"숙련으로~LINEBREAK~§o  벼려진 강철."§r
+item.hfrlc:darkness_sword=§l§f섀도우렌드§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9사용 시 그림자에 숨음.~LINEBREAK~섀도우 스톤으로 수리.~LINEBREAK~~LINEBREAK~§7§o"죽인 자는~LINEBREAK~§o  그림자 영역으로 사라진다."§r
+item.hfrlc:weapon_4=§l§f뼈 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9섀도우 스톤으로 수리.~LINEBREAK~~LINEBREAK~§7§o"죽음의 날카로운~LINEBREAK~§o  칼끝."§r
+item.hfrlc:water_sword=§l§f흐름§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9물 투사체 발사 가능.~LINEBREAK~물의 정수로 수리.~LINEBREAK~~LINEBREAK~§7§o"맑은 물이~LINEBREAK~§o  강철을 흐른다."§r
+item.diamond_sword.name=§l§f다이아몬드 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"결정체의~LINEBREAK~§o  완벽한 무기화."§r
+item.hfrlc:air_sword=§l§f경계§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9바람 돌풍 생성 가능.~LINEBREAK~공기의 정수로 수리.~LINEBREAK~~LINEBREAK~§7§o"바람의 힘을~LINEBREAK~§o  지배하라."§r
+item.hfrlc:light_sword=§l§f에리시릴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9슈퍼 점프 가능.~LINEBREAK~공기의 정수로 수리.~LINEBREAK~~LINEBREAK~§7§o"별까지~LINEBREAK~§o  도약하라."§r
+item.hfrlc:weapon_8=§l§f얼음 검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~~LINEBREAK~§9얼음의 정수로 수리.~LINEBREAK~~LINEBREAK~§7§o"겨울의 이빨이~LINEBREAK~§o  실체를 이루다."§r
+item.netherite_sword.name=§l§f네더라이트 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"네더 깊은 곳에서~LINEBREAK~§o  벼려졌다."§r
+item.hfrlc:fire_sword=§l§f화염 검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9불 투사체 발사 가능.~LINEBREAK~불의 정수로 수리.~LINEBREAK~~LINEBREAK~§6화염 속성~LINEBREAK~~LINEBREAK~§7§o"불꽃 투사체가~LINEBREAK~§o  적을 태운다."§r
+item.hfrlc:ice_sword=§l§f빙하§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9얼음 투사체 발사.~LINEBREAK~앉은 상태에서 공격 시 얼음 가시 생성.~LINEBREAK~얼음의 정수로 수리.~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~~LINEBREAK~§7§o"앉은 채 휘두르면~LINEBREAK~§o  얼음 가시가 솟아난다."§r
+item.hfrlc:ocean_sword=§l§f파도 가르개§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9앉은 채 사용 시 물 투사체 발사.~LINEBREAK~물 충격파 생성.~LINEBREAK~넵투늄 주괴로 수리.~LINEBREAK~~LINEBREAK~§7§o"파도가~LINEBREAK~§o  네 의지에 복종한다."§r
+item.hfrlc:weapon_6=§l§f엘든 검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"고대의 힘이~LINEBREAK~§o  강철을 흐른다."§r
+item.hfrlc:weapon_7=§l§f롱소드§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"긴 사거리는~LINEBREAK~§o  장기전에 유리하다."§r
+item.hfrlc:weapon_5=§l§f해머소드§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"파괴력과~LINEBREAK~§o  절단의 조화."§r
+item.hfrlc:dragon_bone_sword=§l§f용뼈 롱소드§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"고대 용의~LINEBREAK~§o  유해로 벼려졌다."§r
+item.hfrlc:earth_sword=§l§f대지분쇄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9사용 시 주변에 피해를 주는 종유석 생성.~LINEBREAK~브라이어철괴로 수리.~LINEBREAK~~LINEBREAK~§7§o"땅에서 솟아오르는~LINEBREAK~§o  돌의 창."§r
+item.hfrlc:ice_dragon_bone_sword=§l§f눈보라§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~§3드래곤 슬레이어~LINEBREAK~~LINEBREAK~§7§o"얼음과 뼈가~LINEBREAK~§o  하나로 벼려졌다."§r
+item.hfrlc:fire_dragon_bone_sword=§l§f불꽃의 노래§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6화염 속성~LINEBREAK~§3드래곤 슬레이어~LINEBREAK~~LINEBREAK~§7§o"드래곤의 불꽃으로~LINEBREAK~§o  벼려졌다."§r
+item.hfrlc:lava_sword=§l§f운석 검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9운석 생성 가능.~LINEBREAK~불의 정수로 수리.~LINEBREAK~~LINEBREAK~§7§o"하늘에서 운석이~LINEBREAK~§o  쏟아진다."§r
+item.hfrlc:ender_sword=§l§f순간이동§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9목표 지점으로 순간이동.~LINEBREAK~보이드강철괴로 수리.~LINEBREAK~~LINEBREAK~§7§o"조준한 곳으로~LINEBREAK~§o  순간이동한다."§r
+item.hfrlc:storm_sword=§l§f회오리§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9폭풍 생성 가능.~LINEBREAK~천둥석으로 수리.~LINEBREAK~~LINEBREAK~§7§o"폭풍이~LINEBREAK~§o  당신의 의지에 굴복한다."§r
+item.hfrlc:thunder_sword=§l§f폭풍파괴자§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9번개 생성 가능.~LINEBREAK~천둥석으로 수리.~LINEBREAK~~LINEBREAK~§9번개 속성~LINEBREAK~~LINEBREAK~§7§o"천둥이~LINEBREAK~§o  당신의 일격에 응답한다."§r
+item.hfrlc:elemental_sword=§l§p알가베일드§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l전설의 아이템§r§9~LINEBREAK~~LINEBREAK~§r§d웅크리면 속성 전환~LINEBREAK~~LINEBREAK~§7§o"드디어...~LINEBREAK~§o  쉴 수 있겠군."§r
+item.hfrlc:dirt_sword=§l§f흙 검§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9흙 투사체 발사 가능.~LINEBREAK~흙으로 수리.~LINEBREAK~~LINEBREAK~§7§o"땅의 근원이~LINEBREAK~§o  무기가 되다."§r
+item.hfrlc:jungle_sword=§l§f에버그린§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9땅에서 돌 기둥이 솟아남.~LINEBREAK~대지의 정수로 수리.~LINEBREAK~~LINEBREAK~§7§o"흙을 그리워하는~LINEBREAK~§o  검."§r
+
+## GREATSWORDS
+item.hfrlc:wither_sword=§l§f학살자§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9사용 시 위더 투사체 발사.~LINEBREAK~헤비 코어로 수리.~LINEBREAK~~LINEBREAK~§u위더 속성~LINEBREAK~~LINEBREAK~§7§o"죽음이~LINEBREAK~§o  이 검을 인도한다."§r
+item.hfrlc:nether_sword=§l§f지옥불§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9용암 공격 생성 가능.~LINEBREAK~헤비 코어로 수리.~LINEBREAK~~LINEBREAK~§7§o"지옥불이~LINEBREAK~§o  칼날을 타고 흐른다."§r
+item.hfrlc:poison_sword=§l§f늪가시§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9사용 시 독성 투사체 발사.~LINEBREAK~헤비 코어로 수리.~LINEBREAK~~LINEBREAK~§2독성~LINEBREAK~~LINEBREAK~§7§o"독이~LINEBREAK~§o  칼끝에서 뚝뚝 떨어진다."§r
+
+## KATANAS
+item.hfrlc:weapon_10=§l§f카타나§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"검의 길이~LINEBREAK~§o  형상이 되다."§r
+item.hfrlc:dragon_bone_katana=§l§f드래곤본 카타나§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3용의 파멸~LINEBREAK~~LINEBREAK~§7§o"더 문명화된 시대의~LINEBREAK~§o  우아한 무기."§r
+item.hfrlc:ice_dragon_bone_katana=§l§f서리이빨§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~§3용의 파멸~LINEBREAK~~LINEBREAK~§7§o"용의 영혼이~LINEBREAK~§o  얼음과 결합되어~LINEBREAK~§o  어떤 금속도 자를 수 있는~LINEBREAK~§o  유대를 만들었다."§r
+item.hfrlc:fire_dragon_bone_katana=§l§f불길의 자취§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6화염 속성~LINEBREAK~§3용의 파멸~LINEBREAK~~LINEBREAK~§7§o"불의 용의 영혼이~LINEBREAK~§o  자루 안에서~LINEBREAK~§o  고동친다."§r
+item.hfrlc:legendary_katana=§l§p혼의 카타나§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l전설의 아이템§r~LINEBREAK~~LINEBREAK~§7§o"고대의 영혼이~LINEBREAK~§o  이 검을 인도한다."§r
+
+## DAGGERS
+item.hfrlc:flint_dagger=§l§f부싯돌 칼§r§f~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"식물에서 섬유를~LINEBREAK~§o  추출하는 데 충분하다."§r
+item.hfrlc:wooden_dagger=§l§f나무 단검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"종이조차~LINEBREAK~§o  겨우 자른다."§r
+item.hfrlc:golden_dagger=§l§f황금 단검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"한 번 휘두를 때마다~LINEBREAK~§o  쉽게 금이 간다."§r
+item.hfrlc:stone_dagger=§l§f돌 단검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"무겁지만~LINEBREAK~§o  생각보다 무디진 않다."§r
+item.hfrlc:iron_dagger=§l§f철 단검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"날카로운 날이~LINEBREAK~§o  누군가를 찌르고 싶어한다."§r
+item.hfrlc:weapon_9=§l§f잠비야§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"그 황금 자루에는~LINEBREAK~§o  당신이 알 수 없는~LINEBREAK~§o  문양이 새겨져 있다."§r
+item.hfrlc:diamond_dagger=§l§f다이아몬드 단검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"섬세한 외형이지만~LINEBREAK~§o  정확한 살상력."§r
+item.hfrlc:netherite_dagger=§l§f네더라이트 단검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"어둠의 금속이~LINEBREAK~§o  햇빛에 자줏빛으로 반짝인다."§r
+item.hfrlc:dragon_bone_dagger=§l§f드래곤본 단검§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9확률적으로 피해 2배~LINEBREAK~~LINEBREAK~§3용의 파멸~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"용의 발톱이~LINEBREAK~§o  당신의 손에 있다."§r
+item.hfrlc:ice_dragon_bone_dagger=§l§f서릿조각§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~§3용의 파멸~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"용의 영혼과 얼음이~LINEBREAK~§o  결합하여~LINEBREAK~§o  금속조차 가를 유대를 만들었다."§r
+item.hfrlc:fire_dragon_bone_dagger=§l§f불꽃날§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6화염 속성~LINEBREAK~§3용의 파멸~LINEBREAK~§p섬유 채취~LINEBREAK~~LINEBREAK~§7§o"불의 용의 영혼이~LINEBREAK~§o  자루에서~LINEBREAK~§o  뛰고 있다."§r
+
+## SPEARS
+item.hfrlc:wooden_spear=§l§f나무 창§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"날카로운 야망을~LINEBREAK~§o  품은 막대기."§r
+item.hfrlc:golden_spear=§l§f황금 창§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"황금이지만~LINEBREAK~§o  그렇게 귀하진 않다."§r
+item.hfrlc:stone_spear=§l§f돌 창§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"원시적이지만~LINEBREAK~§o  의외로 효과적이다."§r
+item.hfrlc:weapon_2=§l§f나기나타§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"명예가~LINEBREAK~§o  찌름 하나하나를 인도한다."§r
+item.hfrlc:iron_spear=§l§f철 창§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"신뢰할 수 있고~LINEBREAK~§o  균형이 잘 잡혀 있다."§r
+item.hfrlc:diamond_spear=§l§f다이아몬드 창§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"뚫는 완벽함이~LINEBREAK~§o  실현되었다."§r
+item.hfrlc:netherite_spear=§l§f네더라이트 창§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"부서지지 않는 어둠이~LINEBREAK~§o  강철로 단련되었다."§r
+item.hfrlc:dragon_bone_spear=§l§f드래곤본 창§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"용의 정수가~LINEBREAK~§o  창끝을 더욱 날카롭게 한다."§r
+item.hfrlc:ice_dragon_bone_spear=§l§f윈터웜§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~§3용의 파멸~LINEBREAK~~LINEBREAK~§7§o"얼어붙은 숨결이~LINEBREAK~§o  강철이 되었다."§r
+item.hfrlc:fire_dragon_bone_spear=§l§f잿불가시§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6화염 속성~LINEBREAK~§3용의 파멸~LINEBREAK~~LINEBREAK~§7§o"창끝은~LINEBREAK~§o  영원한 불꽃으로 타오른다."§r
+
+## TRIDENTS
+item.trident.name=§l§f삼지창§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"비린내가~LINEBREAK~§o  난다..."§r
+item.hfrlc:weapon_11=§l§f넵투늄 삼지창§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l피해§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 투사체 피해~LINEBREAK~충성심~LINEBREAK~넵투늄 주괴로 수리 가능~LINEBREAK~~LINEBREAK~§7§o"세 갈래의~LINEBREAK~§o  수중 격노."§r
+
+## WARHAMMERS
+item.hfrlc:dragon_bone_hammer=§l§f드래곤본 워해머§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"무기로 구현된~LINEBREAK~§o  순수한 드래곤의 힘."§r
+item.hfrlc:ice_dragon_bone_hammer=§l§f도미니언§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~§3드래곤베인~LINEBREAK~~LINEBREAK~§7§o"무기로 구현된~LINEBREAK~§o  영원의 겨울."§r
+item.hfrlc:fire_dragon_bone_hammer=§l§f화로§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6화염 속성~LINEBREAK~§3드래곤베인~LINEBREAK~~LINEBREAK~§7§o"무기로 형상화된~LINEBREAK~§o  타오르는 분노."§r
+item.mace.name=§l§f메이스§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"모든 타격이~LINEBREAK~§o  대지를 울린다."§r
+
+## SHIELDS
+item.hfrlc:weapon_13=§l§f나무 방패§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"자연이 준~LINEBREAK~§o  단순한 보호."§r
+item.shield.name=§l§f방패§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l데미지§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"하루 종일 할 수 있어..."§r
+
+
+## STAVES
+item.hfrlc:weapon_12=§l§f마법 지팡이§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"신비한 에너지가~LINEBREAK~§o  흐르고 있다."§r
+
+## BOWS
+item.crossbow.name=§l§f쇠뇌§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"일래저의~LINEBREAK~§o  선택."§r
+item.bow.name=§l§f활§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"화살이~LINEBREAK~§o  정확히 명중하길."§r
+item.hfrlc:weapon_1=§l§f롱보우§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 투사체 피해§r~LINEBREAK~~LINEBREAK~§7§o"정확한 사격을 위한~LINEBREAK~§o  확장된 사거리."§r
+item.hfrlc:dragon_bone_bow=§l§f드래곤본 활§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 투사체 피해~LINEBREAK~~LINEBREAK~§7§o"고대의 힘이~LINEBREAK~§o  화살을 인도한다."§r
+item.hfrlc:fire_dragon_bow=§l§f엠버스냅§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6화염 속성~LINEBREAK~§9+20 투사체 피해~LINEBREAK~~LINEBREAK~§7§o"화살이~LINEBREAK~§o  용의 불꽃으로 불탄다."§r
+item.hfrlc:ice_dragon_bone_bow=§l§f프로스트스냅§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b서리 속성~LINEBREAK~§9+20 투사체 피해~LINEBREAK~~LINEBREAK~§7§o"화살이~LINEBREAK~§o  날아가며 얼어붙는다."§r
+
+## TOOLS
+item.wooden_axe.name=§l§f나무 도끼§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"약하긴 해도~LINEBREAK~  쓸 만하다."§r
+item.wooden_shovel.name=§l§f나무 삽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"흙에게는 최악의 공포! ~LINEBREAK~  ...부러질 때까지는."§r
+item.wooden_pickaxe.name=§l§f나무 곡괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"자갈이 가장 싫어하는~LINEBREAK~  친구."§r
+item.wooden_hoe.name=§l§f나무 괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"흙은 이길 수 없어~LINEBREAK~  ...아마도."§r
+
+item.stone_axe.name=§l§f석재 도끼§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"죽은 나무쯤은~LINEBREAK~  쉽게 자를 수 있어."§r
+item.stone_shovel.name=§l§f석재 삽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"이제 더 깊이~LINEBREAK~  파볼 시간이야."§r
+item.stone_pickaxe.name=§l§f석재 곡괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"바위가 바위를~LINEBREAK~  얼마나 캘 수 있을까..."§r
+item.stone_hoe.name=§l§f석재 괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"농사가~LINEBREAK~  돌처럼 단단해졌어."§r
+
+item.iron_axe.name=§l§f철제 도끼§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"믿음직한 벌목용 도끼."§r
+item.iron_shovel.name=§l§f철제 삽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"나는 흙과 하나가 되었다.~LINEBREAK~  그리고 흙도 나와 함께하지."§r
+item.iron_pickaxe.name=§l§f철제 곡괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"산도 부수는 곡괭이!~LINEBREAK~  한 번에 한 번씩..."§r
+item.iron_hoe.name=§l§f철제 괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"여기 밀이 자랄 거야."§r
+
+item.golden_axe.name=§l§f황금 도끼§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"예쁘긴 한데~LINEBREAK~  튼튼했으면 좋겠네~LINEBREAK~  정말로.."§r
+item.golden_shovel.name=§l§f황금 삽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"아름다워...~LINEBREAK~  하지만 약해."§r
+item.golden_pickaxe.name=§l§f황금 곡괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"미다스도 감탄했겠지...~LINEBREAK~하지만 파산했을걸."§r
+item.golden_hoe.name=§l§f황금 괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"지옥에서 제조됨."§r
+
+item.diamond_axe.name=§l§f다이아몬드 도끼§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"이거 하나면~LINEBREAK~  작은 숲쯤은~LINEBREAK~  거뜬하지."§r
+item.diamond_shovel.name=§l§f다이아몬드 삽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"때로는~LINEBREAK~  멋지게 파야~LINEBREAK~  할 때가 있지."§r
+item.diamond_pickaxe.name=§l§f다이아몬드 곡괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"흑요석도~LINEBREAK~  긴장하게 만든다..."§r
+item.diamond_hoe.name=§l§f다이아몬드 괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"감자를 키우기엔~LINEBREAK~  과분하지 않을까?"§r
+
+item.netherite_axe.name=§l§f네더라이트 도끼§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"이 세계 너머의~LINEBREAK~  재료로 만들어졌지."§r
+item.netherite_shovel.name=§l§f네더라이트 삽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"악마조차~LINEBREAK~  다가가기 꺼려한~LINEBREAK~  장소에서 단련됨."§r
+item.netherite_pickaxe.name=§l§f네더라이트 곡괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"기반암까지!~LINEBREAK~  그리고 그 너머로!"§r
+item.netherite_hoe.name=§l§f네더라이트 괭이§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"농사라고?~LINEBREAK~  당신 같은 실력자가?"§r
+
+item.hfrlc:flint_axe=§l§f부싯돌 도끼§r§f~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"원시적이지만~LINEBREAK~§o  놀랍도록 날카롭다."§r
+item.hfrlc:weapon_3=§l§f뼈 손도끼§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l공격력§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9쉐도우 스톤으로 수리 가능.~LINEBREAK~~LINEBREAK~§7§o"작지만~LINEBREAK~§o  치명적으로 날카롭다."§r
+
+item.hfrlc:dungeon_door=던전 문
+item.hfrlc:dungeon_door_desert=사막 던전 문
+item.hfrlc:dungeon_door_snow=얼음 던전 문
+item.hfrlc:dungeon_door_red_desert=붉은 사막 던전 문
+item.hfrlc:dungeon_door_key=문 열쇠
+item.hfrlc:key=열쇠
+
+death.attack.anvil=%1$s을(를) 위해 채팅창에 F를...
+death.attack.arrow=엄마, 카메라 가져와!!
+death.attack.bullet=엄마, 카메라 가져와!!
+death.attack.cactus=진정한 MVP, 가장 소중한 먹잇감이었어.
+death.attack.drown=%1$s야, 물 그렇게 깊지도 않았어.
+death.attack.explosion=업적 달성: 전문 리스포너.
+death.attack.explosion.by.bed=그냥 놔둬, 요리 중이야!
+death.attack.explosion.player=용을 훈련시키는 방법(실패편)
+death.attack.fall=중력이 말했지, "%1$s 앉아."
+death.attack.fallingBlock=패치노트: 인생 너프됨.
+death.attack.fireball=르브로오오온!
+death.attack.fireworks=힐 안 한 거, 맞지?
+death.attack.flyIntoWall=감정적 데미지!
+death.attack.generic=%1$s 사망
+death.attack.indirectMagic=%1$s는 전설이 아니었다.
+death.attack.inFire=불끈불끈! 불이 뜨거워!
+death.attack.inWall=렉이었을까, 실력이었을까?
+death.attack.lava=그래도 말을 끌고 용암에 들어간 건 아니잖아.
+death.attack.lightningBolt=실력을 길러라.
+death.attack.maceSmash.player=%1$s이(가) %2$s에게 박살났다
+death.attack.maceSmash.player.item=%1$s이(가) %2$s에게 %3$s(으)로 박살났다
+death.attack.magic=수분을 자주 섭취하세요: 식사 중, 운동 후, 갈증이 느껴질 때 등.
+death.attack.magma=포옹이 필요하신가요?
+death.attack.mob=%1$s은(는) 생존 조건을 충족하지 못했습니다.
+death.attack.mob.item=%1$s은(는) 생존 조건을 충족하지 못했습니다.
+death.attack.onFire=뜨거운 불길 속에서 죽음이 온다!!!
+death.attack.outOfWorld=리스폰 레벨 50 달성.
+death.attack.player=%1$s은(는) 생존 조건을 충족하지 못했습니다.
+death.attack.player.item=%1$s은(는) 생존 조건을 충족하지 못했습니다.
+death.attack.spit=%1$s은(는) %2$s에게 얼굴에 침 세례를 받았다
+death.attack.starve=편히 쉬어, 그래도 노력은 했잖아.
+death.attack.sweetBerry=진정한 MVP, 가장 소중한 먹잇감이었어.
+death.attack.thorns=진정한 MVP, 가장 소중한 먹잇감이었어.
+death.attack.trident=%1$s이(가) %2$s에게 창에 찔려 사망했다
+death.attack.wither=우유를 챙겼어야지
+death.attack.freeze=조니 댕한테 갔어야지
+death.attack.sonicBoom.player=회피하려면 X를 눌렀어야지.
+death.attack.stalactite=죽음 업적이 있다면 두 번은 달성했겠어.
+death.attack.stalagmite=%1$s은(는) 정말 열심히 했지만, 결국 추락했다.
+death.fell.accident.generic=중력이 말했지, "%1$s 앉아."
+
+pack.name=RLCraft Bedrock Edition RP
+pack.description=§l§c[!] 이 팩은 가장 위에 있어야 합니다!§r | Shivaxi의 원작 자바 모드팩 기반 | Honeyfrost 제작, Skybox는 Hybred 제공

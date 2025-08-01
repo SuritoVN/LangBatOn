@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:heavy_core"}],"description":{"identifier":"hfrlc:nether_sword"},"tags":["crafting_table"],"pattern":["DAD","AXA","DAD"],"key":{"A":{"item":"hfrlc:flaming_dragon_blood"},"X":{"item":"hfrlc:poison_sword"},"D":{"item":"hfrlc:fire_essence"}},"result":{"item":"hfrlc:nether_sword"}}}

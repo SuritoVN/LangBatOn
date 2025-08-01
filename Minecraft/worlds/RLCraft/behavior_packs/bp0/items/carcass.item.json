@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"hfrlc:carcass","menu_category":{"category":"nature"}},"components":{"minecraft:icon":"hfrlc_carcass","minecraft:display_name":{"value":"tile.hfrlc:carcass.name"},"minecraft:block_placer":{"block":"hfrlc:carcass","replace_block_item":true}}}}

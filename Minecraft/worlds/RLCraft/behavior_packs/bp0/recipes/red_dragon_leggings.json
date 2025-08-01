@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:red_dragon_scales"}],"description":{"identifier":"hfrlc:red_dragon_leggings"},"tags":["crafting_table"],"pattern":["SSS","SAS","S S"],"key":{"S":{"item":"hfrlc:red_dragon_scales"},"A":{"item":"minecraft:netherite_ingot"},"D":{"item":"hfrlc:dragon_bone"}},"result":{"item":"hfrlc:red_dragon_leggings"}}}

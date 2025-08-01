@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hfrlc:roots","materials":{"default":"spider"},"textures":{"default":"textures/entity/witcher_leshen"},"geometry":{"default":"geometry.leshen_roots"},"animations":{"default":"animation.witcher_leshen.root"},"render_controllers":["controller.render.default"],"scripts":{"animate":["default"]}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:red_root"}],"description":{"identifier":"hfrlc:heal2"},"tags":["crafting_table"],"pattern":["GS","AT"],"key":{"G":{"item":"minecraft:spider_eye"},"S":{"item":"hfrlc:red_root"},"T":{"item":"hfrlc:heal1"},"A":{"item":"minecraft:red_mushroom"}},"result":{"item":"hfrlc:heal2"}}}

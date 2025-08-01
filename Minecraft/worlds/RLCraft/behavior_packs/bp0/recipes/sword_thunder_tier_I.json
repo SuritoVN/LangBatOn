@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:heavy_core"}],"description":{"identifier":"hfrlc:storm_sword"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"hfrlc:air_essence"},"B":{"item":"hfrlc:thunder_essence"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:storm_sword"}}}

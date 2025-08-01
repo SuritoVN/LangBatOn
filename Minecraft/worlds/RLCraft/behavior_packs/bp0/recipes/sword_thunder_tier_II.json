@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:heavy_core"}],"description":{"identifier":"hfrlc:thunder_sword"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"hfrlc:thunder_essence"},"B":{"item":"hfrlc:power_crystal"},"C":{"item":"hfrlc:storm_sword"}},"result":{"item":"hfrlc:thunder_sword"}}}

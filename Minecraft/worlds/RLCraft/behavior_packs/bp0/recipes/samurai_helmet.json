@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:samurai_armor_plates"}],"description":{"identifier":"hfrlc:samurai_helmet"},"tags":["crafting_table"],"pattern":["ASA","S S","   "],"key":{"S":{"item":"minecraft:netherite_scrap"},"A":{"item":"hfrlc:samurai_armor_plates"}},"result":{"item":"hfrlc:samurai_helmet"}}}

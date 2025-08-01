@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:wither_bone"}],"description":{"identifier":"minecraft:arrow_of_decay"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"minecraft:flint"},"B":{"item":"hfrlc:wither_bone"},"C":{"item":"minecraft:feather"}},"result":{"item":"minecraft:arrow","data":37,"count":4}}}

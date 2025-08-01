@@ -1,0 +1,1 @@
+{"format_version":"1.21.40","minecraft:scatter_feature":{"description":{"identifier":"hfrlc:forest/forest_base_scatter_feature"},"places_feature":"hfrlc:forest/forest_red_roots_feature","distribution":{"iterations":"return v.y_height + 1;","x":0,"y":{"distribution":"uniform","extent":["-v.y_height",0]},"z":0}}}

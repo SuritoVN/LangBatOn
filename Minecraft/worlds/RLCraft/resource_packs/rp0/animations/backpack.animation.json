@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.backpack.dmg":{"animation_length":0.33333,"bones":{"backpack":{"rotation":{"0.0":[0,0,0],"0.0833":[0,0,7.5],"0.1667":[0,0,0],"0.25":[0,0,-7.5],"0.3333":[0,0,0]}}}},"animation.backpack.popup":{"loop":"hold_on_last_frame","animation_length":6.5,"particle_effects":{"1.0":{"effect":"popup","locator":"popup"}}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"hfrlc:seashells","menu_category":{"category":"nature"}},"components":{"minecraft:icon":"hfrlc_seashells","minecraft:display_name":{"value":"tile.hfrlc:seashells.name"},"minecraft:block_placer":{"block":"hfrlc:seashells","replace_block_item":true}}}}

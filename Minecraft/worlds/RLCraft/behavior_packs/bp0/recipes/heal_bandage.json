@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:bandage"},"tags":["crafting_table"],"pattern":["GA","AG"],"key":{"G":{"item":"hfrlc:plant_fibers_rope"},"A":{"item":"minecraft:bone_meal"}},"result":{"item":"hfrlc:bandage"}}}

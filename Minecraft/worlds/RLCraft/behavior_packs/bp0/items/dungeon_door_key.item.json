@@ -1,0 +1,1 @@
+{"format_version":"1.21.60","minecraft:item":{"description":{"identifier":"hfrlc:dungeon_door_key","menu_category":{"category":"construction","group":"minecraft:itemGroup.name.door"}},"components":{"minecraft:block_placer":{"block":"hfrlc:dungeon_door_key"},"minecraft:icon":"hfrlc:dungeon_door_key"}}}

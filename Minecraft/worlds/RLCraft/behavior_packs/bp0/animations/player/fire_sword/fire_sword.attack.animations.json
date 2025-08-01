@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animations":{"animation.fire_sword.attack":{"loop":false,"animation_length":1,"timeline":{"0.25":["/playsound mob.ghast.fireball @a ~~~ 0.5 1 0.01","/camerashake add @s 0.075 0.1 rotational","@s hfrlc:fire_sword.attack"]}}}}

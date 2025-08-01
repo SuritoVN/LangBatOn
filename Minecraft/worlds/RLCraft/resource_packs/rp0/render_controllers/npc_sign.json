@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.npcsign":{"arrays":{"textures":{"Array.skins":["Texture.npcsign","Texture.npcsign_2"]}},"geometry":"Geometry.default","textures":["Array.skins[query.mark_variant]"],"materials":[{"*":"Material.default"}]}}}

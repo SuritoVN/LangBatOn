@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.hf_rl.sea_serpent.on_yaw":{"initial_state":"default","states":{"default":{"transitions":[{"yaw":"q.property('hfrlc:states') != 'spawn' && q.property('hfrlc:states') != 'death' && !q.property('hfrlc:is_death')"}]},"yaw":{"transitions":[{"default":"(1.0)"}],"on_entry":["@s hfrlc:on_yaw"]}}}}}

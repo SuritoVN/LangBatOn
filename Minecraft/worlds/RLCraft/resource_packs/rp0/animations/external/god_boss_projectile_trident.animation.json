@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.god_boss_projectile_trident.in_air":{"loop":true,"animation_length":3,"bones":{"root":{"position":{"1.0":[0,32,0],"2.5":[0,32,-771]}}},"particle_effects":{"1.0":[{"effect":"trident.5","locator":"trident_projectile"},{"effect":"trident.6","locator":"trident_projectile"},{"effect":"trident.7","locator":"trident_projectile"}]}}}}

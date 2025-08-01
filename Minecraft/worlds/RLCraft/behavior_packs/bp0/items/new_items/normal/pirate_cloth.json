@@ -1,0 +1,1 @@
+{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"hfrlc:pirate_cloth"},"components":{"minecraft:icon":{"texture":"pirate_cloth"},"minecraft:fuel":{"duration":45.0},"minecraft:max_stack_size":64}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:ice_essence"}],"description":{"identifier":"hfrlc:weapon_8"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"hfrlc:ice_essence"},"B":{"item":"hfrlc:ice_essence"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:weapon_8"}}}

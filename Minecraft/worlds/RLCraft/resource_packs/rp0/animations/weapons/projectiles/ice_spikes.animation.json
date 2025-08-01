@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.ice_spikes.uproot":{"loop":"hold_on_last_frame","animation_length":0.125,"bones":{"ice_spikes":{"position":{"0.0":[0,0,0],"0.125":[0,20.5,0]},"scale":{"0.0":[0,0,0],"0.125":[1,1,1]}}}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.enchanted_glint":{"geometry":"Geometry.armor","materials":[{"*":"Material.enchanted"}],"textures":["Texture.enchanted"],"uv_anim":{"offset":["(Math.floor(q.life_time * 20.0) + q.frame_alpha) * -0.015","(Math.floor(q.life_time * 20.0) + q.frame_alpha) * 0.015"],"scale":[0.2,0.2]}}}}

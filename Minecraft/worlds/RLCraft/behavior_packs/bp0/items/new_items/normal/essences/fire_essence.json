@@ -1,0 +1,1 @@
+{"format_version":"1.20.50","minecraft:item":{"description":{"identifier":"hfrlc:fire_essence"},"components":{"minecraft:icon":{"texture":"hfrlc:fire_essence"},"minecraft:fuel":{"duration":100.0}}}}

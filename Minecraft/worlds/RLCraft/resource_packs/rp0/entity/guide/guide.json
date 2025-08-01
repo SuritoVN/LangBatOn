@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hfrlc:guide_texts","materials":{"default":"skeleton"},"textures":{"default":"textures/invisible"},"geometry":{"default":"geometry.backpack_big"},"render_controllers":["controller.render.default"]}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:red_root"}],"description":{"identifier":"hfrlc:heal3"},"tags":["crafting_table"],"pattern":["GA","DS"],"key":{"G":{"item":"minecraft:fermented_spider_eye"},"A":{"item":"hfrlc:red_root"},"S":{"item":"hfrlc:heal2"},"D":{"item":"minecraft:red_mushroom"}},"result":{"item":"hfrlc:heal3"}}}

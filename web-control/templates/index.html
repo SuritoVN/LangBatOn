@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Điều khiển Minecraft Server</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 font-sans flex items-center justify-center min-h-screen">
+  <div class="bg-white p-6 rounded-xl shadow-xl w-full max-w-md text-center">
+    <h1 class="text-2xl font-bold mb-4">🟩 Máy chủ Minecraft</h1>
+    <p class="text-lg mb-2" id="statusText">Đang tải trạng thái...</p>
+    <p class="text-sm mb-4 text-gray-500" id="uptime">Thời gian bật: --</p>
+    <div class="flex justify-center gap-4">
+      <button onclick="startServer()" class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+        Bật Server
+      </button>
+      <button onclick="stopServer()" class="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded">
+        Tắt Server
+      </button>
+    </div>
+  </div>
+
+  <script>
+  async function fetchStatus() {
+    const res = await fetch("/status");
+    const data = await res.json();
+    const statusText = document.getElementById("statusText");
+    const uptime = document.getElementById("uptime");
+
+    if (data.running) {
+      statusText.textContent = "✅ Server đang bật";
+    } else {
+      statusText.textContent = "❌ Server đang tắt";
+      uptime.textContent = "Thời gian bật: --";
+    }
+  }
+
+  async function startServer() {
+    await fetch("/start", { method: "POST" });
+    setTimeout(fetchStatus, 2000);
+  }
+
+  async function stopServer() {
+    await fetch("/stop", { method: "POST" });
+    setTimeout(fetchStatus, 2000);
+  }
+
+  // Gọi trạng thái 1 lần duy nhất khi mở trang
+  fetchStatus();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.backpack":{"initial_state":"idle","states":{"idle":{"transitions":[{"popup":"q.is_baby && q.skin_id == 0"}],"blend_transition":0.1},"popup":{"animations":["popup"],"transitions":[{"idle":"!q.is_baby || q.skin_id != 0"}],"blend_transition":0.1}}}}}

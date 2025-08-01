@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.on_fire":{"states":{"default":{"transitions":[{"on_fire":"q.is_on_fire"}],"on_entry":["/tag @s remove on_fire"]},"on_fire":{"transitions":[{"default":"!q.is_on_fire"}],"on_entry":["/tag @s add on_fire"]}}}}}

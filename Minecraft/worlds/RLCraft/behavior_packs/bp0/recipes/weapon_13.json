@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:shield"}],"description":{"identifier":"hfrlc:weapon_13"},"tags":["crafting_table"],"pattern":["DDD","DDD"," C "],"key":{"C":{"item":"minecraft:shield"},"D":{"item":"minecraft:log"}},"result":{"item":"hfrlc:weapon_13"}}}

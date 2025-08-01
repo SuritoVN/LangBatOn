@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.cyclop":{"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["Texture.default"],"part_visibility":[{"weapon_root":"q.property('hfrlc:dead')"}]}}}

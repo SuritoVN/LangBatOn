@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:ice_bag1"},"tags":["crafting_table"],"pattern":["ADA","DXD","ADA"],"key":{"A":{"item":"hfrlc:power_shard"},"X":{"item":"minecraft:ice"},"D":{"item":"hfrlc:ice_essence"}},"result":{"item":"hfrlc:ice_bag"}}}

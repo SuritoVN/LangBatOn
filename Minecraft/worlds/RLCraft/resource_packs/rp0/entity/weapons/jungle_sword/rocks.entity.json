@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hfrlc:rocks","materials":{"default":"spider"},"textures":{"default":"textures/entity/rocks"},"animations":{"setup":"animation.rocks.uplift_setup"},"scripts":{"animate":["setup"]},"geometry":{"default":"geometry.rocks"},"render_controllers":["controller.render.default"]}}}

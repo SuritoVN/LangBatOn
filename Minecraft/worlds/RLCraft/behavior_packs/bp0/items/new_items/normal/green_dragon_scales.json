@@ -1,0 +1,1 @@
+{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"hfrlc:green_dragon_scales","menu_category":{"category":"items"}},"components":{"minecraft:icon":{"texture":"green_dragon_scales"},"minecraft:max_stack_size":64}}}

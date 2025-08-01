@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:goat_horns"}],"description":{"identifier":"hfrlc:great_horn_shield"},"tags":["crafting_table"],"pattern":[" G "," S "," D "],"key":{"G":{"item":"hfrlc:goat_horns"},"S":{"item":"hfrlc:power_crystal"},"D":{"item":"hfrlc:greatest_shield"}},"result":{"item":"hfrlc:great_horn_shield"}}}

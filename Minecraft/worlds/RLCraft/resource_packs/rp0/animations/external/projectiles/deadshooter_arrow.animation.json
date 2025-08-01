@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animations":{"animation.deadshooter_arrow.body_rotation":{"loop":true,"bones":{"body":{"rotation":["-q.property('hfrlc:rotation_y')","-q.body_y_rotation + q.property('hfrlc:rotation_x')",0]}}}}}

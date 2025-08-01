@@ -1,0 +1,1 @@
+{"pools":[{"rolls":1,"entries":[{"type":"item","name":"hfrlc:brown_dragon_scales","functions":[{"function":"set_count","count":{"min":3,"max":9}}]}]},{"rolls":1,"entries":[{"type":"item","name":"hfrlc:dragon_bone","functions":[{"function":"set_count","count":{"min":5,"max":7}}]}]}]}

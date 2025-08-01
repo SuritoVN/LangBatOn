@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:ancient_root"},"tags":["crafting_table"],"pattern":[" G ","GSG"," G "],"key":{"G":{"item":"hfrlc:ancient_sprouts"},"S":{"item":"hfrlc:power_shard"}},"result":{"item":"hfrlc:ancient_root"}}}

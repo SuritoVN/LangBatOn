@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:netherite_ring"}],"description":{"identifier":"hfrlc:ring_resistance"},"tags":["crafting_table"],"pattern":["XA","AD"],"key":{"A":{"item":"hfrlc:voidsteel_ingot"},"D":{"item":"hfrlc:netherite_ring"},"X":{"item":"minecraft:heavy_core"}},"result":{"item":"hfrlc:ring_resistance"}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.boar":{"arrays":{"textures":{"Array.textures":["Texture.default","Texture.boardark","Texture.boarorange","Texture.boarwhite"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["Array.textures[q.property('hfrlc:texture_variant')]"]}}}

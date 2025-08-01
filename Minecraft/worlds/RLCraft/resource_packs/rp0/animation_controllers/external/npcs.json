@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.npcs":{"states":{"default":{"transitions":[{"open":"query.variant == 1"}]},"open":{"animations":["idle"],"transitions":[{"default":"query.variant == 0"}]}}}}}

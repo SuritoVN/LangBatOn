@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:dragon_skull"},"tags":["crafting_table"],"pattern":[" G ","GQG"],"key":{"G":{"item":"hfrlc:wyvern_skull"},"Q":{"item":"hfrlc:power_crystal"}},"result":{"item":"hfrlc:dragon_skull"}}}

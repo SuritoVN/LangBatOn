@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:iron_ingot"}],"description":{"identifier":"hfrlc:greatest_shield"},"tags":["crafting_table"],"pattern":["DGD","DSD","DGD"],"key":{"G":{"item":"minecraft:iron_block"},"S":{"item":"minecraft:shield"},"D":{"item":"minecraft:iron_ingot"}},"result":{"item":"hfrlc:greatest_shield"}}}

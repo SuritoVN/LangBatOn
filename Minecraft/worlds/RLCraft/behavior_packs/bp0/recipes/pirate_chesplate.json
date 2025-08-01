@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:pirate_cloth"}],"description":{"identifier":"hfrlc:pirate_chestplate"},"tags":["crafting_table"],"pattern":["A A","SSS","SSS"],"key":{"S":{"item":"hfrlc:pirate_armor_plates"},"A":{"item":"hfrlc:pirate_cloth"}},"result":{"item":"hfrlc:pirate_chestplate"}}}

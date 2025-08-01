@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.pumpkinkido.attack_controller":{"initial_state":"default","states":{"default":{"transitions":[{"attacking":"q.is_delayed_attacking"}]},"attacking":{"on_exit":["/event entity @s hfrlc:choose_attack"],"transitions":[{"default":"q.state_time >= 1.58"}]}}}}}

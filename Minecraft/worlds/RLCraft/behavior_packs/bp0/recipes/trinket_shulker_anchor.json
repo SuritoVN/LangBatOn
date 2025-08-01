@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:shulker_anchor"},"tags":["crafting_table"],"pattern":["A","SA",""],"key":{"A":{"item":"minecraft:shulker_shell"},"S":{"item":"hfrlc:voidsteel_ingot"}},"result":{"item":"hfrlc:shulker_anchor"}}}

@@ -1,0 +1,1 @@
+scoreboard players set @s thermometer 6000

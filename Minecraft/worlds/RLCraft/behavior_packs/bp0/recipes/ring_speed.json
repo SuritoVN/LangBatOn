@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:lapis_ring"}],"description":{"identifier":"hfrlc:ring_speed"},"tags":["crafting_table"],"pattern":["XA","AD"],"key":{"A":{"item":"hfrlc:air_essence"},"D":{"item":"hfrlc:lapis_ring"},"X":{"item":"minecraft:emerald"}},"result":{"item":"hfrlc:ring_speed"}}}

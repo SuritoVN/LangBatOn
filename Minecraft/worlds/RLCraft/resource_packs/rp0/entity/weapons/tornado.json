@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hfrlc:tornado","materials":{"default":"spider"},"textures":{"default":"textures/entity/tornado"},"animations":{"setup":"animation.tornado.setup"},"scripts":{"animate":["setup"]},"geometry":{"default":"geometry.tornado"},"render_controllers":["controller.render.default"]}}}

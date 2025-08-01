@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hfrlc:tnt_sword.explode","scripts":{"animate":[{"explode":"q.life_time > 0.05"}]},"animations":{"explode":"animation.projectile.explode"},"particle_effects":{"smoke":"hfrlc:lava_burst_up","explode":"hfrlc:lava_burst"},"sound_effects":{"explode":"cool.sfx"}}}}

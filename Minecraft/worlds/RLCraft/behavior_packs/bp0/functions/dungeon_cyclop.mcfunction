@@ -1,0 +1,9 @@
+execute as @p[r=20] run summon hfrlc:cyclop ~~3~
+execute as @p[r=20] run summon hfrlc:orc ~-1~3~1
+execute as @p[r=20] run summon hfrlc:orc ~-1~3~-1
+execute as @p[r=20] run summon hfrlc:orc ~-2~3~0
+execute as @p[r=20] run summon hfrlc:orc ~-2~3~2
+execute as @p[r=20] run summon hfrlc:orc ~-2~3~-2
+execute as @p[r=20] run summon hfrlc:orc ~1~3~-1
+execute as @p[r=20] run summon hfrlc:orc ~1~3~1
+execute as @p[r=20] run setblock ~~~ air

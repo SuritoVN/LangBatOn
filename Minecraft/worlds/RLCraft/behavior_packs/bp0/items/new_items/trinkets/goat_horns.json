@@ -1,0 +1,1 @@
+{"format_version":"1.20.50","minecraft:item":{"description":{"identifier":"hfrlc:goat_horns","menu_category":{"category":"equipment"}},"components":{"minecraft:icon":{"texture":"goat_horns"},"minecraft:tags":{"tags":["hfrlc:is_trinket"]},"minecraft:max_stack_size":1}}}

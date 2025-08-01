@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:neptunium_ingot"}],"description":{"identifier":"hfrlc:weapon_11"},"tags":["crafting_table"],"pattern":["X","D","D"],"key":{"X":{"item":"hfrlc:neptunium_ingot"},"D":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:weapon_11"}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:briariron_ingot"}],"description":{"identifier":"hfrlc:earth_sword"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"hfrlc:briariron_ingot"},"B":{"item":"hfrlc:briariron_ingot"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:earth_sword"}}}

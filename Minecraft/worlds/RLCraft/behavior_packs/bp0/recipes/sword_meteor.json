@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:fire_essence"}],"description":{"identifier":"hfrlc:lava_sword"},"tags":["crafting_table"],"pattern":[" B ","ABA"," C "],"key":{"A":{"item":"minecraft:fire_charge"},"B":{"item":"hfrlc:fire_essence"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:lava_sword"}}}

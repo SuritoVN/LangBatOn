@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:heavy_core"}],"description":{"identifier":"hfrlc:thunder_essence"},"tags":["crafting_table"],"pattern":["DGD","GXG","DGD"],"key":{"G":{"item":"hfrlc:power_shard"},"X":{"item":"minecraft:heavy_core"},"D":{"item":"hfrlc:air_essence"}},"result":{"item":"hfrlc:thunder_essence"}}}

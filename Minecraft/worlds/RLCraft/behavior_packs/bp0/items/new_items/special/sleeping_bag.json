@@ -1,0 +1,1 @@
+{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"hfrlc:sleeping_bag"},"components":{"minecraft:icon":{"texture":"sleeping_bag"},"minecraft:entity_placer":{"entity":"hfrlc:sleepingbag"},"minecraft:max_stack_size":1}}}

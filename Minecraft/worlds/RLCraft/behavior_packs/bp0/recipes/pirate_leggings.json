@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:pirate_cloth"}],"description":{"identifier":"hfrlc:pirate_leggings"},"tags":["crafting_table"],"pattern":["ASA","A A","S S"],"key":{"S":{"item":"hfrlc:pirate_cloth"},"A":{"item":"hfrlc:pirate_armor_plates"}},"result":{"item":"hfrlc:pirate_leggings"}}}

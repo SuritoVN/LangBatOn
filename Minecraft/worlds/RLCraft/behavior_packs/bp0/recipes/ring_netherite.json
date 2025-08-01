@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"description":{"identifier":"hfrlc:netherite_ring"},"tags":["crafting_table"],"pattern":[" A ","A A"," A "],"key":{"A":{"item":"minecraft:netherite_ingot"}},"result":{"item":"hfrlc:netherite_ring"}}}

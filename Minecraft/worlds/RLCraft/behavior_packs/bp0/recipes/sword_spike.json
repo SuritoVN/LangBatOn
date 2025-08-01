@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:iron_ingot"}],"description":{"identifier":"hfrlc:spike_sword"},"tags":["crafting_table"],"pattern":["XBX"," B "," C "],"key":{"X":{"item":"minecraft:iron_nugget"},"B":{"item":"minecraft:iron_ingot"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:spike_sword"}}}

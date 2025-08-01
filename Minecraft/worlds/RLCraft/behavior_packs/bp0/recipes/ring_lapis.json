@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:lapis_lazuli"}],"description":{"identifier":"hfrlc:lapis_ring"},"tags":["crafting_table"],"pattern":[" A ","A A"," A "],"key":{"A":{"item":"minecraft:lapis_lazuli"}},"result":{"item":"hfrlc:lapis_ring"}}}

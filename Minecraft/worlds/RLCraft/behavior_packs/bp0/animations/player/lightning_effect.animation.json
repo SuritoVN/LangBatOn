@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animations":{"animation.lightning_effect":{"timeline":{"0.0":["/particle hfrlc:lightning_effect ~~~","/playsound magic_wand.explosion @a[r=128] ~~~","/playsound magic_wand.lightning @a[r=128] ~~~","@s minecraft:explode"]},"animation_length":0.5,"loop":false}}}

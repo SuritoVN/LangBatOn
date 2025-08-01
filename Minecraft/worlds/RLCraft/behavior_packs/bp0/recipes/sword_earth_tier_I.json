@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:earth_essence"}],"description":{"identifier":"hfrlc:jungle_sword"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"hfrlc:earth_essence"},"B":{"item":"hfrlc:earth_essence"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:jungle_sword"}}}

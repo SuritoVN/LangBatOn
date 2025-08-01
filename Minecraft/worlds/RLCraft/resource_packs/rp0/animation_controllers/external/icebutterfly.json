@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.icebutterfly":{"states":{"default":{"animations":["icebutter_fly"],"transitions":[{"attack":"query.is_delayed_attacking"}]},"attack":{"animations":["icebutter_attack"],"transitions":[{"default":"query.all_animations_finished"}]}}}}}

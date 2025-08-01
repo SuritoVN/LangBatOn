@@ -1,0 +1,1 @@
+{"format_version":"1.21.60","minecraft:sequence_feature":{"description":{"identifier":"hfrlc:forest/forest_base_sequence_feature"},"features":["hfrlc:forest/forest_base_feature","hfrlc:forest/forest_air_cleanup_feature","hfrlc:forest/forest_base_scatter_feature"]}}

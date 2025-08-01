@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animations":{"animation.tree_spirit.tick":{"loop":true,"animation_length":0.01,"timeline":{"0.0":["/scriptevent hfrlc:tick_entity"]}},"animation.tree_spirit.death":{"loop":true,"animation_length":5,"timeline":{"3.0":["/event entity @s hfrlc:despawn"]}}}}

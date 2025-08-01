@@ -1,0 +1,1127 @@
+action.guidebook.title=§lRLCraftメニュー
+action.guidebook.how_to_play=§l§2プレイ方法
+action.guidebook.how_to_start=§l§2はじめに
+action.guidebook.thirst_title=§l§b渇き
+action.guidebook.grave_title=§l§4墓
+action.guidebook.level_title=§l§e成長
+action.guidebook.temp_title=§l§6温度
+action.guidebook.trinket_title=§l§d護符
+action.guidebook.way_title=§l§b旅行
+action.guidebook.taming_title=§l§9テイム
+action.guidebook.dungeons_title=§l§5ダンジョン
+action.guidebook.gameplay_settings_title=§l§8ゲームプレイ設定
+action.guidebook.visual_settings_title=§l§8ビジュアル設定
+action.guidebook.social_title=§l§9Discordに参加しよう！
+action.guidebook.youtube_title=§l§cチュートリアルを見よう！
+action.guidebook.creditsandlicenses_title=§l§6クレジット・ライセンス
+action.guidebook.credits_title=§l§6クレジット
+action.guidebook.licenses_title=§l§9ライセンス
+action.guidebook.rlcraft_title=§l§8RLCraft
+action.guidebook.notreepunching_title=§l§c木パンチ無し
+action.guidebook.weapons_title=§l§3武器
+action.guidebook.skybox_title=§l§t空
+action.guidebook.back=<< 戻る
+action.guidebook.trinket_fix=§l護符修理
+action.guidebook.adding_packs_title=§l§nパックの追加
+action.guidebook.adding_packs2_title=§l§8RLCraftを他のパックと一緒に使用する
+action.guidebook.video_explaination_title=§l§8ビデオチュートリアル
+action.guidebook.add_aands_title=§l§8§lActions & Stuff§rを使用する
+action.guidebook.add_more_packs_title=§l§8他のパックと一緒にプレイ
+action.guidebook.realms_disclaimer_title=§l§8Realms に関する注意事項
+action.guidebook.play_title=§l§8続ける
+
+action.guidebook.thirst_disable=渇きバー
+action.guidebook.temp_disable=温度バー
+action.guidebook.lens_disable=光の反射
+action.guidebook.wood_punching=素手採掘の弱体化
+action.guidebook.lagwarn=最適化メッセージ
+action.guidebook.damage_indicator=ダメージ表示
+action.guidebook.natural_regen=自然回復
+action.guidebook.skyspires=天空塔の生成
+action.guidebook.dungeons=ダンジョン生成
+action.guidebook.structure_speed=構造物生成速度
+action.guidebook.vv_optimization=視覚効果最適化
+action.guidebook.bodyparts_posx=身体部位のX座標
+action.guidebook.bodyparts_posy=身体部位のY座標
+
+action.guidebook.how_start_text=~LINEBREAK~§l1. 砂利を集める:§r 砂利を見つけて採掘し、火打石を入手する。~LINEBREAK~~LINEBREAK~§l2. 火打石を鋭くする:§r 火打石を石に打ち付けて鋭くする。（手に火打石を持って石ブロックを攻撃）~LINEBREAK~~LINEBREAK~§l3. 棒を集める:§r 葉っぱを壊して棒を入手する。~LINEBREAK~~LINEBREAK~§l4. ナイフを作る:§r 鋭い火打石と棒を組み合わせてナイフを作る。~LINEBREAK~~LINEBREAK~§l5. 植物繊維を入手:§r ナイフで草を切って植物繊維を集める。~LINEBREAK~~LINEBREAK~§l6. 繊維ロープを作る:§r 繊維をまとめてロープを作る。~LINEBREAK~~LINEBREAK~§l7. 火打石の斧を作る:§r 鋭い火打石、棒、ロープを組み合わせて斧を作る。~LINEBREAK~~LINEBREAK~§l8. 木を切る:§r 火打石の斧で木を伐採する。~LINEBREAK~~LINEBREAK~§l9. 木製ツールを作る:§r 木材で最初の改良ツールを作る。~LINEBREAK~~LINEBREAK~§l10.§r できるだけ早く§l成長メニュー§rを開く！~LINEBREAK~~LINEBREAK~おめでとう！これで冒険の準備が整いました。~LINEBREAK~ 
+action.guidebook.thirst_body=~LINEBREAK~§r§l§b渇き§rは新たな重要なサバイバル要素です：水分を保とう！水を飲んだり、ジューシーな果物を食べたり、スープを飲んで水分補給をしましょう。~LINEBREAK~~LINEBREAK~§r渇きを無視すると、生存を脅かす深刻な悪影響が生じます。~LINEBREAK~ 
+action.guidebook.grave_body=~LINEBREAK~§r死亡した場所に墓が出現します。墓と相互作用してアイテムを回収してください。~LINEBREAK~~LINEBREAK~§7§o注：溶岩で死亡した場合、ハードモードが有効な場合、またはkeepInventoryゲームルールが有効な場合、墓は出現しません。~LINEBREAK~ 
+action.guidebook.level_body=~LINEBREAK~§rRLCraftは独特な§l§aスキル成長システム§rを導入します。~LINEBREAK~~LINEBREAK~§r§l§a成長メニュー§rはインベントリで最も重要なアイテムです；§l経験値を得たらすぐに使用しましょう。§r~LINEBREAK~~LINEBREAK~§r強力なアイテムを使用するには、対応するスキルで必要レベルに達する必要があります。~LINEBREAK~~LINEBREAK~§r経験値レベルを消費してスキルを向上させましょう。~LINEBREAK~~LINEBREAK~§r10レベルごとに特殊能力が解放され、最大50レベルまで！~LINEBREAK~ 
+action.guidebook.temp_body=~LINEBREAK~§r各バイオームが体温に影響します！暑いバイオームでは§6熱中症§rになり、寒いバイオームでは§b凍結§rします。~LINEBREAK~~LINEBREAK~§l§b永遠の氷［護符］§rと§b冷たい§rブロックの近くにいることで§6暑さ§rに対抗できます。~LINEBREAK~~LINEBREAK~§l§6永遠の炎［護符］§rと§6熱い§rブロックの近くにいることで§b寒さ§rから身を守れます。~LINEBREAK~ 
+action.guidebook.trinket_body=~LINEBREAK~§l§6護符バッグ§rには6つのスロットがあります：§r魔法アイテム用3つ（§l§b永遠の氷［護符］§rなど）と指輪用3つ。~LINEBREAK~~LINEBREAK~§r護符は作成したり、ダンジョンで見つけたり、ボスやクリーチャーを倒すことで入手できます。~LINEBREAK~~LINEBREAK~§7§oヒント：護符が機能しなくなったら「護符修理」をクリックしてください。~LINEBREAK~ 
+action.guidebook.way_body=~LINEBREAK~§r§l§7ワープストーン：§r場所間の高速移動のために起動する。~LINEBREAK~~LINEBREAK~§r§l§dテレポートスクロール：§rリスポーン地点への即座の帰還。~LINEBREAK~~LINEBREAK~§r§l§b帰還ポーション：§r死亡地点への自動帰還。~LINEBREAK~~LINEBREAK~§r§l§b寝袋：§rリスポーン地点を変更せずに夜を過ごす。~LINEBREAK~ 
+action.guidebook.taming_body=~LINEBREAK~§r戦闘後にドラゴンと相互作用することで、倒したドラゴンをテイムできます。テイムしたドラゴンに騎乗し、作成または宝箱で見つけた特殊防具を装備させることができます。~LINEBREAK~ 
+action.guidebook.dungeons_body=~LINEBREAK~§rダンジョン探索は危険ですが、報酬に値します！~LINEBREAK~~LINEBREAK~急がないでください：ダンジョンは極めて困難です。成長し、装備とスキルを向上させてから再挑戦しましょう。~LINEBREAK~~LINEBREAK~§l異なるダンジョンレベルが存在：§r簡単な廃屋は基本的な戦利品を提供し、海賊船や天空塔は伝説の秘宝を隠しています。~LINEBREAK~~LINEBREAK~§l地下ダンジョン§rには恐ろしいボスが住んでいます；最も危険ですが、貴重な宝物も最も豊富です。~LINEBREAK~ 
+action.guidebook.social_body=~LINEBREAK~§r下のQRコードをスキャンするか、リンクを使ってDiscordに参加しましょう！~LINEBREAK~honeyfrost.net/discord~LINEBREAK~ 
+action.guidebook.youtube_body=~LINEBREAK~§r下のQRコードをスキャンするか、YouTubeチャンネルをご覧ください！~LINEBREAK~youtube.com/@Honeyfrost~LINEBREAK~ 
+action.guidebook.credits_body=~LINEBREAK~RLCraft: Bedrock Editionへの卓越した貢献をしてくださった以下のすべての方々と組織に心から感謝いたします。~LINEBREAK~~LINEBREAK~§lRLCraftオリジナル制作者：§r~LINEBREAK~- Shivaxi~LINEBREAK~~LINEBREAK~§lプロデューサー：§r~LINEBREAK~- Benjamin Deconihout~LINEBREAK~- Haik Ishacian~LINEBREAK~- Mikhail Kuznetsov~LINEBREAK~- Nathan Gaillot~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~~LINEBREAK~§l開発者：§r~LINEBREAK~- Amman~LINEBREAK~- Ashfaqur Rahman Chowdhury~LINEBREAK~- Alan Capellino~LINEBREAK~- Christian Mari Cabral~LINEBREAK~- Furkan Sancak~LINEBREAK~- Mathias Santos~LINEBREAK~- Muhammet Vebi~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~§lアーティスト：§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Alexander Shimarov~LINEBREAK~- Andrey Voshin~LINEBREAK~- Artem Baklin~LINEBREAK~- Benjamin Goicoechea~LINEBREAK~- Cao Xiao Dong~LINEBREAK~- Eduardo Da Costa~LINEBREAK~- Egor Chiganenko~LINEBREAK~- Isaac Jeremy Rivera Moran~LINEBREAK~- Ivan Perminov~LINEBREAK~- Ivanovo Deryabikha~LINEBREAK~- Jeremy Ben Ammar~LINEBREAK~- Josiah Hockett~LINEBREAK~- Jules Graire~LINEBREAK~- Julien Rouget~LINEBREAK~- Kirill Kruglov~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Lu Runzi~LINEBREAK~- Mads Lykke-Bertelsen~LINEBREAK~- Mark van Voornveld~LINEBREAK~- Omar Hafiz~LINEBREAK~- Oleh Batozhskyi~LINEBREAK~- ORCS004~LINEBREAK~- Pierre Malot~LINEBREAK~- Samuel Lepage~LINEBREAK~- Semyon Alexeyevich Uski~LINEBREAK~- Theo Lestavel~LINEBREAK~- Uliana Shvadchenko~LINEBREAK~- Victor Rouget~LINEBREAK~- Vladimir Savelev~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~その他多くの貢献者の皆様！~LINEBREAK~~LINEBREAK~§lイラスト：§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Dennis Wonneberger~LINEBREAK~- Ethan Mulwee~LINEBREAK~- Mathieu Lavaissiere~LINEBREAK~- Nathan Regina De Morais~LINEBREAK~- Obi.Blue~LINEBREAK~- Oleg Fedorov~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~- Sedov Denis~LINEBREAK~- Terry Gillaux~LINEBREAK~~LINEBREAK~§lテスター：§r~LINEBREAK~- Amman~LINEBREAK~- Ivanov Oleg~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Pierre Pujol~LINEBREAK~- Rareloot~LINEBREAK~- Robert~LINEBREAK~ 
+action.guidebook.rlcraft_body=~LINEBREAK~RLCraft – Shivaxiとの協力作品~LINEBREAK~ 
+action.guidebook.notreepunching_body=~LINEBREAK~MITライセンス~LINEBREAK~~LINEBREAK~Copyright © [2021] [Alex O'Neill (AlcatrazEscapee)]~LINEBREAK~~LINEBREAK~このソフトウェアおよび関連するドキュメントファイル（「ソフトウェア」）のコピーを取得するすべての人に対し、ソフトウェアを無制限に扱う許可を無償で与えます。これには、使用、複製、修正、統合、公開、配布、サブライセンス、および/またはソフトウェアのコピーの販売の権利、およびソフトウェアが提供される人にそれを許可する権利が、制限なく含まれます。ただし、以下の条件に従います：~LINEBREAK~~LINEBREAK~上記の著作権表示およびこの許可表示は、ソフトウェアのすべてのコピーまたは実質的な部分に含まれるものとします。~LINEBREAK~~LINEBREAK~ソフトウェアは「現状有姿」で提供され、明示または黙示を問わず、商品性、特定目的への適合性、および非侵害の保証を含むがこれらに限定されない、いかなる種類の保証もありません。いかなる場合も、作者または著作権者は、契約行為、不法行為、またはその他であろうと、ソフトウェアから、ソフトウェアの外で、またはソフトウェアの使用またはその他の取引に関連して生じる、いかなる請求、損害、またはその他の責任についても責任を負いません。~LINEBREAK~ 
+action.guidebook.weapons_body=~LINEBREAK~武器 – XP Gamesライセンス~LINEBREAK~ 
+action.guidebook.skybox_body=~LINEBREAK~Minecraft Better Skybox by Hybred~LINEBREAK~ 
+action.guidebook.video_explaination_body=~LINEBREAK~§lYouTube§rで「Honeyfrost RLCraft How to use A&S and Packs」と検索するか、以下のQRコードをスキャンしてください。~LINEBREAK~ 
+action.guidebook.add_aands_body=~LINEBREAK~前のメニューページにビデオ解説があります。~LINEBREAK~~LINEBREAK~§lA&S を使用するには：§r~LINEBREAK~1：グローバルリソースにアクティブなパックがないこと~LINEBREAK~2：RLCraft をアクティブなリソースパックの一番上に配置し、A&S をその下に配置~LINEBREAK~~LINEBREAK~§lグローバルリソースのパックを削除する方法§r~LINEBREAK~1：Minecraft のメインメニューから開始~LINEBREAK~2：設定に進む~LINEBREAK~3：下にスクロールして「グローバルリソース」へ~LINEBREAK~4：アクティブなパックをすべて削除~LINEBREAK~5：完了！~LINEBREAK~~LINEBREAK~§lRLCraft を一番上のリソースパックに設定する方法§r~LINEBREAK~1：Minecraft メインメニューへ~LINEBREAK~2：「プレイ」をクリック~LINEBREAK~3：「RLCraft Bedrock Edition」の右側で「編集」をクリック~LINEBREAK~4：まだの場合は「設定をロック解除」をクリックし、「とにかくロック解除」を選択~LINEBREAK~5：メニューを下にスクロールして「リソースパック」をクリック~LINEBREAK~6：「利用可能」に進む~LINEBREAK~7：「所有済み」を開く~LINEBREAK~8：A&S の右側で「有効化」をクリック~LINEBREAK~9：「アクティブ」をクリック~LINEBREAK~11：RLCraft を一番上の位置に移動（最上位である必要があります）~LINEBREAK~12：完了！~LINEBREAK~~LINEBREAK~この製品は Actions and Stuff に関連付けられておらず、承認もされていません。すべての名称、ブランド、コンテンツは各所有者の財産です。~LINEBREAK~ 
+action.guidebook.add_more_packs_body=~LINEBREAK~前のメニューページにビデオ解説があります。~LINEBREAK~~LINEBREAK~RLCraft Bedrock Edition は完全な体験を提供するよう設計されています。多くのパックと互換性がありますが、非ビジュアルのアドオンを追加するとゲームが壊れたり、特に低スペック端末でラグが発生することがあります。それでも追加したい場合は、以下の手順に従ってください。~LINEBREAK~~LINEBREAK~§l他のパックを使用するには：§r~LINEBREAK~1：グローバルリソースにアクティブなパックがないこと~LINEBREAK~2：RLCraft をリソースパックとビヘイビアパックの両方のアクティブ一覧の一番上に配置~LINEBREAK~~LINEBREAK~§lグローバルリソースのパックを削除する方法§r~LINEBREAK~1：Minecraft のメインメニューから開始~LINEBREAK~2：設定に進む~LINEBREAK~3：下にスクロールして「グローバルリソース」へ~LINEBREAK~4：アクティブなパックをすべて削除~LINEBREAK~5：完了！~LINEBREAK~~LINEBREAK~§lRLCraft をリソースパック＆ビヘイビアパックの最上位に設定する方法：§r~LINEBREAK~1：Minecraft メインメニューへ~LINEBREAK~2：「プレイ」をクリック~LINEBREAK~3：「RLCraft Bedrock Edition」の右側で「編集」をクリック~LINEBREAK~4：まだの場合は「設定をロック解除」をクリックし、「とにかくロック解除」を選択~LINEBREAK~5：メニューを下にスクロールし、「リソースパック」または「ビヘイビアパック」をクリック~LINEBREAK~6：目的のカテゴリで「利用可能」に進む~LINEBREAK~7：「所有済み」を開く~LINEBREAK~8：使用したいリソースパックとデータパックの右側で「有効化」をクリック~LINEBREAK~9：「アクティブ」をクリック~LINEBREAK~11：RLCraft を一番上の位置に移動（最上位である必要があります）~LINEBREAK~12：完了！~LINEBREAK~ 
+action.guidebook.realms_disclaimer_body=~LINEBREAK~Realms はリソースパックやビヘイビアパックの順序をリセットしたり、再接続時にロックしたりすることがあります。これは既知のバグであり、こちら側で制御できません。~LINEBREAK~~LINEBREAK~この問題に遭遇した場合は、追加したパックを削除し、RLCraft 単体でプレイすることをお勧めします。~LINEBREAK~~LINEBREAK~それでも他のパックを追加したい場合は、以下に手順があります。また、前のメニューにビデオ解説もあります。ただし、問題が発生する可能性があることを覚えておいてください。~LINEBREAK~~LINEBREAK~§l他のパックを使用するには：§r~LINEBREAK~1：RLCraft は Realms のリソースパックとビヘイビアパックの両方で一番上にある必要があります~LINEBREAK~2：Realms のアドオン設定で「プレイヤーにリソースパックのダウンロードを要求する」オプションを有効にする必要があります~LINEBREAK~3：個人のグローバルリソースにはアクティブなパックがないようにしてください~LINEBREAK~~LINEBREAK~§lグローバルリソースからパックを削除する方法：§r~LINEBREAK~1：Minecraft のメインメニューから開始~LINEBREAK~2：設定に進む~LINEBREAK~3：下にスクロールして「グローバルリソース」へ~LINEBREAK~4：アクティブなパックをすべて削除~LINEBREAK~5：完了！~LINEBREAK~ 
+
+action.guidebook.retry_tutorial=§l§8チュートリアル再開
+action.guidebook.already_doing_tutorial=§cあれ、もうチュートリアル中だということを忘れたのか？続けろ、天才よ。
+action.guidebook.tuto_nearby=§cちょっと待て。ここではチュートリアルを再開できない。別の場所に行くか少し待て。
+action.guidebook.be_full_health_first=§c半死半生でそれを試すとは勇敢だな！このアイテムを使うには体力満タンである必要がある。
+translate.tutorial.crouch_to_skip=:_input_key.sneak:を長押ししてシーンをスキップ！
+translate.tutorial.break_grass_with_knife=§cナイフで草を切れ！
+translate.tutorial.break_log_with_axe=§c斧で原木を壊せ！
+translate.tutorial.break_stone_with_pickaxe=§cツルハシで石を壊せ！
+action.item_block=§cいや、今このアイテムは使えない。
+action.guidebook.tutorial_body=~LINEBREAK~迷った？チュートリアルをやり直したい？~LINEBREAK~~LINEBREAK~再開すると、アイテムは保存され、チュートリアル終了時に返却されます。~LINEBREAK~ 
+action.guidebook.yes=はい
+action.guidebook.no=いいえ
+
+tuto_dragon.idle_bored=急げ！
+tuto_dragon.idle_bored2=まだそこにいるのか？
+tuto_dragon.idle_bored3=さあ！一日中時間はないぞ。
+tuto_dragon.dialogue.1=こんにちは！RLCraftへようこそ。
+tuto_dragon.dialogue.2=始める前に、契約書にサインしてもらう！
+tuto_dragon.dialogue.3=君がどんな人物か見てみよう！
+tuto_dragon.dialogue.4=難易度を選択しろ！
+tuto_dragon.dialogue.5=恐がりだが賢明だ！
+tuto_dragon.dialogue.6=完璧にバランスが取れている、すべてがそうあるべきだ！
+tuto_dragon.dialogue.7=勇敢だ...それとも狂っているのか。時が教えるだろう。
+tuto_dragon.dialogue.8=RLCraftを知らないのか？それを直してやろう。
+tuto_dragon.dialogue.9=ああ...他より賢いと思っている誰かさんだな。かわいい。
+tuto_dragon.dialogue.10=本当にスキップしたいのか？
+tuto_dragon.dialogue.11=よろしい、どれくらい生き残れるか見てみよう。
+tuto_dragon.dialogue.12=幸運を！
+
+tutorial.dialogue.subtitles1=§7字幕：§6木を切ることから始めよう。
+tutorial.dialogue.subtitles2=§7字幕：§6見た目より難しいだろう？RLCraftでは物事が違う。木材の入手方法を教えよう。
+tutorial.dialogue.subtitles3=§7字幕：§6最初のツールを作るのに不可欠な火打石を得るため、砂利の採掘から始めよう。
+tutorial.dialogue.subtitles4=§7字幕：§6この火打石を石に打ち付けて鋭い火打石の欠片を作ろう。
+tutorial.dialogue.subtitles5=§7字幕：§6次に葉っぱを壊して棒を集めよう。
+tutorial.dialogue.subtitles6=§7字幕：§6完璧！火打石の欠片と棒を組み合わせて火打石ナイフを作ろう。
+tutorial.dialogue.subtitles7=§7字幕：§6それを使って植物繊維を3つ集め、それから頑丈なロープを作ろう。
+tutorial.dialogue.subtitles8=§7字幕：§6素晴らしい！これで火打石の斧を作るのに必要なものが揃った、君の最初の木材用ツールだ！
+tutorial.dialogue.subtitles9=§7字幕：§6それを使って木材を3つ入手しよう。
+tutorial.dialogue.subtitles10=§7字幕：§6完璧！それらを使って木のツルハシを作ろう。
+tutorial.dialogue.subtitles11=§7字幕：§6RLCraftでは、アイテムを使用するのに必要レベルに達している必要がある。ツルハシにマウスを合わせるか使用を試して要件を確認しろ。
+tutorial.dialogue.subtitles12=§7字幕：§6経験値が必要だ。このアリを倒して入手しろ。
+tutorial.dialogue.subtitles13=§7字幕：§6今度はアクションバーの「レベルアップ」アイテムで成長メニューを開け。
+tutorial.dialogue.subtitles14=§7字幕：§6ここで攻撃、防御、敏捷性、採掘を向上できる。10レベルごとに新しい能力が解放される。今は採掘にすべて投資しろ。
+tutorial.dialogue.subtitles15=§7字幕：§6完璧、君の採掘はレベル3だ。今度は木のツルハシを試してみろ。
+tutorial.dialogue.subtitles16=§7字幕：§6覚えておけ：死は悪いことではない、スキルレベルは維持される。重要なのは継続的に進歩することだ。
+tutorial.dialogue.subtitles17=§7字幕：§6治療に移ろう：ひどく損傷した身体部位は深刻なペナルティを与える。必要に応じて治療しろ。
+tutorial.dialogue.subtitles18=§7字幕：§6治療には包帯を使え。どこでも見つけられるか作成できる。宝箱を開けて治療しろ。
+tutorial.dialogue.subtitles19=§7字幕：§6ベッドで眠るまで、ランダムな場所にリスポーンする。良い場所を見つけたら、ベッドを作れ！
+tutorial.dialogue.subtitles20=§7字幕：§6温度：熱すぎたり寒すぎたりすると死ぬ。今それを避けよう。
+tutorial.dialogue.subtitles21=§7字幕：§6熱を上げた！水に飛び込んで涼もう。
+tutorial.dialogue.subtitles22=§7字幕：§6良いが、今度は凍えている！熱源に近づけ。
+tutorial.dialogue.subtitles23=§7字幕：§6特別な果物など、温度を調節する他の方法がある。プレイしながら発見するだろう。
+tutorial.dialogue.subtitles24=§7字幕：§6護符に移ろう：それらは強力でユニークなボーナスを与える。宝箱から取れ。
+tutorial.dialogue.subtitles25=§7字幕：§6各護符にはその説明とバッグ内での場所がある。一般的なルール：魔法アイテムは左、指輪は右。山羊の角を装備しろ。
+tutorial.dialogue.subtitles26=§7字幕：§6よくやった！この訓練で喉が渇いた；水分補給になるものを飲むか食べろ。宝箱に物資を入れておいた。
+tutorial.dialogue.subtitles27=§7字幕：§6おめでとう！チュートリアル完了。RLCraftメニューでオプションのオン/オフができるし、いつでもチュートリアルを再実行できる。冒険で幸運を！
+
+action.temp.hot=§7§l[警告]：§c暑すぎます！
+action.temp.cold=§7§l[警告]：§b寒すぎます！
+action.thirst.low=§7§l[警告]：§6脱水状態です！
+action.backpack.jump=§6:_input_key.sneak: + :_input_key.jump: + :_input_key.attack:でバックパック除去
+action.wind_sword.stop_using=- 使用を停止して投擲 -
+action.elemental_sword.cycle=- :_input_key.sneak:で§6属性§f変更 -
+action.elemental_sword.earth=- §2土§f -
+action.elemental_sword.fire=- §4火§f -
+action.elemental_sword.water=- §9水§f -
+action.elemental_sword.air=- §7風§f -
+action.elemental_sword.lightning=- §b雷§f -
+detect.lag=§5§l[世界]：§r§aパフォーマンス最適化！§7地上のアイテムを30秒で除去。
+detect.lag.low_ram=§5§l[世界]：§r§aパフォーマンス最適化！§7地上のアイテムを10秒で除去。
+detect.lag10=§5§l[世界]：§7クリーンアップ完了！
+action.wyvern.tamed=このドラゴンを助けてテイムしますか？
+action.wyvern.spare=助ける
+action.wyvern.slay=殺す
+generate.boss_tower=§l§2[世界]：§r§7天空塔が生成されました
+generate.dungeon=§l§2[世界]：§r§7ダンジョンが生成されました
+generate.boss= §7内部にボスがいます
+action.warpstone.title=石の名前
+action.warpstone.list=石のリスト
+action.warpstone.body=このワープストーンに名前を付ける
+action.warpstone.name=名前
+action.system_level.only_use=§c落ち着け、天才！チュートリアルではスキルレベルを3つまでしか向上できない。
+action.system_level.only_mining=§cチュートリアルでは採掘のみ向上可能。
+water_flasks.uses= 使用回数残り
+action.teleport_scroll.cancel=§c素晴らしい！リスポーン地点が設定されていない。
+active.saving_grace=§aよし！救済の恩寵が回復した；無駄にするな。
+blocked.agility=§c§l敏捷性が低すぎてこのアイテムを使用できません。
+blocked.melee=§c§l近接戦闘が低すぎてこのアイテムを使用できません。
+blocked.mining=§c§l採掘が低すぎてこのアイテムを使用できません。
+blocked.armor=§c§l防御が低すぎてこのアイテムを使用できません。
+action.dodge=§aおめでとう！弾丸を回避した。
+action.grave_hit=§c触るな、墓荒らし！この墓は君のものではない。
+action.warpstone_name=§c印象的！その名前の石は既に存在する。もっと独創的になれ。
+action.max_hearts=§cこれがハートの最大値だ。それ以上を夢見ても無駄だ。
+action.reach_level=§aレベル到達
+action.in_melee= 近接戦闘で
+action.in_agility= 敏捷性で
+action.in_mining= 採掘で
+action.in_armor= 防御で
+action.you_need=§c必要です 
+action.need_xp= 経験値レベルがこのカテゴリを向上させるのに。
+action.stop_move=§c落ち着け！このアイテムを使用するには静止している必要がある。
+action.limit_level=§c既にこのカテゴリの最大レベルです。
+action.duplicate_trinket=§c同じタイプの護符は一度に一つだけ。
+action.dead=§cあなたは死にました 
+action.dead_burned=溶岩で泳ごうとして；すべてが§c燃やされました§r。
+action.dead_hard=墓なし...§cハードコアモードを選んだ。苦痛を選んだのだ！
+action.cooling_down=冷却中...
+action.warpstone_break=§c自然生成された石は破壊できません。
+action.speed_skill=§l§d--スピードスキル解放：§r§6永続的に§lスピード1§r§6を獲得。§r
+action.arrow_skill=§l§d--浮遊の矢スキル：§r§6§l遠距離攻撃§r§6が§a+20%の確率§6で§7浮遊§6を付与。§r
+action.dodge_skill=§l§d--回避スキル解放：§r§6§a+10%§6の確率で攻撃を§l回避§r§6、§a敏捷性5レベル§6ごとに§a+5%§6。§r
+action.critical_skill=§l§d--クリティカルショットスキル：§r§6§l遠距離攻撃§r§6が§a+50%の確率§6で§7クリティカルヒット§6。§r
+action.mastery_skill=§l§d--敏捷性マスタリー：§r§6§l落下ダメージ§r§6への免疫と無限弾薬。§r
+action.haste_skill=§l§d--採掘速度上昇スキル：§r§6永続的に§l採掘速度上昇2§r§6を獲得。§r
+action.obsidian_skill=§l§d--黒曜石ブレイカー：§r§6§5黒曜石§6を採掘時に§l採掘速度上昇4§r§6を獲得。§r
+action.sustaining_skill=§l§d--持続採掘：§r§6§a10ブロック§6採掘ごとに§a+1ハート・+1満腹度§6を回復。§r
+action.material_skill=§l§d--貴重な素材：§r§6石採掘時に§a+0.5%§6の確率で§lレア素材§r§6を発見。§r
+action.luck_skill=§l§d--幸運スキル：§r§6§l幸運2§r§6；鉱石からボーナス素材。§r
+action.chance_skill=§l§d--クリティカル確率：§r§6§l近接攻撃§r§6のクリティカルヒットが§a+20%§6。§r
+action.stun_skill=§l§d--スタンスキル：§r§6敵を§lスタン§r§6させる§a+10%§6の確率。§r
+action.area_skill=§l§d--範囲ダメージ：§r§6§l攻撃§r§6で近くの敵を傷つける§a+15%§6の確率。§r
+action.vampirism_skill=§l§d--ヴァンパイアリズム：§r§6§l攻撃§r§6が§l10ダメージ§r§6ごとに§a+1ハート§6で自分を治癒。§r
+action.melee_skill=§l§d--近接戦闘マスタリー：§r§6§l近接攻撃§r§6が§a+50%§6の追加ダメージ。§r
+action.thorns_skill=§l§d--棘II：§r§6受けたダメージと同等を攻撃者に反射。§r
+action.boost_skill=§l§d--体力ボーナス：§r§6§b防御10レベル§6ごとに§a+2ハート§6。§r
+action.bodyparts_skill=§l§d--身体抵抗：§r§6§l身体部位の損傷§r§6への抵抗増加；§b防御5レベル§6ごとに§a+0.5§6。§r
+action.heal_skill=§l§d--治癒スキル：§r§6攻撃時に§a+15%§6の確率で§a+5体力§6を回復。§r
+action.saving_skill=§l§d--救済の恩寵：§r§6§a5分§6ごとに一度§l死を回避§r§6。§r
+translate.hfrlc.need_key=§cこの扉を開くには鍵が必要です。
+
+tile.hfrlc:jar1.name=壺
+tile.hfrlc:jar2.name=大きな壺
+tile.hfrlc:barrier_collision.name=衝突バリア
+tile.hfrlc:barrier_collision2.name=固体バリア
+tile.hfrlc:blue_bush.name=氷霜果の茂み
+tile.hfrlc:orange_bush.name=燃える果実の茂み
+tile.hfrlc:clover.name=クローバー
+tile.hfrlc:mushroom.name=キノコ
+tile.hfrlc:pebble.name=小石
+tile.hfrlc:flint_pebble.name=火打石の小石
+tile.hfrlc:grass.name=草
+tile.hfrlc:cattail.name=ガマ
+tile.hfrlc:wheat_grass.name=小麦草
+tile.hfrlc:arctic_flowers.name=北極の花
+tile.hfrlc:arid_flowers.name=乾燥地の花
+tile.hfrlc:tropical_flowers.name=熱帯の花
+tile.hfrlc:brown_mushroom.name=茶キノコ
+tile.hfrlc:red_mushroom.name=赤キノコ
+tile.hfrlc:cactus.name=小さなサボテン
+tile.hfrlc:lavender.name=ラベンダー
+tile.hfrlc:bellflower.name=ベルフラワー
+tile.hfrlc:jungle_flower.name=ジャングルの花
+tile.hfrlc:pansy.name=パンジー
+tile.hfrlc:bracken.name=ワラビ
+tile.hfrlc:fireweed.name=ヤナギラン
+tile.hfrlc:pink_lupine.name=ピンクルピナス
+tile.hfrlc:purple_heather.name=紫ヒース
+tile.hfrlc:purple_lupine.name=紫ルピナス
+tile.hfrlc:white_heather.name=白ヒース
+tile.hfrlc:white_lupine.name=白ルピナス
+tile.hfrlc:jungle_bush.name=ジャングルの茂み
+tile.hfrlc:red_roots.name=赤い根
+tile.hfrlc:sweet_pea.name=スイートピー
+tile.hfrlc:canola_flower.name=菜の花
+tile.hfrlc:hogweed_flower.name=ホグウィード
+tile.hfrlc:carcass.name=死骸
+tile.hfrlc:clam.name=アサリ
+tile.hfrlc:cow_skull.name=牛の頭骨
+tile.hfrlc:seashells.name=貝殻
+tile.hfrlc:starfish.name=ヒトデ
+tile.hfrlc:pumpkin.name=カボチャ
+tile.hfrlc:dungeon_door.name=ダンジョンの扉
+tile.hfrlc:dungeon_door_desert.name=砂漠ダンジョンの扉
+tile.hfrlc:dungeon_door_snow.name=雪ダンジョンの扉
+tile.hfrlc:dungeon_door_red_desert.name=赤砂漠ダンジョンの扉
+tile.hfrlc:dungeon_door_key.name=鍵付きの扉
+tile.hfrlc:key_block.name=鍵ブロック
+
+## ===== BACKPACK VISUAL ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:backpack_visual_big.name=§f大きなバックパック
+item.spawn_egg.entity.hfrlc:backpack_visual_mid.name=§f中型バックパック
+item.spawn_egg.entity.hfrlc:backpack_visual.name=§f小さなバックパック
+
+## Entities
+entity.hfrlc:backpack_visual_big.name=大きなバックパック
+entity.hfrlc:backpack_visual_mid.name=中型バックパック
+entity.hfrlc:backpack_visual.name=小さなバックパック
+
+## ===== BOSS ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:dwarf_king.name=§pドワーフ王オトルルムのスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:god_boss.name=§p大師父トゥルムのスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:knight_king.name=§p守護者スケロルのスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:orc_boss.name=§p首領ダロクグのスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:pirate_king.name=§p七つの海の船長ヴァレクのスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:rlc_golem.name=§p塔の守護者のスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:skeleton_boss.name=§p死の騎士のスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:death_knight.name=§p死の騎士のスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:spider_king.name=§p蜘蛛の巣編みカラクのスポーンエッグ§r~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:frog_king.name=§pカエルのフロッギーのスポーンエッグ~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:griffin.name=§p雲織りノフリグのスポーンエッグ~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:leshen.name=§p森の野人のスポーンエッグ~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:ogre.name=§pオーガのオグロのスポーンエッグ~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:orc_king.name=§pオークのオルクルのスポーンエッグ~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:spider_queen.name=§p蜘蛛の女王のスポーンエッグ~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:werewolf.name=§pアルファライカンのスポーンエッグ~LINEBREAK~§7ボス
+item.spawn_egg.entity.hfrlc:ant_queen.name=§p蟻の女王のスポーンエッグ~LINEBREAK~§7ボス
+
+## Entities
+entity.hfrlc:dwarf_king_death.name=§l§aドワーフ王オトルルム
+entity.hfrlc:dwarf_king.name=§l§aドワーフ王オトルルム
+entity.hfrlc:god_boss_death.name=§l§6大師父トゥルム
+entity.hfrlc:god_boss.name=§l§6大師父トゥルム
+entity.hfrlc:knight_king_death.name=§l§u守護者スケロル
+entity.hfrlc:knight_king.name=§l§u守護者スケロル
+entity.hfrlc:orc_boss_death.name=§l§4首領ダロクグ
+entity.hfrlc:orc_boss.name=§l§4首領ダロクグ
+entity.hfrlc:pirate_king.name=§3§l七つの海の船長ヴァレク
+entity.hfrlc:rlc_golem.name=§l§f塔の守護者
+entity.hfrlc:skeleton_boss.name=§l§4死の騎士
+entity.hfrlc:death_knight.name=死の騎士
+entity.hfrlc:spider_king.name=§l§n蜘蛛の巣編みカラク
+entity.hfrlc:frog_king.name=§l§aカエルのフロッギー
+entity.hfrlc:griffin.name=§l雲織りノフリグ
+entity.hfrlc:leshen.name=§l森の野人
+entity.hfrlc:ogre.name=§l§8オーガのオグロ
+entity.hfrlc:orc_king.name=§l§2オークのオルクル
+entity.hfrlc:spider_queen.name=§l§4蜘蛛の女王
+entity.hfrlc:werewolf.name=§l§8アルファライカン
+entity.hfrlc:ant_queen.name=蟻の女王
+
+## ===== DRAGON ENTITIES (HOSTILE - DEFEAT TO MOUNT) =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:wyvern_air.name=風のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_dark.name=闇のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_earth.name=土のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_fire.name=火のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_ice.name=氷のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_lightning.name=雷のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_nature.name=自然のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_poison.name=毒のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+item.spawn_egg.entity.hfrlc:wyvern_water.name=水のドラゴンのスポーンエッグ~LINEBREAK~§7敵対的（騎乗するには倒すこと）
+
+## Entities
+entity.hfrlc:wyvern_air.name=§7§l風のドラゴン
+entity.hfrlc:wyvern_dark.name=§8§l闇のドラゴン
+entity.hfrlc:wyvern_earth.name=§6§l土のドラゴン
+entity.hfrlc:wyvern_fire.name=§c§l火のドラゴン
+entity.hfrlc:wyvern_ice.name=§b§l氷のドラゴン
+entity.hfrlc:wyvern_lightning.name=§e§l雷のドラゴン
+entity.hfrlc:wyvern_nature.name=§a§l自然のドラゴン
+entity.hfrlc:wyvern_poison.name=§d§l毒のドラゴン
+entity.hfrlc:wyvern_water.name=§9§l水のドラゴン
+
+## ===== HOSTILE ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:dwarf.name=ドワーフのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:knight.name=騎士のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:orc.name=オークのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:pirate_shark.name=海賊サメのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:pirate.name=海賊のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:frog.name=カエルのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:yeti.name=イエティのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:snake.name=蛇のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:sworm.name=スウォームのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:ancient_titan.name=古代タイタンのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:bee_queen.name=蜂の女王のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:cyclop.name=サイクロプスのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:divine_warrior.name=神聖なる戦士のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:golem.name=ゴーレムのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:icebutterfly.name=氷の蝶のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:monkey_king.name=猿の王のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:orc_leader.name=オークリーダーのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:pumpkinkido.name=死神のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:samurai.name=侍のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:satyre.name=サテュロスのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:shogun.name=死の将軍のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:crocodile.name=ワニのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:dead_shooter.name=死の射手のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:little_ant.name=小さな蟻のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:sea_serpent.name=海蛇のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:mosquito.name=蚊のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:rat.name=ネズミのスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:big_bad_fish.name=巨大悪魚のスポーンエッグ~LINEBREAK~§7敵対的
+item.spawn_egg.entity.hfrlc:sandworm_head.name=砂虫のスポーンエッグ~LINEBREAK~§7敵対的
+
+## Entities
+entity.hfrlc:dwarf.name=ドワーフ
+entity.hfrlc:knight.name=騎士
+entity.hfrlc:orc.name=オーク
+entity.hfrlc:pirate_shark.name=海賊サメ
+entity.hfrlc:pirate.name=海賊
+entity.hfrlc:frog.name=カエル
+entity.hfrlc:yeti.name=イエティ
+entity.hfrlc:snake.name=蛇
+entity.hfrlc:sworm.name=スウォーム
+entity.hfrlc:sworm_mouth.name=スウォーム
+entity.hfrlc:ancient_titan.name=古代タイタン
+entity.hfrlc:bee_queen.name=蜂の女王
+entity.hfrlc:cyclop.name=サイクロプス
+entity.hfrlc:divine_warrior.name=神聖なる戦士
+entity.hfrlc:golem.name=ゴーレム
+entity.hfrlc:icebutterfly.name=氷の蝶
+entity.hfrlc:monkey_king.name=猿の王
+entity.hfrlc:orc_leader.name=オークリーダー
+entity.hfrlc:pumpkinkido.name=死神
+entity.hfrlc:samurai.name=侍
+entity.hfrlc:satyre.name=サテュロス
+entity.hfrlc:shogun.name=死の将軍
+entity.hfrlc:crocodile.name=ワニ
+entity.hfrlc:dead_shooter.name=死の射手
+entity.hfrlc:little_ant.name=小さな蟻
+entity.hfrlc:sea_serpent.name=海蛇
+entity.hfrlc:mosquito.name=蚊
+entity.hfrlc:rat.name=ネズミ
+entity.hfrlc:big_bad_fish.name=巨大悪魚
+entity.hfrlc:sandworm_head.name=砂虫
+entity.hfrlc:sandworm_wheel.name=砂虫
+entity.hfrlc:sandworm_tail.name=砂虫
+
+## ===== NEUTRAL ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:bear.name=グリズリーベアのスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:boar.name=イノシシのスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:skunk.name=スカンクのスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:wolf.name=ダイアウルフのスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:goat_king.name=山羊の王のスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:paon.name=孔雀のスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:spirit_warrior.name=霊魂戦士のスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:tree_spirit.name=木の精霊のスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:scorpion.name=サソリのスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:baby_scorpion.name=小さなサソリのスポーンエッグ~LINEBREAK~§7中立
+item.spawn_egg.entity.hfrlc:giant_snail.name=巨大カタツムリのスポーンエッグ~LINEBREAK~§7中立
+
+## Entities
+entity.hfrlc:bear.name=グリズリーベア
+entity.hfrlc:boar.name=イノシシ
+entity.hfrlc:skunk.name=スカンク
+entity.hfrlc:wolf.name=ダイアウルフ
+entity.hfrlc:goat_king.name=山羊の王
+entity.hfrlc:paon.name=孔雀
+entity.hfrlc:spirit_warrior.name=霊魂戦士
+entity.hfrlc:tree_spirit.name=木の精霊
+entity.hfrlc:scorpion.name=サソリ
+entity.hfrlc:baby_scorpion.name=小さなサソリ
+entity.hfrlc:giant_snail.name=巨大カタツムリ
+
+## ===== FRIENDLY ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:firefly.name=ホタルのスポーンエッグ~LINEBREAK~§7友好的
+item.spawn_egg.entity.hfrlc:eagle.name=鷲のスポーンエッグ~LINEBREAK~§7友好的
+item.spawn_egg.entity.hfrlc:healingfairy.name=治癒の妖精のスポーンエッグ~LINEBREAK~§7友好的
+item.spawn_egg.entity.hfrlc:pigeon.name=ハトのスポーンエッグ~LINEBREAK~§7友好的
+item.spawn_egg.entity.hfrlc:deer.name=鹿のスポーンエッグ~LINEBREAK~§7友好的
+item.spawn_egg.entity.hfrlc:mini_snail.name=小さなカタツムリのスポーンエッグ~LINEBREAK~§7友好的
+
+## Entities
+entity.hfrlc:firefly.name=ホタル
+entity.hfrlc:eagle.name=鷲
+entity.hfrlc:healingfairy.name=治癒の妖精
+entity.hfrlc:pigeon.name=ハト
+entity.hfrlc:deer.name=鹿
+entity.hfrlc:mini_snail.name=小さなカタツムリ
+
+## ===== MOUNT ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:aeris.name=エアリスのスポーンエッグ~LINEBREAK~§7中立（マウント）
+item.spawn_egg.entity.hfrlc:biglizard.name=大トカゲのスポーンエッグ~LINEBREAK~§7中立（マウント）
+item.spawn_egg.entity.hfrlc:hippocampus.name=ヒッポカンポスのスポーンエッグ~LINEBREAK~§7友好的（マウント）
+
+## Entities
+entity.hfrlc:aeris.name=エアリス
+entity.hfrlc:biglizard.name=大トカゲ
+entity.hfrlc:hippocampus.name=ヒッポカンポス
+
+## ===== TRADER NPC ENTITIES =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:ant_women.name=蟻女のスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:cowbow.name=カウボーイのスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:dark_sensei.name=闇の先生のスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:divine_island.name=神聖な島のスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:dragon_hunter.name=ドラゴンハンターのスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:harry.name=ハリーのスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:merchant_orc.name=商人オークのスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:port_sailor.name=船長のスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:white_sensei.name=白い先生のスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:witch.name=魔女のスポーンエッグ~LINEBREAK~§7商人NPC
+item.spawn_egg.entity.hfrlc:wizard_golem.name=魔法使いゴーレムのスポーンエッグ~LINEBREAK~§7商人NPC
+
+## Entities
+entity.hfrlc:ant_women.name=蟻女
+entity.hfrlc:cowbow.name=カウボーイ
+entity.hfrlc:dark_sensei.name=闇の先生
+entity.hfrlc:divine_island.name=神聖な島
+entity.hfrlc:dragon_hunter.name=ドラゴンハンター
+entity.hfrlc:harry.name=ハリー
+entity.hfrlc:merchant_orc.name=商人オーク
+entity.hfrlc:port_sailor.name=船長
+entity.hfrlc:white_sensei.name=白い先生
+entity.hfrlc:witch.name=魔女
+entity.hfrlc:wizard_golem.name=魔法使いゴーレム
+
+## ===== SPECIAL ITEMS =====
+## Spawn Eggs
+item.spawn_egg.entity.hfrlc:djinn.name=古代のランプ~LINEBREAK~§7こすってください！
+item.spawn_egg.entity.hfrlc:sleepingbag.name=寝袋
+
+## Entities
+entity.hfrlc:djinn.name=ジン
+entity.hfrlc:sleepingbag.name=寝袋
+
+## ===== PROJECTILES AND ARROWS =====
+entity.hfrlc:cannon_ball.name=砲弾
+entity.hfrlc:dwarf_arrow.name=ドワーフ
+entity.hfrlc:knight_arrow.name=騎士
+entity.hfrlc:orc_arrow.name=オーク
+entity.hfrlc:pirate_arrow.name=海賊
+entity.hfrlc:pirate_shot.name=海賊
+entity.hfrlc:deadshooter_arrow.name=死の射手
+entity.hfrlc:fire_arrow.name=矢
+entity.hfrlc:ice_arrow.name=矢
+entity.hfrlc:player_bow.name=矢
+entity.hfrlc:player_trident.name=トライデント
+
+## ===== DRAGON PROJECTILES =====
+entity.hfrlc:wyvern_fire_loot.name=火のドラゴン
+entity.hfrlc:wyvern_air_knockback_player.name=風のドラゴン
+entity.hfrlc:wyvern_air_knockback.name=風のドラゴン
+entity.hfrlc:wyvern_air_projectile_player.name=風のドラゴン
+entity.hfrlc:wyvern_dark_projectile_player.name=闇のドラゴン
+entity.hfrlc:wyvern_earth_projectile_player.name=土のドラゴン
+entity.hfrlc:wyvern_fire_projectile_player.name=火のドラゴン
+entity.hfrlc:wyvern_ice_projectile_player.name=氷のドラゴン
+entity.hfrlc:wyvern_lightning_projectile_player.name=雷のドラゴン
+entity.hfrlc:wyvern_nature_projectile_player.name=自然のドラゴン
+entity.hfrlc:wyvern_poison_projectile_player.name=毒のドラゴン
+entity.hfrlc:wyvern_water_projectile_player.name=水のドラゴン
+entity.hfrlc:wyvern_air_tame.name=風のドラゴン
+entity.hfrlc:wyvern_dark_tame.name=闇のドラゴン
+entity.hfrlc:wyvern_earth_tame.name=土のドラゴン
+entity.hfrlc:wyvern_fire_tame.name=火のドラゴン
+entity.hfrlc:wyvern_ice_tame.name=氷のドラゴン
+entity.hfrlc:wyvern_lightning_tame.name=雷のドラゴン
+entity.hfrlc:wyvern_nature_tame.name=自然のドラゴン
+entity.hfrlc:wyvern_poison_tame.name=毒のドラゴン
+entity.hfrlc:wyvern_water_tame.name=水のドラゴン
+entity.hfrlc:wyvern_air_projectile1.name=風のドラゴン
+entity.hfrlc:wyvern_air_projectile2.name=風のドラゴン
+entity.hfrlc:wyvern_air_projectile3.name=風のドラゴン
+entity.hfrlc:wyvern_air_projectile4.name=風のドラゴン
+entity.hfrlc:wyvern_air_projectile5.name=風のドラゴン
+entity.hfrlc:wyvern_dark_projectile1.name=闇のドラゴン
+entity.hfrlc:wyvern_dark_projectile2.name=闇のドラゴン
+entity.hfrlc:wyvern_dark_projectile3.name=闇のドラゴン
+entity.hfrlc:wyvern_dark_projectile4.name=闇のドラゴン
+entity.hfrlc:wyvern_dark_projectile5.name=闇のドラゴン
+entity.hfrlc:wyvern_earth_projectile1.name=土のドラゴン
+entity.hfrlc:wyvern_earth_projectile2.name=土のドラゴン
+entity.hfrlc:wyvern_earth_projectile3.name=土のドラゴン
+entity.hfrlc:wyvern_earth_projectile4.name=土のドラゴン
+entity.hfrlc:wyvern_earth_projectile5.name=土のドラゴン
+entity.hfrlc:wyvern_fire_projectile1.name=火のドラゴン
+entity.hfrlc:wyvern_fire_projectile2.name=火のドラゴン
+entity.hfrlc:wyvern_fire_projectile3.name=火のドラゴン
+entity.hfrlc:wyvern_fire_projectile4.name=火のドラゴン
+entity.hfrlc:wyvern_fire_projectile5.name=火のドラゴン
+entity.hfrlc:wyvern_ice_projectile1.name=氷のドラゴン
+entity.hfrlc:wyvern_ice_projectile2.name=氷のドラゴン
+entity.hfrlc:wyvern_ice_projectile3.name=氷のドラゴン
+entity.hfrlc:wyvern_ice_projectile4.name=氷のドラゴン
+entity.hfrlc:wyvern_ice_projectile5.name=氷のドラゴン
+entity.hfrlc:wyvern_lightning_projectile1.name=雷のドラゴン
+entity.hfrlc:wyvern_lightning_projectile2.name=雷のドラゴン
+entity.hfrlc:wyvern_lightning_projectile3.name=雷のドラゴン
+entity.hfrlc:wyvern_lightning_projectile4.name=雷のドラゴン
+entity.hfrlc:wyvern_lightning_projectile5.name=雷のドラゴン
+entity.hfrlc:wyvern_nature_projectile1.name=自然のドラゴン
+entity.hfrlc:wyvern_nature_projectile2.name=自然のドラゴン
+entity.hfrlc:wyvern_nature_projectile3.name=自然のドラゴン
+entity.hfrlc:wyvern_nature_projectile4.name=自然のドラゴン
+entity.hfrlc:wyvern_nature_projectile5.name=自然のドラゴン
+entity.hfrlc:wyvern_poison_projectile1.name=毒のドラゴン
+entity.hfrlc:wyvern_poison_projectile2.name=毒のドラゴン
+entity.hfrlc:wyvern_poison_projectile3.name=毒のドラゴン
+entity.hfrlc:wyvern_poison_projectile4.name=毒のドラゴン
+entity.hfrlc:wyvern_poison_projectile5.name=毒のドラゴン
+entity.hfrlc:wyvern_water_projectile1.name=水のドラゴン
+entity.hfrlc:wyvern_water_projectile2.name=水のドラゴン
+entity.hfrlc:wyvern_water_projectile3.name=水のドラゴン
+entity.hfrlc:wyvern_water_projectile4.name=水のドラゴン
+entity.hfrlc:wyvern_water_projectile5.name=水のドラゴン
+
+## ===== WEAPON ENTITIES =====
+entity.hfrlc:wand_lightning_projectile.name=魔法の杖
+entity.hfrlc:fire_aspect.name=炎の属性
+entity.hfrlc:wyvern1.name=ドラゴン
+entity.hfrlc:wyvern2.name=ドラゴン
+entity.hfrlc:wyvern3.name=ドラゴン
+entity.hfrlc:wyvern4.name=ドラゴン
+entity.hfrlc:wyvern5.name=ドラゴン
+entity.hfrlc:dragon_attack_knockback.name=ドラゴン
+entity.hfrlc:holdfire.name=ドラゴン
+entity.hfrlc:wyvern_attack_knockback.name=ドラゴン
+
+## ===== SPECIAL SWORD ENTITIES =====
+entity.hfrlc:air_sword.controller.name=風の剣
+entity.hfrlc:air_sword.throw.name=風の剣
+entity.hfrlc:dirt_projectile.name=大地の剣
+entity.hfrlc:earth_sword.attack.explode.name=地形の剣
+entity.hfrlc:earth_sword.attack2.name=地形の剣
+entity.hfrlc:earth_sword.attack.name=地形の剣
+entity.hfrlc:earth_sword.attack.target.name=地形の剣
+entity.hfrlc:fire_sword.defense.name=炎の剣
+entity.hfrlc:fire_sword.projectile.name=炎の剣
+entity.hfrlc:fire_sword_boost.name=炎の剣
+entity.hfrlc:ice_cube.projectile.name=氷結の剣
+entity.hfrlc:ice_cube.explode.name=氷結の剣
+entity.hfrlc:ice_spikes.name=氷結の剣
+entity.hfrlc:ice_sword.target.name=氷結の剣
+entity.hfrlc:ice_sword.attack.name=氷結の剣
+entity.hfrlc:rocks.name=熱帯雨林の剣
+entity.hfrlc:lava_sword.explode.name=隕石の剣
+entity.hfrlc:lava_sword.projectile.name=隕石の剣
+entity.hfrlc:light_sword_boost.name=光輝の剣
+entity.hfrlc:light_sword.glow.name=光輝の剣
+entity.hfrlc:nether_sword.target.name=ネザーの剣
+entity.hfrlc:nether_sword.fire_attack.name=ネザーの剣
+entity.hfrlc:nether_sword.fire_attack.explode.name=ネザーの剣
+entity.hfrlc:spawn.controller.name=ネザーの剣
+entity.hfrlc:ocean_sword.attack.ripple.name=海の剣
+entity.hfrlc:ocean_sword.attack.name=海の剣
+entity.hfrlc:ocean_sword.boost.name=海の剣
+entity.hfrlc:thunder_sword.explode_small.name=雷鳴の剣
+entity.hfrlc:thunder_sword.impact.name=雷鳴の剣
+entity.hfrlc:thunder_sword.explode.name=雷鳴の剣
+entity.hfrlc:particle_rider.name=パーティクル
+entity.hfrlc:poison_projectile.name=毒の剣
+entity.hfrlc:spike_sword_boost.name=衝撃の剣
+entity.hfrlc:spike_sword.target.name=衝撃の剣
+entity.hfrlc:tornado.name=竜巻
+entity.hfrlc:toxic.name=毒の剣
+entity.hfrlc:water_beam_projectile.name=水流の剣
+entity.hfrlc:weapon13_knockback.name=木の盾
+
+## ===== GENERATOR AND RANDOMIZER ENTITIES =====
+entity.hfrlc:web.name=蜘蛛の巣
+entity.hfrlc:2_boss.name=ボスランダマイザー2
+entity.hfrlc:boss_tower_random.name=ボスランダマイザー
+entity.hfrlc:skysmall_random.name=ボスランダマイザー
+entity.hfrlc:boss_tower.name=天空塔ジェネレーター
+entity.hfrlc:dungeon.name=ダンジョンジェネレーター
+entity.hfrlc:random_npc_dungeon.name=ダンジョンNPCランダマイザー
+entity.hfrlc:random_npc.name=NPCランダマイザー
+entity.hfrlc:random_wyvern.name=ドラゴンランダマイザー
+
+## ===== SPECIAL EFFECT ENTITIES =====
+entity.hfrlc:lens_sun.name=レンズフレア
+entity.hfrlc:npcsign.name=NPC看板
+entity.hfrlc:explode_tower.name=塔爆破装置
+entity.hfrlc:explode.name=爆破装置
+entity.hfrlc:knockback.name=ノックバック装置
+entity.hfrlc:sing.name=歌声
+entity.hfrlc:wyvern_explode.name=ドラゴン爆発
+entity.hfrlc:wither_skull_dangerous.name=危険なウィザースカル
+entity.hfrlc:ender_tp_dummy.name=エンダーパール
+entity.hfrlc:drop_item.name=アイテムドロップ
+entity.hfrlc:play_the_tutorial.name=ドラゴン
+entity.hfrlc:acid.name=酸
+entity.hfrlc:leshen_scream.name=§l森の野人
+entity.hfrlc:ogre_attack.name=§l§8オーガのオグロ
+entity.hfrlc:roots.name=根
+entity.hfrlc:black_room.name=暗黒の部屋
+
+## ===== SURVIVAL/CRAFTING SYSTEM ENTITIES =====
+entity.hfrlc:bodyparts.name=身体部位
+entity.hfrlc:cold_temperature.name=低温
+entity.hfrlc:hot_temperature.name=高温
+entity.hfrlc:temperature.name=温度
+entity.hfrlc:fiber_string.name=繊維糸
+entity.hfrlc:fiber.name=繊維
+entity.hfrlc:flint_axe.name=火打石の斧
+entity.hfrlc:flint_dagger.name=火打石の短剣
+entity.hfrlc:flint_shard.name=火打石の欠片
+entity.hfrlc:flint.name=火打石
+entity.hfrlc:goat_horn.name=山羊の角
+entity.hfrlc:stick.name=棒
+entity.hfrlc:stone_axe.name=石の斧
+entity.hfrlc:stone_pickaxe.name=石のツルハシ
+entity.hfrlc:stone_sword.name=石の剣
+entity.hfrlc:wood_axe.name=木の斧
+entity.hfrlc:wood_pickaxe.name=木のツルハシ
+entity.hfrlc:wood_sword.name=木の剣
+entity.hfrlc:wood.name=木材
+
+## ===== UI AND SYSTEM ENTITIES =====
+entity.hfrlc:guide_texts.name=ガイドテキスト
+entity.hfrlc:heal_items.name=回復アイテム
+entity.hfrlc:thirts_items.name=渇き回復アイテム
+entity.hfrlc:trinket_bag.name=装身具袋
+entity.hfrlc:trinket_lore.name=装身具の説明
+entity.hfrlc:trinket_ui.name=装身具UI
+entity.hfrlc:system_level_item.name=システムレベルアイテム
+entity.hfrlc:system_level_ui.name=システムレベルUI
+entity.hfrlc:system_level.name=レベリングメニュー
+entity.hfrlc:trinket_menu.name=装身具メニュー
+
+## ===== WORLD INTERACTION ENTITIES =====
+entity.hfrlc:tombs.name=墓
+entity.hfrlc:warpstone.name=ワープストーン
+
+
+action.interact.rotate=回転
+action.interact.paint=塗装
+action.interact.wear=着用するには対話
+action.interact.sit=座る
+action.interact.ride=騎乗
+action.interact.wyvern.saddle=鞍を装着
+action.interact.wyvern.armor=防具を装備
+action.interact.wyvern.shoot=射撃
+action.interact.pick_up=拾う
+
+action.hint.tuto_dragon.hint.1=§6[!] 設定で後から難易度を~LINEBREAK~   変更できます。
+action.hint.tuto_dragon.hint.2=§6[!] チュートリアルを受けることを~LINEBREAK~   強く推奨します。
+action.hint.tuto_dragon.hint.3=§6[!] 既にチュートリアルを~LINEBREAK~   済ませた場合のみスキップしてください。
+action.hint.tuto_dragon.hint.4=§6[!] RLCraft: Bedrock Editionは~LINEBREAK~   RLCraft: Java Editionと異なります。
+action.hint.tuto_dragon.hint.5=§6[!] RLCraftはMinecraftの~LINEBREAK~   ゲームプレイを完全に変革します。
+
+action.hint.exit.hfrlc:sleepingbag=:_input_key.sneak:で退出
+action.hint.warpstone=§b:_input_key.attack:§rでメニューを開く。§b:_input_key.sneak:§r + §b:_input_key.attack:§rで破壊。
+action.hint.exit.hfrlc:stool=:_input_key.sneak:で退出
+action.hint.exit.hfrlc:woodchair=:_input_key.sneak:で退出
+action.hint.exit.hfrlc:woolchair=:_input_key.sneak:で退出
+action.hint.exit.hfrlc:woolcouch=:_input_key.sneak:で退出
+action.hint.exit.hfrlc:wyvern_air=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_dark=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_earth=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_fire=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_ice=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_lightning=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_nature=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_poison=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:wyvern_water=:_input_key.use:で射撃、:_input_key.sneak:で降りる
+action.hint.exit.hfrlc:hippocampus=:_input_key.sneak:でヒッポカンプスから降りる
+action.hint.exit.hfrlc:aeris=上下を見て飛行
+action.hint.exit.hfrlc:biglizard=:_input_key.sneak:でビッグリザードから降りる
+
+action.black_room.start=開始
+action.sleepingbag=§cお昼寝タイム？昼間は眠れないので、他の人と同じように起きて苦しめ。
+
+hfrlc:bow=RLCraftの弓
+hfrlc:dragon_armor=ドラゴンアーマー
+hfrlc:healing_capsule=治癒カプセル
+hfrlc:levelup_token=レベルアップトークン
+hfrlc:travel=旅行
+hfrlc:trinkets=護符
+hfrlc:important_items=重要アイテム
+hfrlc:dragon_scales=ドラゴンの鱗
+hfrlc:dragon_parts=ドラゴンの部位
+hfrlc:coins=コイン
+hfrlc:essences=エッセンス
+hfrlc:backpack=バックパック
+hfrlc:furniture=家具
+
+## 食べ物
+item.hfrlc:cooked_boar_meat=調理済みイノシシ肉
+item.hfrlc:cooked_deer_meat=調理済みシカ肉
+item.hfrlc:cooked_eagle_meat=調理済みワシ肉
+item.hfrlc:cooked_grizzly_meat=調理済みグリズリー肉
+item.hfrlc:cooked_rat_meat=調理済みネズミ肉
+item.hfrlc:cooked_skunk_meat=調理済みスカンク肉
+item.hfrlc:cooked_snake_meat=調理済み硬い肉
+item.hfrlc:cooked_wolf_meat=調理済みオオカミ肉
+item.hfrlc:raw_boar_meat=生イノシシ肉
+item.hfrlc:raw_deer_meat=生シカ肉
+item.hfrlc:raw_eagle_meat=生ワシ肉
+item.hfrlc:raw_grizzly_meat=生グリズリー肉
+item.hfrlc:raw_rat_meat=生ネズミ肉
+item.hfrlc:raw_skunk_meat=生スカンク肉
+item.hfrlc:raw_snake_meat=生の硬い肉
+item.hfrlc:raw_wolf_meat=生オオカミ肉
+item.hfrlc:pumpkin_slice=かぼちゃのスライス
+
+## クラフト材料
+item.hfrlc:black_dragon_scales=§f黒ドラゴンの鱗
+item.hfrlc:blue_dragon_scales=§f青ドラゴンの鱗
+item.hfrlc:brown_dragon_scales=§f茶ドラゴンの鱗
+item.hfrlc:diamond_wyvern_armor=§fダイヤモンドドラゴンアーマー
+item.hfrlc:dragon_heart=§dドラゴンハート
+item.hfrlc:dragon_skull=§dドラゴンスカル
+item.hfrlc:flaming_dragon_blood=§f炎ドラゴンの霊魂
+item.hfrlc:flint_shard=§f火打石の欠片
+item.hfrlc:gold_wyvern_armor=§fゴールドドラゴンアーマー
+item.hfrlc:green_dragon_scales=§f緑ドラゴンの鱗
+item.hfrlc:ice_dragon_blood=§f氷ドラゴンの霊魂
+item.hfrlc:info_book=§fRLCraftメニュー
+item.hfrlc:iron_wyvern_armor=§f鉄ドラゴンアーマー
+item.hfrlc:netherite_wyvern_armor=§fネザライトドラゴンアーマー
+item.hfrlc:paint=筆
+item.hfrlc:plant_fibers_rope=§f植物繊維ロープ
+item.hfrlc:plant_fibers=§f植物繊維
+item.hfrlc:red_dragon_scales=§f赤ドラゴンの鱗
+
+## 販売用アイテム
+item.hfrlc:pirate_armor_plates=§f毛皮の箱~LINEBREAK~§7価値: 1
+item.hfrlc:pirate_cloth=§f海賊の布~LINEBREAK~§7価値: 1
+item.leather.name=§f革~LINEBREAK~§7価値: 1
+item.rabbit_hide.name=§fウサギの皮~LINEBREAK~§7価値: 1
+item.quartz.name=§fネザークォーツ~LINEBREAK~§7価値: 1
+item.nautilus_shell.name=§fノーチラスの貝殻~LINEBREAK~§7価値: 1
+item.gold_ingot.name=§f金インゴット~LINEBREAK~§7価値: 2
+item.iron_ingot.name=§f鉄インゴット~LINEBREAK~§7価値: 1
+item.netherite_ingot.name=§bネザライトインゴット~LINEBREAK~§7価値: 4
+item.netherite_scrap.name=§bネザライトの欠片~LINEBREAK~§7価値: 1
+item.echo_shard.name=§bエコーシャード~LINEBREAK~§7価値: 1
+item.diamond.name=§fダイヤモンド~LINEBREAK~§7価値: 3
+item.emerald.name=§fエメラルド~LINEBREAK~§7価値: 1
+item.hfrlc:ancient_sprouts=§f古代の新芽~LINEBREAK~§7価値: 1
+item.hfrlc:scorpion_tails=§fサソリの尾~LINEBREAK~§7価値: 3
+item.hfrlc:samurai_armor_plates=§f古代のプレート~LINEBREAK~§7価値: 3
+item.amethyst_shard.name=§fアメジストシャード~LINEBREAK~§7価値: 1
+item.spider_eye.name=§fクモの目~LINEBREAK~§7価値: 1
+item.fermented_spider_eye.name=§f発酵したクモの目~LINEBREAK~§7価値: 3
+item.hfrlc:dragon_bone=§bドラゴンの骨~LINEBREAK~§7価値: 1
+item.hfrlc:wyvern_skull=§bドラゴンの頭蓋骨の欠片~LINEBREAK~§7価値: 2
+item.hfrlc:wither_bone=§fウィザーの骨~LINEBREAK~§7価値: 4
+item.slime_ball.name=§fスライムボール~LINEBREAK~§7価値: 1
+item.wind_charge.name=§f風のチャージ~LINEBREAK~§7価値: 1
+item.armadillo_scute.name=§fアルマジロの鱗板~LINEBREAK~§7価値: 2
+item.turtle_shell_piece.name=§f亀の鱗板~LINEBREAK~§7価値: 2
+item.shulker_shell.name=§fシュルカーの殻~LINEBREAK~§7価値: 2
+item.book.name=§f本~LINEBREAK~§7価値: 2
+item.heart_of_the_sea.name=§f海の心臓~LINEBREAK~§7価値: 1
+item.hfrlc:orcish_scribbles=§bオークの走り書き~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"これらの文字は非常に原始的に見えるが、~LINEBREAK~§oその意味は~LINEBREAK~§o不明である。"§r
+item.hfrlc:knight_orders=§b騎士の命令~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"彼らは何かを探している...~LINEBREAK~§o  あるいは誰かを..."§r
+item.hfrlc:dwarven_tome=§bドワーフの書~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"紙の上ですら、ドワーフ語は~LINEBREAK~§oまるでノミで~LINEBREAK~§o刻まれたようだ。"§r
+item.hfrlc:tower_blessing=§b神聖な予言~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"この巻物には~LINEBREAK~§o自分の姿しか~LINEBREAK~§o映らない。"§r
+
+item.hfrlc:power_crystal=§bパワークリスタル
+item.hfrlc:power_shard=§bパワーシャード
+item.hfrlc:health_crystal=§cヘルスクリスタル~LINEBREAK~§7再生 II (0:03)~LINEBREAK~体力が永久に増加
+item.hfrlc:health_crystal_shard=§cヘルスシャード
+item.hfrlc:xp=§e経験の書~LINEBREAK~§7+15 レベル
+item.hfrlc:agility_token=§e敏捷のルーンストーン~LINEBREAK~§7+1 敏捷性レベル
+item.hfrlc:melee_token=§e近接戦闘のルーンストーン~LINEBREAK~§7+1 近接レベル
+item.hfrlc:mining_token=§e採掘のルーンストーン~LINEBREAK~§7+1 採掘レベル
+item.hfrlc:armor_token=§e防具のルーンストーン~LINEBREAK~§7+1 防具レベル
+item.hfrlc:system_level=§f§lレベリングメニュー§r~LINEBREAK~§7操作してインターフェースを開く
+item.hfrlc:trinket_menu=§f§l装飾品バッグ§r~LINEBREAK~§7操作してインターフェースを開く
+item.hfrlc:bandage=§f包帯~LINEBREAK~§7再生 II (0:03)~LINEBREAK~骨折した部位を回復
+item.hfrlc:heal1=§f治癒のフラスコ~LINEBREAK~§7再生 V (0:01)
+item.hfrlc:heal2=§b治癒のボトル~LINEBREAK~§7再生 V (0:06)~LINEBREAK~骨折した部位を回復
+item.hfrlc:heal3=§d治癒の薬~LINEBREAK~§7瞬時回復 X~LINEBREAK~骨折した部位を回復
+item.hfrlc:blue_bush_fruit=フロストベリー~LINEBREAK~§7耐熱 I
+item.hfrlc:orange_bush_fruit=エンバーフルーツ~LINEBREAK~§7耐冷 I
+item.hfrlc:red_root=スカーレットルート
+item.hfrlc:recover_potion=§fリコールポーション~LINEBREAK~§7最後に死亡した地点へテレポート
+item.hfrlc:sleeping_bag=§f寝袋~LINEBREAK~§7スポーンポイントは設定されない
+item.hfrlc:teleport_scroll=§fテレポートスクロール~LINEBREAK~§7最後に設定したスポーンポイントへテレポート
+item.hfrlc:warpstone=§fワープストーン~LINEBREAK~§7攻撃してインターフェースを開く
+item.hfrlc:water_flasks_empty=§f水袋~LINEBREAK~§7使用回数: 0~LINEBREAK~水を入れて満たす
+item.hfrlc:water_flasks=§f水袋
+item.hfrlc:copper_coin=銅貨
+item.hfrlc:silver_coin=銀貨
+item.hfrlc:gold_coin=金貨
+item.hfrlc:air_essence=§b風のエッセンス
+item.hfrlc:earth_essence=§b大地のエッセンス
+item.hfrlc:fire_essence=§b火のエッセンス
+item.hfrlc:ice_essence=§b氷のエッセンス
+item.hfrlc:thunder_essence=§d雷の石
+item.hfrlc:water_essence=§b水のエッセンス
+item.hfrlc:briariron_ingot=§bブライアアイアンインゴット
+item.hfrlc:neptunium_ingot=§bネプツニウムインゴット
+item.hfrlc:shadow_stone=§b影の石
+item.hfrlc:voidsteel_ingot=§dヴォイドスチールインゴット
+
+## ARMOR
+item.turtle_helmet.name=§l§f亀のヘルメット§r§f~LINEBREAK~ 
+item.elytra.name=§l§fエリトラ§r§f~LINEBREAK~
+
+item.leather_boots.name=§l§f革のブーツ§r§f~LINEBREAK~ 
+item.leather_chestplate.name=§l§f革のチュニック§r§f~LINEBREAK~ 
+item.leather_helmet.name=§l§f革のヘルメット§r§f~LINEBREAK~ 
+item.leather_leggings.name=§l§f革のレギンス§r§f~LINEBREAK~ 
+
+item.golden_boots.name=§l§f金のブーツ§r§f~LINEBREAK~ 
+item.golden_chestplate.name=§l§f金のチェストプレート§r§f~LINEBREAK~ 
+item.golden_helmet.name=§l§f金のヘルメット§r§f~LINEBREAK~ 
+item.golden_leggings.name=§l§f金のレギンス§r§f~LINEBREAK~ 
+
+item.hfrlc:pirate_boots=§l§fコルセアブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
+item.hfrlc:pirate_chestplate=§l§fコルセアチュニック§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
+item.hfrlc:pirate_helmet=§l§fコルセア三角帽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
+item.hfrlc:pirate_leggings=§l§fコルセアレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
+
+item.iron_boots.name=§l§f鉄のブーツ§r§f~LINEBREAK~ 
+item.iron_chestplate.name=§l§f鉄のチェストプレート§r§f~LINEBREAK~ 
+item.iron_helmet.name=§l§f鉄のヘルメット§r§f~LINEBREAK~ 
+item.iron_leggings.name=§l§f鉄のレギンス§r§f~LINEBREAK~ 
+
+item.chainmail_boots.name=§l§fチェーンメイルブーツ§r§f~LINEBREAK~ 
+item.chainmail_chestplate.name=§l§fチェーンメイルチェストプレート§r§f~LINEBREAK~ 
+item.chainmail_helmet.name=§l§fチェーンメイルヘルメット§r§f~LINEBREAK~ 
+item.chainmail_leggings.name=§l§fチェーンメイルレギンス§r§f~LINEBREAK~ 
+
+item.diamond_boots.name=§l§fダイヤモンドブーツ§r§f~LINEBREAK~ 
+item.diamond_chestplate.name=§l§fダイヤモンドチェストプレート§r§f~LINEBREAK~ 
+item.diamond_helmet.name=§l§fダイヤモンドヘルメット§r§f~LINEBREAK~ 
+item.diamond_leggings.name=§l§fダイヤモンドレギンス§r§f~LINEBREAK~ 
+
+item.netherite_boots.name=§l§fネザライトブーツ§r§f~LINEBREAK~ 
+item.netherite_chestplate.name=§l§fネザライトチェストプレート§r§f~LINEBREAK~ 
+item.netherite_helmet.name=§l§fネザライトヘルメット§r§f~LINEBREAK~ 
+item.netherite_leggings.name=§l§fネザライトレギンス§r§f~LINEBREAK~ 
+
+item.hfrlc:blue_dragon_boots=§l§fブルードラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:blue_dragon_chestplate=§l§fブルードラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:blue_dragon_helmet=§l§fブルードラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:blue_dragon_leggings=§l§fブルードラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+
+item.hfrlc:brown_dragon_boots=§l§fブラウンドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:brown_dragon_chestplate=§l§fブラウンドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:brown_dragon_helmet=§l§fブラウンドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:brown_dragon_leggings=§l§fブラウンドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+
+item.hfrlc:green_dragon_boots=§l§fグリーンドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:green_dragon_chestplate=§l§fグリーンドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:green_dragon_helmet=§l§fグリーンドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:green_dragon_leggings=§l§fグリーンドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+
+item.hfrlc:red_dragon_boots=§l§fレッドドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:red_dragon_chestplate=§l§fレッドドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:red_dragon_helmet=§l§fレッドドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:red_dragon_leggings=§l§fレッドドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+
+item.hfrlc:dark_dragon_boots=§l§fブラックドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
+item.hfrlc:dark_dragon_chestplate=§l§fブラックドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
+item.hfrlc:dark_dragon_helmet=§l§fブラックドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
+item.hfrlc:dark_dragon_leggings=§l§fブラックドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
+
+item.hfrlc:earth_dragon_boots=§l§fドラゴンボーンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:earth_dragon_chestplate=§l§fドラゴンボーンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:earth_dragon_helmet=§l§fドラゴンボーンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:earth_dragon_leggings=§l§fドラゴンボーンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+
+item.hfrlc:samurai_boots=§l§fローニンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
+item.hfrlc:samurai_chestplate=§l§fローニンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
+item.hfrlc:samurai_helmet=§l§fローニンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
+item.hfrlc:samurai_leggings=§l§fローニンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
+
+## TRINKETS
+item.hfrlc:golden_ring=§l§f黄金の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"見た目より少し重いようだ。"§r
+item.hfrlc:ancient_root=§l§f古代の根§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~鈍足耐性~LINEBREAK~~LINEBREAK~§7§o"こぶのある木は疲労を吸収する。"§r
+item.hfrlc:goat_horns=§l§fヤギの角§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~採掘疲労耐性~LINEBREAK~~LINEBREAK~§7§o"金箔が施されている。"§r
+item.hfrlc:cyclops_eye=§l§fサイクロプスの目§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~盲目耐性~LINEBREAK~暗闇耐性~LINEBREAK~~LINEBREAK~§7§o"たとえ一つ目でも役に立つ。"§r
+item.hfrlc:teddy_of_comfort=§l§f安らぎのテディ§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"抱擁はすべての傷を癒す。"§r
+item.hfrlc:warmer=§l§f永遠の焔§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐寒 I~LINEBREAK~~LINEBREAK~§7§o"小さな火種は~LINEBREAK~§o  炎に包まれている。~LINEBREAK~§o  寒さに関係なく、暖かさを保つ。"§r
+item.hfrlc:ice_bag=§l§f永遠の氷§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐熱 I~LINEBREAK~~LINEBREAK~§7§o"いかなる熱にも~LINEBREAK~§o  氷は溶けない。"§r
+item.hfrlc:antidote_vital=§l§f解毒の小瓶§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~毒耐性~LINEBREAK~~LINEBREAK~§7§o"どれだけ振っても~LINEBREAK~§o  中の液体は動かない。"§r
+item.hfrlc:greatest_shield=§l§f偉大なる盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ノックバック耐性~LINEBREAK~体力増強 I~LINEBREAK~~LINEBREAK~§7§o"振動をすべて~LINEBREAK~§o  吸収する。"§r
+item.hfrlc:ring_jump=§l§f跳躍の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~跳躍強化 II~LINEBREAK~~LINEBREAK~§7§o"以前よりずっと~LINEBREAK~§o  軽く感じる…不思議だ。"§r
+item.hfrlc:ring_speed=§l§fクイックフィンガー§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 I~LINEBREAK~~LINEBREAK~§7§o"どこか別の~LINEBREAK~§o  場所へ行きたい~LINEBREAK~§o  欲求をささやく。"§r
+item.hfrlc:blessed_water=§l§f祝福の水§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ウィザー耐性~LINEBREAK~~LINEBREAK~§7§o"一滴で~LINEBREAK~§o  あらゆる汚れを~LINEBREAK~§o  洗い流す。"§r
+item.hfrlc:mining_amulet=§l§f採掘のお守り§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~加速 I~LINEBREAK~~LINEBREAK~§7§o"前方への~LINEBREAK~§o  道を照らす。"§r
+item.hfrlc:shulker_anchor=§l§fシュルカーアンカー§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~浮遊耐性~LINEBREAK~~LINEBREAK~§7§o"何か魔法の力が~LINEBREAK~§o  地面に引き寄せる。"§r
+item.hfrlc:dragon_eyes=§l§fドラゴンの目§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~火耐性~LINEBREAK~暗視~LINEBREAK~暗闇耐性~LINEBREAK~~LINEBREAK~§7§o"炎の視線は~LINEBREAK~§o  すべての影を~LINEBREAK~§o  焼き尽くす。"§r
+item.hfrlc:ring_regeneration=§l§f再生の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"指先で脈打つ。"§r
+item.hfrlc:ring_resistance=§l§f耐性の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐性 I~LINEBREAK~~LINEBREAK~§7§o"試練の中で鍛えられた。"§r
+item.hfrlc:ring_strength=§l§f力の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~力 I~LINEBREAK~~LINEBREAK~§7§o"巨人の力が内に眠る。"§r
+item.hfrlc:feather_swiftness=§l§fフェザー・スウィフトネス§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 II~LINEBREAK~落下軽減 II~LINEBREAK~~LINEBREAK~§7§o"どこへ行っても風がついてくる。"§r
+item.hfrlc:great_horn_shield=§l§f偉大なる角盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ノックバック耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~体力増強 I~LINEBREAK~~LINEBREAK~§7§o"保護の印が刻まれている。"§r
+item.hfrlc:withering_necklace=§l§f枯死のネックレス§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ウィザーアスペクト I~LINEBREAK~~LINEBREAK~§7§o"ウィザーの頭蓋骨は休眠しているようだ。"§r
+item.hfrlc:panacea=§p§l万病薬§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~盲目耐性~LINEBREAK~鈍足耐性~LINEBREAK~毒耐性~LINEBREAK~ウィザー耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~浮遊耐性~LINEBREAK~~LINEBREAK~§7§o"すべてを癒す一つの薬。"§r
+item.hfrlc:dragon_slayer_cape=§p§l竜狩りのケープ§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~盲目耐性~LINEBREAK~鈍足耐性~LINEBREAK~毒耐性~LINEBREAK~ウィザー耐性~LINEBREAK~ノックバック耐性~LINEBREAK~爆発耐性~LINEBREAK~火耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~~LINEBREAK~§7§o"勝利の証が織り込まれている。"§r
+item.hfrlc:dragon_slayer_ring=§p§l竜狩りの指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~力 II~LINEBREAK~体力増強 V~LINEBREAK~耐性 I~LINEBREAK~~LINEBREAK~§7§o"彼らが恐れる一振り。"§r
+item.hfrlc:lapis_ring=§l§fラピスの指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"反射性は劣るが確かに上品だ。"§r
+item.hfrlc:silver_ring=§l§f鉄の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"十分に輝き、~LINEBREAK~§o誰かに~LINEBREAK~§o銀と間違えられるほどだ。"§r
+item.hfrlc:netherite_ring=§l§fネザライトの指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"この世界に属していない~LINEBREAK~§oこの平面のものではない~LINEBREAK~§o誰かがこれを~LINEBREAK~§o下層のネザーへ返すべきだ。"§r
+
+
+## SWORDS
+item.wooden_sword.name=§l§f木の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"熟練への第一歩。"§r
+item.stone_sword.name=§l§f石の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"戦士のための確かな基盤。"§r
+item.golden_sword.name=§l§f金の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"光沢はあるが頑丈ではない。"§r
+item.hfrlc:spike_sword=§l§fインパルス§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して空中で勢いを得る。~LINEBREAK~鉄インゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"一振りごとに重力を無視する。"§r
+item.iron_sword.name=§l§f鉄の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"技術で鍛えられた頼れる鋼。"§r
+item.hfrlc:darkness_sword=§l§fシャドウレンド§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して影に隠れる。~LINEBREAK~シャドウストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"倒した者は影の領域へ送られる。"§r
+item.hfrlc:weapon_4=§l§f骨の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9シャドウストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"死神の鋭い刃。"§r
+item.hfrlc:water_sword=§l§fカレント§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して水流の弾を発射する。~LINEBREAK~水のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"純粋な水が鋼を流れる。"§r
+item.diamond_sword.name=§l§fダイヤモンドソード§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"武器としての結晶的な完璧さ。"§r
+item.hfrlc:air_sword=§l§fビジランス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して突風を発生させる。~LINEBREAK~風のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"風の力を自在に操る。"§r
+item.hfrlc:light_sword=§l§fエアリスリル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用してスーパージャンプを行う。~LINEBREAK~風のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"星々へと跳ぶ。"§r
+item.hfrlc:weapon_8=§l§f氷の剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~~LINEBREAK~§9氷のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"冬の咬みつきが具現化する。"§r
+item.netherite_sword.name=§l§fネザライトソード§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ネザーの深淵で鍛えられた。"§r
+item.hfrlc:fire_sword=§l§fフレイムソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して炎の飛翔体を発射する。~LINEBREAK~火のエッセンスで修理。~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~~LINEBREAK~§7§o"炎の飛翔体が敵を焼き尽くす。"§r
+item.hfrlc:ice_sword=§l§fグレイシア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して氷の飛翔体を発射する。~LINEBREAK~しゃがんで攻撃すると氷の槍を生成する。~LINEBREAK~氷のエッセンスで修理。~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~~LINEBREAK~§7§o"氷の槍はしゃがむと突き刺さる。"§r
+item.hfrlc:ocean_sword=§l§fタイドピアサー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9しゃがみ使用で水の飛翔体を発射する。~LINEBREAK~アイテムを使用して水の衝撃波を発生させる。~LINEBREAK~ネプツニウムインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"命令ひとつで潮の波が押し寄せる。"§r
+item.hfrlc:weapon_6=§l§fエルデンソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古の力が鋼を流れる。"§r
+item.hfrlc:weapon_7=§l§fロングソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"リーチを伸ばし戦闘を拡張する。"§r
+item.hfrlc:weapon_5=§l§fハンマーソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"破壊力が切れ味と融合する。"§r
+item.hfrlc:dragon_bone_sword=§l§fドラゴンボーンロングソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古のドラゴンの残骸から鍛えられた。"§r
+item.hfrlc:earth_sword=§l§fランドスプリット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して、近くの敵にダメージを与える鍾乳石を生成する。~LINEBREAK~ブライアアイアンインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"大地から石の槍が立ち上がる。"§r
+item.hfrlc:ice_dragon_bone_sword=§l§fブリザード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"氷と骨が一体となって鍛え上げられた。"§r
+item.hfrlc:fire_dragon_bone_sword=§l§fエンバーソング§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"ドラゴンの炎そのもので鍛えられた。"§r
+item.hfrlc:lava_sword=§l§fメテオソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して隕石を生成する。~LINEBREAK~火のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"天より隕石が降り注ぐ。"§r
+item.hfrlc:ender_sword=§l§fブリンク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して対象へテレポートする。~LINEBREAK~ヴォイドスチールインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"狙った場所へテレポートする。"§r
+item.hfrlc:storm_sword=§l§f旋風§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用してハリケーンを発生。~LINEBREAK~サンダーストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"嵐はお前の意志に従う。"§r
+item.hfrlc:thunder_sword=§l§fストームブレイク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して稲妻を呼び起こす。~LINEBREAK~サンダーストーンで修理。~LINEBREAK~~LINEBREAK~§9Lightning Aspect~LINEBREAK~~LINEBREAK~§7§o"雷は一撃ごとに従う。"§r
+item.hfrlc:elemental_sword=§l§pアルガヴェイルド§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~§r§dスニークで属性を切り替え~LINEBREAK~~LINEBREAK~§7§o"ついに…休息できる。"§r
+item.hfrlc:dirt_sword=§l§fアースソード§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して土の飛翔体を発射。~LINEBREAK~土で修理。~LINEBREAK~~LINEBREAK~§7§o"大地の基盤が武器となる。"§r
+item.hfrlc:jungle_sword=§l§fエバーグリーン§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して地中から岩を噴出。~LINEBREAK~大地のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"大地の息吹を望む。"§r
+
+## 大剣
+item.hfrlc:wither_sword=§l§fスレイヤー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用してウィザー飛翔体を発射。~LINEBREAK~ヘビーコアで修理。~LINEBREAK~~LINEBREAK~§uWither Aspect~LINEBREAK~~LINEBREAK~§7§o"死神そのものがこの刃を導く。"§r
+item.hfrlc:nether_sword=§l§fヘルファイア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して溶岩攻撃を発生。~LINEBREAK~ヘビーコアで修理。~LINEBREAK~~LINEBREAK~§7§o"地獄の炎が刃を貫く。"§r
+item.hfrlc:poison_sword=§l§fミアソーン§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して毒の飛翔体を発射。~LINEBREAK~ヘビーコアで修理。~LINEBREAK~~LINEBREAK~§2Poisonous~LINEBREAK~~LINEBREAK~§7§o"毒が刃先から滴る。"§r
+
+## 刀
+item.hfrlc:weapon_10=§l§f刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"刀の道、その体現。"§r
+item.hfrlc:dragon_bone_katana=§l§fドラゴンボーン刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"文明の時代に相応しい優雅な武器。"§r
+item.hfrlc:ice_dragon_bone_katana=§l§fフロストバイト§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"氷と竜の魂が融合し金属を断つ。"§r
+item.hfrlc:fire_dragon_bone_katana=§l§fバーンウェイク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"炎竜の魂が柄に宿る。"§r
+item.hfrlc:legendary_katana=§l§pスピリット刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r~LINEBREAK~~LINEBREAK~§7§o"古の魂がこの刃を導く。"§r
+
+## DAGGERS
+item.hfrlc:flint_dagger=§l§f火打ち石の短剣§r§f~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"植物から繊維を~LINEBREAK~§o  抽出するには十分だ。"§r
+item.hfrlc:wooden_dagger=§l§f木の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"かろうじて~LINEBREAK~§o  紙を切るだけだ。"§r
+item.hfrlc:golden_dagger=§l§f金の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"一撃ごとに~LINEBREAK~§o  刃がひどく欠ける。"§r
+item.hfrlc:stone_dagger=§l§f石の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"重いが~LINEBREAK~§o  見た目ほど鈍くない。"§r
+item.hfrlc:iron_dagger=§l§f鉄の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"鋭い刃は~LINEBREAK~§o  誰かを刺したがっている。"§r
+item.hfrlc:weapon_9=§l§fジャンビーヤ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"黄金の柄は~LINEBREAK~§o  あなたにはわからない装飾で~LINEBREAK~§o  彫られている。"§r
+item.hfrlc:diamond_dagger=§l§fダイヤモンドダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"見た目は繊細だが~LINEBREAK~§o  正確さでは致命的だ。"§r
+item.hfrlc:netherite_dagger=§l§fネザライトダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"暗い金属が~LINEBREAK~§o  日光の下で紫に輝く。"§r
+item.hfrlc:dragon_bone_dagger=§l§fドラゴンボーンダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9稀に二倍ダメージを与える~LINEBREAK~~LINEBREAK~§3Dragonbane~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"竜の爪は~LINEBREAK~§o  お前の手中にある。"§r
+item.hfrlc:ice_dragon_bone_dagger=§l§fヘイルシャード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"氷の槍はしゃがむと~LINEBREAK~§o  突き刺さる。"§r
+item.hfrlc:fire_dragon_bone_dagger=§l§fブレイジングエッジ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"炎竜の魂が~LINEBREAK~§o  柄に宿る。"§r
+
+## 槍
+item.hfrlc:wooden_spear=§l§f木の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"先端に野心を宿す棒。"§r
+item.hfrlc:golden_spear=§l§f金の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"金色だがそれほど貴重ではない。"§r
+item.hfrlc:stone_spear=§l§f石の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始的だが驚くほど効果的だ。"§r
+item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"栄誉が一突きごとに導く。"§r
+item.hfrlc:iron_spear=§l§f鉄の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"信頼できてバランスが良い。"§r
+item.hfrlc:diamond_spear=§l§fダイヤモンドの槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"刺突の極致を具現化した。"§r
+item.hfrlc:netherite_spear=§l§fネザライトの槍§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"折れない闇を鋼に鍛え上げた。"§r
+item.hfrlc:dragon_bone_spear=§l§fドラゴンボーンの槍§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"竜の精髄が先端を研ぎ澄ます。"§r
+item.hfrlc:ice_dragon_bone_spear=§l§fWinterwyrm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"凍りついた息が鋼となった。"§r
+item.hfrlc:fire_dragon_bone_spear=§l§fCinderspine§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"先端は永遠の炎で燃え盛る。"§r
+
+## 三叉槍
+item.trident.name=§l§fトライデント§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"魚の匂いがする…"§r
+item.hfrlc:weapon_11=§l§fNeptunium Trident§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Projectile Damage~LINEBREAK~Loyalty~LINEBREAK~ネプツニウムインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"三叉の牙が水の怒りを呼び起こす。"§r
+
+## WARHAMMERS
+item.hfrlc:dragon_bone_hammer=§l§fドラゴンボーンウォーハンマー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"武器となった原始の竜の力。"§r
+item.hfrlc:ice_dragon_bone_hammer=§l§fドミニオン§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"永遠の冬が武器となる。"§r
+item.hfrlc:fire_dragon_bone_hammer=§l§fファーネス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"溶岩の怒りが具現化した。"§r
+item.mace.name=§l§fメイス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一撃ごとに大地を震わす衝撃。"§r
+
+## SHIELDS
+item.hfrlc:weapon_13=§l§f木の盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"大自然の贈り物からのシンプルな守り。"§r
+item.shield.name=§l§f盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一日中これをやっていられるぜ…"§r
+
+
+## STAVES
+item.hfrlc:weapon_12=§l§f魔法の杖§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"秘術のエネルギーが内に満ちる。"§r
+
+## BOWS
+item.crossbow.name=§l§fクロスボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"イリジャーの選択。"§r
+item.bow.name=§l§f弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"汝の矢が貫き通さんことを。"§r
+item.hfrlc:weapon_1=§l§fロングボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"精密射撃のための射程延長。"§r
+item.hfrlc:dragon_bone_bow=§l§fドラゴンボーンボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"古の力が一矢ごとに導く。"§r
+item.hfrlc:fire_dragon_bow=§l§fエンバーギア§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§9+20 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"龍の炎が矢に宿る。"§r
+item.hfrlc:ice_dragon_bone_bow=§l§fフロストスナップ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§9+20 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"飛翔中の矢が凍りつく。"§r
+
+## TOOLS
+item.wooden_axe.name=§l§f木の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"頼りないが、仕事はこなす。"§r
+item.wooden_shovel.name=§l§f木のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"土の最悪の悪夢！~LINEBREAK~…壊れるまでは。"§r
+item.wooden_pickaxe.name=§l§f木のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"丸石の一番苦手な相棒。"§r
+item.wooden_hoe.name=§l§f木のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"土には勝ち目がない…たぶん。"§r
+
+item.stone_axe.name=§l§f石の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"枯れ木を切るには十分。"§r
+item.stone_shovel.name=§l§f石のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"もっと深く掘る時だ。"§r
+item.stone_pickaxe.name=§l§f石のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"岩がどれだけ岩を掘れるか見てみよう…"§r
+item.stone_hoe.name=§l§f石のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"農作業が岩だらけにパワーアップ。"§r
+
+item.iron_axe.name=§l§f鉄の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"頼れる伐採斧。"§r
+item.iron_shovel.name=§l§f鉄のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"私は土と一体。~LINEBREAK~そして土も私と共にある。"§r
+item.iron_pickaxe.name=§l§f鉄のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"山を小石に変える！~LINEBREAK~一振りずつ…"§r
+item.iron_hoe.name=§l§f鉄のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ここに小麦畑を作ろう。"§r
+
+item.golden_axe.name=§l§f金の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"美しさと同じくらい~LINEBREAK~頑丈であればなぁ…"§r
+item.golden_shovel.name=§l§f金のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"美しい…~LINEBREAK~だが繊細すぎる。"§r
+item.golden_pickaxe.name=§l§f金のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ミダス王も誇りに思うだろう…~LINEBREAK~破産したが。"§r
+item.golden_hoe.name=§l§f金のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ネザー製。"§r
+
+item.diamond_axe.name=§l§fダイヤモンドの斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"これがあれば~LINEBREAK~小さな森を~LINEBREAK~切り倒すのに十分だ。"§r
+item.diamond_shovel.name=§l§fダイヤモンドのシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"時には~LINEBREAK~スタイルよく~LINEBREAK~掘る必要があるから。"§r
+item.diamond_pickaxe.name=§l§fダイヤモンドのツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"黒曜石でさえ~LINEBREAK~緊張して汗をかく…"§r
+item.diamond_hoe.name=§l§fダイヤモンドのクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"じゃがいもには~LINEBREAK~少し大げさかな？"§r
+
+item.netherite_axe.name=§l§fネザライトの斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"この世ならざる素材で~LINEBREAK~溶岩のごとく鍛え上げられた。"§r
+item.netherite_shovel.name=§l§fネザライトのシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"悪魔でさえ~LINEBREAK~踏み込むのを恐れる場所で鍛えられた。"§r
+item.netherite_pickaxe.name=§l§fネザライトのツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"岩盤まで！~LINEBREAK~さらにその先へ！"§r
+item.netherite_hoe.name=§l§fネザライトのクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"農作業？~LINEBREAK~お前の才覚なら？"§r
+
+item.hfrlc:flint_axe=§l§f火打ち石の斧§r§f~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始的だが~LINEBREAK~驚くほど鋭い。"§r
+item.hfrlc:weapon_3=§l§f骨の手斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9シャドウストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"小さいが~LINEBREAK~破壊的に鋭い。"§r
+
+item.hfrlc:dungeon_door=ダンジョンの扉
+item.hfrlc:dungeon_door_desert=砂漠のダンジョンの扉
+item.hfrlc:dungeon_door_snow=氷のダンジョンの扉
+item.hfrlc:dungeon_door_red_desert=赤い砂漠のダンジョンの扉
+item.hfrlc:dungeon_door_key=扉の鍵
+item.hfrlc:key=鍵
+
+death.attack.anvil=チャットで%1$sのためにFを
+death.attack.arrow=ママ！カメラ持ってきて！！
+death.attack.bullet=ママ！カメラ持ってきて！！
+death.attack.cactus=君はまさにMVP、最高の獲物だ。
+death.attack.drown=そんなに深くなかっただろ、%1$s。
+death.attack.explosion=実績解除：プロのリスポナー
+death.attack.explosion.by.bed=彼に料理させろ！
+death.attack.explosion.player=ドラゴン育成の失敗例
+death.attack.fall=重力曰く「座れ、%1$s」
+death.attack.fallingBlock=更新履歴：人生が弱体化された
+death.attack.fireball=レブローン！
+death.attack.fireworks=回復を忘れたな？
+death.attack.flyIntoWall=心のダメージ！
+death.attack.generic=%1$s が死亡しました
+death.attack.indirectMagic=%1$s は史上最高ではない
+death.attack.inFire=超熱い炎ぅぅ！！！
+death.attack.inWall=ラグだった？それとも腕が足りなかった？
+death.attack.lava=少なくとも馬で溶岩には突っ込まなかったな。
+death.attack.lightningBolt=上手くなれ
+death.attack.maceSmash.player=%1$s は %2$s に叩き潰された
+death.attack.maceSmash.player.item=%1$s は %2$s が %3$s で叩き潰した
+death.attack.magic=食事中、運動中、喉の渇きを感じたら、定期的に水を飲みましょう。
+death.attack.magma=ハグが必要？
+death.attack.mob=%1$s は生存条件を満たさなかった
+death.attack.mob.item=%1$s は生存条件を満たさなかった
+death.attack.onFire=灼熱の死が近づいている！！！
+death.attack.outOfWorld=もうリスポーンはレベル50だ
+death.attack.player=%1$s は生存条件を満たさなかった
+death.attack.player.item=%1$s は生存条件を満たさなかった
+death.attack.spit=%1$s は %2$s に唾を顔に吹きかけられた
+death.attack.starve=安らかに眠れ、頑張ったじゃないか。
+death.attack.sweetBerry=君はまさにMVP、最高の獲物だ。
+death.attack.thorns=君はまさにMVP、最高の獲物だ。
+death.attack.trident=%1$s は %2$s に貫き殺された
+death.attack.wither=牛乳を持ってくるべきだった
+death.attack.freeze=ジョニー・ダングに行くべきだった
+death.attack.sonicBoom.player=Xボタンで回避すべきだった
+death.attack.stalactite=もし死亡実績があったら、二回解除できていたな。
+death.attack.stalagmite=%1$s は全力を尽くしたが、遠くまで落ちた。
+death.fell.accident.generic=重力曰く「座れ、%1$s」
+
+pack.name=RLCraft Bedrock Edition RP
+pack.description=§l§c[!] このパックは他のすべてよりも上に配置すべきです！§r | ShivaxiのJava Modpackをベースに | Hybred製Skyboxを用いたHoneyfrost作

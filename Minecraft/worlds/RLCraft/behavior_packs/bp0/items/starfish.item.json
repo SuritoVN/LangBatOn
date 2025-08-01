@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"hfrlc:starfish","menu_category":{"category":"nature"}},"components":{"minecraft:icon":"hfrlc_starfish","minecraft:display_name":{"value":"tile.hfrlc:starfish.name"},"minecraft:block_placer":{"block":"hfrlc:starfish","replace_block_item":true}}}}

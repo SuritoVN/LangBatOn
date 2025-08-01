@@ -1,0 +1,1 @@
+{"format_version":"1.20.50","minecraft:item":{"description":{"identifier":"hfrlc:ring_resistance","menu_category":{"category":"equipment"}},"components":{"minecraft:icon":{"texture":"ring_resistance"},"minecraft:tags":{"tags":["hfrlc:is_trinket"]},"minecraft:max_stack_size":1}}}

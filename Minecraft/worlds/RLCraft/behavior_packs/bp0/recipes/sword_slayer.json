@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"hfrlc:shadow_stone"}],"description":{"identifier":"hfrlc:wither_sword"},"tags":["crafting_table"],"pattern":[" SC","SCS","WS "],"key":{"S":{"item":"hfrlc:shadow_stone"},"C":{"item":"minecraft:heavy_core"},"W":{"item":"hfrlc:wither_bone"}},"result":{"item":"hfrlc:wither_sword"}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hfrlc:cannon_ball","materials":{"default":"fireball"},"textures":{"default":"textures/entity/cannonball"},"geometry":{"default":"geometry.cannon_ball"},"render_controllers":["controller.render.default"]}}}

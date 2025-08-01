@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shaped":{"unlock":[{"item":"minecraft:stick"}],"description":{"identifier":"hfrlc:dirt_sword"},"tags":["crafting_table"],"pattern":["A","B","C"],"key":{"A":{"item":"minecraft:dirt"},"B":{"item":"minecraft:dirt"},"C":{"item":"minecraft:stick"}},"result":{"item":"hfrlc:dirt_sword"}}}

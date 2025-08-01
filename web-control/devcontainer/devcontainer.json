@@ -1,0 +1,11 @@
+{
+      "name": "minecraft-server",
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",  
+          "postCreateCommand": "sudo apt update && sudo apt install -y tmux && chmod +x /workspaces/LangBatOn/Minecraft/start_server.sh",
+            "postStartCommand": "/workspaces/LangBatOn/web-control/start_server.sh",
+              "customizations": {
+                  "vscode": {
+                        "extensions": []
+                            }
+                              }
+                              }

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.dead_thirst":{"states":{"default":{"transitions":[{"dead":"!q.is_alive"}]},"dead":{"transitions":[{"default":"q.is_alive"}],"on_entry":["@s hfrlc:dead_thirst"]}}}}}
