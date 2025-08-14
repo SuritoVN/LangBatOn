@@ -2,45 +2,15 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Start Minecraft Codespace</title>
-    <style>
-        body { font-family: Arial; background: #f4f4f4; padding: 20px; }
-        #logs { background: #fff; padding: 15px; border-radius: 8px; height: 300px; overflow-y: auto; }
-        button { padding: 10px 20px; font-size: 16px; cursor: pointer; }
-        .progress { height: 20px; background: #ccc; border-radius: 10px; overflow: hidden; margin: 15px 0; }
-        .progress-bar { height: 100%; width: 0%; background: green; transition: width 0.3s; }
-    </style>
+    <title>Start Codespace</title>
 </head>
 <body>
-    <h2>Khởi động Minecraft Codespace</h2>
-    <button onclick="startServer()">Bắt đầu</button>
-
-    <div class="progress">
-        <div class="progress-bar" id="progress-bar"></div>
-    </div>
-
-    <div id="logs"></div>
-
-    <script>
-        function startServer() {
-            document.getElementById("logs").innerHTML = "";
-            const evtSource = new EventSource("/start-stream");
-            let step = 0;
-
-            evtSource.onmessage = function(e) {
-                step += 10;
-                if (step > 100) step = 100;
-                document.getElementById("progress-bar").style.width = step + "%";
-
-                const logDiv = document.getElementById("logs");
-                logDiv.innerHTML += e.data + "<br>";
-                logDiv.scrollTop = logDiv.scrollHeight;
-            };
-
-            evtSource.onerror = function() {
-                evtSource.close();
-            };
-        }
-    </script>
+    <h1>🚀 Start Codespace & Run Script</h1>
+    <form action="/start" method="post">
+        <button type="submit">Start Server</button>
+    </form>
+    {% if message %}
+        <p><strong>{{ message }}</strong></p>
+    {% endif %}
 </body>
 </html>
