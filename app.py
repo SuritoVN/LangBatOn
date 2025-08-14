@@ -1,83 +1,54 @@
 from flask import Flask
-import os, time, requests, paramiko
+import requests
+import time
+import os
 
 app = Flask(__name__)
 
-# Lấy config từ Environment Variables
+# Environment variables từ Render
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 CODESPACE_NAME = os.getenv("CODESPACE_NAME")
-SSH_USER = os.getenv("SSH_USER", "codespace")
-SSH_KEY_PATH = os.getenv("SSH_KEY_PATH", "/etc/secrets/private_key")
+REPO_OWNER = os.getenv("REPO_OWNER")
+REPO_NAME = os.getenv("REPO_NAME")
 
-# URL API GitHub Codespaces
-API_BASE = "https://api.github.com"
+# Headers cho GitHub API
+HEADERS = {
+    "Authorization": f"Bearer {GITHUB_TOKEN}",
+    "Accept": "application/vnd.github+json"
+}
 
-def start_codespace():
-    """Gọi API GitHub để bật Codespace"""
-    url = f"{API_BASE}/user/codespaces/{CODESPACE_NAME}/start"
-    headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
-    r = requests.post(url, headers=headers)
-    if r.status_code not in [200, 202]:
-        raise Exception(f"Không thể start Codespace: {r.text}")
-
-def get_codespace_host():
-    """Lấy hostname SSH của Codespace"""
-    url = f"{API_BASE}/user/codespaces/{CODESPACE_NAME}"
-    headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
-    r = requests.get(url, headers=headers)
-    if r.status_code != 200:
-        raise Exception(f"Lỗi lấy thông tin Codespace: {r.text}")
-    data = r.json()
-    return data["connection"]["ssh"]["host"], data["connection"]["ssh"]["port"]
-
-def wait_until_running(timeout=120):
-    """Chờ Codespace online"""
-    url = f"{API_BASE}/user/codespaces/{CODESPACE_NAME}"
-    headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
-    for _ in range(timeout // 5):
-        r = requests.get(url, headers=headers)
-        if r.status_code == 200 and r.json()["state"] == "Available":
-            return True
-        time.sleep(5)
-    return False
-
-def run_command_over_ssh(host, port, command):
-    """Chạy lệnh qua SSH"""
-    key = paramiko.RSAKey.from_private_key_file(SSH_KEY_PATH)
-    client = paramiko.SSHClient()
-    client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-    client.connect(host, port=port, username=SSH_USER, pkey=key)
-    stdin, stdout, stderr = client.exec_command(command)
-    output = stdout.read().decode()
-    error = stderr.read().decode()
-    client.close()
-    return output, error
-
-@app.route('/')
+@app.route("/")
 def home():
-    return "Trang điều khiển Minecraft Codespace"
+    return "Trang điều khiển Minecraft Codespace (GitHub API)"
 
-@app.route('/start-server')
+@app.route("/start-server")
 def start_server():
-    try:
-        # 1. Bật Codespace
-        start_codespace()
-        if not wait_until_running():
-            return "Không thể khởi động Codespace trong thời gian chờ"
+    # 1. Bật Codespace
+    start_url = f"https://api.github.com/user/codespaces/{CODESPACE_NAME}/start"
+    r = requests.post(start_url, headers=HEADERS)
+    if r.status_code not in (200, 202):
+        return f"Lỗi khi bật Codespace: {r.text}", 500
 
-        # 2. Lấy host & port SSH
-        host, port = get_codespace_host()
+    # 2. Chờ Codespace sẵn sàng
+    status_url = f"https://api.github.com/user/codespaces/{CODESPACE_NAME}"
+    for _ in range(30):
+        s = requests.get(status_url, headers=HEADERS).json()
+        if s.get("state") == "Available":
+            break
+        time.sleep(5)
+    else:
+        return "Codespace không sẵn sàng sau 150 giây", 500
 
-        # 3. Chạy lệnh trong Codespace
-        output, error = run_command_over_ssh(
-            host, port,
-            "cd /workspaces/LangBatOn/Minecraft && ./start_server.sh"
-        )
+    # 3. Chạy file start_server.sh qua API
+    exec_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/codespaces/{CODESPACE_NAME}/exec"
+    payload = {
+        "command": "cd /workspaces/LangBatOn/Minecraft && ./start_server.sh"
+    }
+    run = requests.post(exec_url, headers=HEADERS, json=payload)
+    if run.status_code not in (200, 201, 202):
+        return f"Lỗi khi chạy lệnh: {run.text}", 500
 
-        return f"<pre>Server đã khởi động:\n{output}\n{error}</pre>"
+    return "Đã gửi lệnh khởi động server Minecraft!"
 
-    except Exception as e:
-        return f"Lỗi: {str(e)}"
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
