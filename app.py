@@ -1,79 +1,99 @@
-from flask import Flask, render_template_string
+from flask import Flask, Response
 import requests
-import time
 import paramiko
+import time
 import os
 
 app = Flask(__name__)
 
-# Lấy cấu hình từ Environment Variables
+# Environment variables
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 CODESPACE_NAME = os.getenv("CODESPACE_NAME")
 SSH_USER = os.getenv("SSH_USER", "codespace")
-SSH_KEY_PATH = "/tmp/private_key"
+SSH_KEY_PATH = os.getenv("SSH_KEY_PATH", "/etc/secrets/render_key")
 
-# Lưu private key vào file (Render sẽ set biến PRIVATE_KEY)
-PRIVATE_KEY = os.getenv("PRIVATE_KEY")
-if PRIVATE_KEY:
-    with open(SSH_KEY_PATH, "w") as f:
-        f.write(PRIVATE_KEY)
-    os.chmod(SSH_KEY_PATH, 0o600)  # Sửa quyền cho SSH key
+GITHUB_API = "https://api.github.com"
 
-# HTML đơn giản
-HTML = """
-<h1>Điều khiển Minecraft Codespace</h1>
-<form action="/start-server" method="post">
-    <button type="submit">🚀 Start Minecraft Server</button>
-</form>
-<pre>{{ result }}</pre>
-"""
 
-@app.route("/")
+def log_stream(messages):
+    """Tạo stream log cho trình duyệt"""
+    for msg in messages:
+        yield msg + "\n"
+
+
+def start_codespace():
+    """Bật Codespace qua GitHub API"""
+    url = f"{GITHUB_API}/user/codespaces/{CODESPACE_NAME}/start"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+    r = requests.post(url, headers=headers)
+    if r.status_code not in [200, 202]:
+        raise Exception(f"Không thể bật Codespace: {r.text}")
+    return True
+
+
+def wait_for_codespace():
+    """Chờ Codespace sẵn sàng"""
+    url = f"{GITHUB_API}/user/codespaces/{CODESPACE_NAME}"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+    while True:
+        r = requests.get(url, headers=headers).json()
+        state = r.get("state")
+        yield f"Trạng thái hiện tại: {state}"
+        if state == "Available":
+            conn = r.get("connection", {}).get("ssh", {})
+            yield f"Codespace đã sẵn sàng! Host: {conn.get('host')} Port: {conn.get('port')}"
+            return conn.get("host"), conn.get("port")
+        time.sleep(5)
+
+
+def ssh_and_run(host, port):
+    """SSH vào Codespace và chạy lệnh"""
+    yield "Kết nối SSH..."
+    key = paramiko.RSAKey.from_private_key_file(SSH_KEY_PATH)
+    client = paramiko.SSHClient()
+    client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+    client.connect(host, port=port, username=SSH_USER, pkey=key)
+
+    yield "Chạy lệnh khởi động Minecraft server..."
+    stdin, stdout, stderr = client.exec_command(
+        "cd /workspaces/LangBatOn/Minecraft && ./start_server.sh"
+    )
+
+    for line in stdout:
+        yield "OUT: " + line.strip()
+    for line in stderr:
+        yield "ERR: " + line.strip()
+
+    client.close()
+    yield "Hoàn tất!"
+
+
+@app.route('/')
 def home():
-    return render_template_string(HTML, result="")
+    return '<a href="/start-server">Bấm để khởi động Minecraft Codespace</a>'
 
-@app.route("/start-server", methods=["POST"])
+
+@app.route('/start-server')
 def start_server():
-    try:
-        # 1️⃣ Gọi GitHub API để start Codespace
-        headers = {"Authorization": f"token {GITHUB_TOKEN}"}
-        url = f"https://api.github.com/user/codespaces/{CODESPACE_NAME}/start"
-        r = requests.post(url, headers=headers)
-        if r.status_code not in [200, 202]:
-            return render_template_string(HTML, result=f"❌ Lỗi start Codespace: {r.text}")
+    def generate():
+        try:
+            yield "Bắt đầu bật Codespace..."
+            start_codespace()
+            yield "Đang chờ Codespace sẵn sàng..."
+            host, port = None, None
+            for msg in wait_for_codespace():
+                yield msg
+                if msg.startswith("Codespace đã sẵn sàng!"):
+                    break
+            # Lấy lại host, port từ msg cuối
+            host, port = msg.split("Host: ")[1].split(" Port: ")
+            for msg in ssh_and_run(host, int(port)):
+                yield msg
+        except Exception as e:
+            yield f"Lỗi: {str(e)}"
 
-        # 2️⃣ Chờ Codespace sẵn sàng
-        for i in range(20):
-            time.sleep(5)
-            info = requests.get(
-                f"https://api.github.com/user/codespaces/{CODESPACE_NAME}",
-                headers=headers
-            ).json()
-            if info.get("state") == "Available":
-                SSH_HOST = info["connection"]["ssh"]["host"]
-                SSH_PORT = info["connection"]["ssh"]["port"]
-                break
-        else:
-            return render_template_string(HTML, result="❌ Codespace không khởi động kịp.")
+    return Response(log_stream(generate()), mimetype='text/plain')
 
-        # 3️⃣ SSH vào Codespace
-        key = paramiko.RSAKey.from_private_key_file(SSH_KEY_PATH)
-        ssh = paramiko.SSHClient()
-        ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-        ssh.connect(SSH_HOST, port=SSH_PORT, username=SSH_USER, pkey=key)
 
-        # 4️⃣ Chạy lệnh start_server.sh
-        stdin, stdout, stderr = ssh.exec_command(
-            "cd /workspaces/LangBatOn/Minecraft && ./start_server.sh"
-        )
-        output = stdout.read().decode()
-        error = stderr.read().decode()
-        ssh.close()
-
-        return render_template_string(HTML, result=f"✅ Server started!\n{output}\n{error}")
-
-    except Exception as e:
-        return render_template_string(HTML, result=f"❌ Lỗi: {str(e)}")
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
