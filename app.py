@@ -37,6 +37,3 @@ def status():
     output = run_ssh_command("pgrep -f bedrock_server || true")
     running = bool(output.strip())
     return jsonify({"running": running})
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
