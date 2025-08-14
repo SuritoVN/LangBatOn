@@ -1,39 +1,44 @@
-from flask import Flask, render_template, jsonify
-import paramiko
+from flask import Flask
+import paramiko  # Thư viện SSH trong Python
 
 app = Flask(__name__)
 
-# SSH thông tin
-SSH_HOST = "bookish-memory-r4v4pqw94rqwfqrv.github.dev"
+# Thông tin Codespace của bạn
+SSH_HOST = "bookish-memory-r4v4pqw94rqwfqrv.github.dev"  # Đổi thành host của Codespace
 SSH_PORT = 2222
-SSH_USER = "codespace"
-SSH_KEY = "C:/Users/DELL/.ssh/codespaces_termux"  # private key
+SSH_USER = "bookish-memory-r4v4pqw94rqwfqrv"  # Đổi thành username của bạn
+SSH_KEY_PATH = "/etc/secrets/private_key"  # Nơi Render sẽ lưu SSH key
 
-def run_ssh_command(cmd):
-    ssh = paramiko.SSHClient()
-    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-    ssh.connect(SSH_HOST, port=SSH_PORT, username=SSH_USER, key_filename=SSH_KEY)
-    stdin, stdout, stderr = ssh.exec_command(cmd)
-    output = stdout.read().decode()
-    ssh.close()
-    return output
-
-@app.route("/")
+@app.route('/')
 def home():
-    return render_template("index.html")
+    return "Trang điều khiển Minecraft Codespace"
 
-@app.route("/start", methods=["POST"])
-def start():
-    run_ssh_command("bash /workspaces/LangBatOn/Minecraft/start_server.sh")
-    return jsonify({"status": "Server is starting..."})
+@app.route('/start-server')
+def start_server():
+    try:
+        # Nạp private key
+        key = paramiko.RSAKey.from_private_key_file(SSH_KEY_PATH)
 
-@app.route("/stop", methods=["POST"])
-def stop():
-    run_ssh_command("bash /workspaces/LangBatOn/Minecraft/stop_server.sh")
-    return jsonify({"status": "Server is stopping..."})
+        # Tạo SSH client
+        client = paramiko.SSHClient()
+        client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
-@app.route("/status", methods=["GET"])
-def status():
-    output = run_ssh_command("pgrep -f bedrock_server || true")
-    running = bool(output.strip())
-    return jsonify({"running": running})
+        # Kết nối tới Codespace
+        client.connect(SSH_HOST, port=SSH_PORT, username=SSH_USER, pkey=key)
+
+        # Chạy lệnh trong Codespace
+        stdin, stdout, stderr = client.exec_command(
+            "cd /workspaces/LangBatOn/Minecraft && ./start_server.sh"
+        )
+
+        # Lấy output
+        output = stdout.read().decode()
+        client.close()
+
+        return f"<pre>Server đã khởi động:\n{output}</pre>"
+
+    except Exception as e:
+        return f"Lỗi: {str(e)}"
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5000)
