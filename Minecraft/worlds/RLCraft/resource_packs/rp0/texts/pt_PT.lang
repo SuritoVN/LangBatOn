@@ -155,6 +155,7 @@ blocked.agility=§c§lSua Agilidade é muito baixa para usar este item.
 blocked.melee=§c§lSeu Combate Corpo a Corpo é muito baixo para usar este item.
 blocked.mining=§c§lSua Mineração é muito baixa para usar este item.
 blocked.armor=§c§lSua Defesa é muito baixa para usar este item.
+blocked.global=§c§lO seu nível de habilidade é demasiado baixo para usar este item.
 action.dodge=§cParabéns! Você desviou de um projétil.
 action.grave_hit=§cNão toque, saqueador! Esta tumba não é sua.
 action.warpstone_name=§cImpressionante! Uma pedra com esse nome já existe. Seja mais original.
@@ -750,389 +751,389 @@ item.hfrlc:raw_snake_meat=Carne Dura Crua
 item.hfrlc:raw_wolf_meat=Carne de Lobo Crua
 item.hfrlc:pumpkin_slice=Fatia de abóbora
 
-## MATERIAIS DE CRAFTING
-item.hfrlc:black_dragon_scales=§fEscamas de Dragão Negro
-item.hfrlc:blue_dragon_scales=§fEscamas de Dragão Azul
-item.hfrlc:brown_dragon_scales=§fEscamas de Dragão Marrom
-item.hfrlc:diamond_wyvern_armor=§fArmadura de Dragão de Diamante
-item.hfrlc:dragon_heart=§dCoração de Dragão
-item.hfrlc:dragon_skull=§dCrânio de Dragão
-item.hfrlc:flaming_dragon_blood=§fEspírito de Dragão de Fogo
-item.hfrlc:flint_shard=§fFragmento de Sílex
-item.hfrlc:gold_wyvern_armor=§fArmadura de Dragão de Ouro
-item.hfrlc:green_dragon_scales=§fEscamas de Dragão Verde
-item.hfrlc:ice_dragon_blood=§fEspírito de Dragão de Gelo
-item.hfrlc:info_book=§fMenu RLCraft
-item.hfrlc:iron_wyvern_armor=§fArmadura de Dragão de Ferro
-item.hfrlc:netherite_wyvern_armor=§fArmadura de Dragão de Netherite
-item.hfrlc:paint=Pincel
-item.hfrlc:plant_fibers_rope=§fCorda de Fibras Vegetais
-item.hfrlc:plant_fibers=§fFibras Vegetais
-item.hfrlc:red_dragon_scales=§fEscamas de Dragão Vermelho
+## CRAFTING MATERIALS
+item.hfrlc:black_dragon_scales=§fEscamas de Dragão Preto  
+item.hfrlc:blue_dragon_scales=§fEscamas de Dragão Azul  
+item.hfrlc:brown_dragon_scales=§fEscamas de Dragão Castanho  
+item.hfrlc:diamond_wyvern_armor=§fArmadura de Dragão de Diamante  
+item.hfrlc:dragon_heart=§dCoração de Dragão  
+item.hfrlc:dragon_skull=§dCrânio de Dragão  
+item.hfrlc:flaming_dragon_blood=§fEspírito de Dragão de Fogo  
+item.hfrlc:flint_shard=§fFragmento de Sílex  
+item.hfrlc:gold_wyvern_armor=§fArmadura de Dragão de Ouro  
+item.hfrlc:green_dragon_scales=§fEscamas de Dragão Verde  
+item.hfrlc:ice_dragon_blood=§fEspírito de Dragão de Gelo  
+item.hfrlc:info_book=§fMenu RLCraft  
+item.hfrlc:iron_wyvern_armor=§fArmadura de Dragão de Ferro  
+item.hfrlc:netherite_wyvern_armor=§fArmadura de Dragão de Netherite  
+item.hfrlc:paint=Pincel  
+item.hfrlc:plant_fibers_rope=§fCorda de Fibras Vegetais  
+item.hfrlc:plant_fibers=§fFibras Vegetais  
+item.hfrlc:red_dragon_scales=§fEscamas de Dragão Vermelho  
 
-## ITENS PARA VENDA
-item.hfrlc:pirate_armor_plates=§fCaixa de peles~LINEBREAK~§7Valor: 1
-item.hfrlc:pirate_cloth=§fTecido de pirata~LINEBREAK~§7Valor: 1
-item.leather.name=§fCouro~LINEBREAK~§7Valor: 1
-item.rabbit_hide.name=§fPele de coelho~LINEBREAK~§7Valor: 1
-item.quartz.name=§fQuartzo do Nether~LINEBREAK~§7Valor: 1
-item.nautilus_shell.name=§fConcha de náutilo~LINEBREAK~§7Valor: 1
-item.gold_ingot.name=§fLingote de ouro~LINEBREAK~§7Valor: 2
-item.iron_ingot.name=§fLingote de ferro~LINEBREAK~§7Valor: 1
-item.netherite_ingot.name=§bLingote de netherita~LINEBREAK~§7Valor: 4
-item.netherite_scrap.name=§bFragmento de netherita~LINEBREAK~§7Valor: 1
-item.echo_shard.name=§bFragmento de eco~LINEBREAK~§7Valor: 1
-item.diamond.name=§fDiamante~LINEBREAK~§7Valor: 3
-item.emerald.name=§fEsmeralda~LINEBREAK~§7Valor: 1
-item.hfrlc:ancient_sprouts=§fBrotos antigos~LINEBREAK~§7Valor: 1
-item.hfrlc:scorpion_tails=§fCauda de escorpião~LINEBREAK~§7Valor: 3
-item.hfrlc:samurai_armor_plates=§fPlacas antigas~LINEBREAK~§7Valor: 3
-item.amethyst_shard.name=§fFragmento de ametista~LINEBREAK~§7Valor: 1
-item.spider_eye.name=§fOlho de aranha~LINEBREAK~§7Valor: 1
-item.fermented_spider_eye.name=§fOlho de aranha fermentado~LINEBREAK~§7Valor: 3
-item.hfrlc:dragon_bone=§bOsso de dragão~LINEBREAK~§7Valor: 1
-item.hfrlc:wyvern_skull=§bFragmento de crânio de dragão~LINEBREAK~§7Valor: 2
-item.hfrlc:wither_bone=§fOsso do Wither~LINEBREAK~§7Valor: 4
-item.slime_ball.name=§fBola de slime~LINEBREAK~§7Valor: 1
-item.wind_charge.name=§fCarga de vento~LINEBREAK~§7Valor: 1
-item.armadillo_scute.name=§fEscama de tatu~LINEBREAK~§7Valor: 2
-item.turtle_shell_piece.name=§fEscama de tartaruga~LINEBREAK~§7Valor: 2
-item.shulker_shell.name=§fCarapaça de Shulker~LINEBREAK~§7Valor: 2
-item.book.name=§fLivro~LINEBREAK~§7Valor: 2
-item.heart_of_the_sea.name=§fCoração do mar~LINEBREAK~§7Valor: 1
-item.hfrlc:orcish_scribbles=§bRabiscos Orc~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Estas letras parecem muito primitivas,~LINEBREAK~§o  mas seu significado~LINEBREAK~§o  é desconhecido."§r
-item.hfrlc:knight_orders=§bOrdens de cavaleiro~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Eles estão procurando~LINEBREAK~§o  algo...~LINEBREAK~§o  ou alguém..."§r
-item.hfrlc:dwarven_tome=§bTomo anão~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Mesmo no papel,~LINEBREAK~§o  o idioma anão parece ter sido~LINEBREAK~§o  entalhado com um cinzel."§r
-item.hfrlc:tower_blessing=§bProfecia divina~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Você só vê seu~LINEBREAK~§o  próprio reflexo neste~LINEBREAK~§o  pergaminho."§r
+## THINGS FOR SALE
+item.hfrlc:pirate_armor_plates=§fCaixa de Peles~LINEBREAK~§7Valor: 1  
+item.hfrlc:pirate_cloth=§fTecido Pirata~LINEBREAK~§7Valor: 1  
+item.leather.name=Couro~LINEBREAK~§7Valor: 1  
+item.rabbit_hide.name=Pele de Coelho~LINEBREAK~§7Valor: 1  
+item.quartz.name=§fQuartzo do Nether~LINEBREAK~§7Valor: 1  
+item.nautilus_shell.name=§fConcha de Náutilo~LINEBREAK~§7Valor: 1  
+item.gold_ingot.name=Barra de Ouro~LINEBREAK~§7Valor: 2  
+item.iron_ingot.name=Barra de Ferro~LINEBREAK~§7Valor: 1  
+item.netherite_ingot.name=§bBarra de Netherite~LINEBREAK~§7Valor: 4  
+item.netherite_scrap.name=§bFragmento de Netherite~LINEBREAK~§7Valor: 1  
+item.echo_shard.name=§bFragmento de Eco~LINEBREAK~§7Valor: 1  
+item.diamond.name=Diamante~LINEBREAK~§7Valor: 3  
+item.emerald.name=Esmeralda~LINEBREAK~§7Valor: 1  
+item.hfrlc:ancient_sprouts=§fBrotos Antigos~LINEBREAK~§7Valor: 1  
+item.hfrlc:scorpion_tails=§fCauda de Escorpião~LINEBREAK~§7Valor: 3  
+item.hfrlc:samurai_armor_plates=§fPlacas Antigas~LINEBREAK~§7Valor: 3  
+item.amethyst_shard.name=Fragmento de Ametista~LINEBREAK~§7Valor: 1  
+item.spider_eye.name=Olho de Aranha~LINEBREAK~§7Valor: 1  
+item.fermented_spider_eye.name=Olho de Aranha Fermentado~LINEBREAK~§7Valor: 3  
+item.hfrlc:dragon_bone=§bOsso de Dragão~LINEBREAK~§7Valor: 1  
+item.hfrlc:wyvern_skull=§bFragmento de Crânio de Dragão~LINEBREAK~§7Valor: 2  
+item.hfrlc:wither_bone=§fOsso do Wither~LINEBREAK~§7Valor: 4  
+item.slime_ball.name=Bola de Slime~LINEBREAK~§7Valor: 1  
+item.wind_charge.name=Carga de Vento~LINEBREAK~§7Valor: 1  
+item.armadillo_scute.name=Escudo de Tatu~LINEBREAK~§7Valor: 2  
+item.turtle_shell_piece.name=Escudo de Tartaruga~LINEBREAK~§7Valor: 2  
+item.shulker_shell.name=Concha de Shulker~LINEBREAK~§7Valor: 2  
+item.book.name=§fLivro~LINEBREAK~§7Valor: 2  
+item.heart_of_the_sea.name=§fCoração do Mar~LINEBREAK~§7Valor: 1  
+item.hfrlc:orcish_scribbles=§bNota Orquisa~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"As letras parecem muito primitivas,~LINEBREAK~§o  mas o seu significado~LINEBREAK~  é desconhecido."§r  
+item.hfrlc:knight_orders=§bOrdens do Cavaleiro~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Eles estão à procura~LINEBREAK~§o  de algo...~LINEBREAK~§o  Ou de alguém..."§r  
+item.hfrlc:dwarven_tome=§bTomo Anão~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Mesmo em papel, o anão~LINEBREAK~§o  parece ter sido esculpido~LINEBREAK~§o  com um cinzel."§r  
+item.hfrlc:tower_blessing=§bProfecia Divina~LINEBREAK~§7Valor: 1~LINEBREAK~~LINEBREAK~§7§o"Tu apenas vês o teu~LINEBREAK~§o  próprio reflexo neste~LINEBREAK~§o  pergaminho."§r  
 
-## CRISTAIS DE PODER
-item.hfrlc:power_crystal=§bCristal de Poder
-item.hfrlc:power_shard=§bFragmento de Poder
+## POWER CRYSTALS
+item.hfrlc:power_crystal=§bCristal de Poder  
+item.hfrlc:power_shard=§bFragmento de Poder  
 
-## CRISTAIS DE VIDA
-item.hfrlc:health_crystal=§cCristal de Vida~LINEBREAK~§7Regeneração II (0:03)~LINEBREAK~Aumenta a Vida permanentemente
-item.hfrlc:health_crystal_shard=§cFragmento de Vida
+## HEALTH CRYSTALS
+item.hfrlc:health_crystal=§cCristal de Vida~LINEBREAK~§7Regeneração II (0:03)~LINEBREAK~Aumenta a Vida (Reinicia ao Morrer)  
+item.hfrlc:health_crystal_shard=§cFragmento de Vida  
 
-## TODOS OS ITENS DE PROGRESSO
-item.hfrlc:xp=§eTomo de Experiência~LINEBREAK~§7+15 Níveis
-item.hfrlc:agility_token=§ePedra Rúnica de Agilidade~LINEBREAK~§7+1 Nível em Agilidade
-item.hfrlc:melee_token=§ePedra Rúnica de Combate Corpo a Corpo~LINEBREAK~§7+1 Nível em Combate Corpo a Corpo
-item.hfrlc:mining_token=§ePedra Rúnica de Mineração~LINEBREAK~§7+1 Nível em Mineração
-item.hfrlc:armor_token=§ePedra Rúnica de Armadura~LINEBREAK~§7+1 Nível em Armadura
+## ALL THINGS LEVELING
+item.hfrlc:xp=§eTomo de Experiência~LINEBREAK~§7+15 Níveis  
+item.hfrlc:agility_token=§eRuna de Agilidade~LINEBREAK~§7+1 Nível em Agilidade  
+item.hfrlc:melee_token=§eRuna de Combate Corpo a Corpo~LINEBREAK~§7+1 Nível em Combate Corpo a Corpo  
+item.hfrlc:mining_token=§eRuna de Mineração~LINEBREAK~§7+1 Nível em Mineração  
+item.hfrlc:armor_token=§eRuna de Armadura~LINEBREAK~§7+1 Nível em Armadura  
 
 ## MENU
-item.hfrlc:system_level=§f§lMenu de Progresso§r~LINEBREAK~§7Interagir para abrir a Interface
-item.hfrlc:trinket_menu=§f§lBolsa de Amuletos§r~LINEBREAK~§7Interagir para abrir a Interface
+item.hfrlc:system_level=§f§lMenu de Níveis§r~LINEBREAK~§7Interage para abrir a Interface  
+item.hfrlc:trinket_menu=§f§lBolsa de Amuletos§r~LINEBREAK~§7Interage para abrir a Interface  
 
-## ITENS DE CURA
-item.hfrlc:bandage=§fBandagem~LINEBREAK~§7Regeneração II (0:03)~LINEBREAK~Cura membros quebrados
-item.hfrlc:heal1=§fFrasco de Cura~LINEBREAK~§7Regeneração V (0:01)
-item.hfrlc:heal2=§bGarrafa de Cura~LINEBREAK~§7Regeneração V (0:06)~LINEBREAK~Cura membros quebrados
-item.hfrlc:heal3=§dPoção de Cura~LINEBREAK~§7Cura Instantânea X~LINEBREAK~Cura membros quebrados
-item.hfrlc:blue_bush_fruit=Fruta Gelada~LINEBREAK~§7Resistência ao Calor I
-item.hfrlc:orange_bush_fruit=Fruta de Brasa~LINEBREAK~§7Resistência ao Frio I
-item.hfrlc:red_root=Raiz Escarlate
+## AID ITEMS
+item.hfrlc:bandage=§fLigadura~LINEBREAK~§7Regeneração II (0:03)~LINEBREAK~Cura Membros Partidos  
+item.hfrlc:heal1=§fFrasco de Cura~LINEBREAK~§7Regeneração V (0:01)  
+item.hfrlc:heal2=§bGarrafa de Cura~LINEBREAK~§7Regeneração V (0:06)~LINEBREAK~Cura Membros Partidos  
+item.hfrlc:heal3=§dPoção de Cura~LINEBREAK~§7Vida Instantânea X~LINEBREAK~Cura Membros Partidos  
+item.hfrlc:blue_bush_fruit=Bagabrumas~LINEBREAK~§7Resistência ao Calor I  
+item.hfrlc:orange_bush_fruit=Fruto de Brasa~LINEBREAK~§7Resistência ao Frio I  
+item.hfrlc:red_root=Raiz Escarlate  
 
-## ITENS UTILITÁRIOS
-item.hfrlc:recover_potion=§fPoção de Retorno~LINEBREAK~§7Te teletransporta para seu último ponto de morte
-item.hfrlc:sleeping_bag=§fSaco de Dormir~LINEBREAK~§7Não define um ponto de reaparecimento
-item.hfrlc:teleport_scroll=§fPergaminho de Teletransporte~LINEBREAK~§7Te teletransporta para seu último ponto de reaparecimento
-item.hfrlc:warpstone=§fPedra de Teletransporte~LINEBREAK~§7Bata para abrir a Interface
-item.hfrlc:water_flasks_empty=§fCantil~LINEBREAK~§7Restam 0 usos.~LINEBREAK~Encha com água
-item.hfrlc:water_flasks=§fCantil
-item.hfrlc:copper_coin=Moeda de Cobre
-item.hfrlc:silver_coin=Moeda de Prata
-item.hfrlc:gold_coin=Moeda de Ouro
-item.hfrlc:air_essence=§bEssência do Ar
-item.hfrlc:earth_essence=§bEssência da Terra
-item.hfrlc:fire_essence=§bEssência do Fogo
-item.hfrlc:ice_essence=§bEssência do Gelo
-item.hfrlc:thunder_essence=§dPedra do Trovão
-item.hfrlc:water_essence=§bEssência da Água
-item.hfrlc:briariron_ingot=§bBarra de Ferro Espinhoso
-item.hfrlc:neptunium_ingot=§bBarra de Neptúnio
-item.hfrlc:shadow_stone=§bPedra das Sombras
-item.hfrlc:voidsteel_ingot=§dBarra de Aço do Vazio
+## UTILITY ITEMS
+item.hfrlc:recover_potion=§fPoção de Retorno~LINEBREAK~§7Teleporta-te para o teu último ponto de morte  
+item.hfrlc:sleeping_bag=§fSaco-Cama~LINEBREAK~§7Não define um ponto de renascimento  
+item.hfrlc:teleport_scroll=§fPergaminho de Teleporte~LINEBREAK~§7Teleporta-te para o teu último ponto de renascimento  
+item.hfrlc:warpstone=§fPedra de Dobra~LINEBREAK~§7Clica para abrir a Interface  
+item.hfrlc:water_flasks_empty=§fCantil~LINEBREAK~§7Restam 0 utilizações.~LINEBREAK~Enche-o com água  
+item.hfrlc:water_flasks=§fCantil  
+item.hfrlc:copper_coin=Moeda de Cobre  
+item.hfrlc:silver_coin=Moeda de Prata  
+item.hfrlc:gold_coin=Moeda de Ouro  
+item.hfrlc:air_essence=§bEssência do Ar  
+item.hfrlc:earth_essence=§bEssência da Terra  
+item.hfrlc:fire_essence=§bEssência do Fogo  
+item.hfrlc:ice_essence=§bEssência do Gelo  
+item.hfrlc:thunder_essence=§dPedra do Trovão  
+item.hfrlc:water_essence=§bEssência da Água  
+item.hfrlc:briariron_ingot=§bBarra de Ferroespinho  
+item.hfrlc:neptunium_ingot=§bBarra de Neptúnio  
+item.hfrlc:shadow_stone=§bPedra das Sombras  
+item.hfrlc:voidsteel_ingot=§dBarra de Aço do Vazio  
 
 ## ARMOR
-item.turtle_helmet.name=§l§fElmo de Tartaruga§r§fLINEBREAK 
-item.elytra.name=§l§fÉlitros§r§fLINEBREAK
+item.turtle_helmet.name=§l§fCapacete de Tartaruga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7275§r~LINEBREAK~ §8Item de Reparação:§r §7Escudo de Tartaruga§r  
+item.elytra.name=§l§fÉlitros§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7432§r~LINEBREAK~ §8Item de Reparação:§r §7Membrana de Fantasma§r  
 
-item.leather_boots.name=§l§fBotas de Couro§r§fLINEBREAK 
-item.leather_chestplate.name=§l§fTúnica de Couro§r§fLINEBREAK 
-item.leather_helmet.name=§l§fElmo de Couro§r§fLINEBREAK 
-item.leather_leggings.name=§l§fCalças de Couro§r§fLINEBREAK 
+item.leather_boots.name=§l§fBotas de Couro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §765§r~LINEBREAK~ §8Item de Reparação:§r §7Couro§r  
+item.leather_chestplate.name=§l§fTúnica de Couro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §780§r~LINEBREAK~ §8Item de Reparação:§r §7Couro§r  
+item.leather_helmet.name=§l§fCapacete de Couro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §755§r~LINEBREAK~ §8Item de Reparação:§r §7Couro§r  
+item.leather_leggings.name=§l§fPerneiras de Couro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §775§r~LINEBREAK~ §8Item de Reparação:§r §7Couro§r  
 
-item.golden_boots.name=§l§fBotas de Ouro§r§fLINEBREAK 
-item.golden_chestplate.name=§l§fPeitoral de Ouro§r§fLINEBREAK 
-item.golden_helmet.name=§l§fElmo de Ouro§r§fLINEBREAK 
-item.golden_leggings.name=§l§fCalças de Ouro§r§fLINEBREAK 
+item.golden_boots.name=§l§fBotas Douradas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §791§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
+item.golden_chestplate.name=§l§fPeitoral Dourado§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7112§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
+item.golden_helmet.name=§l§fCapacete Dourado§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §777§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
+item.golden_leggings.name=§l§fPerneiras Douradas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7105§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
 
-item.hfrlc:pirate_boots=§l§fBotas de Corsário§r§fLINEBREAK LINEBREAK~~LINEBREAK§9+1 Velocidade II (Conjunto Completo)LINEBREAK+1 Respiração Aquática (Conjunto Completo)
-item.hfrlc:pirate_chestplate=§l§fTúnica de Corsário§r§fLINEBREAK LINEBREAK~~LINEBREAK§9+1 Velocidade II (Conjunto Completo)LINEBREAK+1 Respiração Aquática (Conjunto Completo)
-item.hfrlc:pirate_helmet=§l§fTricórnio de Corsário§r§fLINEBREAK LINEBREAK~~LINEBREAK§9+1 Velocidade II (Conjunto Completo)LINEBREAK+1 Respiração Aquática (Conjunto Completo)
-item.hfrlc:pirate_leggings=§l§fCalças de Corsário§r§fLINEBREAK LINEBREAK~~LINEBREAK§9+1 Velocidade II (Conjunto Completo)LINEBREAK+1 Respiração Aquática (Conjunto Completo)
+item.hfrlc:pirate_boots=§l§fBotas de Corsário§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidade II (Conjunto Completo)~LINEBREAK~+1 Respiração Aquática (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7195§r~LINEBREAK~ §8Item de Reparo:§r §7Tecido de Pirata§r  
+item.hfrlc:pirate_chestplate=§l§fTúnica de Corsário§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidade II (Conjunto Completo)~LINEBREAK~+1 Respiração Aquática (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7240§r~LINEBREAK~ §8Item de Reparo:§r §7Tecido de Pirata§r  
+item.hfrlc:pirate_helmet=§l§fTricórnio de Corsário§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidade II (Conjunto Completo)~LINEBREAK~+1 Respiração Aquática (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7165§r~LINEBREAK~ §8Item de Reparo:§r §7Tecido de Pirata§r  
+item.hfrlc:pirate_leggings=§l§fCalças de Corsário§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Velocidade II (Conjunto Completo)~LINEBREAK~+1 Respiração Aquática (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7225§r~LINEBREAK~ §8Item de Reparo:§r §7Tecido de Pirata§r  
 
-item.iron_boots.name=§l§fBotas de Ferro§r§fLINEBREAK 
-item.iron_chestplate.name=§l§fPeitoral de Ferro§r§fLINEBREAK 
-item.iron_helmet.name=§l§fElmo de Ferro§r§fLINEBREAK 
-item.iron_leggings.name=§l§fCalças de Ferro§r§fLINEBREAK 
+item.iron_boots.name=§l§fBotas de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7195§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.iron_chestplate.name=§l§fPeitoral de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7240§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.iron_helmet.name=§l§fElmo de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7165§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.iron_leggings.name=§l§fCalças de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7225§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
 
-item.chainmail_boots.name=§l§fBotas de Malha§r§fLINEBREAK 
-item.chainmail_chestplate.name=§l§fPeitoral de Malha§r§fLINEBREAK 
-item.chainmail_helmet.name=§l§fElmo de Malha§r§fLINEBREAK 
-item.chainmail_leggings.name=§l§fCalças de Malha§r§fLINEBREAK 
+item.chainmail_boots.name=§l§fBotas de Cota de Malha§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7195§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
+item.chainmail_chestplate.name=§l§fPeitoral de Cota de Malha§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7240§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
+item.chainmail_helmet.name=§l§fElmo de Cota de Malha§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7165§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
+item.chainmail_leggings.name=§l§fCalças de Cota de Malha§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7225§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
 
-item.diamond_boots.name=§l§fBotas de Diamante§r§fLINEBREAK 
-item.diamond_chestplate.name=§l§fPeitoral de Diamante§r§fLINEBREAK 
-item.diamond_helmet.name=§l§fElmo de Diamante§r§fLINEBREAK 
-item.diamond_leggings.name=§l§fCalças de Diamante§r§fLINEBREAK 
+item.diamond_boots.name=§l§fBotas de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7429§r~LINEBREAK~ §8Item de Reparo:§r §7Diamante§r  
+item.diamond_chestplate.name=§l§fPeitoral de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7528§r~LINEBREAK~ §8Item de Reparo:§r §7Diamante§r  
+item.diamond_helmet.name=§l§fElmo de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7363§r~LINEBREAK~ §8Item de Reparo:§r §7Diamante§r  
+item.diamond_leggings.name=§l§fCalças de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7495§r~LINEBREAK~ §8Item de Reparo:§r §7Diamante§r  
 
-item.netherite_boots.name=§l§fBotas de Netherite§r§fLINEBREAK 
-item.netherite_chestplate.name=§l§fPeitoral de Netherite§r§fLINEBREAK 
-item.netherite_helmet.name=§l§NElmo de Netherite§r§fLINEBREAK 
-item.netherite_leggings.name=§l§fCalças de Netherite§r§fLINEBREAK 
+item.netherite_boots.name=§l§fBotas de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7481§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Netherite§r  
+item.netherite_chestplate.name=§l§fPeitoral de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7592§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Netherite§r  
+item.netherite_helmet.name=§l§NElmo de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7407§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Netherite§r  
+item.netherite_leggings.name=§l§fCalças de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7555§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Netherite§r  
 
-item.hfrlc:blue_dragon_boots=§l§fBotas do Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:blue_dragon_chestplate=§l§fPeitoral do Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:blue_dragon_helmet=§l§fElmo do Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:blue_dragon_leggings=§l§fCalças do Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
+item.hfrlc:blue_dragon_boots=§l§fBotas de Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71655§r~LINEBREAK~ §8Item de Reparo:§r §7Escamas de Dragão Azul§r  
+item.hfrlc:blue_dragon_chestplate=§l§fPeitoral de Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72035§r~LINEBREAK~ §8Item de Reparo:§r §7Escamas de Dragão Azul§r  
+item.hfrlc:blue_dragon_helmet=§l§fElmo de Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71400§r~LINEBREAK~ §8Item de Reparo:§r §7Escamas de Dragão Azul§r  
+item.hfrlc:blue_dragon_leggings=§l§fCalças de Dragão Azul§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Calor I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71910§r~LINEBREAK~ §8Item de Reparo:§r §7Escamas de Dragão Azul§r  
 
-item.hfrlc:brown_dragon_boots=§l§fBotas do Dragão Marrom§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:brown_dragon_chestplate=§l§fPeitoral do Dragão Marrom§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:brown_dragon_helmet=§l§fElmo do Dragão Marrom§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:brown_dragon_leggings=§l§fCalças do Dragão Marrom§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
+item.hfrlc:brown_dragon_boots=§l§fBotas de Dragão Castanho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7945§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Castanho§r  
+item.hfrlc:brown_dragon_chestplate=§l§fPeitoral de Dragão Castanho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71165§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Castanho§r  
+item.hfrlc:brown_dragon_helmet=§l§fCapacete de Dragão Castanho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7800§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Castanho§r  
+item.hfrlc:brown_dragon_leggings=§l§fPerneiras de Dragão Castanho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71090§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Castanho§r  
 
-item.hfrlc:green_dragon_boots=§l§fBotas do Dragão Verde§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência a Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:green_dragon_chestplate=§l§fPeitoral do Dragão Verde§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência a Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:green_dragon_helmet=§l§fElmo do Dragão Verde§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência a Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:green_dragon_leggings=§l§fCalças do Dragão Verde§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência a Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
+item.hfrlc:green_dragon_boots=§l§fBotas de Dragão Verde§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71655§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Verde§r  
+item.hfrlc:green_dragon_chestplate=§l§fPeitoral de Dragão Verde§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72035§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Verde§r  
+item.hfrlc:green_dragon_helmet=§l§fCapacete de Dragão Verde§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7400§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Verde§r  
+item.hfrlc:green_dragon_leggings=§l§fPerneiras de Dragão Verde§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Veneno (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71910§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Verde§r  
 
-item.hfrlc:red_dragon_boots=§l§fBotas do Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Gelo I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:red_dragon_chestplate=§l§fPeitoral do Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Gelo I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:red_dragon_helmet=§l§fElmo do Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Gelo I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:red_dragon_leggings=§l§fCalças do Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Gelo I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
+item.hfrlc:red_dragon_boots=§l§fBotas de Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Frio I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71655§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Vermelho§r  
+item.hfrlc:red_dragon_chestplate=§l§fPeitoral de Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Frio I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72035§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Vermelho§r  
+item.hfrlc:red_dragon_helmet=§l§fCapacete de Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Frio I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71400§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Vermelho§r  
+item.hfrlc:red_dragon_leggings=§l§fPerneiras de Dragão Vermelho§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência ao Frio I (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71910§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Vermelho§r  
 
-item.hfrlc:dark_dragon_boots=§l§fBotas do Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)
-item.hfrlc:dark_dragon_chestplate=§l§fPeitoral do Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)
-item.hfrlc:dark_dragon_helmet=§l§fElmo do Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)
-item.hfrlc:dark_dragon_leggings=§l§fCalças do Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)
+item.hfrlc:dark_dragon_boots=§l§fBotas de Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71180§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Negro§r  
+item.hfrlc:dark_dragon_chestplate=§l§fPeitoral de Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71455§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Negro§r  
+item.hfrlc:dark_dragon_helmet=§l§fCapacete de Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71000§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Negro§r  
+item.hfrlc:dark_dragon_leggings=§l§fPerneiras de Dragão Negro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membro~LINEBREAK~+1 Resistência ao Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência à Cegueira (Conjunto Completo)~LINEBREAK~+1 Resistência à Escuridão (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71360§r~LINEBREAK~ §8Item de Reparação:§r §7Escamas de Dragão Negro§r  
 
-item.hfrlc:earth_dragon_boots=§l§fBotas de Ossodragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:earth_dragon_chestplate=§l§fPeitoral de Ossodragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:earth_dragon_helmet=§l§fElmo de Ossodragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
-item.hfrlc:earth_dragon_leggings=§l§fCalças de Ossodragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)
+item.hfrlc:earth_dragon_boots=§l§fBotas de Ossos de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7830§r~LINEBREAK~ §8Item de Reparo:§r §7Osso de Dragão§r  
+item.hfrlc:earth_dragon_chestplate=§l§fPeitoral de Ossos de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71020§r~LINEBREAK~ §8Item de Reparo:§r §7Osso de Dragão§r  
+item.hfrlc:earth_dragon_helmet=§l§fElmo de Ossos de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7700§r~LINEBREAK~ §8Item de Reparo:§r §7Osso de Dragão§r  
+item.hfrlc:earth_dragon_leggings=§l§fCalças de Ossos de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Resistência a Recuo (Conjunto Completo)~LINEBREAK~+1 Resistência I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7955§r~LINEBREAK~ §8Item de Reparo:§r §7Osso de Dragão§r  
 
-item.hfrlc:samurai_boots=§l§fBotas de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)
-item.hfrlc:samurai_chestplate=§l§fPeitoral de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)
-item.hfrlc:samurai_helmet=§l§fElmo de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)
-item.hfrlc:samurai_leggings=§l§fCalças de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)
+item.hfrlc:samurai_boots=§l§fBotas de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7710§r~LINEBREAK~ §8Item de Reparo:§r §7Placas Antigas§r  
+item.hfrlc:samurai_chestplate=§l§fPeitoral de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7875§r~LINEBREAK~ §8Item de Reparo:§r §7Placas Antigas§r  
+item.hfrlc:samurai_helmet=§l§fElmo de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7600§r~LINEBREAK~ §8Item de Reparo:§r §7Placas Antigas§r  
+item.hfrlc:samurai_leggings=§l§fCalças de Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Proteção de Membros~LINEBREAK~+1 Força I (Conjunto Completo)§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7820§r~LINEBREAK~ §8Item de Reparo:§r §7Placas Antigas§r  
 
 ## TRINKETS
-item.hfrlc:golden_ring=§l§fAnel Dourado§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Parece um pouco~LINEBREAK~§o  mais pesado do que parece."§r
-item.hfrlc:ancient_root=§l§fRaiz Ancestral§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Lentidão~LINEBREAK~~LINEBREAK~§7§o"Madeira retorcida~LINEBREAK~§o  absorve a fadiga."§r
-item.hfrlc:goat_horns=§l§fChifres de Cabra§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~~LINEBREAK~§7§o"Folheado a ouro."§r
-item.hfrlc:cyclops_eye=§l§fOlho do Ciclope§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Cegueira~LINEBREAK~Resistência à Escuridão~LINEBREAK~~LINEBREAK~§7§o"Útil mesmo se~LINEBREAK~§o  fores biclope."§r
-item.hfrlc:teddy_of_comfort=§l§fUrsinho do Conforto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneração I~LINEBREAK~~LINEBREAK~§7§o"Abraços curam~LINEBREAK~§o  todas as feridas."§r
-item.hfrlc:warmer=§l§fBrasa Eterna§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Frio~LINEBREAK~~LINEBREAK~§7§o"Pequena brasa está~LINEBREAK~§o  envolta em chamas.~LINEBREAK~§o  Não importa o frio, ela~LINEBREAK~§o  manterá você aquecido."§r
-item.hfrlc:ice_bag=§l§fGelo Eterno§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Calor~LINEBREAK~~LINEBREAK~§7§o"O gelo não derrete~LINEBREAK~§o  não importa o calor."§r
-item.hfrlc:antidote_vital=§l§fFrasco de Antídoto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Veneno~LINEBREAK~~LINEBREAK~§7§o"O líquido dentro~LINEBREAK~§o  permanece imóvel~LINEBREAK~§o  mesmo se sacudido."§r
-item.hfrlc:greatest_shield=§l§fGrande Escudo§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência a Repulsão~LINEBREAK~Aumento de Vida I~LINEBREAK~~LINEBREAK~§7§o"Absorve~LINEBREAK~§o  toda vibração."§r
-item.hfrlc:ring_jump=§l§fAnel do Salto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Impulso de Salto II~LINEBREAK~~LINEBREAK~§7§o"Você se sente muito mais leve~LINEBREAK~§o  do que antes... Curioso."§r
-item.hfrlc:ring_speed=§l§fDedos Ágeis§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Velocidade I~LINEBREAK~~LINEBREAK~§7§o"Sussurra com~LINEBREAK~§o  desejo de~LINEBREAK~§o  ir embora."§r
-item.hfrlc:blessed_water=§l§fÁgua Abençoada§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Murchar~LINEBREAK~~LINEBREAK~§7§o"Uma gota basta~LINEBREAK~§o  para lavar toda~LINEBREAK~§o  a corrupção."§r
-item.hfrlc:mining_amulet=§l§fAmuleto de Mineração§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Rapidez I~LINEBREAK~~LINEBREAK~§7§o"Ilumina o caminho~LINEBREAK~§o  adiante."§r
-item.hfrlc:shulker_anchor=§l§fÂncora de Shulker§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Levitação~LINEBREAK~~LINEBREAK~§7§o"Algo mágico~LINEBREAK~§o  o prende ao chão."§r
-item.hfrlc:dragon_eyes=§l§fOlho do Dragão§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Fogo~LINEBREAK~Visão Noturna~LINEBREAK~Resistência à Escuridão~LINEBREAK~~LINEBREAK~§7§o"Olhar flamejante queima~LINEBREAK~§o  todas as sombras."§r
-item.hfrlc:ring_regeneration=§l§fAnel de Regeneração§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneração I~LINEBREAK~~LINEBREAK~§7§o"Pulsa~LINEBREAK~§o  no seu dedo."§r
-item.hfrlc:ring_resistance=§l§fAnel de Resistência§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência I~LINEBREAK~~LINEBREAK~§7§o"Temperado em provações~LINEBREAK~§o  de resistência."§r
-item.hfrlc:ring_strength=§l§fAnel de Força§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Força I~LINEBREAK~~LINEBREAK~§7§o"O poder do gigante~LINEBREAK~§o  dorme dentro."§r
-item.hfrlc:feather_swiftness=§l§fLeveza da Pena§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Velocidade II~LINEBREAK~Queda Lenta II~LINEBREAK~~LINEBREAK~§7§o"Não importa onde vá~LINEBREAK~§o  o vento seguirá."§r
-item.hfrlc:great_horn_shield=§l§fGrande Escudo com Chifres§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência a Repulsão~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~Aumento de Vida I~LINEBREAK~~LINEBREAK~§7§o"Imbuído com~LINEBREAK~§o  selo protetor."§r
-item.hfrlc:withering_necklace=§l§fColar do Murchar§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Aspecto do Murchar I~LINEBREAK~~LINEBREAK~§7§o"A caveira murcha parece~LINEBREAK~§o  estar adormecida."§r
-item.hfrlc:panacea=§p§lPanaceia§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~Resistência à Cegueira~LINEBREAK~Resistência à Lentidão~LINEBREAK~Resistência ao Veneno~LINEBREAK~Resistência ao Murchar~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~Resistência à Levitação~LINEBREAK~~LINEBREAK~§7§o"Um único remédio~LINEBREAK~§o  para curar todos."§r
-item.hfrlc:dragon_slayer_cape=§p§lCapa do Matador de Dragões§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~Resistência à Cegueira~LINEBREAK~Resistência à Lentidão~LINEBREAK~Resistência ao Veneno~LINEBREAK~Resistência ao Murchar~LINEBREAK~Resistência a Repulsão~LINEBREAK~Resistência a Explosões~LINEBREAK~Resistência ao Fogo~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~~LINEBREAK~§7§o"Feita das vitórias~LINEBREAK~§o  sobre bestas~LINEBREAK~§o  derrotadas."§r
-item.hfrlc:dragon_slayer_ring=§p§lAnel do Matador de Dragões§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~Força II~LINEBREAK~Aumento de Vida V~LINEBREAK~Resistência I~LINEBREAK~~LINEBREAK~§7§o"Aquele que eles~LINEBREAK~§o  temem..."§r
-item.hfrlc:lapis_ring=§l§fAnel de Lápis§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Não tão reflexivo~LINEBREAK~§o  mas certamente elegante."§r
-item.hfrlc:silver_ring=§l§fAnel de Ferro§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Brilha o suficiente~LINEBREAK~§o  para que o confundam~LINEBREAK~§o  com prata."§r
-item.hfrlc:netherite_ring=§l§fAnel de Netherite§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Não pertence~LINEBREAK~§o  a este plano. Alguém~LINEBREAK~§o  deveria devolvê-lo~LINEBREAK~§o  ao Nether abaixo."§r
+item.hfrlc:golden_ring=§l§fAnel Dourado§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Parece um pouco~LINEBREAK~§o  mais pesado do que parece."§r  
+item.hfrlc:ancient_root=§l§fRaiz Antiga§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Lentidão~LINEBREAK~~LINEBREAK~§7§o"A madeira retorcida~LINEBREAK~§o  absorve o cansaço."§r  
+item.hfrlc:goat_horns=§l§fChifres de Cabra§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~~LINEBREAK~§7§o"Dourado com ouro."§r  
+item.hfrlc:cyclops_eye=§l§fOlho de Ciclope§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Cegueira~LINEBREAK~Resistência à Escuridão~LINEBREAK~~LINEBREAK~§7§o"Útil mesmo que~LINEBREAK~§o  sejas biclope."§r  
+item.hfrlc:teddy_of_comfort=§l§fUrsinho do Conforto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneração I~LINEBREAK~~LINEBREAK~§7§o"Aconchegos curam~LINEBREAK~§o  todas as feridas."§r  
+item.hfrlc:warmer=§l§fBrasa Eterna§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Frio~LINEBREAK~~LINEBREAK~§7§o"Uma pequena brasa está~LINEBREAK~§o  envolta em chamas.~LINEBREAK~§o  Não importa o frio, ela irá~LINEBREAK~§o  manter-te quente."§r  
+item.hfrlc:ice_bag=§l§fGelo Eterno§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Calor~LINEBREAK~~LINEBREAK~§7§o"O gelo não derrete~LINEBREAK~§o  não importa o calor."§r  
+item.hfrlc:antidote_vital=§l§fFrasco de Antídoto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Veneno~LINEBREAK~~LINEBREAK~§7§o"O líquido dentro~LINEBREAK~§o  permanece imóvel~LINEBREAK~§o  por mais que o~LINEBREAK~§o  agites."§r  
+item.hfrlc:greatest_shield=§l§fGrande Escudo§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Recuo~LINEBREAK~Impulso de Vida I~LINEBREAK~~LINEBREAK~§7§o"Absorve~LINEBREAK~§o  toda a vibração."§r  
+item.hfrlc:ring_jump=§l§fAnel do Salto§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Impulso de Salto II~LINEBREAK~~LINEBREAK~§7§o"Sentes-te muito mais leve~LINEBREAK~§o  do que antes... Curioso."§r  
+item.hfrlc:ring_speed=§l§fDedo Rápido§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Velocidade I~LINEBREAK~~LINEBREAK~§7§o"Sussurra com~LINEBREAK~§o  o desejo de~LINEBREAK~§o  estar noutro lugar."§r  
+item.hfrlc:blessed_water=§l§fÁgua Abençoada§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Wither~LINEBREAK~~LINEBREAK~§7§o"Uma gota é suficiente~LINEBREAK~§o  para lavar toda~LINEBREAK~§o  a corrupção."§r  
+item.hfrlc:mining_amulet=§l§fAmuleto de Mineração§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Rapidez I~LINEBREAK~~LINEBREAK~§7§o"Ilumina o caminho~LINEBREAK~§o  em frente."§r  
+
+item.hfrlc:shulker_anchor=§l§fÂncora de Shulker§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência à Levitação~LINEBREAK~~LINEBREAK~§7§o"Algo mágico~LINEBREAK~§o  prende-a ao chão."§r  
+item.hfrlc:dragon_eyes=§l§fOlho de Dragão§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência ao Fogo~LINEBREAK~Visão Noturna~LINEBREAK~Resistência à Escuridão~LINEBREAK~~LINEBREAK~§7§o"Olhar flamejante que~LINEBREAK~§o  dissipa todas as sombras."§r  
+item.hfrlc:ring_regeneration=§l§fAnel da Regeneração§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneração I~LINEBREAK~~LINEBREAK~§7§o"Ele pulsa~LINEBREAK~§o  no teu dedo."§r  
+item.hfrlc:ring_resistance=§l§fAnel da Resistência§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência I~LINEBREAK~~LINEBREAK~§7§o"Forjado em provações~LINEBREAK~§o  de resistência."§r  
+item.hfrlc:ring_strength=§l§fAnel da Força§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Força I~LINEBREAK~~LINEBREAK~§7§o"O poder dos gigantes~LINEBREAK~§o  adormece dentro."§r  
+item.hfrlc:feather_swiftness=§l§fPena da Agilidade§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Velocidade II~LINEBREAK~Queda Lenta II~LINEBREAK~~LINEBREAK~§7§o"Não importa para onde vás~LINEBREAK~§o  o vento seguirá."§r  
+item.hfrlc:great_horn_shield=§l§fEscudo Grande de Chifre§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistência a Recuo~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~Aumento de Vida I~LINEBREAK~~LINEBREAK~§7§o"Imbuído com~LINEBREAK~§o  selo protetor."§r  
+item.hfrlc:withering_necklace=§l§fColar do Murchar§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Aspecto do Murchar I~LINEBREAK~~LINEBREAK~§7§o"Crânio do murchar parece~LINEBREAK~§o  estar adormecido."§r  
+item.hfrlc:panacea=§p§lPanaceia§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~Resistência à Cegueira~LINEBREAK~Resistência à Lentidão~LINEBREAK~Resistência ao Veneno~LINEBREAK~Resistência ao Murchar~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~Resistência à Levitação~LINEBREAK~~LINEBREAK~§7§o"Um só remédio para~LINEBREAK~§o  curar todos."§r  
+item.hfrlc:dragon_slayer_cape=§p§lCapa do Caçador de Dragões§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~Resistência à Cegueira~LINEBREAK~Resistência à Lentidão~LINEBREAK~Resistência ao Veneno~LINEBREAK~Resistência ao Murchar~LINEBREAK~Resistência a Recuo~LINEBREAK~Resistência a Explosão~LINEBREAK~Resistência ao Fogo~LINEBREAK~Resistência à Fadiga de Mineração~LINEBREAK~~LINEBREAK~§7§o"Tecida da~LINEBREAK~§o  vitória sobre~LINEBREAK~§o  feras caídas."§r  
+item.hfrlc:dragon_slayer_ring=§p§lAnel do Caçador de Dragões§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~Força I~LINEBREAK~Aumento de Vida V~LINEBREAK~Resistência I~LINEBREAK~~LINEBREAK~§7§o"Aquele que eles~LINEBREAK~§o  temem..."§r  
+item.hfrlc:lapis_ring=§l§fAnel de Lápis§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Não tão reflexivo~LINEBREAK~§o  mas certamente elegante."§r  
+item.hfrlc:silver_ring=§l§fAnel de Ferro§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Brilha o suficiente~LINEBREAK~§o  para que alguém pense~LINEBREAK~§o  que é prata."§r  
+item.hfrlc:netherite_ring=§l§fAnel de Netherite§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Não pertence~LINEBREAK~§o  a este plano. Alguém~LINEBREAK~§o  devia devolvê-lo~LINEBREAK~§o  ao Nether."§r  
 
 ## SWORDS
-item.wooden_sword.name=§l§fEspada de Madeira§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Seu primeiro passo~LINEBREAK~§o  rumo à maestria."§r
-item.stone_sword.name=§l§fEspada de Pedra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Base sólida~LINEBREAK~§o  para um guerreiro."§r
-item.golden_sword.name=§l§fEspada de Ouro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Brilhante mas~LINEBREAK~§o  pouco resistente."§r
-item.hfrlc:spike_sword=§l§fImpulso§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para ganhar~LINEBREAK~impulso no ar.~LINEBREAK~Conserte com Lingote de Ferro.~LINEBREAK~~LINEBREAK~§7§o"Desafia a gravidade~LINEBREAK~§o  a cada golpe."§r
-item.iron_sword.name=§l§fEspada de Ferro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aço confiável~LINEBREAK~§o  forjado com habilidade."§r
-item.hfrlc:darkness_sword=§l§fRasga-Sombras§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para se esconder nas sombras.~LINEBREAK~Conserte com Pedra Sombria.~LINEBREAK~~LINEBREAK~§7§o"Inimigos caídos são~LINEBREAK~§o  enviados ao~LINEBREAK~§o  Reino das Sombras."§r
-item.hfrlc:weapon_4=§l§fEspada de Osso§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Conserte com Pedra Sombria.~LINEBREAK~~LINEBREAK~§7§o"Afiada pela~LINEBREAK~§o  própria Morte."§r
-item.hfrlc:water_sword=§l§fCorrente§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para lançar um projétil de água.~LINEBREAK~Conserte com Essência da Água.~LINEBREAK~~LINEBREAK~§7§o"Água pura flui~LINEBREAK~§o  através do aço."§r
-item.diamond_sword.name=§l§fEspada de Diamante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Perfeição cristalina~LINEBREAK~§o  em forma de arma."§r
-item.hfrlc:air_sword=§l§fVigilância§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para gerar uma rajada de vento.~LINEBREAK~Conserte com Essência do Ar.~LINEBREAK~~LINEBREAK~§7§o"Controle o poder~LINEBREAK~§o  do próprio vento."§r
-item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para realizar um super salto.~LINEBREAK~Conserte com Essência do Ar.~LINEBREAK~~LINEBREAK~§7§o"Salte até~LINEBREAK~§o  as próprias estrelas."§r
-item.hfrlc:weapon_8=§l§fEspada de Gelo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~~LINEBREAK~§9Conserte com Essência de Gelo.~LINEBREAK~~LINEBREAK~§7§o"A mordida do inverno~LINEBREAK~§o  manifestada."§r
-item.netherite_sword.name=§l§fEspada de Netherite§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada nas profundezas~LINEBREAK~§o  do Nether."§r
-item.hfrlc:fire_sword=§l§fEspada Flamejante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para lançar um projétil de fogo.~LINEBREAK~Conserte com Essência de Fogo.~LINEBREAK~~LINEBREAK~§6Aspecto Flamejante~LINEBREAK~~LINEBREAK~§7§o"Projéteis em chamas~LINEBREAK~§o  queimam os inimigos."§r
-item.hfrlc:ice_sword=§l§fGlaciar§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para lançar um projétil de gelo.~LINEBREAK~Gera espinhos de gelo ao agachar e atacar.~LINEBREAK~Conserte com Essência de Gelo.~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~~LINEBREAK~§7§o"Espinhos de gelo perfuram~LINEBREAK~§o  ao agachar."§r
-item.hfrlc:ocean_sword=§l§fRasgamarés§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use + Agachar para lançar um projétil de água.~LINEBREAK~Use o item para gerar~LINEBREAK~uma onda de choque aquática.~LINEBREAK~Conserte com Lingote de Neptúnio.~LINEBREAK~~LINEBREAK~§7§o"Ondas rompem~LINEBREAK~§o  ao seu comando."§r
-item.hfrlc:weapon_6=§l§fEspada Élden§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder ancestral~LINEBREAK~§o  flui pelo aço."§r
-item.hfrlc:weapon_7=§l§fEspada Longa§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Alcance estendido~LINEBREAK~§o  para combates prolongados."§r
-item.hfrlc:weapon_5=§l§fEspada Martelo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder esmagador~LINEBREAK~§o  encontra fio cortante."§r
-item.hfrlc:dragon_bone_sword=§l§fEspada Longa de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada com restos~LINEBREAK~§o  de dragões antigos."§r
-item.hfrlc:earth_sword=§l§fRachaterra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para gerar estalactites~LINEBREAK~que causam dano a entidades próximas.~LINEBREAK~Conserte com Lingote de Espinheiro.~LINEBREAK~~LINEBREAK~§7§o"Lanças de pedra surgem~LINEBREAK~§o  do chão."§r
-item.hfrlc:ice_dragon_bone_sword=§l§fNevasca§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"Gelo e osso~LINEBREAK~§o  forjados como um só."§r
-item.hfrlc:fire_dragon_bone_sword=§l§fCantembrasa§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Flamejante~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"Forjada no fogo~LINEBREAK~§o  do próprio dragão."§r
-item.hfrlc:lava_sword=§l§fEspada Meteórica§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para gerar meteoros.~LINEBREAK~Conserte com Essência de Fogo.~LINEBREAK~~LINEBREAK~§7§o"Meteoros caem~LINEBREAK~§o  dos céus."§r
-item.hfrlc:ender_sword=§l§fPiscar§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para se teleportar até o alvo.~LINEBREAK~Conserte com Lingote de Aço do Vazio.~LINEBREAK~~LINEBREAK~§7§o"Teleporte-se para onde~LINEBREAK~§o  estiver mirando."§r
-item.hfrlc:storm_sword=§l§fTufão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para gerar um furacão.~LINEBREAK~Conserte com Pedra do Trovão.~LINEBREAK~~LINEBREAK~§7§o"Tempestades obedecem~LINEBREAK~§o  à sua vontade."§r
-item.hfrlc:thunder_sword=§l§fQuebratempestade§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para gerar um raio.~LINEBREAK~Conserte com Pedra do Trovão.~LINEBREAK~~LINEBREAK~§9Aspecto do Raio~LINEBREAK~~LINEBREAK~§7§o"O trovão obedece~LINEBREAK~§o  a cada golpe seu."§r
-item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~§r§dAgache para alternar os Elementos~LINEBREAK~~LINEBREAK~§7§o"Finalmente...~LINEBREAK~§o  posso descansar."§r
-item.hfrlc:dirt_sword=§l§fEspada de Terra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para lançar um projétil de terra.~LINEBREAK~Conserte com Terra.~LINEBREAK~~LINEBREAK~§7§o"Fundação da terra~LINEBREAK~§o  feita arma."§r
-item.hfrlc:jungle_sword=§l§fSempreverde§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para erguer~LINEBREAK~uma pedra do chão.~LINEBREAK~Conserte com Essência da Terra.~LINEBREAK~~LINEBREAK~§7§o"Anseia por~LINEBREAK~§o  solo sob os pés."§r
+item.wooden_sword.name=§l§fEspada de Madeira§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"O teu primeiro passo~LINEBREAK~§o  rumo à maestria."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §760§r~LINEBREAK~ §8Item de Reparo:§r §7Madeira§r  
+item.stone_sword.name=§l§fEspada de Pedra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fundamento sólido~LINEBREAK~§o  para um guerreiro."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7130§r~LINEBREAK~ §8Item de Reparo:§r §7Pedregulho§r  
+item.golden_sword.name=§l§fEspada de Ouro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Brilhante mas~LINEBREAK~§o  pouco resistente."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §735§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ouro§r  
+item.hfrlc:spike_sword=§l§fImpulso§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para ganhar~LINEBREAK~impulso no ar.~LINEBREAK~~LINEBREAK~§7§o"Desafia a gravidade~LINEBREAK~§o  a cada golpe."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7150§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.iron_sword.name=§l§fEspada de Ferro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aço confiável~LINEBREAK~§o  forjado com habilidade."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7250§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.hfrlc:darkness_sword=§l§fRasga-Sombras§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para te esconderes nas sombras.~LINEBREAK~~LINEBREAK~§7§o"Inimigos vencidos são~LINEBREAK~§o  enviados para o~LINEBREAK~§o  Reino das Sombras."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7430§r~LINEBREAK~ §8Item de Reparo:§r §7Pedra das Sombras§r  
+item.hfrlc:weapon_4=§l§fEspada de Osso§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Lâmina afiada da~LINEBREAK~§o  própria Morte."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71200§r~LINEBREAK~ §8Item de Reparo:§r §7Pedra das Sombras§r  
+item.hfrlc:water_sword=§l§fCorrente§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para lançar~LINEBREAK~um projétil de água.~LINEBREAK~~LINEBREAK~§7§o"Água pura flui~LINEBREAK~§o  através do aço."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71400§r~LINEBREAK~ §8Item de Reparo:§r §7Essência da Água§r  
+item.diamond_sword.name=§l§fEspada de Diamante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Perfeição cristalina~LINEBREAK~§o  em forma de arma."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71600§r~LINEBREAK~ §8Item de Reparo:§r §7Diamante§r  
+item.hfrlc:air_sword=§l§fVigilância§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para gerar~LINEBREAK~uma rajada de vento.~LINEBREAK~~LINEBREAK~§7§o"Domina o poder~LINEBREAK~§o  do próprio vento."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparo:§r §7Essência do Ar§r  
+item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para realizar~LINEBREAK~um super salto.~LINEBREAK~~LINEBREAK~§7§o"Salta até às estrelas~LINEBREAK~§o  propriamente ditas."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparo:§r §7Essência do Ar§r  
+item.hfrlc:weapon_8=§l§fEspada de Gelo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspeto Gelado~LINEBREAK~~LINEBREAK~§7§o"A mordida do inverno~LINEBREAK~§o  tornada realidade."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71800§r~LINEBREAK~ §8Item de Reparo:§r §7Essência do Gelo§r  
+item.netherite_sword.name=§l§fEspada de Netherite§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada nas profundezas~LINEBREAK~§o  do Nether."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Netherite§r  
+item.hfrlc:fire_sword=§l§fEspada de Chamas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para lançar~LINEBREAK~um projétil de fogo.~LINEBREAK~~LINEBREAK~§6Aspeto Flamejante~LINEBREAK~~LINEBREAK~§7§o"Projéteis ardentes~LINEBREAK~§o  queimam os inimigos."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71580§r~LINEBREAK~ §8Item de Reparo:§r §7Essência do Fogo§r  
+item.hfrlc:ice_sword=§l§fGeleira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para lançar~LINEBREAK~um projétil de gelo.~LINEBREAK~Gera picos de gelo ao~LINEBREAK~agachares e atacares.~LINEBREAK~~LINEBREAK~§bAspeto Gelado~LINEBREAK~~LINEBREAK~§7§o"Picos de gelo perfuram~LINEBREAK~§o  ao agachar."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71580§r~LINEBREAK~ §8Item de Reparo:§r §7Essência do Gelo§r  
+item.hfrlc:ocean_sword=§l§fFura-Marés§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Agacha e usa para disparar~LINEBREAK~um projétil de água.~LINEBREAK~Usa o item para gerar~LINEBREAK~uma onda de choque aquática.~LINEBREAK~~LINEBREAK~§7§o"Ondas gigantes quebram~LINEBREAK~§o  ao teu comando."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71590§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Neptúnio§r  
+item.hfrlc:weapon_6=§l§fEspada Éldica§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder ancestral~LINEBREAK~§o  flui através do aço."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71600§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Netherite§r  
+item.hfrlc:weapon_7=§l§fEspada Longa§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Alcance estendido~LINEBREAK~§o  para combate prolongado."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71600§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Netherite§r  
+item.hfrlc:weapon_5=§l§fEspada Martelo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder de impacto~LINEBREAK~§o  com corte afiado."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71600§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Netherite§r  
+item.hfrlc:dragon_bone_sword=§l§fEspada Longa de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada de antigos~LINEBREAK~§o  restos de dragão."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparação:§r §7Osso de Dragão§r  
+item.hfrlc:earth_sword=§l§fFendaterra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para gerar~LINEBREAK~estalactites que ferem~LINEBREAK~entidades próximas.~LINEBREAK~~LINEBREAK~§7§o"Lanças de pedra emergem~LINEBREAK~§o  do solo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ferroespinho§r  
+item.hfrlc:ice_dragon_bone_sword=§l§fTempestade de Gelo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspeto Gélido~LINEBREAK~§3Matadragões~LINEBREAK~~LINEBREAK~§7§o"Gelo e osso~LINEBREAK~§o  forjados em um só."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Gelo§r  
+item.hfrlc:fire_dragon_bone_sword=§l§fCântico de Brasas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspeto de Fogo~LINEBREAK~§3Matadragões~LINEBREAK~~LINEBREAK~§7§o"Forjada no fogo~LINEBREAK~§o  do próprio dragão."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Fogo§r  
+item.hfrlc:lava_sword=§l§fEspada Meteoro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para gerar meteoros.~LINEBREAK~~LINEBREAK~§7§o"Meteoros caem do~LINEBREAK~§o  céu."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Essência de Fogo§r  
+item.hfrlc:ender_sword=§l§fPiscar§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para teletransportar-te~LINEBREAK~a curta distância.~LINEBREAK~~LINEBREAK~§7§o"Teletransporta-te para onde~LINEBREAK~§o  apontares."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Aço do Vazio§r  
+item.hfrlc:storm_sword=§l§fVendaval§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para gerar~LINEBREAK~um furacão.~LINEBREAK~~LINEBREAK~§7§o"As tempestades curvam-se~LINEBREAK~§o  à tua vontade."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Pedra do Trovão§r  
+item.hfrlc:thunder_sword=§l§fPartetempestades§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para gerar~LINEBREAK~um relâmpago.~LINEBREAK~~LINEBREAK~§9Aspeto de Trovão~LINEBREAK~~LINEBREAK~§7§o"O trovão obedece a~LINEBREAK~§o  cada golpe teu."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Pedra do Trovão§r  
+item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r§9~LINEBREAK~~LINEBREAK~§r§dAgacha para alternar Elementos~LINEBREAK~~LINEBREAK~§7§o"Finalmente...~LINEBREAK~§o  posso descansar."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Nenhum§r  
+item.hfrlc:dirt_sword=§l§fEspada de Terra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para lançar~LINEBREAK~um projétil de terra.~LINEBREAK~~LINEBREAK~§7§o"Começos humildes."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §790§r~LINEBREAK~ §8Item de Reparação:§r §7Terra§r  
+item.hfrlc:jungle_sword=§l§fPerene§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para fazer irromper~LINEBREAK~uma pedra do solo.~LINEBREAK~~LINEBREAK~§7§o"Anseia pelo~LINEBREAK~§o  solo por baixo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7630§r~LINEBREAK~ §8Item de Reparação:§r §7Essência da Terra§r  
 
 ## GREATSWORDS
-item.hfrlc:wither_sword=§l§fAniquilador§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para lançar~LINEBREAK~projéteis do murchar.~LINEBREAK~Conserte com Núcleo Pesado.~LINEBREAK~~LINEBREAK~§uAspecto do Murchar~LINEBREAK~~LINEBREAK~§7§o"A própria morte guia~LINEBREAK~§o  esta lâmina."§r
-item.hfrlc:nether_sword=§l§fFogo Infernal§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use para gerar um ataque de lava.~LINEBREAK~Conserte com Núcleo Pesado.~LINEBREAK~~LINEBREAK~§7§o"Fogo do inferno corre~LINEBREAK~§o  por sua lâmina."§r
-item.hfrlc:poison_sword=§l§fEspinheiro Tóxico§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Use o item para lançar~LINEBREAK~um projétil venenoso.~LINEBREAK~Conserte com Núcleo Pesado.~LINEBREAK~~LINEBREAK~§2Venenoso~LINEBREAK~~LINEBREAK~§7§o"Veneno escorre da~LINEBREAK~§o  sua lâmina."§r
+item.hfrlc:wither_sword=§l§fExterminador§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para disparar~LINEBREAK~projéteis do Wither.~LINEBREAK~~LINEBREAK~§uAspeto do Wither~LINEBREAK~~LINEBREAK~§7§o"A própria morte guia~LINEBREAK~§o  esta lâmina."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Núcleo Pesado§r  
+item.hfrlc:nether_sword=§l§fFogo Infernal§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa para gerar um ataque de lava.~LINEBREAK~~LINEBREAK~§7§o"Fogo infernal percorre~LINEBREAK~§o  a sua lâmina."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Núcleo Pesado§r  
+item.hfrlc:poison_sword=§l§fEspinho da Morte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Usa o item para lançar~LINEBREAK~um projétil venenoso.~LINEBREAK~~LINEBREAK~§2Venenoso~LINEBREAK~~LINEBREAK~§7§o"Veneno escorre da~LINEBREAK~§o  sua lâmina."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparação:§r §7Núcleo Pesado§r  
 
 ## KATANAS
-item.hfrlc:weapon_10=§l§fKatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"O caminho da~LINEBREAK~§o  lâmina encarnado."§r
-item.hfrlc:dragon_bone_katana=§l§fKatana de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"Uma arma elegante~LINEBREAK~§o  para uma era mais~LINEBREAK~§o  civilizada."§r
-item.hfrlc:ice_dragon_bone_katana=§l§fMordida Gélida§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"Espírito de dragão fundido~LINEBREAK~§o  com gelo criou~LINEBREAK~§o  um vínculo forte o suficiente~LINEBREAK~§o  para cortar qualquer metal."§r
-item.hfrlc:fire_dragon_bone_katana=§l§fDespertabrasa§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Flamejante~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"O espírito do Dragão de Fogo~LINEBREAK~§o  pulsa dentro do~LINEBREAK~§o  seu punho."§r
-item.hfrlc:legendary_katana=§l§pKatana Espiritual§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r~LINEBREAK~~LINEBREAK~§7§o"Espirito eldritch~LINEBREAK~§o  guia esta lâmina."§r
+item.hfrlc:weapon_10=§l§fKatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"O caminho da~LINEBREAK~§o  lâmina encarnado."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71600§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.hfrlc:dragon_bone_katana=§l§fKatana de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Matadora de Dragões~LINEBREAK~~LINEBREAK~§7§o"Uma arma elegante~LINEBREAK~§o  para uma era~LINEBREAK~§o  mais civilizada."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71660§r~LINEBREAK~ §8Item de Reparo:§r §7Osso de Dragão§r  
+item.hfrlc:ice_dragon_bone_katana=§l§fMordida Gélida§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspeto Gelado~LINEBREAK~§3Matadora de Dragões~LINEBREAK~~LINEBREAK~§7§o"O espírito do dragão fundido~LINEBREAK~§o  com gelo criou~LINEBREAK~§o  um laço forte o suficiente~LINEBREAK~§o  para cortar qualquer metal."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71710§r~LINEBREAK~ §8Item de Reparo:§r §7Espírito do Dragão de Gelo§r  
+item.hfrlc:fire_dragon_bone_katana=§l§fChama Ardente§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspeto Flamejante~LINEBREAK~§3Matadora de Dragões~LINEBREAK~~LINEBREAK~§7§o"O espírito do Dragão de Fogo~LINEBREAK~§o  pulsa no punho~LINEBREAK~§o  desta lâmina."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71760§r~LINEBREAK~ §8Item de Reparo:§r §7Espírito do Dragão de Fogo§r  
+item.hfrlc:legendary_katana=§l§pKatana Espiritual§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LENDÁRIO§r~LINEBREAK~~LINEBREAK~§7§o"Espírito éldrico~LINEBREAK~§o  guia esta lâmina."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72000§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
 
 ## DAGGERS
-item.hfrlc:flint_dagger=§l§fFaca de Sílex§r§f~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Boa o suficiente para~LINEBREAK~§o  extrair fibra de plantas."§r
-item.hfrlc:wooden_dagger=§l§fAdaga de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Mal consegue~LINEBREAK~§o  cortar papel."§r
-item.hfrlc:golden_dagger=§l§fAdaga Dourada§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Lasca feio~LINEBREAK~§o  a cada golpe."§r
-item.hfrlc:stone_dagger=§l§fAdaga de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"É pesada mas~LINEBREAK~§o  não tão cega quanto parece."§r
-item.hfrlc:iron_dagger=§l§fAdaga de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Sua lâmina afiada~LINEBREAK~§o  anseia por perfurar alguém."§r
-item.hfrlc:weapon_9=§l§fJambiya§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Seu punho dourado está~LINEBREAK~§o  gravado com ornamentos~LINEBREAK~§o  desconhecidos para você."§r
-item.hfrlc:diamond_dagger=§l§fAdaga de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Delicada na aparência~LINEBREAK~§o  mortal na precisão."§r
-item.hfrlc:netherite_dagger=§l§fAdaga de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Metal escuro~LINEBREAK~§o  brilha em roxo~LINEBREAK~§o  à luz do dia."§r
-item.hfrlc:dragon_bone_dagger=§l§fAdaga de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Chance de causar dano duplo~LINEBREAK~~LINEBREAK~§3Matadragão~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Garra de dragão~LINEBREAK~§o  sob seu comando."§r
-item.hfrlc:ice_dragon_bone_dagger=§l§fEstilhaço de Gelo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~§3Matadragão~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"Espírito de dragão fundido~LINEBREAK~§o  com gelo criou~LINEBREAK~§o  um vínculo forte o suficiente~LINEBREAK~§o  para cortar qualquer metal."§r
-item.hfrlc:fire_dragon_bone_dagger=§l§fLâmina Ardente§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Flamejante~LINEBREAK~§3Matadragão~LINEBREAK~§pColeta de Fibra~LINEBREAK~~LINEBREAK~§7§o"O espírito do Dragão de Fogo~LINEBREAK~§o  pulsa dentro~LINEBREAK~§o  do seu punho."§r
+item.hfrlc:flint_dagger=§l§fFaca de Sílex§r§f~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"Boa o suficiente para~LINEBREAK~§o  extrair fibra de plantas."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §750§r~LINEBREAK~ §8Item de Reparação:§r §7Sílex§r  
+item.hfrlc:wooden_dagger=§l§fAdaga de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"Mal consegue~LINEBREAK~§o  cortar papel."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §760§r~LINEBREAK~ §8Item de Reparação:§r §7Madeira§r  
+item.hfrlc:golden_dagger=§l§fAdaga Dourada§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"Estilhaça-se facilmente~LINEBREAK~§o  a cada golpe."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §731§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
+item.hfrlc:stone_dagger=§l§fAdaga de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"É pesada mas~LINEBREAK~§o  não tão romba quanto parece."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7110§r~LINEBREAK~ §8Item de Reparação:§r §7Pedregulho§r  
+item.hfrlc:iron_dagger=§l§fAdaga de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"A sua lâmina afiada~LINEBREAK~§o  deseja perfurar alguém."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7170§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ferro§r  
+item.hfrlc:weapon_9=§l§fJambiya§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"O seu cabo dourado está~LINEBREAK~§o  gravado com ornamentos~LINEBREAK~§o  desconhecidos para ti."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7190§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ferro§r  
+item.hfrlc:diamond_dagger=§l§fAdaga de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"Delicada na aparência~LINEBREAK~§o  mortal na precisão."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7800§r~LINEBREAK~ §8Item de Reparação:§r §7Diamante§r  
+item.hfrlc:netherite_dagger=§l§fAdaga de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"Metal escuro~LINEBREAK~§o  brilha em púrpura~LINEBREAK~§o  à luz do dia."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71870§r~LINEBREAK~ §8Item de Reparação:§r §7Fragmento de Sílex§r  
+item.hfrlc:dragon_bone_dagger=§l§fAdaga de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Chance de causar dano duplo~LINEBREAK~~LINEBREAK~§3Matadragões~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"Garra de dragão~LINEBREAK~§o  sob o teu comando."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71640§r~LINEBREAK~ §8Item de Reparação:§r §7Osso de Dragão§r  
+item.hfrlc:ice_dragon_bone_dagger=§l§fFragmento de Granizo§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspeto Gélido~LINEBREAK~§3Matadragões~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"O espírito do dragão fundido~LINEBREAK~§o  com o gelo criou~LINEBREAK~§o  um vínculo forte o suficiente~LINEBREAK~§o  para cortar qualquer metal."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Gelo§r  
+item.hfrlc:fire_dragon_bone_dagger=§l§fLâmina Flamejante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspeto de Fogo~LINEBREAK~§3Matadragões~LINEBREAK~§pColheita de Fibras~LINEBREAK~~LINEBREAK~§7§o"O espírito do Dragão de Fogo~LINEBREAK~§o  pulsa dentro do~LINEBREAK~§o  seu punho."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71750§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Fogo§r  
 
 ## SPEARS
-item.hfrlc:wooden_spear=§l§fLança de Madeira§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Um galho com~LINEBREAK~§o  ambições pontiagudas."§r
-item.hfrlc:golden_spear=§l§fLança Dourada§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dourada, mas~LINEBREAK~§o  nem tão valiosa."§r
-item.hfrlc:stone_spear=§l§fLança de Pedra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiva mas~LINEBREAK~§o  surpreendentemente eficaz."§r
-item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"A honra guia~LINEBREAK~§o  cada estocada."§r
-item.hfrlc:iron_spear=§l§fLança de Ferro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Confiável e~LINEBREAK~§o  bem equilibrada."§r
-item.hfrlc:diamond_spear=§l§fLança de Diamante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Excelência perfurante~LINEBREAK~§o  em forma sólida."§r
-item.hfrlc:netherite_spear=§l§fLança de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Trevas indestrutíveis~LINEBREAK~§o  forjadas em aço."§r
-item.hfrlc:dragon_bone_spear=§l§fLança de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Essência de dragão~LINEBREAK~§o  afia a ponta."§r
-item.hfrlc:ice_dragon_bone_spear=§l§fInvernodraco§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"Hálito congelante~LINEBREAK~§o  moldado em aço."§r
-item.hfrlc:fire_dragon_bone_spear=§l§fEspinha Incandescente§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Flamejante~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"A ponta arde com~LINEBREAK~§o  chama eterna."§r
+item.hfrlc:wooden_spear=§l§fLança de Madeira§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Um pau com~LINEBREAK~§o  ambições afiadas."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §758§r~LINEBREAK~ §8Item de Reparo:§r §7Madeira§r  
+item.hfrlc:golden_spear=§l§fLança de Ouro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dourada mas~LINEBREAK~§o  não tão preciosa."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §732§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ouro§r  
+item.hfrlc:stone_spear=§l§fLança de Pedra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiva mas~LINEBREAK~§o  surpreendentemente eficaz."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7120§r~LINEBREAK~ §8Item de Reparo:§r §7Pedregulho§r  
+item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"A honra guia~LINEBREAK~§o  cada estocada."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7210§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.hfrlc:iron_spear=§l§fLança de Ferro§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Confiável e~LINEBREAK~§o  bem equilibrada."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7230§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.hfrlc:diamond_spear=§l§fLança de Diamante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Excelência perfurante~LINEBREAK~§o  tornada realidade."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71000§r~LINEBREAK~ §8Item de Reparo:§r §7Diamante§r  
+item.hfrlc:netherite_spear=§l§fLança de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Escuridão inquebrável~LINEBREAK~§o  forjada em aço."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71950§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Netherite§r  
+item.hfrlc:dragon_bone_spear=§l§fLança de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Essência de dragão~LINEBREAK~§o  afia a ponta."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71650§r~LINEBREAK~ §8Item de Reparação:§r §7Osso de Dragão§r  
+item.hfrlc:ice_dragon_bone_spear=§l§fSerpe Invernal§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspeto Gélido~LINEBREAK~§3Matadragões~LINEBREAK~~LINEBREAK~§7§o"Sopro gelado feito~LINEBREAK~§o  de aço."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71720§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Gelo§r  
+item.hfrlc:fire_dragon_bone_spear=§l§fEspinhal das Cinzas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspeto de Fogo~LINEBREAK~§3Matadragões~LINEBREAK~~LINEBREAK~§7§o"A ponta arde com~LINEBREAK~§o  chama eterna."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71770§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Fogo§r  
 
 ## TRIDENTS
-item.trident.name=§l§fTridente§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cheira a~LINEBREAK~§o  peixe..."§r
-item.hfrlc:weapon_11=§l§fTridente de Neptúnio§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Dano de Projétil~LINEBREAK~Lealdade~LINEBREAK~Conserte com Lingote de Neptúnio.~LINEBREAK~~LINEBREAK~§7§o"Três pontas de~LINEBREAK~§o  fúria aquática."§r
+item.trident.name=§l§fTridente§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cheira a~LINEBREAK~§o  peixe..."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7250§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
+item.hfrlc:weapon_11=§l§fTridente de Neptúnio§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Dano de Projétil~LINEBREAK~Lealdade~LINEBREAK~~LINEBREAK~§7§o"Três pontas de~LINEBREAK~§o  fúria aquática."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7700§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Neptúnio§r  
 
 ## WARHAMMERS
-item.hfrlc:dragon_bone_hammer=§l§fMarreta de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder dracônico bruto~LINEBREAK~§o  em forma de arma."§r
-item.hfrlc:ice_dragon_bone_hammer=§l§fDomínio§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"Inverno eterno~LINEBREAK~§o  em forma de arma."§r
-item.hfrlc:fire_dragon_bone_hammer=§l§fFornalha§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Flamejante~LINEBREAK~§3Matadragão~LINEBREAK~~LINEBREAK~§7§o"Fúria derretida em~LINEBREAK~§o  forma física."§r
-item.mace.name=§l§fMaça§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cada golpe tem um~LINEBREAK~§o  sabor sísmico."§r
+item.hfrlc:dragon_bone_hammer=§l§fMartelo de Guerra de Osso de Dragão§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Poder dracónico bruto~LINEBREAK~§o  em forma de arma."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71670§r~LINEBREAK~ §8Item de Reparação:§r §7Osso de Dragão§r  
+item.hfrlc:ice_dragon_bone_hammer=§l§fDomínio§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspeto Gélido~LINEBREAK~§3Matadragões~LINEBREAK~~LINEBREAK~§7§o"Inverno eterno~LINEBREAK~§o  em forma de arma."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71730§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Gelo§r  
+item.hfrlc:fire_dragon_bone_hammer=§l§fForno§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspeto de Fogo~LINEBREAK~§3Matadragões~LINEBREAK~~LINEBREAK~§7§o"Ira derretida em~LINEBREAK~§o  forma física."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71780§r~LINEBREAK~ §8Item de Reparação:§r §7Espírito do Dragão de Fogo§r  
+item.mace.name=§l§fMaça§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cada golpe tem um~LINEBREAK~§o  sabor devastador."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7500§r~LINEBREAK~ §8Item de Reparação:§r §7Haste da Brisa§r  
 
 ## SHIELDS
-item.hfrlc:weapon_13=§l§fEscudo de Madeira§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Proteção simples~LINEBREAK~§o  do presente da natureza."§r
-item.shield.name=§l§fEscudo§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Eu posso fazer isso o dia todo..."§r
-
+item.hfrlc:weapon_13=§l§fEscudo de Madeira§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Proteção simples~LINEBREAK~§o  vinda da dádiva da natureza."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7400§r~LINEBREAK~ §8Item de Reparo:§r §7Madeira§r  
+item.shield.name=§l§fEscudo§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Posso fazer isto o dia todo..."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7336§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
 
 ## STAVES
-item.hfrlc:weapon_12=§l§fVarinha Mágica§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Energias arcanas~LINEBREAK~§o  fluem em seu interior."§r
+item.hfrlc:weapon_12=§l§fVarinha Mágica§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Energias arcanas~LINEBREAK~§o  fluem no seu interior."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71000§r~LINEBREAK~ §8Item de Reparação:§r §7Nenhum§r  
 
 ## BOWS
-item.crossbow.name=§l§fBesta§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"A escolha dos~LINEBREAK~§o  Illagers."§r
-item.bow.name=§l§fArco§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Que tua flecha~LINEBREAK~§o  acerte e perfure."§r
-item.hfrlc:weapon_1=§l§fArco Longo§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 Dano de Projétil§r~LINEBREAK~~LINEBREAK~§7§o"Alcance estendido~LINEBREAK~§o  para tiros precisos."§r
-item.hfrlc:dragon_bone_bow=§l§fArco de Osso de Dragão§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 Dano de Projétil~LINEBREAK~~LINEBREAK~§7§o"Poder ancestral~LINEBREAK~§o  guia cada flecha."§r
-item.hfrlc:fire_dragon_bow=§l§fEstalaflame§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspecto Flamejante~LINEBREAK~§9+20 Dano de Projétil~LINEBREAK~~LINEBREAK~§7§o"Flechas se inflamam com~LINEBREAK~§o  chama dracônica."§r
-item.hfrlc:ice_dragon_bone_bow=§l§fEstalageada§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspecto Gélido~LINEBREAK~§9+20 Dano de Projétil~LINEBREAK~~LINEBREAK~§7§o"Flechas congelam~LINEBREAK~§o  em pleno voo."§r
+item.crossbow.name=§l§fBesta§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"A escolha dos Illagers."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7464§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
+item.bow.name=§l§fArco§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Que a tua flecha~LINEBREAK~§o  acerte e perfure."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7384§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
+item.hfrlc:weapon_1=§l§fArco das Raízes§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 Dano de Projétil§r~LINEBREAK~~LINEBREAK~§7§o"Alcance estendido~LINEBREAK~§o  para tiros precisos."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71000§r~LINEBREAK~ §8Item de Reparo:§r §7Nenhum§r  
+item.hfrlc:dragon_bone_bow=§l§fArco de Osso de Dragão§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 Dano de Projétil~LINEBREAK~~LINEBREAK~§7§o"Poder ancestral~LINEBREAK~§o  guia cada flecha."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparo:§r §7Osso de Dragão§r  
+item.hfrlc:fire_dragon_bow=§l§fChama Estalante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspeto Flamejante~LINEBREAK~§9+20 Dano de Projétil~LINEBREAK~~LINEBREAK~§7§o"As flechas incendeiam-se~LINEBREAK~§o  com a chama do dragão."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparo:§r §7Espírito do Dragão de Fogo§r  
+item.hfrlc:ice_dragon_bone_bow=§l§fGelo Estalante§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspeto Gelado~LINEBREAK~§9+20 Dano de Projétil~LINEBREAK~~LINEBREAK~§7§o"As flechas congelam~LINEBREAK~§o  em pleno voo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71700§r~LINEBREAK~ §8Item de Reparo:§r §7Espírito do Dragão de Gelo§r  
 
 ## TOOLS
-item.wooden_axe.name=§l§fMachado de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"É frágil, mas~LINEBREAK~  cumpre sua função."§r
-item.wooden_shovel.name=§l§fPá de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"O pior pesadelo da terra!~LINEBREAK~  ...Até quebrar."§r
-item.wooden_pickaxe.name=§l§fPicareta de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"O pior inimigo do~LINEBREAK~  paralelepípedo."§r
-item.wooden_hoe.name=§l§fEnxada de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"A terra não tem~LINEBREAK~  nenhuma chance... talvez."§r
+item.wooden_axe.name=§l§fMachado de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"É frágil, mas~LINEBREAK~  cumpre a função."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §760§r~LINEBREAK~ §8Item de Reparação:§r §7Madeira§r  
+item.wooden_shovel.name=§l§fPá de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"O pior pesadelo da terra!~LINEBREAK~  ...Até se partir."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §760§r~LINEBREAK~ §8Item de Reparação:§r §7Madeira§r  
+item.wooden_pickaxe.name=§l§fPicareta de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"O amigo menos querido~LINEBREAK~  do pedregulho."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §760§r~LINEBREAK~ §8Item de Reparação:§r §7Madeira§r  
+item.wooden_hoe.name=§l§fEnxada de Madeira§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"A terra não tem~LINEBREAK~  hipótese... provavelmente."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §760§r~LINEBREAK~ §8Item de Reparação:§r §7Madeira§r  
 
-item.stone_axe.name=§l§fMachado de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Serve para cortar~LINEBREAK~  madeira seca."§r
-item.stone_shovel.name=§l§fPá de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hora de cavar~LINEBREAK~  mais fundo."§r
-item.stone_pickaxe.name=§l§fPicareta de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Vamos ver quantas~LINEBREAK~  pedras ela pode minerar..."§r
-item.stone_hoe.name=§l§fEnxada de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Agora a lavoura~LINEBREAK~  ficou mais pedregosa."§r
+item.stone_axe.name=§l§fMachado de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bom o suficiente para cortar~LINEBREAK~  lenha morta."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7132§r~LINEBREAK~ §8Item de Reparo:§r §7Pedregulho§r  
+item.stone_shovel.name=§l§fPá de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hora de escavar~LINEBREAK~  mais fundo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7132§r~LINEBREAK~ §8Item de Reparo:§r §7Pedregulho§r  
+item.stone_pickaxe.name=§l§fPicareta de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Vamos ver quantas~LINEBREAK~  rochas uma rocha pode minerar..."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7132§r~LINEBREAK~ §8Item de Reparo:§r §7Pedregulho§r  
+item.stone_hoe.name=§l§fEnxada de Pedra§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"A agricultura acabou de receber~LINEBREAK~  um reforço rochoso."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7132§r~LINEBREAK~ §8Item de Reparo:§r §7Pedregulho§r  
 
-item.iron_axe.name=§l§fMachado de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Machado confiável de lenhador."§r
-item.iron_shovel.name=§l§fPá de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sou um com a terra.~LINEBREAK~  E a terra é comigo."§r
-item.iron_pickaxe.name=§l§fPicareta de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Transforma montanhas em cascalho!~LINEBREAK~  Um golpe por vez..."§r
-item.iron_hoe.name=§l§fEnxada de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aqui nasce uma plantação de trigo."§r
+item.iron_axe.name=§l§fMachado de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Machado confiável de lenhador."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7250§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.iron_shovel.name=§l§fPá de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sou um com a terra.~LINEBREAK~  E a terra é comigo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7250§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.iron_pickaxe.name=§l§fPicareta de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Transforma montanhas em seixos!~LINEBREAK~  Um golpe de cada vez..."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7250§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
+item.iron_hoe.name=§l§fEnxada de Ferro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aqui nascerá um campo de trigo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §7250§r~LINEBREAK~ §8Item de Reparo:§r §7Barra de Ferro§r  
 
-item.golden_axe.name=§l§fMachado de Ouro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Se ao menos fosse~LINEBREAK~  tão resistente quanto~LINEBREAK~  é bonito..."§r
-item.golden_shovel.name=§l§fPá de Ouro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Linda...~LINEBREAK~  mas frágil."§r
-item.golden_pickaxe.name=§l§fPicareta de Ouro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Midas se orgulharia...~LINEBREAK~e ficaria falido."§r
-item.golden_hoe.name=§l§fEnxada de Ouro§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Feita no Nether."§r
+item.golden_axe.name=§l§fMachado Dourado§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Se ao menos fosse tão~LINEBREAK~  resistente quanto é~LINEBREAK~  bonito.."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §733§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
+item.golden_shovel.name=§l§fPá Dourada§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Linda...~LINEBREAK~  mas delicada."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §733§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
+item.golden_pickaxe.name=§l§fPicareta Dourada§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Midas ficaria orgulhoso...~LINEBREAK~e falido."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §733§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
+item.golden_hoe.name=§l§fEnxada Dourada§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Feita no Nether."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §733§r~LINEBREAK~ §8Item de Reparação:§r §7Barra de Ouro§r  
 
-item.diamond_axe.name=§l§fMachado de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Um só basta~LINEBREAK~  para derrubar uma~LINEBREAK~  floresta inteira."§r
-item.diamond_shovel.name=§l§fPá de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Às vezes é preciso~LINEBREAK~  cavar com estilo."§r
-item.diamond_pickaxe.name=§l§fPicareta de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Faz até a obsidiana~LINEBREAK~  suar de medo..."§r
-item.diamond_hoe.name=§l§fEnxada de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Exagero para~LINEBREAK~  plantar batatas?"§r
+item.diamond_axe.name=§l§fMachado de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Basta um para~LINEBREAK~  derrubar uma pequena~LINEBREAK~  floresta."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71560§r~LINEBREAK~ §8Item de Reparação:§r §7Diamante§r  
+item.diamond_shovel.name=§l§fPá de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Porque às vezes~LINEBREAK~  é preciso escavar~LINEBREAK~  com estilo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71560§r~LINEBREAK~ §8Item de Reparação:§r §7Diamante§r  
+item.diamond_pickaxe.name=§l§fPicareta de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Faz até a obsidiana~LINEBREAK~  suar de nervoso..."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71560§r~LINEBREAK~ §8Item de Reparação:§r §7Diamante§r  
+item.diamond_hoe.name=§l§fEnxada de Diamante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Um pouco exagerado~LINEBREAK~  para batatas?"§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71560§r~LINEBREAK~ §8Item de Reparação:§r §7Diamante§r  
 
-item.netherite_axe.name=§l§fMachado de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fundido de um material~LINEBREAK~  de outro mundo."§r
-item.netherite_shovel.name=§l§fPá de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada onde até~LINEBREAK~  os demônios temem pisar."§r
-item.netherite_pickaxe.name=§l§fPicareta de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ao leito de rocha!~LINEBREAK~  E além!"§r
-item.netherite_hoe.name=§l§fEnxada de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fazenda?~LINEBREAK~  Com seu talento?"§r
+item.netherite_axe.name=§l§fMachado de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fundido de um material~LINEBREAK~  de outro mundo."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72030§r~LINEBREAK~ §8Item de Reparo:§r §7Lingote de Netherite§r  
+item.netherite_shovel.name=§l§fPá de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Forjada onde até os demónios~LINEBREAK~  temem pisar."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72030§r~LINEBREAK~ §8Item de Reparo:§r §7Lingote de Netherite§r  
+item.netherite_pickaxe.name=§l§fPicareta de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Até à bedrock!~LINEBREAK~  E além!"§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72030§r~LINEBREAK~ §8Item de Reparo:§r §7Lingote de Netherite§r  
+item.netherite_hoe.name=§l§fEnxada de Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Agricultura?~LINEBREAK~  Com os teus talentos?"§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §72030§r~LINEBREAK~ §8Item de Reparo:§r §7Lingote de Netherite§r  
 
-item.hfrlc:flint_axe=§l§fMachado de Pederneira§r§f~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitivo, mas~LINEBREAK~§o  surpreendentemente afiado."§r
-item.hfrlc:weapon_3=§l§fMachadinha de Osso§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Reparar com Pedra Sombria.~LINEBREAK~~LINEBREAK~§7§o"Pequena, mas~LINEBREAK~§o  devastadoramente afiada."§r
+item.hfrlc:flint_axe=§l§fMachado de Sílex§r§f~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitivo, mas~LINEBREAK~§o  surpreendentemente afiado."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §744§r~LINEBREAK~ §8Item de Reparação:§r §7Sílex§r  
+item.hfrlc:weapon_3=§l§fMachadinha de Osso§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDano§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Pequena, mas~LINEBREAK~§o  devastadoramente afiada."§r~LINEBREAK~~LINEBREAK~ §8Durabilidade:§r §71560§r~LINEBREAK~ §8Item de Reparação:§r §7Pedra Sombria§r  
 
-item.hfrlc:dungeon_door=Porta da Masmorra
+item.hfrlc:dungeon_door=Porta de Masmorra
 item.hfrlc:dungeon_door_desert=Porta da Masmorra do Deserto
 item.hfrlc:dungeon_door_snow=Porta da Masmorra de Gelo
 item.hfrlc:dungeon_door_red_desert=Porta da Masmorra do Deserto Vermelho
 item.hfrlc:dungeon_door_key=Chave da Porta
 item.hfrlc:key=Chave
 
-death.attack.anvil=F no chat por %1$s
-death.attack.arrow=MÃE PEGA A CÂMERA!!
-death.attack.bullet=MÃE PEGA A CÂMERA!!
-death.attack.cactus=Você é o verdadeiro MVP — Presa Mais Valiosa.
-death.attack.drown=Nem era tão fundo assim, %1$s.
-death.attack.explosion=Conquista desbloqueada: Respawn Profissional.
-death.attack.explosion.by.bed=Deixa ele C-O-Z-I-N-H-A-R!
-death.attack.explosion.player=Como NÃO treinar seu dragão
-death.attack.fall=A gravidade disse “senta aí, %1$s”.
-death.attack.fallingBlock=Notas do patch: Vida nerfada.
+death.attack.anvil=Dá um F no chat por %1$s
+death.attack.arrow=MÃE, VAI BUSCAR A CÂMARA!!
+death.attack.bullet=MÃE, VAI BUSCAR A CÂMARA!!
+death.attack.cactus=És mesmo um MVP — Maior Víctima Possível.
+death.attack.drown=Nem era assim tão fundo, %1$s.
+death.attack.explosion=Conquista desbloqueada: Respawnador Profissional.
+death.attack.explosion.by.bed=Deixa-o COZINHAR!
+death.attack.explosion.player=Como NÃO treinar o teu dragão
+death.attack.fall=A gravidade disse "senta-te, %1$s"
+death.attack.fallingBlock=Changelog: Vida nerfada.
 death.attack.fireball=LEBROOON!
-death.attack.fireworks=Você esqueceu de se curar, né?
+death.attack.fireworks=Esqueceste-te de curar, não foi?
 death.attack.flyIntoWall=Dano Emocional!
 death.attack.generic=%1$s morreu
 death.attack.indirectMagic=%1$s não é o G.O.A.T.
-death.attack.inFire=Fogo supa quente ohhhhh!!!
-death.attack.inWall=Era lag ou falta de habilidade?
-death.attack.lava=Pelo menos não levou seu cavalo pra lava.
+death.attack.inFire=Fogo supa quente ooooooh!!!
+death.attack.inWall=Foi lag ou só falta de skill?
+death.attack.lava=Ao menos não levaste o cavalo contigo.
 death.attack.lightningBolt=Git Gud.
 death.attack.maceSmash.player=%1$s foi esmagado por %2$s
 death.attack.maceSmash.player.item=%1$s foi esmagado por %2$s com %3$s
-death.attack.magic=Considere beber água regularmente; durante refeições, esforço físico e ao sentir sede.
-death.attack.magma=Precisa de um abraço?
-death.attack.mob=%1$s não atendeu aos requisitos para sobreviver.
-death.attack.mob.item=%1$s não atendeu aos requisitos para sobreviver.
-death.attack.onFire=A morte chegou PEGANDO FOGO!!!
-death.attack.outOfWorld=Já nível 50 em renascer.
-death.attack.player=%1$s não atendeu aos requisitos para sobreviver.
-death.attack.player.item=%1$s não atendeu aos requisitos para sobreviver.
-death.attack.spit=%1$s levou uma cusparada na cara de %2$s
-death.attack.starve=RIP, pelo menos você tentou.
-death.attack.sweetBerry=Você é o verdadeiro MVP — Presa Mais Valiosa.
-death.attack.thorns=Você é o verdadeiro MVP — Presa Mais Valiosa.
-death.attack.trident=%1$s foi empalado até a morte por %2$s
-death.attack.wither=Devia ter trazido leite.
-death.attack.freeze=Devia ter ido no Jhonny Dang.
-death.attack.sonicBoom.player=Devia ter apertado X pra desviar.
-death.attack.stalactite=Se houvesse conquista pra morrer, você teria desbloqueado duas vezes.
-death.attack.stalagmite=%1$s se esforçou tanto, mas caiu mais ainda.
-death.fell.accident.generic=A gravidade disse “senta aí, %1$s”.
+death.attack.magic=Considera beber água com regularidade: às refeições, durante esforço físico e quando os sinais de sede aparecerem.
+death.attack.magma=Precisas de um abraço?
+death.attack.mob=%1$s não cumpriu os requisitos para sobreviver.
+death.attack.mob.item=%1$s não cumpriu os requisitos para sobreviver.
+death.attack.onFire=A morte vem a ARDER!!!
+death.attack.outOfWorld=Já és nível 50 em renascimentos.
+death.attack.player=%1$s não cumpriu os requisitos para sobreviver.
+death.attack.player.item=%1$s não cumpriu os requisitos para sobreviver.
+death.attack.spit=%1$s foi cuspido na cara por %2$s
+death.attack.starve=RIP, pelo menos tentaste.
+death.attack.sweetBerry=És mesmo um MVP — Maior Víctima Possível.
+death.attack.thorns=És mesmo um MVP — Maior Víctima Possível.
+death.attack.trident=%1$s foi empalado até à morte por %2$s
+death.attack.wither=Devias ter trazido leite
+death.attack.freeze=Devias era ter ido ao Jhonny Dang
+death.attack.sonicBoom.player=Devias ter carregado no X para desviar.
+death.attack.stalactite=Se houvesse conquista por morrer, tinhas desbloqueado duas vezes.
+death.attack.stalagmite=%1$s tentou tanto, mas caiu ainda mais.
+death.fell.accident.generic=A gravidade disse "senta-te, %1$s"
 
 pack.name=RLCraft Bedrock Edition RP
 pack.description=§l§c[!] Este pacote deve estar acima de todos os outros!§r | Baseado no Modpack original Java de Shivaxi | Por Honeyfrost com Skybox de Hybred

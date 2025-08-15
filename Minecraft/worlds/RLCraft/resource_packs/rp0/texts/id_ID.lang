@@ -1,225 +1,228 @@
 action.guidebook.title=§lMenu RLCraft
 action.guidebook.how_to_play=§l§2Cara Bermain
 action.guidebook.how_to_start=§l§2Cara Memulai
-action.guidebook.thirst_title=§l§bRasa Haus
-action.guidebook.grave_title=§l§4Kuburan
+action.guidebook.thirst_title=§l§bHaus
+action.guidebook.grave_title=§l§4Makam
 action.guidebook.level_title=§l§eLeveling
 action.guidebook.temp_title=§l§6Suhu
 action.guidebook.trinket_title=§l§dPerhiasan
-action.guidebook.way_title=§l§bMenjelajahi Dunia
+action.guidebook.way_title=§l§bJelajahi Dunia
 action.guidebook.taming_title=§l§9Menjinakkan
-action.guidebook.dungeons_title=§l§5Ruang Bawah Tanah
+action.guidebook.dungeons_title=§l§5Dungeon
 action.guidebook.gameplay_settings_title=§l§8Pengaturan Permainan
 action.guidebook.visual_settings_title=§l§8Pengaturan Visual
-action.guidebook.social_title=§l§9Gabung ke Discord Kami!
+action.guidebook.social_title=§l§9Bergabung di Discord Kami!
 action.guidebook.youtube_title=§l§cTonton Tutorialnya!
 action.guidebook.creditsandlicenses_title=§l§6Kredit & Lisensi
 action.guidebook.credits_title=§l§6Kredit
 action.guidebook.licenses_title=§l§9Lisensi
 action.guidebook.rlcraft_title=§l§8RLCraft
-action.guidebook.notreepunching_title=§l§cTidak Memukul Pohon
+action.guidebook.notreepunching_title=§l§cDilarang Memukul Pohon
 action.guidebook.weapons_title=§l§3Senjata
-action.guidebook.skybox_title=§l§tSkybox
+action.guidebook.skybox_title=§l§tLangit
 action.guidebook.back=<< Kembali
 action.guidebook.trinket_fix=§lPerbaiki Perhiasan
-action.guidebook.adding_packs_title=§l§nMenambahkan Paket
-action.guidebook.adding_packs2_title=§l§8Menggunakan RLCraft dengan paket lain
+action.guidebook.adding_packs_title=§l§nMenambahkan Pack
+action.guidebook.adding_packs2_title=§l§8Menggunakan RLCraft dengan pack lain
 action.guidebook.video_explaination_title=§l§8Tutorial Video
 action.guidebook.add_aands_title=§l§8Bermain dengan §lActions & Stuff
-action.guidebook.add_more_packs_title=§l§8Bermain dengan paket lain
-action.guidebook.realms_disclaimer_title=§l§8Penafian Realms
+action.guidebook.add_more_packs_title=§l§8Bermain dengan pack lain
+action.guidebook.realms_disclaimer_title=§l§8Pernyataan Realms
 action.guidebook.play_title=§l§8Lanjutkan
+
 
 action.guidebook.thirst_disable=Bar Haus
 action.guidebook.temp_disable=Bar Suhu
-action.guidebook.lens_disable=Cahaya Lensa
-action.guidebook.wood_punching=Debuff Menambang dengan Tangan
-action.guidebook.lagwarn=Pesan Lag Bersih
+action.guidebook.lens_disable=Efek Lens Flare
+action.guidebook.wood_punching=Pengurangan Efektivitas Menambang dengan Tangan
+action.guidebook.lagwarn=Pesan Bersihkan Lag
 action.guidebook.damage_indicator=Indikator Kerusakan
 action.guidebook.natural_regen=Regenerasi Alami
-action.guidebook.skyspires=Generasi Menara Langit
+action.guidebook.skyspires=Generasi Skyspire
 action.guidebook.dungeons=Generasi Dungeon
 action.guidebook.structure_speed=Kecepatan Generasi Struktur
-action.guidebook.vv_optimization=Optimisasi Visual yang Cerah
-action.guidebook.bodyparts_posx=Posisi Bagian Tubuh X
-action.guidebook.bodyparts_posy=Posisi Bagian Tubuh Y
+action.guidebook.vv_optimization=Optimasi Visual Vibrant
+action.guidebook.bodyparts_posx=Posisi Bodyparts X
+action.guidebook.bodyparts_posy=Posisi Bodyparts Y
 
-action.guidebook.how_start_text=~LINEBREAK~§l1. Kumpulkan Kerikil:§r Temukan dan tambang kerikil untuk mendapatkan batu api.~LINEBREAK~~LINEBREAK~§l2. Proses Batu Api:§r Pecahkan batu api di atas batu untuk menajamkannya. (Pukul bahan batu apa pun dengan batu api di tanganmu)~LINEBREAK~~LINEBREAK~§l3. Kumpulkan Tongkat:§r Hancurkan daun untuk mengumpulkan tongkat.~LINEBREAK~~LINEBREAK~§l4. Buat Pisau:§r Gunakan batu api dan tongkat untuk membuat pisau.~LINEBREAK~~LINEBREAK~§l5. Kumpulkan Serat Tumbuhan:§r Gunakan pisau untuk memotong rumput dan mengumpulkan serat tumbuhan.~LINEBREAK~~LINEBREAK~§l6. Buat Tali Serat Tumbuhan:§r Gabungkan serat tumbuhan untuk membuat tali serat tumbuhan.~LINEBREAK~~LINEBREAK~§l7. Buat Kapak Batu Api:§r Gabungkan sepotong batu api, tongkat, dan tali serat tumbuhan untuk membuat kapak batu api.~LINEBREAK~~LINEBREAK~§l8. Tebang Kayu:§r Gunakan kapak batu api untuk menebang pohon.~LINEBREAK~~LINEBREAK~§l9. Buat Alat Kayu:§r Gunakan kayu untuk membuat alat.~LINEBREAK~~LINEBREAK~§l10.§r Segera setelah kamu bisa §lgunakan Menu Leveling§r, langsung gunakan itu!~LINEBREAK~~LINEBREAK~Selamat! Kamu sekarang siap berdiri sendiri!~LINEBREAK~ 
-action.guidebook.thirst_body=~LINEBREAK~§r§l§bHaus§r adalah fitur bertahan hidup baru yang penting dan mengharuskan kamu tetap terhidrasi. Kamu bisa menjaga hidrasi dengan minum air, makan buah, dan mengonsumsi sup.~LINEBREAK~~LINEBREAK~§rJika kamu tidak tetap terhidrasi, kamu akan menerima efek negatif yang mengurangi peluang bertahan hidup!~LINEBREAK~ 
-action.guidebook.grave_body=~LINEBREAK~§rKuburan akan muncul di tempat kematianmu. Berinteraksi dengan kuburan untuk mengambil kembali barang-barangmu.~LINEBREAK~~LINEBREAK~§7§oCatatan: Kuburan tidak akan muncul jika kamu mati di Lava, jika mode Hard diaktifkan, atau jika aturan keepInventory dinyalakan.~LINEBREAK~
-action.guidebook.level_body=~LINEBREAK~§rRLCraft menambahkan sistem §l§apeningkatan level§r yang unik.~LINEBREAK~~LINEBREAK~§r§l§aMenu Leveling§r adalah item terpenting di inventarismu, §lgunakan segera setelah kamu mendapatkan XP.§r~LINEBREAK~~LINEBREAK~§rUntuk menggunakan item dan alat yang kuat, kamu harus mencapai batas level tertentu.~LINEBREAK~~LINEBREAK~§rTingkatkan Keterampilanmu menggunakan Level XP.~LINEBREAK~~LINEBREAK~§rKemampuan baru akan terbuka setiap 10 level dalam satu kategori, hingga level 50!~LINEBREAK~ 
-action.guidebook.temp_body=~LINEBREAK~§rDalam RLCraft, setiap bioma mempengaruhi suhu tubuhmu! Bioma panas akan membuatmu §6Kepanasan§r, sedangkan bioma dingin akan §bMembekukan§r kamu.~LINEBREAK~~LINEBREAK~§l§bEternal Ice [Trinket]§r dan berada dekat dengan §bblok dingin§r akan membantumu tahan terhadap §6panas§r.~LINEBREAK~~LINEBREAK~§l§6Eternal Ember [Trinket]§r dan berada dekat dengan §6blok panas§r akan membantumu tahan terhadap §bdingin§r.~LINEBREAK~ 
-action.guidebook.trinket_body=~LINEBREAK~§l§6Tas Trinket§r dalam RLCraft memiliki 6 slot:§r 3 untuk item spesial (seperti §l§bEternal Ice [Trinket]§r) dan 3 untuk cincin.~LINEBREAK~~LINEBREAK~§rTrinket dapat dibuat, ditemukan di Dungeon yang menantang, atau diperoleh dari membunuh Bos dan monster biasa.~LINEBREAK~~LINEBREAK~§7§oTips: Jika trinket tidak berfungsi, tekan tombol "Perbaiki Trinket".~LINEBREAK~ 
-action.guidebook.way_body=~LINEBREAK~§r§l§7Warpstone:§r Aktifkan warpstone di seluruh dunia untuk bepergian dengan cepat antar lokasi.~LINEBREAK~~LINEBREAK~§r§l§dScroll Teleportasi:§r Memungkinkanmu langsung kembali ke titik spawn yang telah kamu atur.~LINEBREAK~~LINEBREAK~§r§l§bRamuan Recall:§r Memungkinkanmu teleportasi kembali ke tempat kamu terakhir mati.~LINEBREAK~~LINEBREAK~§r§l§bSleeping Bag:§r Memungkinkanmu melewati malam tanpa menghapus titik respawn dari ranjangmu.~LINEBREAK~ 
-action.guidebook.taming_body=~LINEBREAK~§rKamu bisa menjinakkan naga yang telah dikalahkan dengan berinteraksi dengannya. Setelah dijinakkan, naga tersebut bisa ditunggangi dan diberi armor. Armor Naga bisa dibuat atau ditemukan di peti.~LINEBREAK~ 
-action.guidebook.dungeons_body=~LINEBREAK~§rMenjelajahi dungeon sangat berbahaya, tapi harta dan pengalaman yang kamu peroleh membuat risikonya sepadan!~LINEBREAK~~LINEBREAK~Jangan terburu-buru, dungeon bisa sangat sulit! Naikkan level kemampuanmu, dan dapatkan peralatan yang lebih baik sebelum mencobanya.~LINEBREAK~~LINEBREAK~§lAda berbagai tingkatan dungeon:§r rumah terbengkalai akan memberimu alat bertahan hidup penting, tapi kamu akan lebih beruntung menemukan artefak kuat di kapal bajak laut atau Skyspire.~LINEBREAK~~LINEBREAK~§lDungeon Bawah Tanah§r memiliki bos yang kuat dan merupakan yang paling berbahaya, tapi juga memiliki loot paling kuat. Ada yang mau donat?~LINEBREAK~ 
-action.guidebook.social_body=~LINEBREAK~§rPindai kode QR di bawah ini, atau gunakan tautan ini untuk bergabung ke discord kami!~LINEBREAK~honeyfrost.net/discord~LINEBREAK~ 
-action.guidebook.youtube_body=~LINEBREAK~§rPindai kode QR di bawah ini, atau kunjungi channel YouTube kami!~LINEBREAK~youtube.com/@Honeyfrost~LINEBREAK~ 
-action.guidebook.credits_body=~LINEBREAK~Kami berterima kasih kepada orang-orang dan organisasi berikut atas kontribusi mereka pada RLCraft: Bedrock Edition.~LINEBREAK~~LINEBREAK~§lPencipta RLCraft:§r~LINEBREAK~- Shivaxi~LINEBREAK~~LINEBREAK~§lProduser:§r~LINEBREAK~- Benjamin Deconihout~LINEBREAK~- Haik Ishacian~LINEBREAK~- Mikhail Kuznetsov~LINEBREAK~- Nathan Gaillot~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~~LINEBREAK~§lPengembang:§r~LINEBREAK~- Amman~LINEBREAK~- Ashfaqur Rahman Chowdhury~LINEBREAK~- Alan Capellino~LINEBREAK~- Christian Mari Cabral~LINEBREAK~- Furkan Sancak~LINEBREAK~- Mathias Santos~LINEBREAK~- Muhammet Vebi~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~§lArtis:§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Alexander Shimarov~LINEBREAK~- Andrey Voshin~LINEBREAK~- Artem Baklin~LINEBREAK~- Benjamin Goicoechea~LINEBREAK~- Cao Xiao Dong~LINEBREAK~- Eduardo Da Costa~LINEBREAK~- Egor Chiganenko~LINEBREAK~- Isaac Jeremy Rivera Moran~LINEBREAK~- Ivan Perminov~LINEBREAK~- Ivanovo Deryabikha~LINEBREAK~- Jeremy Ben Ammar~LINEBREAK~- Josiah Hockett~LINEBREAK~- Jules Graire~LINEBREAK~- Julien Rouget~LINEBREAK~- Kirill Kruglov~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Lu Runzi~LINEBREAK~- Mads Lykke-Bertelsen~LINEBREAK~- Mark van Voornveld~LINEBREAK~- Omar Hafiz~LINEBREAK~- Oleh Batozhskyi~LINEBREAK~- ORCS004~LINEBREAK~- Pierre Malot~LINEBREAK~- Samuel Lepage~LINEBREAK~- Semyon Alexeyevich Uski~LINEBREAK~- Theo Lestavel~LINEBREAK~- Uliana Shvadchenko~LINEBREAK~- Victor Rouget~LINEBREAK~- Vladimir Savelev~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~Dan masih banyak lagi!~LINEBREAK~~LINEBREAK~§lSeni Splash:§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Dennis Wonneberger~LINEBREAK~- Ethan Mulwee~LINEBREAK~- Mathieu Lavaissiere~LINEBREAK~- Nathan Regina De Morais~LINEBREAK~- Obi.Blue~LINEBREAK~- Oleg Fedorov~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~- Sedov Denis~LINEBREAK~- Terry Gillaux~LINEBREAK~~LINEBREAK~§lPenguji:§r~LINEBREAK~- Amman~LINEBREAK~- Ivanov Oleg~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Pierre Pujol~LINEBREAK~- Rareloot~LINEBREAK~- Robert~LINEBREAK~
+action.guidebook.how_start_text=~LINEBREAK~§l1. Kumpulkan Kerikil:§r Temukan dan gali kerikil untuk mendapatkan batu api.~LINEBREAK~~LINEBREAK~§l2. Olah Batu Api:§r Pecahkan batu api pada batu untuk mengasahnya. (Pukul material batu dengan batu api di tangan)~LINEBREAK~~LINEBREAK~§l3. Kumpulkan Tongkat:§r Patahkan daun untuk mengumpulkan tongkat.~LINEBREAK~~LINEBREAK~§l4. Buat Pisau:§r Gunakan batu api dan tongkat untuk membuat pisau.~LINEBREAK~~LINEBREAK~§l5. Kumpulkan Serat Tumbuhan:§r Gunakan pisau untuk memotong rumput dan kumpulkan serat tumbuhan.~LINEBREAK~~LINEBREAK~§l6. Buat Tali Serat Tumbuhan:§r Gabungkan serat tumbuhan untuk membuat tali serat tumbuhan.~LINEBREAK~~LINEBREAK~§l7. Buat Kapak Batu Api:§r Gabungkan sepotong batu api, tongkat, dan tali serat tumbuhan untuk membuat kapak batu api.~LINEBREAK~~LINEBREAK~§l8. Tebang Kayu:§r Gunakan kapak batu api untuk menebang pohon.~LINEBREAK~~LINEBREAK~§l9. Buat Alat Kayu:§r Gunakan kayu untuk membuat alat.~LINEBREAK~~LINEBREAK~§l10.§r Segera setelah kamu bisa §lgunakan Menu Leveling§r, mulai gunakan itu!~LINEBREAK~~LINEBREAK~Selamat! Kamu sekarang siap berdiri sendiri!~LINEBREAK~ 
+action.guidebook.thirst_body=~LINEBREAK~§r§l§bHaus§r adalah fitur bertahan hidup baru yang sangat penting yang mengharuskan kamu tetap terhidrasi. Kamu bisa menjaga hidrasi dengan minum air, makan buah, dan mengonsumsi sup.~LINEBREAK~~LINEBREAK~§rJika gagal menjaga hidrasi, akan ada efek negatif yang mempengaruhi peluang bertahan hidupmu!~LINEBREAK~ 
+action.guidebook.grave_body=~LINEBREAK~§rSebuah makam akan muncul di tempat kematianmu. Berinteraksilah dengan makam untuk mengambil kembali itemmu.~LINEBREAK~~LINEBREAK~§7§oCatatan: Makam tidak akan muncul jika kamu mati di Lava, jika mode Sulit diaktifkan, atau jika aturan gamerule keepInventory aktif.~LINEBREAK~ 
+action.guidebook.level_body=~LINEBREAK~§rRLCraft menambahkan §l§asistem leveling§r yang unik.~LINEBREAK~~LINEBREAK~§r§l§aMenu Leveling§r adalah item paling penting di inventarismu, §lgunakan segera setelah kamu mendapat XP.~LINEBREAK~~LINEBREAK~§rUntuk menggunakan item dan alat kuat, kamu harus mencapai level tertentu.~LINEBREAK~~LINEBREAK~§rNaikkan level Keahlianmu dengan menggunakan Level XP.~LINEBREAK~~LINEBREAK~§rKemampuan baru terbuka setiap 10 level yang kamu capai dalam sebuah kategori, hingga level 50!~LINEBREAK~ 
+action.guidebook.temp_body=~LINEBREAK~§rDi RLCraft, setiap biome akan mempengaruhi suhu tubuhmu! Biome panas akan membuatmu §6Overheat§r, sementara biome dingin akan membuatmu §bFreeze§r.~LINEBREAK~~LINEBREAK~§l§bEternal Ice [Trinket]§r dan tinggal dekat §bblok dingin§r akan membantumu tahan terhadap §6panas§r.~LINEBREAK~~LINEBREAK~§l§6Eternal Ember [Trinket]§r dan tinggal dekat §6blok panas§r akan membantumu tahan terhadap §bdingin§r.~LINEBREAK~ 
+action.guidebook.trinket_body=~LINEBREAK~§l§6Tas Trinket§r di RLCraft memiliki 6 slot:§r 3 untuk item khusus (seperti §l§bEternal Ice [Trinket]§r) dan 3 untuk cincin.~LINEBREAK~~LINEBREAK~§rTrinket bisa dibuat, ditemukan di Dungeon yang menantang, atau didapat dari membunuh Boss dan mob biasa.~LINEBREAK~~LINEBREAK~§7§oTip: Jika trinket berhenti bekerja, tekan tombol "Fix Trinkets".~LINEBREAK~ 
+action.guidebook.way_body=~LINEBREAK~§r§l§7Warpstones:§r Aktifkan warpstone di dunia untuk perjalanan cepat antar lokasi.~LINEBREAK~~LINEBREAK~§r§l§dTeleport Scroll:§r Memungkinkan kamu langsung kembali ke titik spawn yang sudah ditetapkan.~LINEBREAK~~LINEBREAK~§r§l§bRecall Potion:§r Memungkinkan kamu teleport kembali ke tempat terakhir kamu mati.~LINEBREAK~~LINEBREAK~§r§l§bSleeping Bag:§r Memungkinkan kamu melewati malam tanpa menghapus titik respawn tempat tidur.~LINEBREAK~ 
+action.guidebook.taming_body=~LINEBREAK~§rKamu bisa menjinakkan naga yang sudah dibunuh dengan berinteraksi dengannya. Setelah jinak, naga ini bisa ditunggangi dan dilengkapi dengan armor. Armor naga bisa dibuat atau ditemukan di peti.~LINEBREAK~ 
+action.guidebook.dungeons_body=~LINEBREAK~§rMenyusuri dungeon itu berbahaya, tapi loot dan pengalaman berharga membuat risikonya sepadan!~LINEBREAK~~LINEBREAK~Jangan buru-buru, dungeon bisa sangat menantang! Tingkatkan kemampuan dan dapatkan peralatan yang lebih baik sebelum mencoba.~LINEBREAK~~LINEBREAK~§lAda berbagai tingkat dungeon:§r rumah terbengkalai memberikan alat bertahan hidup dasar, sementara kapal bajak laut atau Skyspires memberi kesempatan lebih baik untuk menemukan artefak kuat.~LINEBREAK~~LINEBREAK~§lDungeon Bawah Tanah§r memiliki boss kuat dan paling berbahaya, tapi juga berisi loot paling kuat. Ada yang mau Donat?~LINEBREAK~ 
+action.guidebook.social_body=~LINEBREAK~§rPindai kode QR di bawah, atau gunakan tautan ini untuk bergabung ke discord kami!~LINEBREAK~honeyfrost.net/discord~LINEBREAK~ 
+action.guidebook.youtube_body=~LINEBREAK~§rPindai kode QR di bawah, atau kunjungi kanal YouTube kami!~LINEBREAK~youtube.com/@Honeyfrost~LINEBREAK~ 
+action.guidebook.credits_body=~LINEBREAK~Kami mengucapkan terima kasih kepada orang dan organisasi berikut atas kontribusinya pada RLCraft: Bedrock Edition.~LINEBREAK~~LINEBREAK~§lPembuat RLCraft:§r~LINEBREAK~- Shivaxi~LINEBREAK~~LINEBREAK~§lProduser:§r~LINEBREAK~- Benjamin Deconihout~LINEBREAK~- Haik Ishacian~LINEBREAK~- Mikhail Kuznetsov~LINEBREAK~- Nathan Gaillot~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~~LINEBREAK~§lPengembang:§r~LINEBREAK~- Amman~LINEBREAK~- Ashfaqur Rahman Chowdhury~LINEBREAK~- Alan Capellino~LINEBREAK~- Christian Mari Cabral~LINEBREAK~- Furkan Sancak~LINEBREAK~- Mathias Santos~LINEBREAK~- Muhammet Vebi~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~§lArtis:§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Alexander Shimarov~LINEBREAK~- Andrey Voshin~LINEBREAK~- Artem Baklin~LINEBREAK~- Benjamin Goicoechea~LINEBREAK~- Cao Xiao Dong~LINEBREAK~- Eduardo Da Costa~LINEBREAK~- Egor Chiganenko~LINEBREAK~- Isaac Jeremy Rivera Moran~LINEBREAK~- Ivan Perminov~LINEBREAK~- Ivanovo Deryabikha~LINEBREAK~- Jeremy Ben Ammar~LINEBREAK~- Josiah Hockett~LINEBREAK~- Jules Graire~LINEBREAK~- Julien Rouget~LINEBREAK~- Kirill Kruglov~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Lu Runzi~LINEBREAK~- Mads Lykke-Bertelsen~LINEBREAK~- Mark van Voornveld~LINEBREAK~- Omar Hafiz~LINEBREAK~- Oleh Batozhskyi~LINEBREAK~- ORCS004~LINEBREAK~- Pierre Malot~LINEBREAK~- Samuel Lepage~LINEBREAK~- Semyon Alexeyevich Uski~LINEBREAK~- Theo Lestavel~LINEBREAK~- Uliana Shvadchenko~LINEBREAK~- Victor Rouget~LINEBREAK~- Vladimir Savelev~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~Dan masih banyak lagi!~LINEBREAK~~LINEBREAK~§lSplash Art:§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Dennis Wonneberger~LINEBREAK~- Ethan Mulwee~LINEBREAK~- Mathieu Lavaissiere~LINEBREAK~- Nathan Regina De Morais~LINEBREAK~- Obi.Blue~LINEBREAK~- Oleg Fedorov~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~- Sedov Denis~LINEBREAK~- Terry Gillaux~LINEBREAK~~LINEBREAK~§lTester:§r~LINEBREAK~- Amman~LINEBREAK~- Ivanov Oleg~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Pierre Pujol~LINEBREAK~- Rareloot~LINEBREAK~- Robert~LINEBREAK~ 
 action.guidebook.rlcraft_body=~LINEBREAK~RLCraft - Dalam kolaborasi dengan Shivaxi~LINEBREAK~ 
-action.guidebook.notreepunching_body=~LINEBREAK~Lisensi MIT~LINEBREAK~~LINEBREAK~Hak Cipta (C) [2021] [Alex O'Neill (AlcatrazEscapee)]~LINEBREAK~~LINEBREAK~Izin diberikan secara gratis, kepada siapa pun yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk menggunakan Perangkat Lunak tanpa batasan, termasuk hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinannya, dan mengizinkan orang yang menerima Perangkat Lunak untuk melakukan hal yang sama, tunduk pada ketentuan berikut:~LINEBREAK~~LINEBREAK~Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian penting dari Perangkat Lunak.~LINEBREAK~~LINEBREAK~PERANGKAT LUNAK DIBERIKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK TAPI TIDAK TERBATAS PADA JAMINAN DAGANG, KECOCOKAN UNTUK TUJUAN TERTENTU DAN BEBAS PELANGGARAN. DALAM KEADAAN APA PUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUGIAN ATAU KEWAJIBAN LAINNYA, BAIK DALAM KONTRAK, KESALAHAN ATAU LAINNYA, YANG TIMBUL DARI, KELUAR DARI ATAU BERKAITAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU INTERAKSI LAIN DENGANNYA.~LINEBREAK~ 
+action.guidebook.notreepunching_body=~LINEBREAK~Lisensi MIT~LINEBREAK~~LINEBREAK~Hak cipta (C) [2021] [Alex O'Neill (AlcatrazEscapee)]~LINEBREAK~~LINEBREAK~Izin dengan ini diberikan, tanpa biaya, kepada siapa pun yang memperoleh salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk menggunakan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublicense, dan/atau menjual salinan Perangkat Lunak, dan mengizinkan orang lain untuk melakukan hal tersebut, dengan syarat:~LINEBREAK~~LINEBREAK~Pemberitahuan hak cipta dan izin ini harus disertakan dalam semua salinan atau bagian substansial dari Perangkat Lunak.~LINEBREAK~~LINEBREAK~PERANGKAT LUNAK DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAYA JUAL, KECOCOKAN UNTUK TUJUAN TERTENTU, DAN TIDAK PELANGGARAN. DALAM HAL APAPUN PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU TANGGUNG JAWAB LAINNYA, BAIK DALAM KONTRAK, TORT, ATAU LAINNYA, YANG TIMBUL DARI, DARI ATAU TERKAIT DENGAN PERANGKAT LUNAK ATAU PENGGUNAANNYA.~LINEBREAK~ 
 action.guidebook.weapons_body=~LINEBREAK~Senjata - Lisensi dari XP Games~LINEBREAK~ 
 action.guidebook.skybox_body=~LINEBREAK~Minecraft Better Skybox oleh Hybred~LINEBREAK~ 
-action.guidebook.video_explaination_body=~LINEBREAK~Buka §lYouTube§r dan ketik: Honeyfrost RLCraft Cara menggunakan A&S dan Paket, atau pindai kode QR di bawah ini:~LINEBREAK~ 
-action.guidebook.add_aands_body=~LINEBREAK~Penjelasan video tersedia di halaman menu sebelumnya.~LINEBREAK~~LINEBREAK~§lUntuk menggunakan A&S:§r~LINEBREAK~1: Tidak boleh ada paket di sumber daya global~LINEBREAK~2: RLCraft harus ditempatkan di atas Paket Sumber Daya aktif dengan A&S di bawahnya~LINEBREAK~~LINEBREAK~§lCara menghapus paket dari Sumber Daya Global§r~LINEBREAK~1: Mulai dari menu utama Minecraft~LINEBREAK~2: Masuk ke pengaturan~LINEBREAK~3: Gulir ke bawah ke Sumber Daya Global~LINEBREAK~4: Hapus semua paket yang aktif di Sumber Daya Global~LINEBREAK~5: Selesai!~LINEBREAK~~LINEBREAK~§lCara menetapkan RLCraft sebagai paket sumber daya teratas§r~LINEBREAK~1: Masuk ke Menu Utama Minecraft~LINEBREAK~2: Klik Mainkan~LINEBREAK~3: Klik Edit di kanan RLCraft Bedrock Edition~LINEBREAK~4: Jika belum, klik biru: Buka Pengaturan lalu klik Buka Tetap~LINEBREAK~5: Gulir menu dan klik Paket Sumber Daya~LINEBREAK~6: Masuk ke Tersedia~LINEBREAK~7: Buka Milik~LINEBREAK~8: Klik Aktifkan di kanan A&S~LINEBREAK~9: Klik tombol Aktif~LINEBREAK~11: Pindahkan RLCraft ke slot nomor satu (Harus di atas)~LINEBREAK~12: Selesai!~LINEBREAK~~LINEBREAK~Produk ini tidak berafiliasi atau disetujui oleh Actions and Stuff. Semua nama, merek, dan konten adalah milik pemilik masing-masing.~LINEBREAK~ 
-action.guidebook.add_more_packs_body=~LINEBREAK~Penjelasan video tersedia di halaman menu sebelumnya.~LINEBREAK~~LINEBREAK~RLCraft Bedrock Edition dirancang sebagai pengalaman lengkap, dan meskipun umumnya berfungsi dengan sebagian besar paket, menambahkan Add-On non-visual dapat merusak permainan atau menyebabkan lag, terutama di perangkat kecil. Namun, jika Anda tetap ingin menambahkannya, berikut caranya:~LINEBREAK~~LINEBREAK~§lUntuk menggunakan paket lain:§r~LINEBREAK~1: Tidak boleh ada paket di sumber daya global~LINEBREAK~2: RLCraft harus ditempatkan di atas pada kedua Paket Sumber Daya dan Paket Perilaku yang aktif~LINEBREAK~~LINEBREAK~§lCara menghapus paket dari Sumber Daya Global§r~LINEBREAK~1: Mulai dari menu utama Minecraft~LINEBREAK~2: Masuk ke pengaturan~LINEBREAK~3: Gulir ke bawah ke Sumber Daya Global~LINEBREAK~4: Hapus semua paket yang aktif di Sumber Daya Global~LINEBREAK~5: Selesai!~LINEBREAK~~LINEBREAK~§lCara menetapkan RLCraft sebagai paket sumber daya & perilaku teratas:§r~LINEBREAK~1: Masuk ke Menu Utama Minecraft~LINEBREAK~2: Klik Mainkan~LINEBREAK~3: Klik Edit di kanan RLCraft Bedrock Edition~LINEBREAK~4: Jika belum, klik biru: Buka Pengaturan lalu klik Buka Tetap~LINEBREAK~5: Gulir menu dan klik Paket Sumber Daya atau Paket Perilaku~LINEBREAK~6: Masuk ke Tersedia pada kategori yang diinginkan~LINEBREAK~7: Buka Milik~LINEBREAK~8: Klik Aktifkan di kanan paket sumber daya dan semua paket data yang ingin ditambahkan~LINEBREAK~9: Klik tombol Aktif~LINEBREAK~11: Pindahkan RLCraft ke slot nomor satu (Harus di atas)~LINEBREAK~12: Selesai!~LINEBREAK~ 
-action.guidebook.realms_disclaimer_body=~LINEBREAK~Realms terkadang dapat mengacaukan urutan Paket Sumber Daya dan Perilaku Anda, seperti mengatur ulang atau mengunci posisinya saat Anda terhubung kembali. Ini adalah bug yang sudah diketahui dari pihak mereka, dan kami tidak dapat mengendalikannya.~LINEBREAK~~LINEBREAK~Jika Anda mengalami masalah ini, kami menyarankan untuk menghapus semua paket tambahan dan memainkan RLCraft saja untuk pengalaman terbaik.~LINEBREAK~~LINEBREAK~Meski begitu, jika Anda tetap ingin mencoba menambahkan paket lain, langkah-langkahnya tercantum di bawah ini, dan tersedia penjelasan video di menu sebelumnya. Harap diingat bahwa Anda mungkin mengalami masalah.~LINEBREAK~~LINEBREAK~§lUntuk menggunakan paket lain:§r~LINEBREAK~1: RLCraft harus di atas pada kedua Paket Sumber Daya dan Perilaku yang aktif di Realms Anda~LINEBREAK~2: Kotak "Memerlukan pemain mengunduh paket sumber daya opsional untuk bergabung" di pengaturan Add-On Realms Anda harus diaktifkan~LINEBREAK~3: Tidak boleh ada paket yang aktif di sumber daya global pribadi Anda~LINEBREAK~~LINEBREAK~§lCara menghapus paket dari Sumber Daya Global Anda:§r~LINEBREAK~1: Mulai dari menu utama Minecraft~LINEBREAK~2: Masuk ke pengaturan~LINEBREAK~3: Gulir ke bawah ke Sumber Daya Global~LINEBREAK~4: Hapus semua paket yang aktif di Sumber Daya Global~LINEBREAK~5: Selesai!~LINEBREAK~ 
+action.guidebook.video_explaination_body=~LINEBREAK~Pergi ke §lYouTube§r dan ketik: Honeyfrost RLCraft Cara menggunakan A&S dan Packs, atau pindai kode QR di bawah:~LINEBREAK~ 
+action.guidebook.add_aands_body=~LINEBREAK~Penjelasan video tersedia di halaman menu sebelumnya.~LINEBREAK~~LINEBREAK~§lUntuk menggunakan A&S:§r~LINEBREAK~1: Tidak ada pack di sumber daya global yang aktif~LINEBREAK~2: RLCraft harus ditempatkan di paling atas Resource Pack aktif dengan A&S di bawahnya~LINEBREAK~~LINEBREAK~§lCara menghapus pack di Global Resources§r~LINEBREAK~1: Mulai dari menu utama Minecraft~LINEBREAK~2: Pergi ke pengaturan~LINEBREAK~3: Gulir ke bawah ke Global Resources~LINEBREAK~4: Hapus semua pack aktif di Global Resources~LINEBREAK~5: Selesai!~LINEBREAK~~LINEBREAK~§lCara menempatkan RLCraft di atas Resource Pack§r~LINEBREAK~1: Pergi ke menu utama Minecraft~LINEBREAK~2: Klik Play~LINEBREAK~3: Klik Edit di sebelah kanan RLCraft Bedrock Edition~LINEBREAK~4: Jika belum, klik Unlock Settings biru lalu klik Unlock Anyway~LINEBREAK~5: Gulir menu dan klik Resource Packs~LINEBREAK~6: Pergi ke Available~LINEBREAK~7: Buka Owned~LINEBREAK~8: Klik Activate di sebelah A&S~LINEBREAK~9: Klik tombol Active~LINEBREAK~11: Geser RLCraft ke slot nomor satu (harus di paling atas)~LINEBREAK~12: Selesai!~LINEBREAK~~LINEBREAK~Produk ini tidak terkait atau disetujui oleh Action's and Stuff. Semua nama, merek, dan konten adalah milik pemilik masing-masing.~LINEBREAK~ 
+action.guidebook.add_more_packs_body=~LINEBREAK~Penjelasan video tersedia di halaman menu sebelumnya.~LINEBREAK~~LINEBREAK~RLCraft Bedrock Edition dirancang sebagai pengalaman lengkap, dan meskipun umumnya kompatibel dengan sebagian besar pack, menambahkan Add-On non-visual bisa menyebabkan game rusak atau lag, terutama di perangkat kecil. Namun, jika kamu ingin menambahkan, berikut caranya:~LINEBREAK~~LINEBREAK~§lUntuk menggunakan pack lain:§r~LINEBREAK~1: Tidak ada pack di sumber daya global yang aktif~LINEBREAK~2: RLCraft harus berada di paling atas Resource Pack dan Behavior Pack aktif~LINEBREAK~~LINEBREAK~§lCara menghapus pack di Global Resources§r~LINEBREAK~1: Mulai dari menu utama Minecraft~LINEBREAK~2: Pergi ke pengaturan~LINEBREAK~3: Gulir ke bawah ke Global Resources~LINEBREAK~4: Hapus semua pack aktif di Global Resources~LINEBREAK~5: Selesai!~LINEBREAK~~LINEBREAK~§lCara menempatkan RLCraft di atas Resource Pack & Behavior Pack:§r~LINEBREAK~1: Pergi ke menu utama Minecraft~LINEBREAK~2: Klik Play~LINEBREAK~3: Klik Edit di sebelah kanan RLCraft Bedrock Edition~LINEBREAK~4: Jika belum, klik Unlock Settings biru lalu klik Unlock Anyway~LINEBREAK~5: Gulir menu dan klik Resource Packs atau Behavior Packs~LINEBREAK~6: Masuk ke Available di kategori yang diinginkan~LINEBREAK~7: Buka Owned~LINEBREAK~8: Klik Activate di sebelah resource pack dan data pack yang ingin ditambahkan~LINEBREAK~9: Klik tombol Active~LINEBREAK~11: Geser RLCraft ke slot nomor satu (harus di paling atas)~LINEBREAK~12: Selesai!~LINEBREAK~ 
+action.guidebook.realms_disclaimer_body=~LINEBREAK~Realms terkadang mengacaukan urutan Resource dan Behavior Pack-mu, seperti mengatur ulang atau mengunci posisi saat reconnect. Ini adalah bug yang diketahui dari pihak mereka dan kami tidak bisa mengendalikannya.~LINEBREAK~~LINEBREAK~Jika kamu mengalami masalah ini, kami sarankan menghapus pack tambahan dan mainkan RLCraft sendiri untuk pengalaman terbaik.~LINEBREAK~~LINEBREAK~Namun, jika kamu tetap ingin mencoba menambahkan pack lain, langkah-langkahnya ada di bawah, dan penjelasan video tersedia di menu sebelumnya. Harap diingat kamu mungkin mengalami masalah.~LINEBREAK~~LINEBREAK~§lUntuk menggunakan pack lain:§r~LINEBREAK~1: RLCraft harus berada di paling atas Resource Pack dan Behavior Pack Realm-mu~LINEBREAK~2: Centang kotak "Require players to download optional resource packs to join" di pengaturan Realm Add-On-mu harus aktif~LINEBREAK~3: Tidak boleh ada pack aktif di global resources personalmu~LINEBREAK~~LINEBREAK~§lCara menghapus pack dari Global Resources:§r~LINEBREAK~1: Mulai dari menu utama Minecraft~LINEBREAK~2: Pergi ke pengaturan~LINEBREAK~3: Gulir ke bawah ke Global Resources~LINEBREAK~4: Hapus semua pack aktif di Global Resources~LINEBREAK~5: Selesai!~LINEBREAK~  
 
 action.guidebook.retry_tutorial=§l§8Ulangi Tutorial
-action.guidebook.already_doing_tutorial=§cLihat siapa yang tiba-tiba lupa kalau mereka sedang di tengah tutorial. Kamu sedang menjalankannya, jenius.
-action.guidebook.tuto_nearby=§cPercobaan bagus, tapi tidak. Kamu tidak bisa mengulang tutorial di sini sekarang. Coba di tempat lain atau tunggu beberapa menit dari hidup berhargamu.
-action.guidebook.be_full_health_first=§cWah, langkah berani melakukannya setengah mati. Kamu harus dalam kondisi sehat penuh sebelum menggunakan item ini, jenius.
+action.guidebook.already_doing_tutorial=§cOh lihat siapa yang tiba-tiba lupa sedang dalam tutorial. Kamu sedang melakukannya, jenius.
+action.guidebook.tuto_nearby=§cCoba lagi lain kali. Kamu tidak bisa mengulang tutorial di sini sekarang. Pergi dan coba di tempat lain atau buang beberapa menit hidupmu yang berharga.
+action.guidebook.be_full_health_first=§cWow, berani coba saat setengah mati. Kamu harus dalam kondisi penuh kesehatan sebelum menggunakan item ini, jenius.
 translate.tutorial.crouch_to_skip=Tahan :_input_key.sneak: untuk melewati adegan!
-translate.tutorial.break_grass_with_knife=§cHancurkan rumput dengan pisau!
-translate.tutorial.break_log_with_axe=§cHancurkan kayu gelondongan dengan kapak!
-translate.tutorial.break_stone_with_pickaxe=§cHancurkan batu dengan beliung!
+translate.tutorial.break_grass_with_knife=§cPatahkan rumput dengan pisau!
+translate.tutorial.break_log_with_axe=§cPatahkan kayu dengan kapak!
+translate.tutorial.break_stone_with_pickaxe=§cPatahkan batu dengan cangkul!
 action.item_block=§cTidak, kamu tidak bisa menggunakan item ini sekarang.
-action.guidebook.tutorial_body=~LINEBREAK~Bingung? Ingin mengulang tutorial?~LINEBREAK~~LINEBREAK~Saat kamu memulai ulang tutorial, itemmu akan disimpan dan dikembalikan saat tutorial selesai.~LINEBREAK~ 
+action.guidebook.tutorial_body=~LINEBREAK~Kamu merasa bingung? Ingin mengulang tutorial?~LINEBREAK~~LINEBREAK~Saat mengulang tutorial, itemmu akan disimpan dan dikembalikan setelah tutorial selesai.~LINEBREAK~ 
 action.guidebook.yes=Ya
 action.guidebook.no=Tidak
 
-tuto_dragon.idle_bored=Cepatlah!
-tuto_dragon.idle_bored2=Masih di sana?
-tuto_dragon.idle_bored3=Ayo dong! Aku tidak punya waktu seharian.
+tuto_dragon.idle_bored=Cepat dong!
+tuto_dragon.idle_bored2=Kamu masih di sana?
+tuto_dragon.idle_bored3=Ayo! Aku nggak punya waktu seharian.
 tuto_dragon.dialogue.1=Halo! Selamat datang di RLCraft.
-tuto_dragon.dialogue.2=Sebelum kita mulai, kamu harus menandatangani kontraknya!
-tuto_dragon.dialogue.3=Mari kita lihat terbuat dari apa kamu sebenarnya!
-tuto_dragon.dialogue.4=Pilih Kesulitanmu!
-tuto_dragon.dialogue.5=Takut tapi masih masuk akal!
-tuto_dragon.dialogue.6=Seimbang dengan sempurna, seperti seharusnya!
-tuto_dragon.dialogue.7=Berani.. atau bodoh. Waktu yang akan menjawabnya.
-tuto_dragon.dialogue.8=Kamu tidak tahu tentang RLCraft, ya? Mari kita perbaiki itu.
-tuto_dragon.dialogue.9=Ah.. seseorang yang merasa lebih pintar dari yang lain. Lucu sekali.
-tuto_dragon.dialogue.10=Yakin kamu mau melewatkannya?
-tuto_dragon.dialogue.11=Baiklah, mari kita lihat berapa lama kamu bertahan.
-tuto_dragon.dialogue.12=Semoga berhasil!
+tuto_dragon.dialogue.2=Sebelum mulai, kamu harus tanda tangan kontraknya!
+tuto_dragon.dialogue.3=Mari kita lihat kamu sebenarnya terbuat dari apa!
+tuto_dragon.dialogue.4=Pilih tingkat Kesulitanmu!
+tuto_dragon.dialogue.5=Takut tapi masuk akal!
+tuto_dragon.dialogue.6=Seimbang sempurna, seperti seharusnya!
+tuto_dragon.dialogue.7=Berani.. atau bodoh. Waktu yang akan membuktikan.
+tuto_dragon.dialogue.8=Kamu nggak tahu soal RLCraft, ya? Kita perbaiki itu.
+tuto_dragon.dialogue.9=Ah.. seseorang yang pikir dia lebih pintar dari yang lain. Lucu sekali.
+tuto_dragon.dialogue.10=Yakin mau lewati ini?
+tuto_dragon.dialogue.11=Baiklah, kita lihat seberapa lama kamu bertahan.
+tuto_dragon.dialogue.12=Semoga beruntung!
 
-tutorial.dialogue.subtitles1=§7Subtitle: §6Mari kita mulai dengan menebang kayu.
-tutorial.dialogue.subtitles2=§7Subtitle: §6Lebih sulit dari yang terlihat, kan? Di RLCraft, segalanya bekerja secara berbeda, dan apa yang berhasil di Minecraft biasa belum tentu berguna di sini. Aku akan tunjukkan cara mengumpulkan kayu.
-tutorial.dialogue.subtitles3=§7Subtitle: §6Mulailah dengan menambang kerikil untuk mendapatkan batu api. Bahan penting untuk membuat alat awal.
-tutorial.dialogue.subtitles4=§7Subtitle: §6Sekarang, ambil batu api itu dan pukulkan ke batu untuk membuat pecahan batu api.
-tutorial.dialogue.subtitles5=§7Subtitle: §6Lalu, hancurkan beberapa daun untuk mengumpulkan tongkat.
-tutorial.dialogue.subtitles6=§7Subtitle: §6Kerja bagus, sekarang kamu bisa membuat alat pertamamu dengan menggabungkan pecahan batu api dan tongkat untuk membuat pisau batu!
-tutorial.dialogue.subtitles7=§7Subtitle: §6Gunakan untuk mengumpulkan tiga serat tanaman dari rumput, lalu gabungkan untuk membuat tali serat tanaman.
-tutorial.dialogue.subtitles8=§7Subtitle: §6Hebat! Kamu telah mengumpulkan bahan untuk membuat kapak batu, alat pengumpul kayumu yang pertama!
-tutorial.dialogue.subtitles9=§7Subtitle: §6Gunakan untuk mengumpulkan tiga potong kayu.
-tutorial.dialogue.subtitles10=§7Subtitle: §6Bagus sekali, gunakan itu untuk membuat beliung kayu.
-tutorial.dialogue.subtitles11=§7Subtitle: §6Sekarang, untuk menggunakan item di RLCraft, kamu harus mencapai level yang diperlukan. Arahkan kursor ke beliung di inventarismu untuk melihat persyaratan levelnya, atau coba gunakan langsung.
-tutorial.dialogue.subtitles12=§7Subtitle: §6Kamu butuh pengalaman untuk meningkatkan kemampuan menambang. Ayo, kalahkan semut-semut itu.
-tutorial.dialogue.subtitles13=§7Subtitle: §6Sekarang setelah kamu punya pengalaman, buka menu peningkatan level dengan item level-up di hotbar.
-tutorial.dialogue.subtitles14=§7Subtitle: §6Di sini, kamu bisa melihat dan meningkatkan keterampilan Serangan, Pertahanan, Kelincahan, dan Menambang. Peningkatan level sangat penting di RLCraft, karena memungkinkanmu menggunakan alat yang lebih baik dan membuka kemampuan baru setiap 10 level.~LINEBREAK~~LINEBREAK~Untuk sekarang, investasikan pengalamanmu ke dalam Menambang.
-tutorial.dialogue.subtitles15=§7Subtitle: §6Bagus sekali, kemampuan menambangmu sekarang level 3. Coba gunakan beliung kayumu.
-tutorial.dialogue.subtitles16=§7Subtitle: §6Bagus, dan ingatlah: Di RLCraft, mati itu tidak masalah, kamu akan tetap menyimpan semua level keterampilanmu setelah mati.~LINEBREAK~~LINEBREAK~Yang penting adalah terus meningkatkan keterampilanmu dan berkembang selama perjalanan!
-tutorial.dialogue.subtitles17=§7Subtitle: §6Sekarang, mari bahas penyembuhan, lihat kerusakan yang kamu terima saat melawan semut?~LINEBREAK~~LINEBREAK~Di RLCraft, jika bagian tubuh tertentu menerima terlalu banyak kerusakan, kamu akan mendapat efek negatif, jadi tetap dalam kondisi baik dan sembuh saat dibutuhkan itu penting.
-tutorial.dialogue.subtitles18=§7Subtitle: §6Untuk menyembuhkan diri, gunakan item penyembuhan seperti perban. Kamu bisa menemukannya di bangunan yang tersebar di dunia, atau membuatnya sendiri.~LINEBREAK~~LINEBREAK~Buka peti dan sembuhkan dirimu.
-tutorial.dialogue.subtitles19=§7Subtitle: §6Di RLCraft, sampai kamu tidur di tempat tidur, kamu akan respawn di lokasi acak setiap kali mati. Jadi setelah menemukan tempat yang kamu suka, pastikan buat tempat tidur dan tidur di dalamnya untuk menetapkan titik respawn!
-tutorial.dialogue.subtitles20=§7Subtitle: §6Sekarang, mari bahas suhu tubuh. Di RLCraft, lingkungan panas dan dingin perlahan-lahan mengganggu keseimbangan suhu tubuhmu, terlalu lama terpapar, kamu bisa kepanasan atau membeku sampai mati. Mari pastikan itu tidak terjadi dalam lima menit pertama.
-tutorial.dialogue.subtitles21=§7Subtitle: §6Sekarang, aku telah menaikkan suhunya! Lompat ke dalam air untuk mendinginkan diri dan menstabilkan suhu tubuhmu sebelum kelelahan karena panas terjadi.
-tutorial.dialogue.subtitles22=§7Subtitle: §6Bagus, tapi sekarang kamu membeku! Dekatkan diri ke sumber panas untuk menghangatkan tubuh.
-tutorial.dialogue.subtitles23=§7Subtitle: §6Kerja bagus, ada juga cara lain untuk menyeimbangkan suhu tubuh seperti makan buah tertentu, dan kamu akan menemukannya seiring bermain.
-tutorial.dialogue.subtitles24=§7Subtitle: §6Mari lanjut ke topik berikutnya: Trinket.~LINEBREAK~~LINEBREAK~Ini adalah item kuat yang memberi buff dan kekebalan selama perjalananmu, ambil yang ada di peti untuk melihat cara kerjanya.
-tutorial.dialogue.subtitles25=§7Subtitle: §6Setiap trinket memiliki ceritanya sendiri, menjelaskan efeknya dan di mana menaruhnya di tas trinket. Sebagai aturan umum, item magis ditempatkan di sebelah kiri tas, dan cincin di sebelah kanan.~LINEBREAK~~LINEBREAK~Silakan pasang trinket Tanduk Kambing.
-tutorial.dialogue.subtitles26=§7Subtitle: §6Bagus sekali! Semua pelatihan ini sepertinya membuatmu haus; kamu bisa menghilangkan haus dengan minum air, makan makanan, atau berenang.~LINEBREAK~~LINEBREAK~Aku sudah menaruh makanan dan minuman di peti, silakan ambil.
-tutorial.dialogue.subtitles27=§7Subtitle: §6Kerja luar biasa, kamu telah menyelesaikan tutorial, dan baru saja memulai petualanganmu di RLCraft. Sekarang waktunya memulai petualanganmu!~LINEBREAK~~LINEBREAK~Jika kamu ingin mengaktifkan/menonaktifkan fitur, kamu bisa melakukannya di Menu RLCraft pada bagian Pengaturan. Jika kamu ingin info lebih banyak tentang hal-hal yang tidak sempat kami bahas di sini, atau ingin mengulang tutorial ini, kamu bisa melakukannya melalui menu di bagian bantuan.~LINEBREAK~~LINEBREAK~Semoga beruntung di luar sana.
+tutorial.dialogue.subtitles1=§7Teks: §6Mari mulai dengan menebang beberapa kayu.
+tutorial.dialogue.subtitles2=§7Teks: §6Lebih sulit dari yang terlihat, kan? Di RLCraft, segala sesuatu berjalan berbeda, dan yang berlaku di Minecraft biasa tidak selalu berlaku di sini. Aku akan tunjukkan cara mengumpulkan kayu.
+tutorial.dialogue.subtitles3=§7Teks: §6Mulailah dengan menambang kerikil untuk mengumpulkan batu api. Bahan penting untuk membuat alat awal.
+tutorial.dialogue.subtitles4=§7Teks: §6Sekarang, ambil batu api itu dan pukulkan ke batu untuk membuat serpihan batu api.
+tutorial.dialogue.subtitles5=§7Teks: §6Selanjutnya, patahkan daun untuk mengumpulkan ranting.
+tutorial.dialogue.subtitles6=§7Teks: §6Bagus sekali, sekarang kamu bisa membuat alat pertamamu dengan menggabungkan serpihan batu api dan ranting untuk membuat pisau batu api!
+tutorial.dialogue.subtitles7=§7Teks: §6Gunakan pisau untuk mengumpulkan tiga serat tanaman dari rumput, lalu gabungkan menjadi tali serat tanaman.
+tutorial.dialogue.subtitles8=§7Teks: §6Bagus! Kamu sudah mengumpulkan bahan untuk membuat kapak batu api, alat pertama untuk mengumpulkan kayu!
+tutorial.dialogue.subtitles9=§7Teks: §6Gunakan kapak itu untuk mengumpulkan tiga potong kayu.
+tutorial.dialogue.subtitles10=§7Teks: §6Bagus sekali, gunakan kayu itu untuk membuat alat penambang kayu.
+tutorial.dialogue.subtitles11=§7Teks: §6Sekarang, untuk menggunakan item di RLCraft, kamu harus mencapai level yang dibutuhkan. Arahkan kursor ke kapak di inventori untuk melihat persyaratan levelnya, atau coba gunakan untuk mengetahui.
+tutorial.dialogue.subtitles12=§7Teks: §6Kamu butuh pengalaman untuk menaikkan level menambang. Ayo, kalahkan semut-semut itu.
+tutorial.dialogue.subtitles13=§7Teks: §6Sekarang kamu punya pengalaman, buka menu peningkatan level menggunakan item level-up di hotbar.
+tutorial.dialogue.subtitles14=§7Teks: §6Di sini, kamu bisa melihat dan meng-upgrade kemampuan Serangan, Pertahanan, Kelincahan, dan Menambang. Menaikkan level sangat penting di RLCraft, karena memungkinkanmu menggunakan alat lebih baik dan membuka kemampuan baru setiap 10 level. Untuk sekarang, fokuskan pengalamanmu pada Menambang.
+tutorial.dialogue.subtitles15=§7Teks: §6Bagus, kemampuan menambangmu sekarang level 3. Coba gunakan kapak kayu itu.
+tutorial.dialogue.subtitles16=§7Teks: §6Baik, ingat: di RLCraft, mati itu tidak masalah, dan kamu tetap mempertahankan semua level kemampuan saat mati. Yang penting adalah menaikkan kemampuan dan memperbaiki diri sepanjang perjalanan!
+tutorial.dialogue.subtitles17=§7Teks: §6Sekarang mari belajar tentang penyembuhan. Lihatlah kerusakan yang kamu dapat saat melawan semut? Di RLCraft, jika bagian tubuh tertentu terluka parah, kamu akan terkena efek negatif, jadi tetap sehat dan sembuh saat perlu sangat penting.
+tutorial.dialogue.subtitles18=§7Teks: §6Untuk menyembuhkan diri, gunakan item penyembuh seperti perban. Kamu bisa menemukan mereka di dalam bangunan di dunia, atau membuatnya sendiri. Buka peti dan sembuhkan dirimu.
+tutorial.dialogue.subtitles19=§7Teks: §6Di RLCraft, sampai kamu tidur di tempat tidur, kamu akan respawn di lokasi acak saat mati. Jadi, setelah menemukan tempat yang kamu suka, buatlah tempat tidur dan tidurlah untuk menetapkan titik respawn!
+tutorial.dialogue.subtitles20=§7Teks: §6Sekarang, mari bicara tentang suhu tubuh. Di RLCraft, lingkungan panas dan dingin secara bertahap mengganggu keseimbangan suhu tubuhmu, jika terlalu lama terpapar, kamu akan kepanasan atau membeku sampai mati. Mari pastikan itu tidak terjadi dalam lima menit pertama.
+tutorial.dialogue.subtitles21=§7Teks: §6Sekarang aku naikkan panasnya! Lompat ke air untuk mendinginkan dan menstabilkan suhu tubuhmu sebelum kelelahan panas.
+tutorial.dialogue.subtitles22=§7Teks: §6Bagus, tapi sekarang kamu membeku! Dekatkan diri ke sumber panas untuk menghangatkan.
+tutorial.dialogue.subtitles23=§7Teks: §6Kerja bagus, ada cara lain untuk menyeimbangkan suhu tubuh seperti makan buah tertentu, kamu akan menemukannya saat bermain.
+tutorial.dialogue.subtitles24=§7Teks: §6Sekarang, mari kita bahas Trinket. Item kuat yang memberi buff dan imun sepanjang perjalananmu, ambil yang di peti dan lihat cara kerjanya.
+tutorial.dialogue.subtitles25=§7Teks: §6Setiap trinket punya cerita sendiri, menjelaskan efeknya dan tempat di kantong trinket. Biasanya, item ajaib diletakkan di kiri kantong, cincin di kanan. Pasang trinket Tanduk Kambing.
+tutorial.dialogue.subtitles26=§7Teks: §6Bagus! Semua latihan ini pasti membuatmu haus; kamu bisa menghilangkan dahaga dengan minum air, makan, atau berenang. Aku sudah menaruh makanan dan minuman di peti, silakan ambil.
+tutorial.dialogue.subtitles27=§7Teks: §6Hebat, kamu sudah selesai tutorial dan baru mulai belajar tentang RLCraft. Sekarang waktunya memulai petualanganmu! Jika ingin mengatur fitur, bisa di menu RLCraft bagian Pengaturan, dan kalau ingin info lebih atau mainkan ulang tutorial ini, bisa di menu bagian bantuan. Semoga beruntung!
+
 
 action.temp.hot=§7§l[Peringatan]: §cKamu terlalu PANAS!
 action.temp.cold=§7§l[Peringatan]: §bKamu terlalu DINGIN!
-action.thirst.low=§7§l[Peringatan]: §6Kamu kehausan!
+action.thirst.low=§7§l[Peringatan]: §6Kamu mengalami dehidrasi!
 action.backpack.jump=§6:_input_key.sneak: + :_input_key.jump: + :_input_key.attack: untuk melepas Ransel
 action.wind_sword.stop_using=- Berhenti menggunakan untuk melempar -
 action.elemental_sword.cycle=- :_input_key.sneak: untuk mengganti §6Elemen§f -
-action.elemental_sword.earth=- §2Tanah§f -
+action.elemental_sword.earth=- §2Bumi§f -
 action.elemental_sword.fire=- §4Api§f -
 action.elemental_sword.water=- §9Air§f -
 action.elemental_sword.air=- §7Udara§f -
 action.elemental_sword.lightning=- §bPetir§f -
-detect.lag=§5§l[Dunia]: §r§aMengoptimalkan Performa! §7Membersihkan item terjatuh dalam 30 detik.
-detect.lag.low_ram=§5§l[Dunia]: §r§aMengoptimalkan Performa! §7Membersihkan item terjatuh dalam 10 detik.
-detect.lag10=§5§l[Dunia]: §r§7Dibersihkan!
-action.wyvern.tamed=Apakah kamu ingin mengampuni dan menjinakkan Naga ini?
-action.wyvern.spare=Ampuni
+detect.lag=§5§l[Dunia]: §r§aMengoptimalkan Performa! §7Menghapus item terjatuh dalam 30 detik.
+detect.lag.low_ram=§5§l[Dunia]: §r§aMengoptimalkan Performa! §7Menghapus item terjatuh dalam 10 detik.
+detect.lag10=§5§l[Dunia]: §r§7Selesai dibersihkan!
+action.wyvern.tamed=Apakah kamu ingin menyayangi dan menjinakkan Naga ini?
+action.wyvern.spare=Sayangi
 action.wyvern.slay=Bunuh
-generate.boss_tower=§l§2[Dunia]: §r§7Skyspire telah dihasilkan di
-generate.dungeon=§l§2[Dunia]: §r§7Dungeon telah dihasilkan di
+generate.boss_tower=§l§2[Dunia]: §r§7Sebuah Skyspire telah dibuat di
+generate.dungeon=§l§2[Dunia]: §r§7Sebuah Dungeon telah dibuat di
 generate.boss= §7dengan bos di dalamnya
 action.warpstone.title=Nama Warpstone
 action.warpstone.list=Daftar Warpstone
-action.warpstone.body=Tambahkan nama untuk Warpstone ini
+action.warpstone.body=Tambahkan nama ke Warpstone ini
 action.warpstone.name=Nama
-action.system_level.only_use=§cTenang, jagoan! Kamu hanya bisa meningkatkan 3 level keterampilan selama tutorial.
-action.system_level.only_mining=§cKamu hanya bisa meningkatkan Menambang selama tutorial.
-water_flasks.uses= penggunaan
+action.system_level.only_use=§cTenang dulu, pembelajar cepat! Kamu hanya bisa naik 3 level skill selama tutorial.
+action.system_level.only_mining=§cKamu hanya bisa naik level Menambang selama tutorial.
+water_flasks.uses= kali digunakan
 action.teleport_scroll.cancel=§cHebat! Kamu belum menetapkan titik respawn.
-active.saving_grace=§aWah wah lihat siapa yang beruntung. Saving Grace aktif lagi jadi coba jangan sia-siakan.
+active.saving_grace=§aLihat siapa yang beruntung. Saving Grace aktif lagi, jangan langsung dibuang ya.
 blocked.agility=§c§lKelincahanmu terlalu rendah untuk menggunakan item ini.
-blocked.melee=§c§lSerangan Dekatmu terlalu rendah untuk menggunakan item ini.
-blocked.mining=§c§lMenambangmu terlalu rendah untuk menggunakan item ini.
+blocked.melee=§c§lSkill Meleemu terlalu rendah untuk menggunakan item ini.
+blocked.mining=§c§lSkill Menambangmu terlalu rendah untuk menggunakan item ini.
 blocked.armor=§c§lPertahananmu terlalu rendah untuk menggunakan item ini.
-action.dodge=§aSelamat! Kamu berhasil menghindari panah.
-action.grave_hit=§cMundur, perampok kuburan! Kamu tidak bisa membuka kuburan ini karena bukan milikmu.
-action.warpstone_name=§cKeren! Kamu sudah punya warpstone dengan nama itu. Cobalah jadi orisinal untuk sekali ini.
-action.max_hearts=§cLihat dirimu, sudah maksimal. Kamu telah mencapai jumlah hati maksimum jadi berhentilah bermimpi lebih besar.
+blocked.global=§c§lLevel skillmu terlalu rendah untuk menggunakan item ini.
+action.dodge=§aSelamat! Kamu menghindari panah.
+action.grave_hit=§cJangan mendekat, pencuri kubur! Kamu tidak bisa membuka kubur ini karena bukan milikmu.
+action.warpstone_name=§cKeren! Kamu sudah punya warpstone dengan nama itu. Coba buat yang lebih unik.
+action.max_hearts=§cLihat kamu, sudah maksimal. Kamu sudah mencapai jumlah hati maksimum, jadi jangan bermimpi lebih tinggi.
 action.reach_level=§aMencapai level
-action.in_melee= dalam Serangan Dekat
-action.in_agility= dalam Kelincahan
-action.in_mining= dalam Menambang
-action.in_armor= dalam Pertahanan
+action.in_melee= di Melee
+action.in_agility= di Kelincahan
+action.in_mining= di Menambang
+action.in_armor= di Pertahanan
 action.you_need=§cKamu butuh 
 action.need_xp= level pengalaman untuk meningkatkan kategori ini.
-action.stop_move=§cSantai, turbo! Kamu harus berhenti bergerak untuk menggunakan item ini.
-action.limit_level=§cKamu sudah berada di level maksimum dalam kategori ini jadi santai saja.
+action.stop_move=§cSantai dulu! Kamu harus berhenti bergerak untuk menggunakan item ini.
+action.limit_level=§cKamu sudah di level maksimal di kategori ini, santai saja.
 action.duplicate_trinket=§cHanya satu trinket dari setiap jenis yang bisa dipakai sekaligus.
 action.dead=§cKamu mati di 
 action.dead_burned=saat mencoba berenang di lava dan semuanya §cterbakar§r.
-action.dead_hard=Tak ada kuburan yang tertinggal... §cKamu memilih Hard. Kamu memilih penderitaan!
-action.cooling_down=Sedang mendingin...
-action.warpstone_break=§cWarpstone yang dihasilkan secara alami tidak bisa dihancurkan.
-action.speed_skill=§l§d--Skill Kecepatan Terbuka: §r§6Kamu mendapatkan §lSpeed 1§r§6 secara permanen.§r
-action.arrow_skill=§l§d--Skill Panah Levitasi Terbuka: §r§6Serangan Jarak Jauhmu punya §a+20% peluang§6 untuk memberi efek §7Levitasi.§r
-action.dodge_skill=§l§d--Skill Menghindar Terbuka: §r§6Dapatkan peluang §a+10%§6 untuk §lMenghindar§r§6 dari serangan, §a5% §6per §a5 Level Kelincahan.§r
-action.critical_skill=§l§d--Skill Panah Kritis Terbuka: §r§6Serangan Jarak Jauhmu punya §a+50% peluang§6 untuk memberikan §7Damage Kritis.§r
+action.dead_hard=Tidak ada kubur yang tertinggal... §cKamu memilih Mode Sulit. Kamu memilih penderitaan!
+action.cooling_down=Mendinginkan diri...
+action.warpstone_break=§cWarpstone yang dibuat secara alami tidak dapat dihapus.
+action.speed_skill=§l§d--Skill Kecepatan Terbuka: §r§6Kamu mendapatkan §lKecepatan 1§r§6 secara permanen.§r
+action.arrow_skill=§l§d--Skill Panah Levitation Terbuka: §r§6Serangan §lJarak Jauh§r§6 kamu memiliki §a+20% peluang§6 untuk memberikan §7Levitation.§r
+action.dodge_skill=§l§d--Skill Menghindar Terbuka: §r§6Dapatkan §a+10%§6 peluang untuk §lMenghindar§r§6 serangan, §a5% §6per §a5 Level Kelincahan.§r
+action.critical_skill=§l§d--Skill Panah Kritis Terbuka: §r§6Serangan §lJarak Jauh§r§6 kamu memiliki §a+50% peluang§6 untuk memberikan §7Damage Kritis.§r
 action.mastery_skill=§l§d--Skill Penguasaan Kelincahan Terbuka: §r§6Menghilangkan §lDamage Jatuh§r§6, kamu tidak akan kehabisan panah.§r
 action.haste_skill=§l§d--Skill Haste Terbuka: §r§6Kamu mendapatkan §lHaste 2§r§6 secara permanen.§r
 action.obsidian_skill=§l§d--Skill Pemecah Obsidian Terbuka: §r§6Kamu mendapatkan §lHaste 4§r§6 saat menambang §5Obsidian.§r
-action.sustaining_skill=§l§d--Skill Serangan Berkelanjutan Terbuka: §r§6Pulihkan §a+1 & +1§6 setiap §a10 Blok§6 yang kamu tambang.§r
-action.material_skill=§l§d--Skill Material Berharga Terbuka: §r§6Dapatkan §a+0.5%§6 peluang untuk memperoleh §lMaterial Berharga§r§6 saat menambang batu.§r
-action.luck_skill=§l§d--Skill Keberuntungan Terbuka: §r§6Dapatkan §lLuck 2§r§6, Dapatkan bahan tambahan saat menambang mineral.§r
-action.chance_skill=§l§d--Skill Peluang Kritis Terbuka: §r§6Seranganmu mendapatkan §a+20% peluang §6untuk memberikan §lDamage Kritis§6.§r
-action.stun_skill=§l§d--Skill Stun Terbuka: §r§6Seranganmu mendapatkan §a+10% peluang §6untuk memberi efek §lStun§r§6.§r
-action.area_skill=§l§d--Skill Damage Area Terbuka: §r§6Seranganmu mendapatkan §a+15% peluang §6untuk merusak musuh di sekitar.§r
-action.vampirism_skill=§l§d--Skill Vampirisme Terbuka: §r§6Seranganmu menyembuhkan §a+1§6 setiap §l10 damage§r§6 yang kamu berikan.§r
-action.melee_skill=§l§d--Skill Penguasaan Melee Terbuka: §r§6Seranganmu §7memberikan §a+50%§6 damage tambahan.§r
-action.thorns_skill=§l§d--Skill Duri II Terbuka: §r§6Saat terkena pukulan, kembalikan damage yang sama kepada musuhmu.§r
-action.boost_skill=§l§d--Skill Tambahan Darah Terbuka: §r§6Dapatkan §a+2 setiap §b10 Level Armor.§r
-action.bodyparts_skill=§l§d--Skill Resistensi Bagian Tubuh Terbuka: §r§6Dapatkan resistensi tambahan terhadap §lBagian Tubuh§r, §a+0.5 per §b5 Level Armor.§r
-action.heal_skill=§l§d--Skill Penyembuhan Terbuka: §r§6Saat menyerang, §a+15% peluang §6untuk memulihkan §a+5 kembali.§r
-action.saving_skill=§l§d--Skill Saving Graces Terbuka: §r§6§lHindari Kematian§r§6 sekali setiap §a5 menit.§r
-translate.hfrlc.need_key=§cKamu membutuhkan kunci untuk membuka pintu ini.
+action.sustaining_skill=§l§d--Skill Serangan Berkelanjutan Terbuka: §r§6Mengembalikan §a+1 & +1§6 setiap §a10 Blok§6 yang kamu tambang.§r
+action.material_skill=§l§d--Skill Material Berharga Terbuka: §r§6Dapatkan §a+0.5%§6 peluang mendapatkan §lMaterial Berharga§r§6 saat menambang batu.§r
+action.luck_skill=§l§d--Skill Keberuntungan Terbuka: §r§6Dapatkan §lKeberuntungan 2§r§6, dapatkan bahan ekstra saat menambang mineral.§r
+action.chance_skill=§l§d--Skill Peluang Kritis Terbuka: §r§6Serangan §lmu§r§6 mendapatkan §a+20% peluang §6untuk memberikan §lDamage Kritis§6.§r
+action.stun_skill=§l§d--Skill Membuat Lumpuh Terbuka: §r§6Serangan §lmu§r§6 mendapatkan §a+10% peluang §6untuk memberikan §lLumpuh§r§6.§r
+action.area_skill=§l§d--Skill Damage Area Terbuka: §r§6Serangan §lmu§r§6 mendapatkan §a+15% peluang §6untuk melukai musuh di sekitar.§r
+action.vampirism_skill=§l§d--Skill Vampirisme Terbuka: §r§6Serangan §lmu§r§6 menyembuhkanmu §a+1§6 per §l10 damage§r§6 yang kamu berikan.§r
+action.melee_skill=§l§d--Skill Penguasaan Melee Terbuka: §r§6Serangan §lmu§r§7 memberikan §a+50%§6 lebih banyak damage.§r
+action.thorns_skill=§l§d--Skill Dur III Terbuka: §r§6Saat terkena serangan, memberikan damage yang sama kembali ke musuhmu.§r
+action.boost_skill=§l§d--Skill Peningkatan Kesehatan Terbuka: §r§6Terima §a+2 per §b10 Level Armor.§r
+action.bodyparts_skill=§l§d--Skill Ketahanan Bagian Tubuh Terbuka: §r§6Dapatkan ketahanan tambahan untuk §lBagian Tubuh§r, §a+0.5 per §b5 Level Armor.§r
+action.heal_skill=§l§d--Skill Penyembuhan Terbuka: §r§6Saat menyerang, §a+15% peluang §6menyembuhkan §a+5 kembali.§r
+action.saving_skill=§l§d--Skill Saving Grace Terbuka: §r§6§lHindari Kematian§r§6 sekali setiap §a5 menit.§r
+translate.hfrlc.need_key=§cKamu perlu kunci untuk membuka pintu ini.
 
-tile.hfrlc:jar1.name=Toples
-tile.hfrlc:jar2.name=Toples
+tile.hfrlc:jar1.name=Botol
+tile.hfrlc:jar2.name=Botol
 tile.hfrlc:barrier_collision.name=Tabrakan Penghalang
 tile.hfrlc:barrier_collision2.name=Tabrakan Penghalang Padat
 tile.hfrlc:blue_bush.name=Semak Frostberry
 tile.hfrlc:orange_bush.name=Semak Emberfruit
 tile.hfrlc:clover.name=Semanggi
 tile.hfrlc:mushroom.name=Jamur
-tile.hfrlc:pebble.name=Batu Kecil
-tile.hfrlc:flint_pebble.name=Batu Api Kecil
+tile.hfrlc:pebble.name=Kerikil
+tile.hfrlc:flint_pebble.name=Kerikil Batu Api
 tile.hfrlc:grass.name=Rumput
-tile.hfrlc:cattail.name=Gulma Air
+tile.hfrlc:cattail.name=Rumput Lidi
 tile.hfrlc:wheat_grass.name=Rumput Gandum
-tile.hfrlc:arctic_flowers.name=Bunga Arktik
+tile.hfrlc:arctic_flowers.name=Bunga Artik
 tile.hfrlc:arid_flowers.name=Bunga Kering
 tile.hfrlc:tropical_flowers.name=Bunga Tropis
-tile.hfrlc:brown_mushroom.name=Jamur Cokelat
+tile.hfrlc:brown_mushroom.name=Jamur Coklat
 tile.hfrlc:red_mushroom.name=Jamur Merah
 tile.hfrlc:cactus.name=Kaktus
 tile.hfrlc:lavender.name=Lavender
-tile.hfrlc:bellflower.name=Bellflower
+tile.hfrlc:bellflower.name=Bunga Lonceng
 tile.hfrlc:jungle_flower.name=Bunga Hutan
-tile.hfrlc:pansy.name=Pansy
-tile.hfrlc:bracken.name=Paku Bracken
+tile.hfrlc:pansy.name=Bunga Pansy
+tile.hfrlc:bracken.name=Pakis
 tile.hfrlc:fireweed.name=Fireweed
 tile.hfrlc:pink_lupine.name=Lupin Merah Muda
 tile.hfrlc:purple_heather.name=Heather Ungu
@@ -228,87 +231,87 @@ tile.hfrlc:white_heather.name=Heather Putih
 tile.hfrlc:white_lupine.name=Lupin Putih
 tile.hfrlc:jungle_bush.name=Semak Hutan
 tile.hfrlc:red_roots.name=Akar Merah
-tile.hfrlc:sweet_pea.name=Sweet Pea
+tile.hfrlc:sweet_pea.name=Polong Manis
 tile.hfrlc:canola_flower.name=Canola
 tile.hfrlc:hogweed_flower.name=Hogweed
-tile.hfrlc:carcass.name=Bangkei
+tile.hfrlc:carcass.name=Bangkai
 tile.hfrlc:clam.name=Kerang
-tile.hfrlc:cow_skull.name=Tengkorak Sapi
+tile.hfrlc:cow_skull.name= Tengkorak Sapi
 tile.hfrlc:seashells.name=Kerang Laut
-tile.hfrlc:starfish.name=Bintang Laut
-tile.hfrlc:pumpkin.name=Labu
-tile.hfrlc:dungeon_door.name=Pintu Ruang Bawah Tanah
-tile.hfrlc:dungeon_door_desert.name=Pintu Ruang Bawah Tanah Gurun
-tile.hfrlc:dungeon_door_snow.name=Pintu Ruang Bawah Tanah Es
-tile.hfrlc:dungeon_door_red_desert.name=Pintu Ruang Bawah Tanah Gurun Merah
+tile.hfrlc:starfish.name= Bintang Laut
+tile.hfrlc:pumpkin.name=Labuh
+tile.hfrlc:dungeon_door.name=Pintu Dungeon
+tile.hfrlc:dungeon_door_desert.name=Pintu Dungeon Gurun
+tile.hfrlc:dungeon_door_snow.name=Pintu Dungeon Es
+tile.hfrlc:dungeon_door_red_desert.name=Pintu Dungeon Gurun Merah
 tile.hfrlc:dungeon_door_key.name=Pintu Kunci
 tile.hfrlc:key_block.name=Kunci
 
 ## ===== BACKPACK VISUAL ENTITIES =====
 ## Spawn Eggs
-item.spawn_egg.entity.hfrlc:backpack_visual_big.name=§fTas Besar
-item.spawn_egg.entity.hfrlc:backpack_visual_mid.name=§fTas Sedang
-item.spawn_egg.entity.hfrlc:backpack_visual.name=§fTas Kecil
+item.spawn_egg.entity.hfrlc:backpack_visual_big.name=§fRansel Besar
+item.spawn_egg.entity.hfrlc:backpack_visual_mid.name=§fRansel Sedang
+item.spawn_egg.entity.hfrlc:backpack_visual.name=§fRansel Kecil
 
 ## Entities
-entity.hfrlc:backpack_visual_big.name=Tas Besar
-entity.hfrlc:backpack_visual_mid.name=Tas Sedang
-entity.hfrlc:backpack_visual.name=Tas Kecil
+entity.hfrlc:backpack_visual_big.name=Ransel Besar
+entity.hfrlc:backpack_visual_mid.name=Ransel Sedang
+entity.hfrlc:backpack_visual.name=Ransel Kecil
 
 ## ===== BOSS ENTITIES =====
 ## Spawn Eggs
-item.spawn_egg.entity.hfrlc:dwarf_king.name=§pOtorlum Raja Kurcaci Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:god_boss.name=§pTulum Guru Besar Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:knight_king.name=§pSkellor Penjaga Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:orc_boss.name=§pDalokug Pemimpin Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:pirate_king.name=§pVarek Kapten Tujuh Lautan Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:rlc_golem.name=§pPenjaga Menara Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:skeleton_boss.name=§pKesatria Kematian Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:death_knight.name=§pKesatria Kematian Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:spider_king.name=§pKarak Penenun Jaring Telur Spawn§r~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:frog_king.name=§pFroggy Katak Telur Spawn~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:griffin.name=§pNoffrig Penenun Awan Telur Spawn~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:leshen.name=§pManusia Liar Hutan Telur Spawn~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:ogre.name=§pOgro Raksasa Telur Spawn~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:orc_king.name=§pOrkul Orc Telur Spawn~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:spider_queen.name=§pRatu Laba-laba Telur Spawn~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:werewolf.name=§pAlpha Lycan Telur Spawn~LINEBREAK~§7Boss
-item.spawn_egg.entity.hfrlc:ant_queen.name=§pRatu Semut Telur Spawn~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:dwarf_king.name=§pTelur Spawn Otorlum Raja Kurcaci§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:god_boss.name=§pTelur Spawn Tulum Sang Grandmaster§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:knight_king.name=§pTelur Spawn Skellor Sang Penjaga§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:orc_boss.name=§pTelur Spawn Dalokug Sang Pemimpin§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:pirate_king.name=§pTelur Spawn Varek Kapten Tujuh Laut§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:rlc_golem.name=§pTelur Spawn Penjaga Menara§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:skeleton_boss.name=§pTelur Spawn Ksatria Kematian§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:death_knight.name=§pTelur Spawn Ksatria Kematian§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:spider_king.name=§pTelur Spawn Karak Sang Penenun Jaring§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:frog_king.name=§pTelur Spawn Froggy Sang Katak~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:griffin.name=§pTelur Spawn Noffrig Sang Penenun Awan~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:leshen.name=§pTelur Spawn Pria Liar dari Hutan~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:ogre.name=§pTelur Spawn Ogro Sang Raksasa~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:orc_king.name=§pTelur Spawn Orkul Sang Orc~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:spider_queen.name=§pTelur Spawn Ratu Laba-Laba~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:werewolf.name=§pTelur Spawn Alfa Lycan~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:ant_queen.name=§pTelur Spawn Ratu Semut~LINEBREAK~§7Boss
 
 ## Entities
 entity.hfrlc:dwarf_king_death.name=§l§aOtorlum Raja Kurcaci
 entity.hfrlc:dwarf_king.name=§l§aOtorlum Raja Kurcaci
-entity.hfrlc:god_boss_death.name=§l§6Tulum Guru Besar
-entity.hfrlc:god_boss.name=§l§6Tulum Guru Besar
-entity.hfrlc:knight_king_death.name=§l§uSkellor Penjaga
-entity.hfrlc:knight_king.name=§l§uSkellor Penjaga
-entity.hfrlc:orc_boss_death.name=§l§4Dalokug Pemimpin
-entity.hfrlc:orc_boss.name=§l§4Dalokug Pemimpin
-entity.hfrlc:pirate_king.name=§3§lVarek Kapten Tujuh Lautan
+entity.hfrlc:god_boss_death.name=§l§6Tulum Sang Grandmaster
+entity.hfrlc:god_boss.name=§l§6Tulum Sang Grandmaster
+entity.hfrlc:knight_king_death.name=§l§uSkellor Sang Penjaga
+entity.hfrlc:knight_king.name=§l§uSkellor Sang Penjaga
+entity.hfrlc:orc_boss_death.name=§l§4Dalokug Sang Pemimpin
+entity.hfrlc:orc_boss.name=§l§4Dalokug Sang Pemimpin
+entity.hfrlc:pirate_king.name=§3§lVarek Kapten Tujuh Laut
 entity.hfrlc:rlc_golem.name=§l§fPenjaga Menara
-entity.hfrlc:skeleton_boss.name=§l§4Kesatria Kematian
-entity.hfrlc:death_knight.name=Kesatria Kematian
-entity.hfrlc:spider_king.name=§l§nKarak Penenun Jaring
-entity.hfrlc:frog_king.name=§l§aFroggy Katak
-entity.hfrlc:griffin.name=§lNoffrig Penenun Awan
-entity.hfrlc:leshen.name=§lManusia Liar Hutan
-entity.hfrlc:ogre.name=§l§8Ogro Raksasa
-entity.hfrlc:orc_king.name=§l§2Orkul Orc
-entity.hfrlc:spider_queen.name=§l§4Ratu Laba-laba
-entity.hfrlc:werewolf.name=§l§8Alpha Lycan
+entity.hfrlc:skeleton_boss.name=§l§4Ksatria Kematian
+entity.hfrlc:death_knight.name=Ksatria Kematian
+entity.hfrlc:spider_king.name=§l§nKarak Sang Penenun Jaring
+entity.hfrlc:frog_king.name=§l§aFroggy Sang Katak
+entity.hfrlc:griffin.name=§lNoffrig Sang Penenun Awan
+entity.hfrlc:leshen.name=§lPria Liar dari Hutan
+entity.hfrlc:ogre.name=§l§8Ogro Sang Raksasa
+entity.hfrlc:orc_king.name=§l§2Orkul Sang Orc
+entity.hfrlc:spider_queen.name=§l§4Ratu Laba-Laba
+entity.hfrlc:werewolf.name=§l§8Alfa Lycan
 entity.hfrlc:ant_queen.name=Ratu Semut
 
 ## ===== DRAGON ENTITIES (HOSTILE - DEFEAT TO MOUNT) =====
 ## Spawn Eggs
-item.spawn_egg.entity.hfrlc:wyvern_air.name=Naga Udara Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_dark.name=Naga Gelap Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_earth.name=Naga Bumi Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_fire.name=Naga Api Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_ice.name=Naga Es Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_lightning.name=Naga Petir Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_nature.name=Naga Alam Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_poison.name=Naga Racun Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
-item.spawn_egg.entity.hfrlc:wyvern_water.name=Naga Air Telur Spawn~LINEBREAK~§7Bermusuhan (Kalahkan untuk menunggang)
+item.spawn_egg.entity.hfrlc:wyvern_air.name=Telur Spawn Naga Udara~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_dark.name=Telur Spawn Naga Gelap~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_earth.name=Telur Spawn Naga Bumi~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_fire.name=Telur Spawn Naga Api~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_ice.name=Telur Spawn Naga Es~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_lightning.name=Telur Spawn Naga Petir~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_nature.name=Telur Spawn Naga Alam~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_poison.name=Telur Spawn Naga Racun~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
+item.spawn_egg.entity.hfrlc:wyvern_water.name=Telur Spawn Naga Air~LINEBREAK~§7Musuh (Kalahkan untuk Menunggangi)
 
 ## Entities
 entity.hfrlc:wyvern_air.name=§7§lNaga Udara
@@ -323,63 +326,63 @@ entity.hfrlc:wyvern_water.name=§9§lNaga Air
 
 ## ===== HOSTILE ENTITIES =====
 ## Spawn Eggs
-item.spawn_egg.entity.hfrlc:dwarf.name=Kurcaci Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:knight.name=Kesatria Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:orc.name=Orc Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:pirate_shark.name=Hiu Bajak Laut Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:pirate.name=Bajak Laut Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:frog.name=Katak Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:yeti.name=Yeti Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:snake.name=Ular Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:sworm.name=Sworm Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:ancient_titan.name=Titan Kuno Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:bee_queen.name=Ratu Lebah Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:cyclop.name=Siklop Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:divine_warrior.name=Pejuang Ilahi Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:golem.name=Golem Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:icebutterfly.name=Kupu-kupu Es Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:monkey_king.name=Raja Monyet Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:orc_leader.name=Pemimpin Orc Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:pumpkinkido.name=Malaikat Maut Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:samurai.name=Samurai Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:satyre.name=Satir Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:shogun.name=Shogun Mati Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:crocodile.name=Buaya Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:dead_shooter.name=Penembak Mati Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:little_ant.name=Semut Kecil Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:sea_serpent.name=Ular Laut Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:mosquito.name=Nyamuk Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:rat.name=Tikus Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:big_bad_fish.name=Ikan Jahat Besar Telur Spawn~LINEBREAK~§7Bermusuhan
-item.spawn_egg.entity.hfrlc:sandworm_head.name=Cacing Pasir Telur Spawn~LINEBREAK~§7Bermusuhan
+item.spawn_egg.entity.hfrlc:dwarf.name=Telur Spawn Kurcaci~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:knight.name=Telur Spawn Ksatria~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:orc.name=Telur Spawn Orc~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:pirate_shark.name=Telur Spawn Hiu Bajak Laut~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:pirate.name=Telur Spawn Bajak Laut~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:frog.name=Telur Spawn Katak~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:yeti.name=Telur Spawn Yeti~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:snake.name=Telur Spawn Ular~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:sworm.name=Telur Spawn Cacing Pasir~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:ancient_titan.name=Telur Spawn Titan Kuno~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:bee_queen.name=Telur Spawn Ratu Lebah~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:cyclop.name=Telur Spawn Siklop~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:divine_warrior.name=Telur Spawn Prajurit Ilahi~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:golem.name=Telur Spawn Golem~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:icebutterfly.name=Telur Spawn Kupu-Kupu Es~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:monkey_king.name=Telur Spawn Raja Monyet~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:orc_leader.name=Telur Spawn Pemimpin Orc~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:pumpkinkido.name=Telur Spawn Reaper~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:samurai.name=Telur Spawn Samurai~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:satyre.name=Telur Spawn Satir~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:shogun.name=Telur Spawn Shogun Mati~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:crocodile.name=Telur Spawn Buaya~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:dead_shooter.name=Telur Spawn Penembak Mati~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:little_ant.name=Telur Spawn Semut Kecil~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:sea_serpent.name=Telur Spawn Naga Laut~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:mosquito.name=Telur Spawn Nyamuk~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:rat.name=Telur Spawn Tikus~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:big_bad_fish.name=Telur Spawn Ikan Jahat Besar~LINEBREAK~§7Musuh
+item.spawn_egg.entity.hfrlc:sandworm_head.name=Telur Spawn Cacing Pasir~LINEBREAK~§7Musuh
 
 ## Entities
 entity.hfrlc:dwarf.name=Kurcaci
-entity.hfrlc:knight.name=Kesatria
+entity.hfrlc:knight.name=Ksatria
 entity.hfrlc:orc.name=Orc
 entity.hfrlc:pirate_shark.name=Hiu Bajak Laut
 entity.hfrlc:pirate.name=Bajak Laut
 entity.hfrlc:frog.name=Katak
 entity.hfrlc:yeti.name=Yeti
 entity.hfrlc:snake.name=Ular
-entity.hfrlc:sworm.name=Sworm
-entity.hfrlc:sworm_mouth.name=Sworm
+entity.hfrlc:sworm.name=Cacing Pasir
+entity.hfrlc:sworm_mouth.name=Cacing Pasir
 entity.hfrlc:ancient_titan.name=Titan Kuno
 entity.hfrlc:bee_queen.name=Ratu Lebah
 entity.hfrlc:cyclop.name=Siklop
-entity.hfrlc:divine_warrior.name=Pejuang Ilahi
+entity.hfrlc:divine_warrior.name=Prajurit Ilahi
 entity.hfrlc:golem.name=Golem
-entity.hfrlc:icebutterfly.name=Kupu-kupu Es
+entity.hfrlc:icebutterfly.name=Kupu-Kupu Es
 entity.hfrlc:monkey_king.name=Raja Monyet
 entity.hfrlc:orc_leader.name=Pemimpin Orc
-entity.hfrlc:pumpkinkido.name=Malaikat Maut
+entity.hfrlc:pumpkinkido.name=Reaper
 entity.hfrlc:samurai.name=Samurai
 entity.hfrlc:satyre.name=Satir
 entity.hfrlc:shogun.name=Shogun Mati
 entity.hfrlc:crocodile.name=Buaya
 entity.hfrlc:dead_shooter.name=Penembak Mati
 entity.hfrlc:little_ant.name=Semut Kecil
-entity.hfrlc:sea_serpent.name=Ular Laut
+entity.hfrlc:sea_serpent.name=Naga Laut
 entity.hfrlc:mosquito.name=Nyamuk
 entity.hfrlc:rat.name=Tikus
 entity.hfrlc:big_bad_fish.name=Ikan Jahat Besar
@@ -387,25 +390,25 @@ entity.hfrlc:sandworm_head.name=Cacing Pasir
 entity.hfrlc:sandworm_wheel.name=Cacing Pasir
 entity.hfrlc:sandworm_tail.name=Cacing Pasir
 
-## ===== NEUTRAL ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:bear.name=Beruang Grizzly Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:boar.name=Babi Hutan Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:skunk.name=Sigung Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:wolf.name=Serigala Buas Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:goat_king.name=Raja Kambing Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:paon.name=Merak Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:spirit_warrior.name=Pejuang Roh Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:tree_spirit.name=Roh Pohon Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:scorpion.name=Kalajengking Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:baby_scorpion.name=Kalajengking Kecil Telur Spawn~LINEBREAK~§7Netral
-item.spawn_egg.entity.hfrlc:giant_snail.name=Siput Raksasa Telur Spawn~LINEBREAK~§7Netral
+## ===== ENTITAS NETRAL =====
+## Telur Spawn
+item.spawn_egg.entity.hfrlc:bear.name=Telur Spawn Beruang Grizzly~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:boar.name=Telur Spawn Babi Hutan~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:skunk.name=Telur Spawn Skunk~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:wolf.name=Telur Spawn Serigala Besar~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:goat_king.name=Telur Spawn Raja Kambing~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:paon.name=Telur Spawn Merak~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:spirit_warrior.name=Telur Spawn Pejuang Roh~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:tree_spirit.name=Telur Spawn Roh Pohon~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:scorpion.name=Telur Spawn Kalajengking~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:baby_scorpion.name=Telur Spawn Kalajengking Kecil~LINEBREAK~§7Netral
+item.spawn_egg.entity.hfrlc:giant_snail.name=Telur Spawn Siput Raksasa~LINEBREAK~§7Netral
 
-## Entities
+## Entitas
 entity.hfrlc:bear.name=Beruang Grizzly
 entity.hfrlc:boar.name=Babi Hutan
-entity.hfrlc:skunk.name=Sigung
-entity.hfrlc:wolf.name=Serigala Buas
+entity.hfrlc:skunk.name=Skunk
+entity.hfrlc:wolf.name=Serigala Besar
 entity.hfrlc:goat_king.name=Raja Kambing
 entity.hfrlc:paon.name=Merak
 entity.hfrlc:spirit_warrior.name=Pejuang Roh
@@ -414,89 +417,89 @@ entity.hfrlc:scorpion.name=Kalajengking
 entity.hfrlc:baby_scorpion.name=Kalajengking Kecil
 entity.hfrlc:giant_snail.name=Siput Raksasa
 
-## ===== FRIENDLY ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:firefly.name=Kunang-kunang Telur Spawn~LINEBREAK~§7Ramah
-item.spawn_egg.entity.hfrlc:eagle.name=Elang Telur Spawn~LINEBREAK~§7Ramah
-item.spawn_egg.entity.hfrlc:healingfairy.name=Peri Penyembuh Telur Spawn~LINEBREAK~§7Ramah
-item.spawn_egg.entity.hfrlc:pigeon.name=Merpati Telur Spawn~LINEBREAK~§7Ramah
-item.spawn_egg.entity.hfrlc:deer.name=Rusa Telur Spawn~LINEBREAK~§7Ramah
-item.spawn_egg.entity.hfrlc:mini_snail.name=Siput Kecil Telur Spawn~LINEBREAK~§7Ramah
+## ===== ENTITAS RAMAH =====
+## Telur Spawn
+item.spawn_egg.entity.hfrlc:firefly.name=Telur Spawn Kunang-Kunang~LINEBREAK~§7Ramah
+item.spawn_egg.entity.hfrlc:eagle.name=Telur Spawn Elang~LINEBREAK~§7Ramah
+item.spawn_egg.entity.hfrlc:healingfairy.name=Telur Spawn Peri Penyembuh~LINEBREAK~§7Ramah
+item.spawn_egg.entity.hfrlc:pigeon.name=Telur Spawn Merpati~LINEBREAK~§7Ramah
+item.spawn_egg.entity.hfrlc:deer.name=Telur Spawn Rusa~LINEBREAK~§7Ramah
+item.spawn_egg.entity.hfrlc:mini_snail.name=Telur Spawn Siput Kecil~LINEBREAK~§7Ramah
 
-## Entities
-entity.hfrlc:firefly.name=Kunang-kunang
+## Entitas
+entity.hfrlc:firefly.name=Kunang-Kunang
 entity.hfrlc:eagle.name=Elang
 entity.hfrlc:healingfairy.name=Peri Penyembuh
 entity.hfrlc:pigeon.name=Merpati
 entity.hfrlc:deer.name=Rusa
 entity.hfrlc:mini_snail.name=Siput Kecil
 
-## ===== MOUNT ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:aeris.name=Aeris Telur Spawn~LINEBREAK~§7Netral (Tunggangan)
-item.spawn_egg.entity.hfrlc:biglizard.name=Kadal Besar Telur Spawn~LINEBREAK~§7Netral (Tunggangan)
-item.spawn_egg.entity.hfrlc:hippocampus.name=Hippokampus Telur Spawn~LINEBREAK~§7Ramah (Tunggangan)
+## ===== ENTITAS PENUNGGANG =====
+## Telur Spawn
+item.spawn_egg.entity.hfrlc:aeris.name=Telur Spawn Aeris~LINEBREAK~§7Netral (Penunggang)
+item.spawn_egg.entity.hfrlc:biglizard.name=Telur Spawn Kadal Besar~LINEBREAK~§7Netral (Penunggang)
+item.spawn_egg.entity.hfrlc:hippocampus.name=Telur Spawn Hippocampus~LINEBREAK~§7Ramah (Penunggang)
 
-## Entities
+## Entitas
 entity.hfrlc:aeris.name=Aeris
 entity.hfrlc:biglizard.name=Kadal Besar
-entity.hfrlc:hippocampus.name=Hippokampus
+entity.hfrlc:hippocampus.name=Hippocampus
 
-## ===== TRADER NPC ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:ant_women.name=Wanita Semut Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:cowbow.name=Koboi Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:dark_sensei.name=Sensei Gelap Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:divine_island.name=Pulau Ilahi Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:dragon_hunter.name=Pemburu Naga Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:harry.name=Harry Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:merchant_orc.name=Pedagang Orc Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:port_sailor.name=Kapten Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:white_sensei.name=Sensei Putih Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:witch.name=Penyihir Telur Spawn~LINEBREAK~§7Pedagang NPC
-item.spawn_egg.entity.hfrlc:wizard_golem.name=Golem Penyihir Telur Spawn~LINEBREAK~§7Pedagang NPC
+## ===== ENTITAS NPC PEDAGANG =====
+## Telur Spawn
+item.spawn_egg.entity.hfrlc:ant_women.name=Telur Spawn Wanita Semut~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:cowbow.name=Telur Spawn Koboi~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:dark_sensei.name=Telur Spawn Sensei Gelap~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:divine_island.name=Telur Spawn Pulau Ilahi~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:dragon_hunter.name=Telur Spawn Pemburu Naga~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:harry.name=Telur Spawn Harry~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:merchant_orc.name=Telur Spawn Orc Pedagang~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:port_sailor.name=Telur Spawn Kapten~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:white_sensei.name=Telur Spawn Sensei Putih~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:witch.name=Telur Spawn Penyihir~LINEBREAK~§7NPC Pedagang
+item.spawn_egg.entity.hfrlc:wizard_golem.name=Telur Spawn Golem Penyihir~LINEBREAK~§7NPC Pedagang
 
-## Entities
+## Entitas
 entity.hfrlc:ant_women.name=Wanita Semut
 entity.hfrlc:cowbow.name=Koboi
 entity.hfrlc:dark_sensei.name=Sensei Gelap
 entity.hfrlc:divine_island.name=Pulau Ilahi
 entity.hfrlc:dragon_hunter.name=Pemburu Naga
 entity.hfrlc:harry.name=Harry
-entity.hfrlc:merchant_orc.name=Pedagang Orc
+entity.hfrlc:merchant_orc.name=Orc Pedagang
 entity.hfrlc:port_sailor.name=Kapten
 entity.hfrlc:white_sensei.name=Sensei Putih
 entity.hfrlc:witch.name=Penyihir
 entity.hfrlc:wizard_golem.name=Golem Penyihir
 
-## ===== SPECIAL ITEMS =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:djinn.name=Lampu Kuno~LINEBREAK~§7Gosok itu!
+## ===== ITEM KHUSUS =====
+## Telur Spawn
+item.spawn_egg.entity.hfrlc:djinn.name=Lampu Kuno~LINEBREAK~§7Gosoklah!
 item.spawn_egg.entity.hfrlc:sleepingbag.name=Kantong Tidur
 
-## Entities
+## Entitas
 entity.hfrlc:djinn.name=Djinn
 entity.hfrlc:sleepingbag.name=Kantong Tidur
 
-## ===== PROJECTILES AND ARROWS =====
-entity.hfrlc:cannon_ball.name=Bola Meriam
-entity.hfrlc:dwarf_arrow.name=Kurcaci
-entity.hfrlc:knight_arrow.name=Kesatria
-entity.hfrlc:orc_arrow.name=Orc
-entity.hfrlc:pirate_arrow.name=Bajak Laut
-entity.hfrlc:pirate_shot.name=Bajak Laut
-entity.hfrlc:deadshooter_arrow.name=Penembak Mati
-entity.hfrlc:fire_arrow.name=Panah
-entity.hfrlc:ice_arrow.name=Panah
+## ===== PROYEKTIL DAN PANAH =====
+entity.hfrlc:cannon_ball.name=Peluru Meriam
+entity.hfrlc:dwarf_arrow.name=Panah Kurcaci
+entity.hfrlc:knight_arrow.name=Panah Ksatria
+entity.hfrlc:orc_arrow.name=Panah Orc
+entity.hfrlc:pirate_arrow.name=Panah Bajak Laut
+entity.hfrlc:pirate_shot.name=Tembakan Bajak Laut
+entity.hfrlc:deadshooter_arrow.name=Panah Penembak Mati
+entity.hfrlc:fire_arrow.name=Panah Api
+entity.hfrlc:ice_arrow.name=Panah Es
 entity.hfrlc:player_bow.name=Panah
 entity.hfrlc:player_trident.name=Trisula
 
-## ===== DRAGON PROJECTILES =====
+## ===== PROYEKTIL NAGA =====
 entity.hfrlc:wyvern_fire_loot.name=Naga Api
 entity.hfrlc:wyvern_air_knockback_player.name=Naga Udara
 entity.hfrlc:wyvern_air_knockback.name=Naga Udara
 entity.hfrlc:wyvern_air_projectile_player.name=Naga Udara
-entity.hfrlc:wyvern_dark_projectile_player.name=Naga Gelap
+entity.hfrlc:wyvern_dark_projectile_player.name=Naga Kegelapan
 entity.hfrlc:wyvern_earth_projectile_player.name=Naga Bumi
 entity.hfrlc:wyvern_fire_projectile_player.name=Naga Api
 entity.hfrlc:wyvern_ice_projectile_player.name=Naga Es
@@ -505,7 +508,7 @@ entity.hfrlc:wyvern_nature_projectile_player.name=Naga Alam
 entity.hfrlc:wyvern_poison_projectile_player.name=Naga Racun
 entity.hfrlc:wyvern_water_projectile_player.name=Naga Air
 entity.hfrlc:wyvern_air_tame.name=Naga Udara
-entity.hfrlc:wyvern_dark_tame.name=Naga Gelap
+entity.hfrlc:wyvern_dark_tame.name=Naga Kegelapan
 entity.hfrlc:wyvern_earth_tame.name=Naga Bumi
 entity.hfrlc:wyvern_fire_tame.name=Naga Api
 entity.hfrlc:wyvern_ice_tame.name=Naga Es
@@ -518,11 +521,11 @@ entity.hfrlc:wyvern_air_projectile2.name=Naga Udara
 entity.hfrlc:wyvern_air_projectile3.name=Naga Udara
 entity.hfrlc:wyvern_air_projectile4.name=Naga Udara
 entity.hfrlc:wyvern_air_projectile5.name=Naga Udara
-entity.hfrlc:wyvern_dark_projectile1.name=Naga Gelap
-entity.hfrlc:wyvern_dark_projectile2.name=Naga Gelap
-entity.hfrlc:wyvern_dark_projectile3.name=Naga Gelap
-entity.hfrlc:wyvern_dark_projectile4.name=Naga Gelap
-entity.hfrlc:wyvern_dark_projectile5.name=Naga Gelap
+entity.hfrlc:wyvern_dark_projectile1.name=Naga Kegelapan
+entity.hfrlc:wyvern_dark_projectile2.name=Naga Kegelapan
+entity.hfrlc:wyvern_dark_projectile3.name=Naga Kegelapan
+entity.hfrlc:wyvern_dark_projectile4.name=Naga Kegelapan
+entity.hfrlc:wyvern_dark_projectile5.name=Naga Kegelapan
 entity.hfrlc:wyvern_earth_projectile1.name=Naga Bumi
 entity.hfrlc:wyvern_earth_projectile2.name=Naga Bumi
 entity.hfrlc:wyvern_earth_projectile3.name=Naga Bumi
@@ -559,8 +562,8 @@ entity.hfrlc:wyvern_water_projectile3.name=Naga Air
 entity.hfrlc:wyvern_water_projectile4.name=Naga Air
 entity.hfrlc:wyvern_water_projectile5.name=Naga Air
 
-## ===== WEAPON ENTITIES =====
-entity.hfrlc:wand_lightning_projectile.name=Tongkat Sihir
+## ===== ENTITAS SENJATA =====
+entity.hfrlc:wand_lightning_projectile.name=Tongkat Ajaib
 entity.hfrlc:fire_aspect.name=Aspek Api
 entity.hfrlc:wyvern1.name=Naga
 entity.hfrlc:wyvern2.name=Naga
@@ -571,81 +574,81 @@ entity.hfrlc:dragon_attack_knockback.name=Naga
 entity.hfrlc:holdfire.name=Naga
 entity.hfrlc:wyvern_attack_knockback.name=Naga
 
-## ===== SPECIAL SWORD ENTITIES =====
+## ===== ENTITAS PEDANG KHUSUS =====
 entity.hfrlc:air_sword.controller.name=Pedang Angin
 entity.hfrlc:air_sword.throw.name=Pedang Angin
 entity.hfrlc:dirt_projectile.name=Pedang Tanah
-entity.hfrlc:earth_sword.attack.explode.name=Pedang Medan
-entity.hfrlc:earth_sword.attack2.name=Pedang Medan
-entity.hfrlc:earth_sword.attack.name=Pedang Medan
-entity.hfrlc:earth_sword.attack.target.name=Pedang Medan
-entity.hfrlc:fire_sword.defense.name=Pedang Nyala
-entity.hfrlc:fire_sword.projectile.name=Pedang Nyala
-entity.hfrlc:fire_sword_boost.name=Pedang Nyala
-entity.hfrlc:ice_cube.projectile.name=Pedang Embun Beku
-entity.hfrlc:ice_cube.explode.name=Pedang Embun Beku
-entity.hfrlc:ice_spikes.name=Pedang Embun Beku
-entity.hfrlc:ice_sword.target.name=Pedang Embun Beku
-entity.hfrlc:ice_sword.attack.name=Pedang Embun Beku
+entity.hfrlc:earth_sword.attack.explode.name=Pedang Bumi
+entity.hfrlc:earth_sword.attack2.name=Pedang Bumi
+entity.hfrlc:earth_sword.attack.name=Pedang Bumi
+entity.hfrlc:earth_sword.attack.target.name=Pedang Bumi
+entity.hfrlc:fire_sword.defense.name=Pedang Api
+entity.hfrlc:fire_sword.projectile.name=Pedang Api
+entity.hfrlc:fire_sword_boost.name=Pedang Api
+entity.hfrlc:ice_cube.projectile.name=Pedang Es
+entity.hfrlc:ice_cube.explode.name=Pedang Es
+entity.hfrlc:ice_spikes.name=Pedang Es
+entity.hfrlc:ice_sword.target.name=Pedang Es
+entity.hfrlc:ice_sword.attack.name=Pedang Es
 entity.hfrlc:rocks.name=Pedang Hutan Hujan
 entity.hfrlc:lava_sword.explode.name=Pedang Meteor
 entity.hfrlc:lava_sword.projectile.name=Pedang Meteor
-entity.hfrlc:light_sword_boost.name=Pedang Cahaya
-entity.hfrlc:light_sword.glow.name=Pedang Cahaya
+entity.hfrlc:light_sword_boost.name=Pedang Luminesensi
+entity.hfrlc:light_sword.glow.name=Pedang Luminesensi
 entity.hfrlc:nether_sword.target.name=Pedang Nether
 entity.hfrlc:nether_sword.fire_attack.name=Pedang Nether
 entity.hfrlc:nether_sword.fire_attack.explode.name=Pedang Nether
 entity.hfrlc:spawn.controller.name=Pedang Nether
-entity.hfrlc:ocean_sword.attack.ripple.name=Pedang Samudra
-entity.hfrlc:ocean_sword.attack.name=Pedang Samudra
-entity.hfrlc:ocean_sword.boost.name=Pedang Samudra
-entity.hfrlc:thunder_sword.explode_small.name=Pedang Guntur
-entity.hfrlc:thunder_sword.impact.name=Pedang Guntur
-entity.hfrlc:thunder_sword.explode.name=Pedang Guntur
+entity.hfrlc:ocean_sword.attack.ripple.name=Pedang Laut
+entity.hfrlc:ocean_sword.attack.name=Pedang Laut
+entity.hfrlc:ocean_sword.boost.name=Pedang Laut
+entity.hfrlc:thunder_sword.explode_small.name=Pedang Petir
+entity.hfrlc:thunder_sword.impact.name=Pedang Petir
+entity.hfrlc:thunder_sword.explode.name=Pedang Petir
 entity.hfrlc:particle_rider.name=Partikel
 entity.hfrlc:poison_projectile.name=Pedang Racun
-entity.hfrlc:spike_sword_boost.name=Pedang Dorongan
-entity.hfrlc:spike_sword.target.name=Pedang Dorongan
-entity.hfrlc:tornado.name=Tornado
+entity.hfrlc:spike_sword_boost.name=Pedang Impuls
+entity.hfrlc:spike_sword.target.name=Pedang Impuls
+entity.hfrlc:tornado.name=Topan
 entity.hfrlc:toxic.name=Pedang Racun
-entity.hfrlc:water_beam_projectile.name=Pedang Aqua
+entity.hfrlc:water_beam_projectile.name=Pedang Air
 entity.hfrlc:weapon13_knockback.name=Perisai Kayu
 
-## ===== GENERATOR AND RANDOMIZER ENTITIES =====
+## ===== ENTITAS GENERATOR DAN RANDOMIZER =====
 entity.hfrlc:web.name=Jaring
 entity.hfrlc:2_boss.name=Pengacak Boss 2
 entity.hfrlc:boss_tower_random.name=Pengacak Boss
 entity.hfrlc:skysmall_random.name=Pengacak Boss
-entity.hfrlc:boss_tower.name=Generator Menara Langit
+entity.hfrlc:boss_tower.name=Generator Skyspire
 entity.hfrlc:dungeon.name=Generator Dungeon
 entity.hfrlc:random_npc_dungeon.name=Pengacak NPC Dungeon
 entity.hfrlc:random_npc.name=Pengacak NPC
 entity.hfrlc:random_wyvern.name=Pengacak Naga
 
-## ===== SPECIAL EFFECT ENTITIES =====
-entity.hfrlc:lens_sun.name=Kilatan Lensa
-entity.hfrlc:npcsign.name=Papan NPC
-entity.hfrlc:explode_tower.name=Peledak Menara
-entity.hfrlc:explode.name=Peledak
-entity.hfrlc:knockback.name=Pendorong
+## ===== ENTITAS EFEK KHUSUS =====
+entity.hfrlc:lens_sun.name=Cahaya Lensa
+entity.hfrlc:npcsign.name=Plang NPC
+entity.hfrlc:explode_tower.name=Penghancur Menara
+entity.hfrlc:explode.name=Penghancur
+entity.hfrlc:knockback.name=Pengedorong Mundur
 entity.hfrlc:sing.name=Menyanyi
 entity.hfrlc:wyvern_explode.name=Ledakan Naga
 entity.hfrlc:wither_skull_dangerous.name=Tengkorak Wither Berbahaya
-entity.hfrlc:ender_tp_dummy.name=Mutiara Ender
-entity.hfrlc:drop_item.name=Jatuhkan Barang
+entity.hfrlc:ender_tp_dummy.name=Permata Ender
+entity.hfrlc:drop_item.name=Item Jatuh
 entity.hfrlc:play_the_tutorial.name=Naga
 entity.hfrlc:acid.name=Asam
-entity.hfrlc:leshen_scream.name=§lManusia Liar Hutan
-entity.hfrlc:ogre_attack.name=§l§8Ogro Raksasa
+entity.hfrlc:leshen_scream.name=§lOrang Liar dari Hutan
+entity.hfrlc:ogre_attack.name=§l§8Ogro si Raksasa
 entity.hfrlc:roots.name=Akar
 entity.hfrlc:black_room.name=Ruang Hitam
 
-## ===== SURVIVAL/CRAFTING SYSTEM ENTITIES =====
+## ===== ENTITAS SISTEM KEHIDUPAN/CRAFTING =====
 entity.hfrlc:bodyparts.name=Bagian Tubuh
 entity.hfrlc:cold_temperature.name=Suhu Dingin
 entity.hfrlc:hot_temperature.name=Suhu Panas
 entity.hfrlc:temperature.name=Suhu
-entity.hfrlc:fiber_string.name=Tali Serat
+entity.hfrlc:fiber_string.name=Benang Serat
 entity.hfrlc:fiber.name=Serat
 entity.hfrlc:flint_axe.name=Kapak Batu Api
 entity.hfrlc:flint_dagger.name=Belati Batu Api
@@ -654,484 +657,485 @@ entity.hfrlc:flint.name=Batu Api
 entity.hfrlc:goat_horn.name=Tanduk Kambing
 entity.hfrlc:stick.name=Tongkat
 entity.hfrlc:stone_axe.name=Kapak Batu
-entity.hfrlc:stone_pickaxe.name=Beliung Batu
+entity.hfrlc:stone_pickaxe.name=Pickaxe Batu
 entity.hfrlc:stone_sword.name=Pedang Batu
 entity.hfrlc:wood_axe.name=Kapak Kayu
-entity.hfrlc:wood_pickaxe.name=Beliung Kayu
+entity.hfrlc:wood_pickaxe.name=Pickaxe Kayu
 entity.hfrlc:wood_sword.name=Pedang Kayu
 entity.hfrlc:wood.name=Kayu
 
-## ===== UI AND SYSTEM ENTITIES =====
+## ===== ENTITAS ANTARMUKA DAN SISTEM =====
 entity.hfrlc:guide_texts.name=Teks Panduan
-entity.hfrlc:heal_items.name=Barang Penyembuh
-entity.hfrlc:thirts_items.name=Barang Dahaga
-entity.hfrlc:trinket_bag.name=Tas Perhiasan
-entity.hfrlc:trinket_lore.name=Sejarah Perhiasan
-entity.hfrlc:trinket_ui.name=Antarmuka Perhiasan
-entity.hfrlc:system_level_item.name=Barang Level Sistem
-entity.hfrlc:system_level_ui.name=Antarmuka Level Sistem
+entity.hfrlc:heal_items.name=Item Penyembuh
+entity.hfrlc:thirts_items.name=Item Haus
+entity.hfrlc:trinket_bag.name=Tas Trinket
+entity.hfrlc:trinket_lore.name=Cerita Trinket
+entity.hfrlc:trinket_ui.name=UI Trinket
+entity.hfrlc:system_level_item.name=Item Level Sistem
+entity.hfrlc:system_level_ui.name=UI Level Sistem
 entity.hfrlc:system_level.name=Menu Leveling
-entity.hfrlc:trinket_menu.name=Menu Perhiasan
+entity.hfrlc:trinket_menu.name=Menu Trinket
 
-## ===== WORLD INTERACTION ENTITIES =====
+## ===== ENTITAS INTERAKSI DUNIA =====
 entity.hfrlc:tombs.name=Kuburan
 entity.hfrlc:warpstone.name=Batu Warp
 
 
 action.interact.rotate=Putar
 action.interact.paint=Cat
-action.interact.wear=Berinteraksi untuk memakai
+action.interact.wear=Interaksi untuk mengenakan
 action.interact.sit=Duduk
-action.interact.ride=Naik
+action.interact.ride=Naiki
 action.interact.wyvern.saddle=Pelana
-action.interact.wyvern.armor=Pasang Baju Zirah
+action.interact.wyvern.armor=Pasang Armor
 action.interact.wyvern.shoot=Tembak
 action.interact.pick_up=Ambil
 
-action.hint.tuto_dragon.hint.1=§6[!] Kamu bisa mengubah tingkat kesulitan~LINEBREAK~   nanti di pengaturan.  
-action.hint.tuto_dragon.hint.2=§6[!] Bermain tutorial~LINEBREAK~   sangat disarankan.  
-action.hint.tuto_dragon.hint.3=§6[!] Lewati hanya jika kamu~LINEBREAK~   sudah menyelesaikan tutorial.  
-action.hint.tuto_dragon.hint.4=§6[!] RLCraft: Edisi Bedrock~LINEBREAK~   berbeda dari RLCraft: Edisi Java.  
-action.hint.tuto_dragon.hint.5=§6[!] RLCraft sepenuhnya mengubah~LINEBREAK~   gameplay Vanilla Minecraft.  
+action.hint.tuto_dragon.hint.1=§6[!] Kamu bisa mengubah tingkat kesulitan~LINEBREAK~   nanti di pengaturan.
+action.hint.tuto_dragon.hint.2=§6[!] Sangat disarankan untuk mengikuti tutorial~LINEBREAK~   sebelum bermain.
+action.hint.tuto_dragon.hint.3=§6[!] Lewati hanya jika kamu sudah~LINEBREAK~   pernah mengikuti tutorial.
+action.hint.tuto_dragon.hint.4=§6[!] RLCraft: Bedrock Edition berbeda dengan~LINEBREAK~   RLCraft: Java Edition.
+action.hint.tuto_dragon.hint.5=§6[!] RLCraft sepenuhnya mengubah~LINEBREAK~   loop permainan Vanilla Minecraft.
 
-action.hint.exit.hfrlc:sleepingbag=:_input_key.sneak: untuk keluar  
-action.hint.warpstone=§b:_input_key.attack:§r untuk membuka menu. §b:_input_key.sneak:§r + §b:_input_key.attack:§r untuk menghancurkan.  
-action.hint.exit.hfrlc:stool=:_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:woodchair=:_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:woolchair=:_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:woolcouch=:_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_air=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_dark=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_earth=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_fire=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_ice=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_lightning=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_nature=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_poison=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:wyvern_water=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar  
-action.hint.exit.hfrlc:hippocampus=:_input_key.sneak: untuk keluar dari Hippocampus  
-action.hint.exit.hfrlc:aeris=Lihat atas dan bawah untuk terbang  
-action.hint.exit.hfrlc:biglizard=:_input_key.sneak: untuk keluar dari Kadal Besar  
+action.hint.exit.hfrlc:sleepingbag=:_input_key.sneak: untuk keluar
+action.hint.warpstone=§b:_input_key.attack:§r untuk membuka menu. §b:_input_key.sneak:§r + §b:_input_key.attack:§r untuk menghancurkan.
+action.hint.exit.hfrlc:stool=:_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:woodchair=:_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:woolchair=:_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:woolcouch=:_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_air=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_dark=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_earth=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_fire=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_ice=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_lightning=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_nature=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_poison=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:wyvern_water=:_input_key.use: untuk menembak, :_input_key.sneak: untuk keluar
+action.hint.exit.hfrlc:hippocampus=:_input_key.sneak: untuk keluar dari Hippocampus
+action.hint.exit.hfrlc:aeris=Lihat ke atas dan bawah untuk terbang
+action.hint.exit.hfrlc:biglizard=:_input_key.sneak: untuk keluar dari Big Lizard
 
-action.black_room.start=Mulai  
-action.sleepingbag=§cApa ini, waktu tidur siang? Kamu tidak bisa tidur di siang hari, jadi tetap terjaga dan menderita seperti yang lain.  
+action.black_room.start=Mulai
+action.sleepingbag=§cIni apa, waktu tidur siang? Kamu tidak bisa tidur di siang hari, jadi tetap terjaga dan deritalah seperti yang lain.
 
-hfrlc:bow=Busur RLCraft  
-hfrlc:dragon_armor=Armor Naga  
-hfrlc:healing_capsule=Kapsul Penyembuh  
-hfrlc:levelup_token=Token Naik Level  
-hfrlc:travel=Bepergian  
-hfrlc:trinkets=Jimat  
-hfrlc:important_items=Item Penting  
-hfrlc:dragon_scales=Sisik Naga  
-hfrlc:dragon_parts=Bagian Naga  
-hfrlc:coins=Koin  
-hfrlc:essences=Esensi  
-hfrlc:backpack=Ransel  
-hfrlc:furniture=Perabotan  
 
-## MAKANAN  
-item.hfrlc:cooked_boar_meat=Daging Babi Hutan Matang  
-item.hfrlc:cooked_deer_meat=Daging Rusa Matang  
-item.hfrlc:cooked_eagle_meat=Daging Elang Matang  
-item.hfrlc:cooked_grizzly_meat=Daging Beruang Grizzly Matang  
-item.hfrlc:cooked_rat_meat=Daging Tikus Matang  
-item.hfrlc:cooked_skunk_meat=Daging Sigung Matang  
-item.hfrlc:cooked_snake_meat=Daging Ular Berurat Matang  
-item.hfrlc:cooked_wolf_meat=Daging Serigala Matang  
-item.hfrlc:raw_boar_meat=Daging Babi Hutan Mentah  
-item.hfrlc:raw_deer_meat=Daging Rusa Mentah  
-item.hfrlc:raw_eagle_meat=Daging Elang Mentah  
-item.hfrlc:raw_grizzly_meat=Daging Beruang Grizzly Mentah  
-item.hfrlc:raw_rat_meat=Daging Tikus Mentah  
-item.hfrlc:raw_skunk_meat=Daging Sigung Mentah  
-item.hfrlc:raw_snake_meat=Daging Ular Berurat Mentah  
+hfrlc:bow=Busur RLCraft
+hfrlc:dragon_armor=Armor Naga
+hfrlc:healing_capsule=Kapsul Penyembuh
+hfrlc:levelup_token=Token Level Up
+hfrlc:travel=Perjalanan
+hfrlc:trinkets=Perhiasan
+hfrlc:important_items=Barang Penting
+hfrlc:dragon_scales=Sisih Naga
+hfrlc:dragon_parts=Bagian Naga
+hfrlc:coins=Koin
+hfrlc:essences=Esensi
+hfrlc:backpack=Ransel
+hfrlc:furniture=Perabotan
+
+
+## FOOD
+item.hfrlc:cooked_boar_meat=Daging Babi Hutan Matang
+item.hfrlc:cooked_deer_meat=Daging Rusa Matang
+item.hfrlc:cooked_eagle_meat=Daging Elang Matang
+item.hfrlc:cooked_grizzly_meat=Daging Beruang Grizzly Matang
+item.hfrlc:cooked_rat_meat=Daging Tikus Matang
+item.hfrlc:cooked_skunk_meat=Daging Skunk Matang
+item.hfrlc:cooked_snake_meat=Daging Ular Kasar Matang
+item.hfrlc:cooked_wolf_meat=Daging Serigala Matang
+item.hfrlc:raw_boar_meat=Daging Babi Hutan Mentah
+item.hfrlc:raw_deer_meat=Daging Rusa Mentah
+item.hfrlc:raw_eagle_meat=Daging Elang Mentah
+item.hfrlc:raw_grizzly_meat=Daging Beruang Grizzly Mentah
+item.hfrlc:raw_rat_meat=Daging Tikus Mentah
+item.hfrlc:raw_skunk_meat=Daging Skunk Mentah
+item.hfrlc:raw_snake_meat=Daging Ular Kasar Mentah
 item.hfrlc:raw_wolf_meat=Daging Serigala Mentah
+item.hfrlc:pumpkin_slice=Irisan Labu
 
-## BAHAN KERAJINAN  
-item.hfrlc:black_dragon_scales=§fSisik Naga Hitam  
-item.hfrlc:blue_dragon_scales=§fSisik Naga Biru  
-item.hfrlc:brown_dragon_scales=§fSisik Naga Cokelat  
-item.hfrlc:diamond_wyvern_armor=§fArmor Naga Berlian  
-item.hfrlc:dragon_heart=§dJantung Naga  
-item.hfrlc:dragon_skull=§dTengkorak Naga  
-item.hfrlc:flaming_dragon_blood=§fRoh Naga Api  
-item.hfrlc:flint_shard=§fPecahan Batu Api  
-item.hfrlc:gold_wyvern_armor=§fArmor Naga Emas  
-item.hfrlc:green_dragon_scales=§fSisik Naga Hijau  
-item.hfrlc:ice_dragon_blood=§fRoh Naga Es  
-item.hfrlc:info_book=§fMenu RLCraft  
-item.hfrlc:iron_wyvern_armor=§fArmor Naga Besi  
-item.hfrlc:netherite_wyvern_armor=§fArmor Naga Netherite  
-item.hfrlc:paint=Kuas  
-item.hfrlc:plant_fibers_rope=§fTali Serat Tumbuhan  
-item.hfrlc:plant_fibers=§fSerat Tumbuhan  
-item.hfrlc:red_dragon_scales=§fSisik Naga Merah  
+## CRAFTING MATERIALS
+item.hfrlc:black_dragon_scales=Sisik Naga Hitam
+item.hfrlc:blue_dragon_scales=Sisik Naga Biru
+item.hfrlc:brown_dragon_scales=Sisik Naga Coklat
+item.hfrlc:diamond_wyvern_armor=Armor Naga Berlian
+item.hfrlc:dragon_heart=Hati Naga
+item.hfrlc:dragon_skull=Kerangka Naga
+item.hfrlc:flaming_dragon_blood=Roh Naga Api
+item.hfrlc:flint_shard=Serpihan Batu Api
+item.hfrlc:gold_wyvern_armor=Armor Naga Emas
+item.hfrlc:green_dragon_scales=Sisik Naga Hijau
+item.hfrlc:ice_dragon_blood=Roh Naga Es
+item.hfrlc:info_book=Menu RLCraft
+item.hfrlc:iron_wyvern_armor=Armor Naga Besi
+item.hfrlc:netherite_wyvern_armor=Armor Naga Netherite
+item.hfrlc:paint=Kuaskan
+item.hfrlc:plant_fibers_rope=Tali Serat Tanaman
+item.hfrlc:plant_fibers=Serat Tanaman
+item.hfrlc:red_dragon_scales=Sisik Naga Merah
 
-## BARANG UNTUK DIJUAL
-item.hfrlc:pirate_armor_plates=§fKotak Kulit~LINEBREAK~§7Nilai: 1
-item.hfrlc:pirate_cloth=§fKain Bajak Laut~LINEBREAK~§7Nilai: 1
+## THINGS FOR SALE
+item.hfrlc:pirate_armor_plates=Kotak Kulit Binatang~LINEBREAK~§7Nilai: 1
+item.hfrlc:pirate_cloth=Kain Bajak Laut~LINEBREAK~§7Nilai: 1
 item.leather.name=Kulit~LINEBREAK~§7Nilai: 1
 item.rabbit_hide.name=Kulit Kelinci~LINEBREAK~§7Nilai: 1
-item.quartz.name=§fKuarsa Nether~LINEBREAK~§7Nilai: 1
-item.nautilus_shell.name=§fCangkang Nautilus~LINEBREAK~§7Nilai: 1
+item.quartz.name=Kuarsa Nether~LINEBREAK~§7Nilai: 1
+item.nautilus_shell.name=Cangkang Nautilus~LINEBREAK~§7Nilai: 1
 item.gold_ingot.name=Batangan Emas~LINEBREAK~§7Nilai: 2
 item.iron_ingot.name=Batangan Besi~LINEBREAK~§7Nilai: 1
-item.netherite_ingot.name=§bBatangan Netherite~LINEBREAK~§7Nilai: 4
-item.netherite_scrap.name=§bPecahan Netherite~LINEBREAK~§7Nilai: 1
-item.echo_shard.name=§bPecahan Gema~LINEBREAK~§7Nilai: 1
+item.netherite_ingot.name=Batangan Netherite~LINEBREAK~§7Nilai: 4
+item.netherite_scrap.name=Potongan Netherite~LINEBREAK~§7Nilai: 1
+item.echo_shard.name=Serpihan Gema~LINEBREAK~§7Nilai: 1
 item.diamond.name=Berlian~LINEBREAK~§7Nilai: 3
-item.emerald.name=Zamrud~LINEBREAK~§7Nilai: 1
-item.hfrlc:ancient_sprouts=§fTunas Kuno~LINEBREAK~§7Nilai: 1
-item.hfrlc:scorpion_tails=§fEkor Kalajengking~LINEBREAK~§7Nilai: 3
-item.hfrlc:samurai_armor_plates=§fPelat Kuno~LINEBREAK~§7Nilai: 3
-item.amethyst_shard.name=Pecahan Amethyst~LINEBREAK~§7Nilai: 1
-item.spider_eye.name=Mata Laba-laba~LINEBREAK~§7Nilai: 1
-item.fermented_spider_eye.name=Mata Laba-laba Fermentasi~LINEBREAK~§7Nilai: 3
-item.hfrlc:dragon_bone=§bTulang Naga~LINEBREAK~§7Nilai: 1
-item.hfrlc:wyvern_skull=§bFragmen Tengkorak Naga~LINEBREAK~§7Nilai: 2
-item.hfrlc:wither_bone=§fTulang Wither~LINEBREAK~§7Nilai: 4
-item.slime_ball.name=Bola Slime~LINEBREAK~§7Nilai: 1
+item.emerald.name=Emerald~LINEBREAK~§7Nilai: 1
+item.hfrlc:ancient_sprouts=Tunas Kuno~LINEBREAK~§7Nilai: 1
+item.hfrlc:scorpion_tails=Ekor Kalajengking~LINEBREAK~§7Nilai: 3
+item.hfrlc:samurai_armor_plates=Pelat Kuno~LINEBREAK~§7Nilai: 3
+item.amethyst_shard.name=Serpihan Amethyst~LINEBREAK~§7Nilai: 1
+item.spider_eye.name=Mata Laba-Laba~LINEBREAK~§7Nilai: 1
+item.fermented_spider_eye.name=Mata Laba-Laba Fermentasi~LINEBREAK~§7Nilai: 3
+item.hfrlc:dragon_bone=Tulang Naga~LINEBREAK~§7Nilai: 1
+item.hfrlc:wyvern_skull=Fragmen Tengkorak Naga~LINEBREAK~§7Nilai: 2
+item.hfrlc:wither_bone=Tulang Wither~LINEBREAK~§7Nilai: 4
+item.slime_ball.name=Bola Lendir~LINEBREAK~§7Nilai: 1
 item.wind_charge.name=Muatan Angin~LINEBREAK~§7Nilai: 1
-item.armadillo_scute.name=Perisai Armadillo~LINEBREAK~§7Nilai: 2
-item.turtle_shell_piece.name=Perisai Kura-kura~LINEBREAK~§7Nilai: 2
+item.armadillo_scute.name=Sisik Armadillo~LINEBREAK~§7Nilai: 2
+item.turtle_shell_piece.name=Potongan Cangkang Kura-Kura~LINEBREAK~§7Nilai: 2
 item.shulker_shell.name=Cangkang Shulker~LINEBREAK~§7Nilai: 2
-item.book.name=§fBuku~LINEBREAK~§7Nilai: 2
-item.heart_of_the_sea.name=§fHati Laut~LINEBREAK~§7Nilai: 1
-item.hfrlc:orcish_scribbles=§bCatatan Orc~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Hurufnya terlihat sangat primitif,~LINEBREAK~§o  tapi artinya~LINEBREAK~  tidak diketahui."§r
-item.hfrlc:knight_orders=§bPerintah Ksatria~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Mereka sedang mencari~LINEBREAK~§o  sesuatu...~LINEBREAK~§o  Atau seseorang..."§r
-item.hfrlc:dwarven_tome=§bKitab Kurcaci~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Bahkan di atas kertas tulisan~LINEBREAK~§o  kurcaci tampak seperti diukir~LINEBREAK~§o  dengan pahat."§r
-item.hfrlc:tower_blessing=§bRamalan Ilahi~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Kamu hanya melihat~LINEBREAK~§o  bayangan dirimu sendiri di~LINEBREAK~§o  gulungan ini."§r
+item.book.name=Buku~LINEBREAK~§7Nilai: 2
+item.heart_of_the_sea.name=Hati Laut~LINEBREAK~§7Nilai: 1
+item.hfrlc:orcish_scribbles=Catatan Orc~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Hurufnya terlihat sangat primitif,~LINEBREAK~§o  tapi artinya~LINEBREAK~  tidak diketahui."§r
+item.hfrlc:knight_orders=Perintah Kesatria~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Mereka mencari sesuatu...~LINEBREAK~§o  atau seseorang..."§r
+item.hfrlc:dwarven_tome=Buku Tua Dwarven~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Bahkan di atas kertas bahasa dwarvish~LINEBREAK~§o  terlihat seperti diukir dengan pahat."§r
+item.hfrlc:tower_blessing=Nubuat Ilahi~LINEBREAK~§7Nilai: 1~LINEBREAK~~LINEBREAK~§7§o"Kamu hanya melihat~LINEBREAK~§o  pantulan dirimu sendiri di~LINEBREAK~§o  gulungan ini."§r
 
-## KRISTAL KEKUATAN
+## POWER CRYSTALS
 item.hfrlc:power_crystal=§bKristal Kekuatan
-item.hfrlc:power_shard=§bPecahan Kekuatan
+item.hfrlc:power_shard=§bSerpihan Kekuatan
 
-## KRISTAL KESEHATAN
+## HEALTH CRYSTALS
 item.hfrlc:health_crystal=§cKristal Kesehatan~LINEBREAK~§7Regenerasi II (0:03)~LINEBREAK~Meningkatkan Kesehatan Permanen
-item.hfrlc:health_crystal_shard=§cPecahan Kesehatan
+item.hfrlc:health_crystal_shard=§cSerpihan Kesehatan
 
-## SEMUA HAL LEVELING
-item.hfrlc:xp=§eKitab Pengalaman~LINEBREAK~§7+15 Level
-item.hfrlc:agility_token=§eRunestone Kelincahan~LINEBREAK~§7+1 Level Kelincahan
-item.hfrlc:melee_token=§eRunestone Pertarungan~LINEBREAK~§7+1 Level Pertarungan
-item.hfrlc:mining_token=§eRunestone Penambangan~LINEBREAK~§7+1 Level Penambangan
-item.hfrlc:armor_token=§eRunestone Armor~LINEBREAK~§7+1 Level Armor
+## ALL THINGS LEVELING
+item.hfrlc:xp=§eBuku Pengalaman~LINEBREAK~§7+15 Level
+item.hfrlc:agility_token=§eBatu Lari Kelincahan~LINEBREAK~§7+1 Level Kelincahan
+item.hfrlc:melee_token=§eBatu Lari Serangan~LINEBREAK~§7+1 Level Serangan
+item.hfrlc:mining_token=§eBatu Lari Pertambangan~LINEBREAK~§7+1 Level Pertambangan
+item.hfrlc:armor_token=§eBatu Lari Armor~LINEBREAK~§7+1 Level Armor
 
 ## MENU
-item.hfrlc:system_level=§f§lMenu Leveling§r~LINEBREAK~§7Berinteraksi untuk membuka antarmuka
-item.hfrlc:trinket_menu=§f§lTas Jimat§r~LINEBREAK~§7Berinteraksi untuk membuka antarmuka
+item.hfrlc:system_level=§f§lMenu Leveling§r~LINEBREAK~§7Interaksi untuk membuka antarmuka
+item.hfrlc:trinket_menu=§f§lTas Perhiasan§r~LINEBREAK~§7Interaksi untuk membuka antarmuka
 
-## ITEM PENOLONG
-item.hfrlc:bandage=§fPerban~LINEBREAK~§7Regenerasi II (0:03)~LINEBREAK~Menyembuhkan Anggota Tubuh yang Patah
+## AID ITEMS
+item.hfrlc:bandage=§fPerban~LINEBREAK~§7Regenerasi II (0:03)~LINEBREAK~Menyembuhkan Tulang Patah
 item.hfrlc:heal1=§fBotol Penyembuh~LINEBREAK~§7Regenerasi V (0:01)
-item.hfrlc:heal2=§bBotol Penyembuh~LINEBREAK~§7Regenerasi V (0:06)~LINEBREAK~Menyembuhkan Anggota Tubuh yang Patah
-item.hfrlc:heal3=§dRamuan Penyembuh~LINEBREAK~§7Kesehatan Instan X~LINEBREAK~Menyembuhkan Anggota Tubuh yang Patah
-item.hfrlc:blue_bush_fruit=Frostberry~LINEBREAK~§7Tahan Panas I
-item.hfrlc:orange_bush_fruit=Emberfruit~LINEBREAK~§7Tahan Dingin I
-item.hfrlc:pumpkin_slice=Irisan Labu
+item.hfrlc:heal2=§bBotol Penyembuh~LINEBREAK~§7Regenerasi V (0:06)~LINEBREAK~Menyembuhkan Tulang Patah
+item.hfrlc:heal3=§dRamuan Penyembuh~LINEBREAK~§7Kesehatan Instan X~LINEBREAK~Menyembuhkan Tulang Patah
+item.hfrlc:blue_bush_fruit=Beri Es~LINEBREAK~§7Ketahanan Panas I
+item.hfrlc:orange_bush_fruit=Beri Api~LINEBREAK~§7Ketahanan Dingin I
 item.hfrlc:red_root=Akar Merah
 
-## ITEM UTILITAS
-item.hfrlc:recover_potion=§fRamuan Pemanggil~LINEBREAK~§7Teleportasi ke titik kematian terakhir
-item.hfrlc:sleeping_bag=§fKantong Tidur~LINEBREAK~§7Tidak menetapkan Titik Bangun
-item.hfrlc:teleport_scroll=§fGulungan Teleportasi~LINEBREAK~§7Teleportasi ke titik bangun terakhir
-item.hfrlc:warpstone=§fBatu Warp~LINEBREAK~§7Tekan untuk membuka antarmuka
-item.hfrlc:water_flasks_empty=§fKantung Air~LINEBREAK~§7Sisa 0 kali penggunaan.~LINEBREAK~Isi dengan air
-item.hfrlc:water_flasks=§fKantung Air
+## UTILITY ITEMS
+item.hfrlc:recover_potion=§fRamuan Kembali~LINEBREAK~§7Memindahkanmu ke titik kematian terakhir
+item.hfrlc:sleeping_bag=§fKantong Tidur~LINEBREAK~§7Tidak mengatur Titik Respawn
+item.hfrlc:teleport_scroll=§fGulungan Teleportasi~LINEBREAK~§7Memindahkanmu ke titik respawn terakhir
+item.hfrlc:warpstone=§fBatu Warp~LINEBREAK~§7Pukul untuk membuka antarmuka
+item.hfrlc:water_flasks_empty=§fBotol Air Kosong~LINEBREAK~§7Tersisa 0 penggunaan.~LINEBREAK~Isi dengan air
+item.hfrlc:water_flasks=§fBotol Air
 item.hfrlc:copper_coin=Koin Tembaga
 item.hfrlc:silver_coin=Koin Perak
 item.hfrlc:gold_coin=Koin Emas
 item.hfrlc:air_essence=§bEsensi Udara
-item.hfrlc:earth_essence=§bEsensi Tanah
+item.hfrlc:earth_essence=§bEsensi Bumi
 item.hfrlc:fire_essence=§bEsensi Api
 item.hfrlc:ice_essence=§bEsensi Es
 item.hfrlc:thunder_essence=§dBatu Petir
 item.hfrlc:water_essence=§bEsensi Air
-item.hfrlc:briariron_ingot=§bBatangan Briariron
+item.hfrlc:briariron_ingot=§bBatangan Besi Semak
 item.hfrlc:neptunium_ingot=§bBatangan Neptunium
 item.hfrlc:shadow_stone=§bBatu Bayangan
-item.hfrlc:voidsteel_ingot=§dBatangan Voidsteel
+item.hfrlc:voidsteel_ingot=§dBatangan Baja Void
 
 ## ARMOR
 item.turtle_helmet.name=§l§fHelm Kura-Kura§r§f~LINEBREAK~ 
 item.elytra.name=§l§fElytra§r§f~LINEBREAK~
 
 item.leather_boots.name=§l§fSepatu Kulit§r§f~LINEBREAK~ 
-item.leather_chestplate.name=§l§fTunik Kulit§r§f~LINEBREAK~ 
+item.leather_chestplate.name=§l§fBaju Kulit§r§f~LINEBREAK~ 
 item.leather_helmet.name=§l§fHelm Kulit§r§f~LINEBREAK~ 
 item.leather_leggings.name=§l§fCelana Kulit§r§f~LINEBREAK~ 
 
 item.golden_boots.name=§l§fSepatu Emas§r§f~LINEBREAK~ 
-item.golden_chestplate.name=§l§fPelindung Dada Emas§r§f~LINEBREAK~ 
+item.golden_chestplate.name=§l§fBaju Emas§r§f~LINEBREAK~ 
 item.golden_helmet.name=§l§fHelm Emas§r§f~LINEBREAK~ 
 item.golden_leggings.name=§l§fCelana Emas§r§f~LINEBREAK~ 
 
-item.hfrlc:pirate_boots=§l§fSepatu Korsir§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas di Air (Set Lengkap)
-item.hfrlc:pirate_chestplate=§l§fTunik Korsir§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas di Air (Set Lengkap)
-item.hfrlc:pirate_helmet=§l§fTopi Tiga Sudut Korsir§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas di Air (Set Lengkap)
-item.hfrlc:pirate_leggings=§l§fCelana Korsir§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas di Air (Set Lengkap)
+item.hfrlc:pirate_boots=§l§fSepatu Korsair§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas Air (Set Lengkap)
+item.hfrlc:pirate_chestplate=§l§fBaju Korsair§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas Air (Set Lengkap)
+item.hfrlc:pirate_helmet=§l§fTopi Korsair§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas Air (Set Lengkap)
+item.hfrlc:pirate_leggings=§l§fCelana Korsair§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Kecepatan II (Set Lengkap)~LINEBREAK~+1 Nafas Air (Set Lengkap)
 
 item.iron_boots.name=§l§fSepatu Besi§r§f~LINEBREAK~ 
-item.iron_chestplate.name=§l§fPelindung Dada Besi§r§f~LINEBREAK~ 
+item.iron_chestplate.name=§l§fBaju Besi§r§f~LINEBREAK~ 
 item.iron_helmet.name=§l§fHelm Besi§r§f~LINEBREAK~ 
 item.iron_leggings.name=§l§fCelana Besi§r§f~LINEBREAK~ 
 
 item.chainmail_boots.name=§l§fSepatu Rantai§r§f~LINEBREAK~ 
-item.chainmail_chestplate.name=§l§fPelindung Dada Rantai§r§f~LINEBREAK~ 
+item.chainmail_chestplate.name=§l§fBaju Rantai§r§f~LINEBREAK~ 
 item.chainmail_helmet.name=§l§fHelm Rantai§r§f~LINEBREAK~ 
 item.chainmail_leggings.name=§l§fCelana Rantai§r§f~LINEBREAK~ 
 
 item.diamond_boots.name=§l§fSepatu Berlian§r§f~LINEBREAK~ 
-item.diamond_chestplate.name=§l§fPelindung Dada Berlian§r§f~LINEBREAK~ 
+item.diamond_chestplate.name=§l§fBaju Berlian§r§f~LINEBREAK~ 
 item.diamond_helmet.name=§l§fHelm Berlian§r§f~LINEBREAK~ 
 item.diamond_leggings.name=§l§fCelana Berlian§r§f~LINEBREAK~ 
 
 item.netherite_boots.name=§l§fSepatu Netherite§r§f~LINEBREAK~ 
-item.netherite_chestplate.name=§l§fPelindung Dada Netherite§r§f~LINEBREAK~ 
+item.netherite_chestplate.name=§l§fBaju Netherite§r§f~LINEBREAK~ 
 item.netherite_helmet.name=§l§fHelm Netherite§r§f~LINEBREAK~ 
 item.netherite_leggings.name=§l§fCelana Netherite§r§f~LINEBREAK~ 
 
-item.hfrlc:blue_dragon_boots=§l§fSepatu Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:blue_dragon_chestplate=§l§fPelindung Dada Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:blue_dragon_helmet=§l§fHelm Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:blue_dragon_leggings=§l§fCelana Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:blue_dragon_boots=§l§fSepatu Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:blue_dragon_chestplate=§l§fBaju Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:blue_dragon_helmet=§l§fHelm Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:blue_dragon_leggings=§l§fCelana Naga Biru§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Panas I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
 
-item.hfrlc:brown_dragon_boots=§l§fSepatu Naga Cokelat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:brown_dragon_chestplate=§l§fPelindung Dada Naga Cokelat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:brown_dragon_helmet=§l§fHelm Naga Cokelat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:brown_dragon_leggings=§l§fCelana Naga Cokelat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:brown_dragon_boots=§l§fSepatu Naga Coklat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:brown_dragon_chestplate=§l§fBaju Naga Coklat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:brown_dragon_helmet=§l§fHelm Naga Coklat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:brown_dragon_leggings=§l§fCelana Naga Coklat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
 
-item.hfrlc:green_dragon_boots=§l§fSepatu Naga Hijau§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:green_dragon_chestplate=§l§fPelindung Dada Naga Hijau§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:green_dragon_helmet=§l§fHelm Naga Hijau§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:green_dragon_leggings=§l§fCelana Naga Hijau§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:green_dragon_boots=§l§fSepatu Naga Hijau§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:green_dragon_chestplate=§l§fBaju Naga Hijau§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:green_dragon_helmet=§l§fHelm Naga Hijau§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:green_dragon_leggings=§l§fCelana Naga Hijau§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Racun (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
 
-item.hfrlc:red_dragon_boots=§l§fSepatu Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Dingin I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:red_dragon_chestplate=§l§fPelindung Dada Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Dingin I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:red_dragon_helmet=§l§fHelm Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Dingin I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:red_dragon_leggings=§l§fCelana Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Dingin I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:red_dragon_boots=§l§fSepatu Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Beku I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:red_dragon_chestplate=§l§fBaju Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Beku I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:red_dragon_helmet=§l§fHelm Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Beku I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:red_dragon_leggings=§l§fCelana Naga Merah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Beku I (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
 
-item.hfrlc:dark_dragon_boots=§l§fSepatu Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
-item.hfrlc:dark_dragon_chestplate=§l§fPelindung Dada Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
-item.hfrlc:dark_dragon_helmet=§l§fHelm Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
-item.hfrlc:dark_dragon_leggings=§l§fCelana Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
+item.hfrlc:dark_dragon_boots=§l§fSepatu Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
+item.hfrlc:dark_dragon_chestplate=§l§fBaju Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
+item.hfrlc:dark_dragon_helmet=§l§fHelm Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
+item.hfrlc:dark_dragon_leggings=§l§fCelana Naga Hitam§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan Buta (Set Lengkap)~LINEBREAK~+1 Ketahanan Kegelapan (Set Lengkap)
 
-item.hfrlc:earth_dragon_boots=§l§fSepatu Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:earth_dragon_chestplate=§l§fPelindung Dada Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:earth_dragon_helmet=§l§fHelm Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
-item.hfrlc:earth_dragon_leggings=§l§fCelana Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Ketahanan Knockback (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:earth_dragon_boots=§l§fSepatu Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:earth_dragon_chestplate=§l§fBaju Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:earth_dragon_helmet=§l§fHelm Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
+item.hfrlc:earth_dragon_leggings=§l§fCelana Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Ketahanan Dorongan (Set Lengkap)~LINEBREAK~+1 Ketahanan I (Set Lengkap)
 
-item.hfrlc:samurai_boots=§l§fSepatu Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Kekuatan I (Set Lengkap)
-item.hfrlc:samurai_chestplate=§l§fPelindung Dada Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Kekuatan I (Set Lengkap)
-item.hfrlc:samurai_helmet=§l§fHelm Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Kekuatan I (Set Lengkap)
-item.hfrlc:samurai_leggings=§l§fCelana Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Badan~LINEBREAK~+1 Kekuatan I (Set Lengkap)
+item.hfrlc:samurai_boots=§l§fSepatu Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Kekuatan I (Set Lengkap)
+item.hfrlc:samurai_chestplate=§l§fBaju Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Kekuatan I (Set Lengkap)
+item.hfrlc:samurai_helmet=§l§fHelm Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Kekuatan I (Set Lengkap)
+item.hfrlc:samurai_leggings=§l§fCelana Ronin§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Perlindungan Anggota Tubuh~LINEBREAK~+1 Kekuatan I (Set Lengkap)
 
 ## TRINKETS
-item.hfrlc:golden_ring=§l§fCincin Emas§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Terasa sedikit~LINEBREAK~§o  lebih berat dari kelihatannya."§r
-item.hfrlc:ancient_root=§l§fAkar Kuno§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Melambat~LINEBREAK~~LINEBREAK~§7§o"Kayu berpilin~LINEBREAK~§o  menyerap kelelahan."§r
-item.hfrlc:goat_horns=§l§fTanduk Kambing§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Lemah Gali~LINEBREAK~~LINEBREAK~§7§o"Dihias dengan emas."§r
-item.hfrlc:cyclops_eye=Mata Siklop§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Buta~LINEBREAK~Ketahanan Kegelapan~LINEBREAK~~LINEBREAK~§7§o"Berguna meskipun~LINEBREAK~§o  kau bermata dua."§r
-item.hfrlc:teddy_of_comfort=§l§fBoneka Kenyamanan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regenerasi I~LINEBREAK~~LINEBREAK~§7§o"Pelukan menyembuhkan~LINEBREAK~§o  semua luka."§r
-item.hfrlc:warmer=§l§fBara Abadi§r§f~LINEBREAK~... (lanjutan diterjemahkan dalam batch berikut jika diperlukan)
-item.hfrlc:ice_bag=§l§fEs Abadi§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Panas~LINEBREAK~~LINEBREAK~§7§o"Es tidak akan mencair~LINEBREAK~§o  tidak peduli seberapa panasnya."§r
-item.hfrlc:antidote_vital=§l§fBotol Antidot§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Racun~LINEBREAK~~LINEBREAK~§7§o"Cairan di dalamnya~LINEBREAK~§o  tetap diam~LINEBREAK~§o  tak peduli seberapa~LINEBREAK~§o  keras kamu mengguncangnya."§r
-item.hfrlc:greatest_shield=§l§fPerisai Hebat§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Knockback~LINEBREAK~Tambahan Kesehatan I~LINEBREAK~~LINEBREAK~§7§o"Ia menyerap~LINEBREAK~§o  semua getaran."§r
-item.hfrlc:ring_jump=§l§fCincin Lompatan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Lompatan Tinggi II~LINEBREAK~~LINEBREAK~§7§o"Kamu merasa jauh lebih ringan~LINEBREAK~§o  daripada sebelumnya... Aneh."§r
-item.hfrlc:ring_speed=§l§fJari Cekatan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kecepatan I~LINEBREAK~~LINEBREAK~§7§o"Berbisik dengan~LINEBREAK~§o  dorongan untuk~LINEBREAK~§o  pergi dari sini."§r
-item.hfrlc:blessed_water=§l§fAir Suci§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Wither~LINEBREAK~~LINEBREAK~§7§o"Satu tetes cukup~LINEBREAK~§o  untuk membersihkan semua~LINEBREAK~§o  kebusukan."§r
-item.hfrlc:mining_amulet=§l§fJimat Penambang§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Haste I~LINEBREAK~~LINEBREAK~§7§o"Menyoroti jalan~LINEBREAK~§o  ke depan."§r
-item.hfrlc:shulker_anchor=§l§fJangkar Shulker§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Levitasi~LINEBREAK~~LINEBREAK~§7§o"Sesuatu yang ajaib~LINEBREAK~§o  menahannya di tanah."§r
-item.hfrlc:dragon_eyes=§l§fMata Naga§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Api~LINEBREAK~Penglihatan Malam~LINEBREAK~Ketahanan Kegelapan~LINEBREAK~~LINEBREAK~§7§o"Tatapan berapi membakar~LINEBREAK~§o  semua bayangan."§r
-item.hfrlc:ring_regeneration=§l§fCincin Regenerasi§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regenerasi I~LINEBREAK~~LINEBREAK~§7§o"Ia berdenyut~LINEBREAK~§o  di jarimu."§r
-item.hfrlc:ring_resistance=§l§fCincin Ketahanan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan I~LINEBREAK~~LINEBREAK~§7§o"Tempa dalam ujian~LINEBREAK~§o  ketahanan."§r
-item.hfrlc:ring_strength=§l§fCincin Kekuatan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kekuatan I~LINEBREAK~~LINEBREAK~§7§o"Kekuatan raksasa~LINEBREAK~§o  tertidur di dalamnya."§r
-item.hfrlc:feather_swiftness=§l§fRingan Bulu§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kecepatan II~LINEBREAK~Jatuh Lambat II~LINEBREAK~~LINEBREAK~§7§o"Ke mana pun kamu pergi~LINEBREAK~§o  angin akan mengikuti."§r
-item.hfrlc:great_horn_shield=§l§fPerisai Tanduk Besar§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan Knockback~LINEBREAK~Ketahanan Lemah Tambang~LINEBREAK~Tambahan Kesehatan I~LINEBREAK~~LINEBREAK~§7§o"Ditumbuhi dengan~LINEBREAK~§o  segel pelindung."§r
-item.hfrlc:withering_necklace=§l§fKalung Wither§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Aspek Wither I~LINEBREAK~~LINEBREAK~§7§o"Tengkorak Wither tampak~LINEBREAK~§o  sedang tertidur."§r
-item.hfrlc:panacea=§p§lPanasea§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LEGENDA§r§9~LINEBREAK~~LINEBREAK~Ketahanan Buta~LINEBREAK~Ketahanan Lambat~LINEBREAK~Ketahanan Racun~LINEBREAK~Ketahanan Wither~LINEBREAK~Ketahanan Lelah Tambang~LINEBREAK~Ketahanan Levitasi~LINEBREAK~~LINEBREAK~§7§o"Satu penawar untuk~LINEBREAK~§o  menyembuhkan semuanya."§r
-item.hfrlc:dragon_slayer_cape=§p§lJubah Pembunuh Naga§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LEGENDA§r§9~LINEBREAK~~LINEBREAK~Ketahanan Buta~LINEBREAK~Ketahanan Lambat~LINEBREAK~Ketahanan Racun~LINEBREAK~Ketahanan Wither~LINEBREAK~Ketahanan Knockback~LINEBREAK~Ketahanan Ledakan~LINEBREAK~Ketahanan Api~LINEBREAK~Ketahanan Lelah Tambang~LINEBREAK~~LINEBREAK~§7§o"Ditenun dari~LINEBREAK~§o  kemenangan atas~LINEBREAK~§o  makhluk yang jatuh."§r
-item.hfrlc:dragon_slayer_ring=§p§lCincin Pembunuh Naga§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LEGENDA§r§9~LINEBREAK~~LINEBREAK~Kekuatan II~LINEBREAK~Tambahan Kesehatan V~LINEBREAK~Ketahanan I~LINEBREAK~~LINEBREAK~§7§o"Yang mereka~LINEBREAK~§o  takuti..."§r
-item.hfrlc:lapis_ring=§l§fCincin Lapis§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Tidak terlalu mengkilap~LINEBREAK~§o  tapi jelas mewah."§r
-item.hfrlc:silver_ring=§l§fCincin Besi§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cukup mengkilap~LINEBREAK~§o  untuk dikira orang~LINEBREAK~§o  sebagai perak."§r
-item.hfrlc:netherite_ring=§l§fCincin Netherite§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Itu tidak berasal~LINEBREAK~§o  dari dunia ini. Seseorang~LINEBREAK~§o  sebaiknya mengembalikannya~LINEBREAK~§o  ke Nether di bawah."§r
+item.hfrlc:golden_ring=§l§fCincin Emas§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Terasa sedikit~LINEBREAK~§o  lebih berat daripada yang terlihat."§r
+item.hfrlc:ancient_root=§l§fAkar Kuno§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Lambat~LINEBREAK~~LINEBREAK~§7§o"Kayu berkerut~LINEBREAK~§o  menyerap kelelahan."§r
+item.hfrlc:goat_horns=§l§fTanduk Kambing§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Kelelahan Menambang~LINEBREAK~~LINEBREAK~§7§o"Dihiasi emas."§r
+item.hfrlc:cyclops_eye=§l§fMata Siklik§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Buta~LINEBREAK~Tahan Gelap~LINEBREAK~~LINEBREAK~§7§o"Berguna meski~LINEBREAK~§o  kamu seorang biklop."§r
+item.hfrlc:teddy_of_comfort=§l§fBoneka Teddy Kenyamanan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regenerasi I~LINEBREAK~~LINEBREAK~§7§o"Pelukan menyembuhkan~LINEBREAK~§o  semua luka."§r
+item.hfrlc:warmer=§l§fApi Abadi§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Dingin~LINEBREAK~~LINEBREAK~§7§o"Ember kecil yang~LINEBREAK~§o  terus menyala.~LINEBREAK~§o  Tak peduli dingin, ia~LINEBREAK~§o  akan menghangatkanmu."§r
+item.hfrlc:ice_bag=§l§fEs Abadi§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Panas~LINEBREAK~~LINEBREAK~§7§o"Es tidak akan mencair~LINEBREAK~§o  tak peduli panasnya."§r
+item.hfrlc:antidote_vital=§l§fBotol Antidot§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Racun~LINEBREAK~~LINEBREAK~§7§o"Cairan di dalamnya~LINEBREAK~§o  tetap diam meski~LINEBREAK~§o  seberapa pun kamu~LINEBREAK~§o  menggoyangnya."§r
+item.hfrlc:greatest_shield=§l§fPerisai Hebat§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Tolakan~LINEBREAK~Peningkatan Kesehatan I~LINEBREAK~~LINEBREAK~§7§o"Menyerap~LINEBREAK~§o  semua getaran."§r
+item.hfrlc:ring_jump=§l§fCincin Lompatan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Lompatan II~LINEBREAK~~LINEBREAK~§7§o"Kamu merasa jauh lebih ringan~LINEBREAK~§o  dari sebelumnya... Penasaran."§r
+item.hfrlc:ring_speed=§l§fJari Cepat§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kecepatan I~LINEBREAK~~LINEBREAK~§7§o"Berbisik dengan~LINEBREAK~§o  dorongan untuk~LINEBREAK~§o  berada di tempat lain."§r
+item.hfrlc:blessed_water=§l§fAir Berkah§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Wither~LINEBREAK~~LINEBREAK~§7§o"Tetesan satu cukup~LINEBREAK~§o  untuk membersihkan semua~LINEBREAK~§o  korupsi."§r
+item.hfrlc:mining_amulet=§l§fJimat Menambang§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kegesitan I~LINEBREAK~~LINEBREAK~§7§o"Menerangi jalan~LINEBREAK~§o  ke depan."§r
+item.hfrlc:shulker_anchor=§l§fJangkar Shulker§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Melayang~LINEBREAK~~LINEBREAK~§7§o"Ada sesuatu yang~LINEBREAK~§o  menyihirnya menempel ke tanah."§r
+item.hfrlc:dragon_eyes=§l§fMata Naga§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Api~LINEBREAK~Penglihatan Malam~LINEBREAK~Tahan Gelap~LINEBREAK~~LINEBREAK~§7§o"Tatapan menyala membakar~LINEBREAK~§o  semua bayangan."§r
+item.hfrlc:ring_regeneration=§l§fCincin Regenerasi§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regenerasi I~LINEBREAK~~LINEBREAK~§7§o"Berdenyut di~LINEBREAK~§o  jarimu."§r
+item.hfrlc:ring_resistance=§l§fCincin Ketahanan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Ketahanan I~LINEBREAK~~LINEBREAK~§7§o"Ditempa dalam ujian~LINEBREAK~§o  ketahanan."§r
+item.hfrlc:ring_strength=§l§fCincin Kekuatan§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kekuatan I~LINEBREAK~~LINEBREAK~§7§o"Kekuatan raksasa~LINEBREAK~§o  terlelap di dalamnya."§r
+item.hfrlc:feather_swiftness=§l§fBulu Cepat§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kecepatan II~LINEBREAK~Jatuh Lambat II~LINEBREAK~~LINEBREAK~§7§o"Ke mana pun kau pergi~LINEBREAK~§o  angin akan mengikuti."§r
+item.hfrlc:great_horn_shield=§l§fPerisai Tanduk Hebat§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Tahan Tolakan~LINEBREAK~Tahan Kelelahan Menambang~LINEBREAK~Peningkatan Kesehatan I~LINEBREAK~~LINEBREAK~§7§o"Diselimuti segel~LINEBREAK~§o  pelindung."§r
+item.hfrlc:withering_necklace=§l§fKalung Withering§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Efek Wither I~LINEBREAK~~LINEBREAK~§7§o"Tengkorak wither~LINEBREAK~§o  tampak tertidur."§r
+item.hfrlc:panacea=§p§lPanacea§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lBARANG LEGENDARIS§r§9~LINEBREAK~~LINEBREAK~Tahan Buta~LINEBREAK~Tahan Lambat~LINEBREAK~Tahan Racun~LINEBREAK~Tahan Wither~LINEBREAK~Tahan Kelelahan Menambang~LINEBREAK~Tahan Melayang~LINEBREAK~~LINEBREAK~§7§o"Satu obat untuk~LINEBREAK~§o  menyembuhkan semuanya."§r
+item.hfrlc:dragon_slayer_cape=§p§lJubah Pembunuh Naga§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lBARANG LEGENDARIS§r§9~LINEBREAK~~LINEBREAK~Tahan Buta~LINEBREAK~Tahan Lambat~LINEBREAK~Tahan Racun~LINEBREAK~Tahan Wither~LINEBREAK~Tahan Tolakan~LINEBREAK~Tahan Ledakan~LINEBREAK~Tahan Api~LINEBREAK~Tahan Kelelahan Menambang~LINEBREAK~~LINEBREAK~§7§o"Anyaman dari~LINEBREAK~§o  kemenangan atas~LINEBREAK~§o  binatang yang gugur."§r
+item.hfrlc:dragon_slayer_ring=§p§lCincin Pembunuh Naga§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lBARANG LEGENDARIS§r§9~LINEBREAK~~LINEBREAK~Kekuatan I~LINEBREAK~Peningkatan Kesehatan V~LINEBREAK~Ketahanan I~LINEBREAK~~LINEBREAK~§7§o"Yang mereka~LINEBREAK~§o  takuti..."§r
+item.hfrlc:lapis_ring=§l§fCincin Lapis§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Tidak sekilap~LINEBREAK~§o  tapi pasti mewah."§r
+item.hfrlc:silver_ring=§l§fCincin Besi§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cukup berkilau~LINEBREAK~§o  untuk membuat seseorang~LINEBREAK~§o  menyangka itu perak."§r
+item.hfrlc:netherite_ring=§l§fCincin Netherite§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Itu bukan milik~LINEBREAK~§o  dunia ini. Seseorang~LINEBREAK~§o  harus mengembalikannya~LINEBREAK~§o  ke Nether di bawah sana."§r
 
 ## SWORDS
-item.wooden_sword.name=§l§fPedang Kayu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Langkah pertamamu~LINEBREAK~§o  menuju penguasaan."§r
-item.stone_sword.name=§l§fPedang Batu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fondasi yang kokoh~LINEBREAK~§o  bagi seorang pejuang."§r
-item.golden_sword.name=§l§fPedang Emas§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bersinar tapi~LINEBREAK~§o  tidak kuat."§r
-item.hfrlc:spike_sword=§l§fImpulse§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk mendapat dorongan di udara.~LINEBREAK~Perbaiki dengan Iron Ingot.~LINEBREAK~~LINEBREAK~§7§o"Tantang gravitasi dengan~LINEBREAK~§o  setiap tebasan."§r
-item.iron_sword.name=§l§fPedang Besi§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Baja yang bisa diandalkan~LINEBREAK~§o  ditempa dengan keterampilan."§r
-item.hfrlc:darkness_sword=§l§fShadowrend§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk bersembunyi dalam bayangan.~LINEBREAK~Perbaiki dengan Shadow Stone.~LINEBREAK~~LINEBREAK~§7§o"Musuh yang terbunuh~LINEBREAK~§o  dikirim ke~LINEBREAK~§o  Shadowrealm."§r
-item.hfrlc:weapon_4=§l§fPedang Tulang§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Perbaiki dengan Shadow Stone.~LINEBREAK~~LINEBREAK~§7§o"Tajamnya milik~LINEBREAK~§o  kematian itu sendiri."§r
-item.hfrlc:water_sword=§l§fCurrent§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menembakkan proyektil air.~LINEBREAK~Perbaiki dengan Water Essence.~LINEBREAK~~LINEBREAK~§7§o"Air murni mengalir~LINEBREAK~§o  melalui baja."§r
-item.diamond_sword.name=§l§fPedang Berlian§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Tingkat kristal sempurna~LINEBREAK~§o  dalam bentuk senjata."§r
-item.hfrlc:air_sword=§l§fVigilance§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan hembusan angin.~LINEBREAK~Perbaiki dengan Air Essence.~LINEBREAK~~LINEBREAK~§7§o"Manfaatkan kekuatan~LINEBREAK~§o  angin itu sendiri."§r
-item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk melakukan lompatan super.~LINEBREAK~Perbaiki dengan Air Essence.~LINEBREAK~~LINEBREAK~§7§o"Lompat hingga bintang~LINEBREAK~§o  di angkasa."§r
-item.hfrlc:weapon_8=§l§fPedang Es§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~~LINEBREAK~§9Perbaiki dengan Ice Essence.~LINEBREAK~~LINEBREAK~§7§o"Gigitan musim dingin~LINEBREAK~§o  menjadi nyata."§r
-item.netherite_sword.name=§l§fPedang Netherite§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ditempa di kedalaman~LINEBREAK~§o  Nether."§r
-item.hfrlc:fire_sword=§l§fPedang Api§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menembakkan proyektil api.~LINEBREAK~Perbaiki dengan Fire Essence.~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~~LINEBREAK~§7§o"Proyektil menyala~LINEBREAK~§o  membakar musuh."§r
-item.hfrlc:ice_sword=§l§fGlacier§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menembakkan proyektil es.~LINEBREAK~Menghasilkan paku es saat merunduk dan menyerang.~LINEBREAK~Perbaiki dengan Ice Essence.~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~~LINEBREAK~§7§o"Paku es menusuk~LINEBREAK~§o  saat kamu berjongkok."§r
-item.hfrlc:ocean_sword=§l§fTidepiercer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan + jongkok untuk menembakkan proyektil air.~LINEBREAK~Gunakan item untuk menghasilkan~LINEBREAK~gelombang kejut air.~LINEBREAK~Perbaiki dengan Neptunium Ingot.~LINEBREAK~~LINEBREAK~§7§o"Gelombang pasang menghantam~LINEBREAK~§o  sesuai kehendakmu."§r
-item.hfrlc:weapon_6=§l§fPedang Elden§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kekuatan kuno~LINEBREAK~§o  mengalir dalam baja."§r
-item.hfrlc:weapon_7=§l§fPedang Panjang§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Jangkauan yang lebih panjang~LINEBREAK~§o  untuk pertempuran panjang."§r
-item.hfrlc:weapon_5=§l§fPedang Palu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kekuatan menghancurkan~LINEBREAK~§o  bertemu tepi tajam."§r
-item.hfrlc:dragon_bone_sword=§l§fPedang Panjang Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ditempa dari sisa-sisa~LINEBREAK~§o  naga kuno."§r
-item.hfrlc:earth_sword=§l§fPecah Bumi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan stalaktit~LINEBREAK~yang melukai entitas di sekitar.~LINEBREAK~Perbaiki dengan Briariron Ingot.~LINEBREAK~~LINEBREAK~§7§o"Tombak batu muncul~LINEBREAK~§o  dari tanah."§r
-item.hfrlc:ice_dragon_bone_sword=§l§fBadai Salju§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Es dan tulang~LINEBREAK~§o  ditempa jadi satu."§r
-item.hfrlc:fire_dragon_bone_sword=§l§fNyanyian Bara§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Ditempa dalam api~LINEBREAK~§o  naga itu sendiri."§r
-item.hfrlc:lava_sword=§l§fPedang Meteor§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk memanggil meteor.~LINEBREAK~Perbaiki dengan Esensi Api.~LINEBREAK~~LINEBREAK~§7§o"Meteor jatuh dari~LINEBREAK~§o  langit."§r
-item.hfrlc:ender_sword=§l§fKedipan§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk teleport ke target.~LINEBREAK~Perbaiki dengan Voidsteel Ingot.~LINEBREAK~~LINEBREAK~§7§o"Teleport ke tempat~LINEBREAK~§o  yang kamu tuju."§r
-item.hfrlc:storm_sword=§l§fAngin Puyuh§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan Badai.~LINEBREAK~Perbaiki dengan Batu Petir.~LINEBREAK~~LINEBREAK~§7§o"Badai tunduk pada~LINEBREAK~§o  kehendakmu."§r
-item.hfrlc:thunder_sword=§l§fPemecah Badai§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan petir.~LINEBREAK~Perbaiki dengan Batu Petir.~LINEBREAK~~LINEBREAK~§9Aspek Petir~LINEBREAK~~LINEBREAK~§7§o"Petir tunduk pada~LINEBREAK~§o  setiap tebasanmu."§r
-item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LEGENDA§r§9~LINEBREAK~~LINEBREAK~§r§dCrouch untuk mengganti Elemen~LINEBREAK~~LINEBREAK~§7§o"Akhirnya...~LINEBREAK~§o  aku bisa beristirahat."§r
-item.hfrlc:dirt_sword=§l§fPedang Tanah§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menembakkan proyektil tanah.~LINEBREAK~Perbaiki dengan Tanah.~LINEBREAK~~LINEBREAK~§7§o"Dasar bumi~LINEBREAK~§o  dijadikan senjata."§r
-item.hfrlc:jungle_sword=§l§fHijau Abadi§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk memunculkan batu~LINEBREAK~dari dalam tanah.~LINEBREAK~Perbaiki dengan Esensi Tanah.~LINEBREAK~~LINEBREAK~§7§o"Ia merindukan~LINEBREAK~§o  tanah di bawahnya."§r
+item.wooden_sword.name=§l§fPedang Kayu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Langkah pertamamu~LINEBREAK~§o  menuju keahlian."§r
+item.stone_sword.name=§l§fPedang Batu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dasar kokoh~LINEBREAK~§o  bagi seorang pejuang."§r
+item.golden_sword.name=§l§fPedang Emas§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Berkilau tapi~LINEBREAK~§o  tidak kuat."§r
+item.hfrlc:spike_sword=§l§fImpuls§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item ini untuk mendapatkan~LINEBREAK~dorongan di udara.~LINEBREAK~Perbaiki dengan Batangan Besi.~LINEBREAK~~LINEBREAK~§7§o"Tantang gravitasi dengan~LINEBREAK~§o  setiap ayunan."§r
+item.iron_sword.name=§l§fPedang Besi§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Baja yang dapat diandalkan~LINEBREAK~§o  ditempa dengan keahlian."§r
+item.hfrlc:darkness_sword=§l§fPemotong Bayangan§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item ini untuk bersembunyi dalam bayangan.~LINEBREAK~Perbaiki dengan Batu Bayangan.~LINEBREAK~~LINEBREAK~§7§o"Musuh yang terbunuh~LINEBREAK~§o  dikirim ke~LINEBREAK~§o  Alam Bayangan."§r
+item.hfrlc:weapon_4=§l§fPedang Tulang§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Perbaiki dengan Batu Bayangan.~LINEBREAK~~LINEBREAK~§7§o"Bilah tajam~LINEBREAK~§o  milik kematian."§r
+item.hfrlc:water_sword=§l§fArus§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk meluncurkan proyektil air.~LINEBREAK~Perbaiki dengan Esensi Air.~LINEBREAK~~LINEBREAK~§7§o"Air murni mengalir~LINEBREAK~§o  melalui baja."§r
+item.diamond_sword.name=§l§fPedang Berlian§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kesempurnaan kristal~LINEBREAK~§o  dalam bentuk senjata."§r
+item.hfrlc:air_sword=§l§fKewaspadaan§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan hembusan angin.~LINEBREAK~Perbaiki dengan Esensi Udara.~LINEBREAK~~LINEBREAK~§7§o"Manfaatkan kekuatan~LINEBREAK~§o  angin itu sendiri."§r
+item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk melakukan lompatan super.~LINEBREAK~Perbaiki dengan Esensi Udara.~LINEBREAK~~LINEBREAK~§7§o"Lompat ke bintang~LINEBREAK~§o  itu sendiri."§r
+item.hfrlc:weapon_8=§l§fPedang Es§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Dingin~LINEBREAK~~LINEBREAK~§9Perbaiki dengan Esensi Es.~LINEBREAK~~LINEBREAK~§7§o"Gigitannya musim dingin~LINEBREAK~§o  menjadi nyata."§r
+item.netherite_sword.name=§l§fPedang Netherite§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ditempa dalam kedalaman~LINEBREAK~§o  Nether."§r
+item.hfrlc:fire_sword=§l§fPedang Api§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk meluncurkan proyektil api.~LINEBREAK~Perbaiki dengan Esensi Api.~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~~LINEBREAK~§7§o"Proyektil membara~LINEBREAK~§o  membakar musuh."§r
+item.hfrlc:ice_sword=§l§fGletser§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk meluncurkan proyektil es.~LINEBREAK~Menghasilkan duri es saat merunduk dan menyerang.~LINEBREAK~Perbaiki dengan Esensi Es.~LINEBREAK~~LINEBREAK~§bAspek Dingin~LINEBREAK~~LINEBREAK~§7§o"Duri es menusuk~LINEBREAK~§o  saat merunduk."§r
+item.hfrlc:ocean_sword=§l§fPenembus Ombak§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan + Merunduk untuk menembakkan proyektil air.~LINEBREAK~Gunakan item untuk menghasilkan~LINEBREAK~gelombang kejut air.~LINEBREAK~Perbaiki dengan Batangan Neptunium.~LINEBREAK~~LINEBREAK~§7§o"Gelombang pasang menghantam~LINEBREAK~§o  atas perintahmu."§r
+item.hfrlc:weapon_6=§l§fPedang Elden§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kekuatan kuno~LINEBREAK~§o  mengalir melalui baja."§r
+item.hfrlc:weapon_7=§l§fPedang Panjang§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Jangkauan diperpanjang~LINEBREAK~§o  untuk pertempuran panjang."§r
+item.hfrlc:weapon_5=§l§fPedang Palu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kekuatan menghancurkan~LINEBREAK~§o  bertemu dengan ujung tajam."§r
+item.hfrlc:dragon_bone_sword=§l§fPedang Panjang Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ditempa dari sisa~LINEBREAK~§o  naga kuno."§r
+item.hfrlc:earth_sword=§l§fPecah Tanah§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan stalaktit~LINEBREAK~yang melukai entitas di dekatnya.~LINEBREAK~Perbaiki dengan Batangan Besi Semak.~LINEBREAK~~LINEBREAK~§7§o"Tombak batu~LINEBREAK~§o  muncul dari tanah."§r
+item.hfrlc:ice_dragon_bone_sword=§l§fBadai Salju§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Dingin~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Es dan tulang~LINEBREAK~§o  ditempa menjadi satu."§r
+item.hfrlc:fire_dragon_bone_sword=§l§fNyanyian Bara§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Ditempa dalam api~LINEBREAK~§o  naga itu sendiri."§r
+item.hfrlc:lava_sword=§l§fPedang Meteor§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan meteor.~LINEBREAK~Perbaiki dengan Esensi Api.~LINEBREAK~~LINEBREAK~§7§o"Meteor turun dari~LINEBREAK~§o  langit."§r
+item.hfrlc:ender_sword=§l§fKilat§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk teleport ke target.~LINEBREAK~Perbaiki dengan Batangan Baja Kosong.~LINEBREAK~~LINEBREAK~§7§o"Teleport ke tempat~LINEBREAK~§o  yang kau tuju."§r
+item.hfrlc:storm_sword=§l§fAngin Puting§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan badai.~LINEBREAK~Perbaiki dengan Batu Petir.~LINEBREAK~~LINEBREAK~§7§o"Badai tunduk pada~LINEBREAK~§o  kemauanmu."§r
+item.hfrlc:thunder_sword=§l§fPecah Badai§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menghasilkan petir.~LINEBREAK~Perbaiki dengan Batu Petir.~LINEBREAK~~LINEBREAK~§9Aspek Petir~LINEBREAK~~LINEBREAK~§7§o"Guruh taat pada~LINEBREAK~§o  setiap ayunanmu."§r
+item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lBARANG LEGENDARIS§r§9~LINEBREAK~~LINEBREAK~§r§dTahan untuk mengganti Elemen~LINEBREAK~~LINEBREAK~§7§o"Akhirnya...~LINEBREAK~§o  aku bisa beristirahat."§r
+item.hfrlc:dirt_sword=§l§fPedang Tanah§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk meluncurkan proyektil tanah.~LINEBREAK~Perbaiki dengan Tanah.~LINEBREAK~~LINEBREAK~§7§o"Senjata dari dasar bumi."§r
+item.hfrlc:jungle_sword=§l§fHijau Abadi§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk memunculkan batu dari tanah.~LINEBREAK~Perbaiki dengan Esensi Tanah.~LINEBREAK~~LINEBREAK~§7§o"Rindu tanah di bawahnya."§r
 
-## PEDANG BESAR
-item.hfrlc:wither_sword=§l§fPembantai§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menembakkan~LINEBREAK~proyektil layu.~LINEBREAK~Perbaiki dengan Inti Berat.~LINEBREAK~~LINEBREAK~§uAspek Wither~LINEBREAK~~LINEBREAK~§7§o"Kematian sendiri memandu~LINEBREAK~§o  pedang ini."§r
-item.hfrlc:nether_sword=§l§fApi Neraka§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan untuk menghasilkan serangan lava.~LINEBREAK~Perbaiki dengan Inti Berat.~LINEBREAK~~LINEBREAK~§7§o"Api neraka mengalir~LINEBREAK~§o  melalui bilah ini."§r
-item.hfrlc:poison_sword=§l§fDuri Rawa§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menembakkan~LINEBREAK~proyektil racun.~LINEBREAK~Perbaiki dengan Inti Berat.~LINEBREAK~~LINEBREAK~§2Beracun~LINEBREAK~~LINEBREAK~§7§o"Racun menetes dari~LINEBREAK~§o  ujungnya."§r
+## GREATSWORDS
+item.hfrlc:wither_sword=§l§fPembantai§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk menembakkan~LINEBREAK~proyektil wither.~LINEBREAK~Perbaiki dengan Inti Berat.~LINEBREAK~~LINEBREAK~§uAspek Wither~LINEBREAK~~LINEBREAK~§7§o"Kematian sendiri~LINEBREAK~§o  membimbing bilah ini."§r
+item.hfrlc:nether_sword=§l§fApi Neraka§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan untuk menghasilkan serangan lava.~LINEBREAK~Perbaiki dengan Inti Berat.~LINEBREAK~~LINEBREAK~§7§o"Api neraka mengalir~LINEBREAK~§o  melalui bilahnya."§r
+item.hfrlc:poison_sword=§l§fDuribar§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Gunakan item untuk meluncurkan proyektil racun.~LINEBREAK~Perbaiki dengan Inti Berat.~LINEBREAK~~LINEBREAK~§2Beracun~LINEBREAK~~LINEBREAK~§7§o"Racun menetes dari~LINEBREAK~§o  tepinya."§r
 
 ## KATANAS
-item.hfrlc:weapon_10=§l§fKatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Jalan sang~LINEBREAK~§o  pedang sejati."§r
-item.hfrlc:dragon_bone_katana=§l§fKatana Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Pembunuh Naga~LINEBREAK~~LINEBREAK~§7§o"Senjata anggun~LINEBREAK~§o  untuk zaman~LINEBREAK~§o  yang lebih beradab."§r
-item.hfrlc:ice_dragon_bone_katana=§l§fGigitan Es§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~§3Pembunuh Naga~LINEBREAK~~LINEBREAK~§7§o"Roh naga bersatu~LINEBREAK~§o  dengan es membentuk~LINEBREAK~§o  ikatan yang cukup kuat untuk~LINEBREAK~§o  menebas logam apa pun."§r
-item.hfrlc:fire_dragon_bone_katana=§l§fJejak Api§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembunuh Naga~LINEBREAK~~LINEBREAK~§7§o"Roh Naga Api~LINEBREAK~§o  berdenyut di dalam~LINEBREAK~§o  gagangnya."§r
-item.hfrlc:legendary_katana=§l§pKatana Roh§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lITEM LEGENDA§r~LINEBREAK~~LINEBREAK~§7§o"Roh eldritch~LINEBREAK~§o  membimbing pedang ini."§r
+item.hfrlc:weapon_10=§l§fKatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Jalan bilah~LINEBREAK~§o  yang berwujud."§r
+item.hfrlc:dragon_bone_katana=§l§fKatana Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Senjata elegan~LINEBREAK~§o  untuk zaman~LINEBREAK~§o  yang lebih beradab."§r
+item.hfrlc:ice_dragon_bone_katana=§l§fGigitan Beku§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Dingin~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Roh naga menyatu~LINEBREAK~§o  dengan es menciptakan~LINEBREAK~§o  ikatan cukup kuat untuk~LINEBREAK~§o  memotong logam."§r
+item.hfrlc:fire_dragon_bone_katana=§l§fJejak Api§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Roh Naga Api~LINEBREAK~§o  berdenyut dalam~LINEBREAK~§o  gagangnya."§r
+item.hfrlc:legendary_katana=§l§pKatana Roh§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lBARANG LEGENDARIS§r~LINEBREAK~~LINEBREAK~§7§o"Roh Eldrich~LINEBREAK~§o  membimbing bilah ini."§r
 
 ## DAGGERS
-item.hfrlc:flint_dagger=§l§fPisau Batu Api§r§f~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Cukup tajam untuk~LINEBREAK~§o  mengambil serat dari tanaman."§r
-item.hfrlc:wooden_dagger=§l§fBelati Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Hampir tidak bisa~LINEBREAK~§o  memotong kertas."§r
-item.hfrlc:golden_dagger=§l§fBelati Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Mudah retak~LINEBREAK~§o  setiap kali digunakan."§r
-item.hfrlc:stone_dagger=§l§fBelati Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Berat tapi~LINEBREAK~§o  tidak setumpul kelihatannya."§r
-item.hfrlc:iron_dagger=§l§fBelati Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Bilahan tajamnya~LINEBREAK~§o  haus akan darah."§r
-item.hfrlc:weapon_9=§l§fJambiya§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Gagang emasnya~LINEBREAK~§o  dihiasi dengan ukiran~LINEBREAK~§o  yang tak dikenal."§r
-item.hfrlc:diamond_dagger=§l§fBelati Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Tampak rapuh~LINEBREAK~§o  tapi mematikan."§r
-item.hfrlc:netherite_dagger=§l§fBelati Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Logam gelap~LINEBREAK~§o  memantulkan ungu~LINEBREAK~§o  di bawah cahaya."§r
-item.hfrlc:dragon_bone_dagger=§l§fBelati Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Kemungkinan memberikan kerusakan ganda~LINEBREAK~~LINEBREAK~§3Pembunuh Naga~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Cakar naga~LINEBREAK~§o  ada dalam kendalimu."§r
-item.hfrlc:ice_dragon_bone_dagger=§l§fSerpihan Hujan Es§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~§3Pembunuh Naga~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Roh naga bersatu~LINEBREAK~§o  dengan es membentuk~LINEBREAK~§o  ikatan yang cukup kuat untuk~LINEBREAK~§o  menebas logam apa pun."§r
-item.hfrlc:fire_dragon_bone_dagger=§l§fTepi Membara§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembunuh Naga~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Roh Naga Api~LINEBREAK~§o  berdenyut di dalam~LINEBREAK~§o  gagangnya."§r
+item.hfrlc:flint_dagger=§l§fPisau Batu§r§f~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Cukup baik untuk~LINEBREAK~§o  mengambil serat dari tanaman."§r
+item.hfrlc:wooden_dagger=§l§fBelati Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Hampir tidak~LINEBREAK~§o  bisa memotong kertas."§r
+item.hfrlc:golden_dagger=§l§fBelati Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Mudah pecah~LINEBREAK~§o  setiap ayunan."§r
+item.hfrlc:stone_dagger=§l§fBelati Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Berat tapi~LINEBREAK~§o  tidak setumpul kelihatannya."§r
+item.hfrlc:iron_dagger=§l§fBelati Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Bilah tajamnya~LINEBREAK~§o  ingin menusuk seseorang."§r
+item.hfrlc:weapon_9=§l§fJambiya§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Gagang emasnya~LINEBREAK~§o  dihiasi ornamen~LINEBREAK~§o  yang tak kau kenal."§r
+item.hfrlc:diamond_dagger=§l§fBelati Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Tampak halus~LINEBREAK~§o  tapi mematikan dalam ketepatan."§r
+item.hfrlc:netherite_dagger=§l§fBelati Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Logam gelap~LINEBREAK~§o  berkilau ungu~LINEBREAK~§o  di bawah sinar matahari."§r
+item.hfrlc:dragon_bone_dagger=§l§fBelati Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Peluang untuk memberikan kerusakan ganda~LINEBREAK~~LINEBREAK~§3Pembasmi Naga~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Cakar naga~LINEBREAK~§o  milikmu untuk diperintahkan."§r
+item.hfrlc:ice_dragon_bone_dagger=§l§fPecahan Hujan Es§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Dingin~LINEBREAK~§3Pembasmi Naga~LINEBREAK~§pPanen Serat~LINEBREAK~~LINEBREAK~§7§o"Roh naga menyatu~LINEBREAK~§o  dengan es menciptakan~LINEBREAK~§o  ikatan cukup kuat untuk~LINEBREAK~§o  memotong logam."§r
+item.hfrlc:fire_dragon_bone_dagger=§l§fTajam Membara§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Roh Naga Api~LINEBREAK~§o  berdenyut dalam~LINEBREAK~§o  gagangnya."§r
 
 ## SPEARS
-item.hfrlc:wooden_spear=§l§fTombak Kayu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sebatang tongkat dengan~LINEBREAK~§o  ambisi yang tajam."§r
-item.hfrlc:golden_spear=§l§fTombak Emas§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Berwarna emas tapi~LINEBREAK~§o  tak begitu berharga."§r
-item.hfrlc:stone_spear=§l§fTombak Batu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primordial tapi~LINEBREAK~§o  mengejutkan efektif."§r
-item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Setiap tusukan~LINEBREAK~§o  dipandu oleh kehormatan."§r
-item.hfrlc:iron_spear=§l§fTombak Besi§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Andalan dan~LINEBREAK~§o  seimbang."§r
-item.hfrlc:diamond_spear=§l§fTombak Berlian§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kesempurnaan menusuk~LINEBREAK~§o  yang diwujudkan."§r
-item.hfrlc:netherite_spear=§l§fTombak Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kegelapan tak tergoyahkan~LINEBREAK~§o  ditempa dalam baja."§r
-item.hfrlc:dragon_bone_spear=§l§fTombak Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Esensi naga~LINEBREAK~§o  mempertajam ujungnya."§r
-item.hfrlc:ice_dragon_bone_spear=§l§fWinterwyrm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Napas beku~LINEBREAK~§o  dijadikan baja."§r
-item.hfrlc:fire_dragon_bone_spear=§l§fCinderspine§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Ujungnya membara~LINEBREAK~§o  dengan api abadi."§r
+item.hfrlc:wooden_spear=§l§fTombak Kayu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sebatang tongkat dengan~LINEBREAK~§o  ambisi yang runcing."§r
+item.hfrlc:golden_spear=§l§fTombak Emas§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Emas tapi~LINEBREAK~§o  tidak terlalu berharga."§r
+item.hfrlc:stone_spear=§l§fTombak Batu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitif tapi~LINEBREAK~§o  sangat efektif."§r
+item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Penghormatan membimbing~LINEBREAK~§o  setiap tusukan."§r
+item.hfrlc:iron_spear=§l§fTombak Besi§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Terpercaya dan~LINEBREAK~§o  seimbang dengan baik."§r
+item.hfrlc:diamond_spear=§l§fTombak Berlian§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ketajaman luar biasa~LINEBREAK~§o  yang nyata."§r
+item.hfrlc:netherite_spear=§l§fTombak Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kegelapan tak terpecahkan~LINEBREAK~§o  ditempa menjadi baja."§r
+item.hfrlc:dragon_bone_spear=§l§fTombak Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Esensi naga~LINEBREAK~§o  mengasah ujungnya."§r
+item.hfrlc:ice_dragon_bone_spear=§l§fWinterwyrm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~§bAspek Dingin~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Napas beku dibentuk~LINEBREAK~§o  menjadi baja."§r
+item.hfrlc:fire_dragon_bone_spear=§l§fCinderspine§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Ujungnya membara dengan~LINEBREAK~§o  api abadi."§r
 
 ## TRIDENTS
-item.trident.name=§l§fTrisula§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aromanya seperti~LINEBREAK~§o  ikan..."§r
-item.hfrlc:weapon_11=§l§fTrisula Neptunium§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Kerusakan Proyektil~LINEBREAK~Kesetiaan~LINEBREAK~Perbaiki dengan Ingot Neptunium.~LINEBREAK~~LINEBREAK~§7§o"Tiga cabang amarah~LINEBREAK~§o  lautan."§r
+item.trident.name=§l§fTrisula§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aromanya seperti~LINEBREAK~§o  ikan..."§r
+item.hfrlc:weapon_11=§l§fTrisula Neptunium§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Damage Proyektil~LINEBREAK~Kesetiaan~LINEBREAK~Perbaiki dengan Batangan Neptunium.~LINEBREAK~~LINEBREAK~§7§o"Tiga ujung kemarahan~LINEBREAK~§o  dari dunia air."§r
 
 ## WARHAMMERS
-item.hfrlc:dragon_bone_hammer=§l§fPalu Perang Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kekuatan naga murni~LINEBREAK~§o  dalam bentuk senjata."§r
-item.hfrlc:ice_dragon_bone_hammer=§l§fDominion§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Musim dingin abadi~LINEBREAK~§o  dalam bentuk senjata."§r
-item.hfrlc:fire_dragon_bone_hammer=§l§fFurnace§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Amarah meleleh~LINEBREAK~§o  dalam bentuk fisik."§r
-item.mace.name=§l§fGada§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Setiap pukulan punya~LINEBREAK~§o  dampak yang mengguncang bumi."§r
+item.hfrlc:dragon_bone_hammer=§l§fPalu Perang Tulang Naga§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kekuatan naga mentah~LINEBREAK~§o  dalam bentuk senjata."§r
+item.hfrlc:ice_dragon_bone_hammer=§l§fDominion§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Dingin~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Musim dingin abadi~LINEBREAK~§o  dalam bentuk senjata."§r
+item.hfrlc:fire_dragon_bone_hammer=§l§fTungku§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§3Pembasmi Naga~LINEBREAK~~LINEBREAK~§7§o"Amarah meleleh dalam~LINEBREAK~§o  bentuk fisik."§r
+item.mace.name=§l§fMace§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Setiap pukulan memiliki~LINEBREAK~§o  rasa mengguncang bumi."§r
 
 ## SHIELDS
-item.hfrlc:weapon_13=§l§fPerisai Kayu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§oPerlindungan sederhana~LINEBREAK~§o  dari anugerah alam."§r
-item.shield.name=§l§fPerisai§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aku bisa melakukan ini sepanjang hari..."§r
-
+item.hfrlc:weapon_13=§l§fPerisai Kayu§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Perlindungan sederhana~LINEBREAK~§o  dari anugerah alam."§r
+item.shield.name=§l§fPerisai§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aku bisa lakukan ini sepanjang hari..."§r
 
 ## STAVES
-item.hfrlc:weapon_12=§l§fTongkat Ajaib§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Energi gaib~LINEBREAK~§o  mengalir di dalamnya."§r
+item.hfrlc:weapon_12=§l§fTongkat Sihir§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Energi gaib~LINEBREAK~§o  mengalir di dalamnya."§r
 
-## BUSUR
-item.crossbow.name=§l§fCrossbow§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Pilihan para~LINEBREAK~§o  Illager."§r
-item.bow.name=§l§fBusur§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Semoga panahmu~LINEBREAK~§o  tepat dan menusuk."§r
-item.hfrlc:weapon_1=§l§fBusur Panjang§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 Kerusakan Proyektil§r~LINEBREAK~~LINEBREAK~§7§o"Jarak lebih jauh~LINEBREAK~§o  untuk bidikan akurat."§r
-item.hfrlc:dragon_bone_bow=§l§fBusur Tulang Naga§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 Kerusakan Proyektil~LINEBREAK~~LINEBREAK~§7§o"Kekuatan kuno~LINEBREAK~§o  membimbing setiap panah."§r
-item.hfrlc:fire_dragon_bow=§l§fEmbersnap§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§9+20 Kerusakan Proyektil~LINEBREAK~~LINEBREAK~§7§o"Panah menyala dengan~LINEBREAK~§o  api naga."§r
-item.hfrlc:ice_dragon_bone_bow=§l§fFrostsnap§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Es~LINEBREAK~§9+20 Kerusakan Proyektil~LINEBREAK~~LINEBREAK~§7§o"Panah membeku~LINEBREAK~§o  di udara."§r
+## BOWS
+item.crossbow.name=§l§fBusur Silang§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Pilihan Illager."§r
+item.bow.name=§l§fBusur§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Semoga panahmu~LINEBREAK~§o  tepat sasaran."§r
+item.hfrlc:weapon_1=§l§fBusur Panjang§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 Damage Proyektil§r~LINEBREAK~~LINEBREAK~§7§o"Jangkauan diperpanjang~LINEBREAK~§o  untuk tembakan tepat."§r
+item.hfrlc:dragon_bone_bow=§l§fBusur Tulang Naga§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 Damage Proyektil§r~LINEBREAK~~LINEBREAK~§7§o"Kekuatan kuno~LINEBREAK~§o  membimbing setiap panah."§r
+item.hfrlc:fire_dragon_bow=§l§fEmbersnap§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Aspek Api~LINEBREAK~§9+20 Damage Proyektil~LINEBREAK~~LINEBREAK~§7§o"Panah membakar~LINEBREAK~§o  dengan api naga."§r
+item.hfrlc:ice_dragon_bone_bow=§l§fFrostsnap§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bAspek Dingin~LINEBREAK~§9+20 Damage Proyektil~LINEBREAK~~LINEBREAK~§7§o"Panah membeku~LINEBREAK~§o  saat meluncur."§r
 
 ## TOOLS
-item.wooden_axe.name=§l§fKapak Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Rapuh, tapi~LINEBREAK~  cukup untuk bekerja."§r
-item.wooden_shovel.name=§l§fSekop Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Mimpi buruk tanah!~LINEBREAK~  ...Sampai patah."§r
-item.wooden_pickaxe.name=§l§fCangkul Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Teman paling tidak disukai~LINEBREAK~  oleh batu cobblestone."§r
-item.wooden_hoe.name=§l§fCangkul Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Tanah tidak punya peluang...~LINEBREAK~  mungkin."§r
+item.wooden_axe.name=§l§fKapak Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Mudah patah, tapi~LINEBREAK~  cukup untuk bekerja."§r
+item.wooden_shovel.name=§l§fSekop Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Musuh terbesar tanah! ~LINEBREAK~  ...Sampai rusak."§r
+item.wooden_pickaxe.name=§l§fPickaxe Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sahabat yang paling tidak disukai~LINEBREAK~  oleh batu kerikil."§r
+item.wooden_hoe.name=§l§fCangkul Kayu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Tanah tak punya~LINEBREAK~  kesempatan... mungkin."§r
 
-item.stone_axe.name=§l§fKapak Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cukup baik untuk memotong~LINEBREAK~  kayu mati."§r
-item.stone_shovel.name=§l§fSekop Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Waktunya menggali~LINEBREAK~  lebih dalam."§r
-item.stone_pickaxe.name=§l§fCangkul Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Mari kita lihat berapa banyak~LINEBREAK~  batu bisa menggali batu..."§r
-item.stone_hoe.name=§l§fCangkul Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bertani kini dapat~LINEBREAK~  peningkatan berbatu."§r
+item.stone_axe.name=§l§fKapak Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Cukup baik untuk~LINEBREAK~  memotong kayu mati."§r
+item.stone_shovel.name=§l§fSekop Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Waktunya menggali~LINEBREAK~  lebih dalam."§r
+item.stone_pickaxe.name=§l§fPickaxe Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Mari kita lihat berapa~LINEBREAK~  batu yang bisa ditambang batu."§r
+item.stone_hoe.name=§l§fCangkul Batu§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bertani kini~LINEBREAK~  dengan peningkatan batu."§r
 
-item.iron_axe.name=§l§fKapak Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kapak penebang terpercaya."§r
-item.iron_shovel.name=§l§fSekop Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aku satu dengan tanah.~LINEBREAK~  Dan tanah bersamaku."§r
-item.iron_pickaxe.name=§l§fCangkul Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Gunung jadi kerikil!~LINEBREAK~  Satu ayunan tiap waktu..."§r
-item.iron_hoe.name=§l§fCangkul Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Inilah ladang gandum."§r
+item.iron_axe.name=§l§fKapak Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kapak penebang kayu terpercaya."§r
+item.iron_shovel.name=§l§fSekop Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aku satu dengan tanah.~LINEBREAK~  Dan tanah bersamaku."§r
+item.iron_pickaxe.name=§l§fPickaxe Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Memecah gunung menjadi batu kerikil!~LINEBREAK~  Satu ayunan pada satu waktu..."§r
+item.iron_hoe.name=§l§fCangkul Besi§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ini ladang gandum."§r
 
-item.golden_axe.name=§l§fKapak Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Andai sekuat~LINEBREAK~  keindahannya.."§r
-item.golden_shovel.name=§l§fSekop Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Indah...~LINEBREAK~  tapi rapuh."§r
-item.golden_pickaxe.name=§l§fCangkul Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Midas pasti bangga...~LINEBREAK~dan bangkrut."§r
-item.golden_hoe.name=§l§fCangkul Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dibuat di Nether."§r
+item.golden_axe.name=§l§fKapak Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Andai saja sekuat~LINEBREAK~  secantik ini.."§r
+item.golden_shovel.name=§l§fSekop Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Indah...~LINEBREAK~  tapi rapuh."§r
+item.golden_pickaxe.name=§l§fPickaxe Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Midas pasti bangga...~LINEBREAK~  tapi bangkrut."§r
+item.golden_hoe.name=§l§fCangkul Emas§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dibuat di Nether."§r
 
-item.diamond_axe.name=§l§fKapak Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Satu cukup untuk~LINEBREAK~  menumbangkan satu~LINEBREAK~  hutan kecil."§r
-item.diamond_shovel.name=§l§fSekop Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Karena kadang~LINEBREAK~  menggali harus~LINEBREAK~  bergaya."§r
-item.diamond_pickaxe.name=§l§fCangkul Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bahkan obsidian~LINEBREAK~  jadi gugup..."§r
-item.diamond_hoe.name=§l§fCangkul Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Agak berlebihan~LINEBREAK~  untuk kentang?"§r
+item.diamond_axe.name=§l§fKapak Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Satu sudah cukup~LINEBREAK~  untuk mengelola hutan kecil."§r
+item.diamond_shovel.name=§l§fSekop Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Karena kadang-kadang~LINEBREAK~  kamu harus menggali~LINEBREAK~  dengan gaya."§r
+item.diamond_pickaxe.name=§l§fPickaxe Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bahkan obsidian pun~LINEBREAK~  dibuat berkeringat gugup..."§r
+item.diamond_hoe.name=§l§fCangkul Berlian§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sedikit berlebihan~LINEBREAK~  untuk kentang?"§r
 
-item.netherite_axe.name=§l§fKapak Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Meleleh dari bahan~LINEBREAK~  luar dunia ini."§r
-item.netherite_shovel.name=§l§fSekop Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ditempa di tempat~LINEBREAK~  iblis takut melangkah."§r
-item.netherite_pickaxe.name=§l§fCangkul Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ke batu dasar!~LINEBREAK~  Dan lebih dalam lagi!"§r
-item.netherite_hoe.name=§l§fCangkul Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bertani?~LINEBREAK~  Dengan bakatmu?"§r
+item.netherite_axe.name=§l§fKapak Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Molten dari bahan~LINEBREAK~  luar dunia ini."§r
+item.netherite_shovel.name=§l§fSekop Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dibesarkan di tempat~LINEBREAK~  yang ditakuti setan."§r
+item.netherite_pickaxe.name=§l§fPickaxe Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Menuju ke dasar batu!~LINEBREAK~  Dan lebih jauh lagi!"§r
+item.netherite_hoe.name=§l§fCangkul Netherite§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bertani?~LINEBREAK~  Pria sepertimu?"§r
 
-item.hfrlc:flint_axe=§l§fKapak Batu Api§r§f~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primordial tapi~LINEBREAK~§o  tajam mengejutkan."§r
-item.hfrlc:weapon_3=§l§fKapak Tulang§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lKerusakan§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Perbaiki dengan Shadow Stone.~LINEBREAK~~LINEBREAK~§7§o"Kecil tapi~LINEBREAK~§o  sangat mematikan."§r
+item.hfrlc:flint_axe=§l§fKapak Batu Api§r§f~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitif tapi~LINEBREAK~§o  tajam mengejutkan."§r
+item.hfrlc:weapon_3=§l§fKapak Tulang§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lDamage§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Perbaiki dengan Batu Bayangan.~LINEBREAK~~LINEBREAK~§7§o"Kecil tapi~LINEBREAK~§o  tajam mematikan."§r
 
-item.hfrlc:dungeon_door=Pintu Ruang Bawah Tanah
-item.hfrlc:dungeon_door_desert=Pintu Ruang Bawah Tanah Gurun
-item.hfrlc:dungeon_door_snow=Pintu Ruang Bawah Tanah Es
-item.hfrlc:dungeon_door_red_desert=Pintu Ruang Bawah Tanah Gurun Merah
+item.hfrlc:dungeon_door=Pintu Dungeon
+item.hfrlc:dungeon_door_desert=Pintu Dungeon Gurun
+item.hfrlc:dungeon_door_snow=Pintu Dungeon Es
+item.hfrlc:dungeon_door_red_desert=Pintu Dungeon Gurun Merah
 item.hfrlc:dungeon_door_key=Kunci Pintu
 item.hfrlc:key=Kunci
 
-death.attack.anvil=F di obrolan untuk %1$s
-death.attack.arrow=BUU MAAAK AMBIL KAMERA!!
-death.attack.bullet=BUU MAAAK AMBIL KAMERA!!
-death.attack.cactus=Kamu benar-benar MVP, Most Valuable Prey.
-death.attack.drown=%1$s bahkan tidak terlalu dalam.
-death.attack.explosion=Pencapaian Dibuka: Respawner Profesional.
-death.attack.explosion.by.bed=Biarkan dia MASAK!
+death.attack.anvil=F untuk %1$s di chat
+death.attack.arrow=IBU AMBIL KAMERA!!
+death.attack.bullet=IBU AMBIL KAMERA!!
+death.attack.cactus=Kamu benar-benar MVP, Mangsa Paling Berharga.
+death.attack.drown=Tak sedalam itu, %1$s.
+death.attack.explosion=Pencapaian Terbuka: Respawner Profesional.
+death.attack.explosion.by.bed=Biar dia MASAK!
 death.attack.explosion.player=Cara TIDAK melatih nagamu
-death.attack.fall=Gravitasi berkata "duduk %1$s"
-death.attack.fallingBlock=Catatan pembaruan: Hidup di-*nerf*.
+death.attack.fall=Gravitasi bilang "duduk, %1$s"
+death.attack.fallingBlock=Perubahan: Hidup dikurangi.
 death.attack.fireball=LEBROOON!
-death.attack.fireworks=Kamu lupa menyembuhkan, ya?
+death.attack.fireworks=Kamu lupa heal, kan?
 death.attack.flyIntoWall=Kerusakan Emosional!
 death.attack.generic=%1$s meninggal
-death.attack.indirectMagic=%1$s bukanlah SANG LEGENDA.
-death.attack.inFire=Api panas banget ohhhhh!!!
-death.attack.inWall=Itu lag, atau cuma kurang skill?
-death.attack.lava=Setidaknya kamu tidak menabrakkan kudamu ke lava.
-death.attack.lightningBolt=Git Gud.
-death.attack.maceSmash.player=%1$s dihancurkan oleh %2$s
-death.attack.maceSmash.player.item=%1$s dihancurkan oleh %2$s dengan %3$s
-death.attack.magic=Ingatlah untuk minum air secara teratur; saat makan, beraktivitas, dan ketika tubuh mulai merasa haus.
-death.attack.magma=Butuh pelukan?
-death.attack.mob=%1$s tidak memenuhi syarat untuk bertahan hidup.
-death.attack.mob.item=%1$s tidak memenuhi syarat untuk bertahan hidup.
-death.attack.onFire=Kematian datang dengan PANAS MEMBAKAR!!!
-death.attack.outOfWorld=Sudah level 50 dalam respawn.
-death.attack.player=%1$s tidak memenuhi syarat untuk bertahan hidup.
-death.attack.player.item=%1$s tidak memenuhi syarat untuk bertahan hidup.
-death.attack.spit=%1$s diludahi di muka oleh %2$s
-death.attack.starve=RIP, tapi setidaknya kamu sudah berusaha.
-death.attack.sweetBerry=Kamu benar-benar MVP, Most Valuable Prey.
-death.attack.thorns=Kamu benar-benar MVP, Most Valuable Prey.
-death.attack.trident=%1$s ditusuk sampai mati oleh %2$s
-death.attack.wither=Harusnya bawa susu.
-death.attack.freeze=Harusnya ke Jhonny Dang.
-death.attack.sonicBoom.player=Harusnya pencet X buat menghindar.
-death.attack.stalactite=Kalau ada prestasi buat mati, kamu sudah buka dua kali.
+death.attack.indirectMagic=%1$s bukan yang TERBAIK.
+death.attack.inFire=Api panas menyala ohhhhh!!!
+death.attack.inWall=Itu lag atau cuma skill kurang?
+death.attack.lava=Setidaknya kamu tidak menunggang kuda ke lava.
+death.attack.lightningBolt=Belajar yang baik.
+death.attack.maceSmash.player=%1$s dihantam oleh %2$s
+death.attack.maceSmash.player.item=%1$s dihantam oleh %2$s dengan %3$s
+death.attack.magic=Ingat minum air secara teratur; saat makan, beraktivitas fisik, dan saat merasa haus mulai muncul.
+death.attack.magma=Perlu pelukan?
+death.attack.mob=%1$s tidak memenuhi syarat bertahan hidup.
+death.attack.mob.item=%1$s tidak memenuhi syarat bertahan hidup.
+death.attack.onFire=Mati dalam API PANAS MENYALA!!!
+death.attack.outOfWorld=Sudah level 50 di respawn.
+death.attack.player=%1$s tidak memenuhi syarat bertahan hidup.
+death.attack.player.item=%1$s tidak memenuhi syarat bertahan hidup.
+death.attack.spit=%1$s diludahi oleh %2$s
+death.attack.starve=Turut berduka, setidaknya kamu sudah mencoba.
+death.attack.sweetBerry=Kamu benar-benar MVP, Mangsa Paling Berharga.
+death.attack.thorns=Kamu benar-benar MVP, Mangsa Paling Berharga.
+death.attack.trident=%1$s tertusuk hingga mati oleh %2$s
+death.attack.wither=Seharusnya bawa susu
+death.attack.freeze=Seharusnya ke Jhonny Dang saja
+death.attack.sonicBoom.player=Seharusnya tekan X untuk menghindar.
+death.attack.stalactite=Kalau ada pencapaian untuk mati, kamu sudah mendapatkannya dua kali.
 death.attack.stalagmite=%1$s sudah berusaha keras, tapi jatuh terlalu jauh.
-death.fell.accident.generic=Gravitasi berkata "duduk %1$s"
+death.fell.accident.generic=Gravitasi bilang "duduk, %1$s"
 
 pack.name=RLCraft Bedrock Edition RP
-pack.description=§l§c[!] Paket ini harus di atas semua lainnya!§r | Berdasarkan Modpack Java asli oleh Shivaxi | Oleh Honeyfrost dengan langit dari Hybred
+pack.description=§l§c[!] Pak ini harus di atas semua yang lain!§r | Berdasarkan Modpack Java asli oleh Shivaxi | Oleh Honeyfrost dengan Skybox dari Hybred

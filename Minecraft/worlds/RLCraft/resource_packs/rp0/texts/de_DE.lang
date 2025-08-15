@@ -155,6 +155,7 @@ blocked.agility=§c§lDeine Beweglichkeit ist zu niedrig, um diesen Gegenstand z
 blocked.melee=§c§lDein Nahkampf ist zu niedrig, um diesen Gegenstand zu verwenden.
 blocked.mining=§c§lDein Bergbau ist zu niedrig, um diesen Gegenstand zu verwenden.
 blocked.armor=§c§lDeine Verteidigung ist zu niedrig, um diesen Gegenstand zu verwenden.
+blocked.global=§c§lDein Fähigkeitslevel ist zu niedrig, um diesen Gegenstand zu benutzen.
 action.dodge=§aGlückwunsch! Du bist einem Projektil ausgewichen.
 action.grave_hit=§cFinger weg, Grabräuber! Dieses Grab gehört nicht dir.
 action.warpstone_name=§cBeeindruckend! Ein Stein mit diesem Namen existiert bereits. Sei origineller.
@@ -750,393 +751,361 @@ item.hfrlc:raw_snake_meat=Rohes zähes Fleisch
 item.hfrlc:raw_wolf_meat=Rohes Wolfsfleisch
 item.hfrlc:pumpkin_slice=Kürbisscheibe
 
-## HANDWERKSMATERIALIEN
+## CRAFTING MATERIALS
 item.hfrlc:black_dragon_scales=§fSchwarze Drachenschuppen
 item.hfrlc:blue_dragon_scales=§fBlaue Drachenschuppen
 item.hfrlc:brown_dragon_scales=§fBraune Drachenschuppen
 item.hfrlc:diamond_wyvern_armor=§fDiamant-Drachenrüstung
 item.hfrlc:dragon_heart=§dDrachenherz
 item.hfrlc:dragon_skull=§dDrachenschädel
-item.hfrlc:flaming_dragon_blood=§fFeuerdrachen-Geist
-item.hfrlc:flint_shard=§fFeuersteinscherbe
-item.hfrlc:gold_wyvern_armor=§fGold-Drachenrüstung
+item.hfrlc:flaming_dragon_blood=§fFeuer-Drachensprit
+item.hfrlc:flint_shard=§fFeuersteinsplitter
+item.hfrlc:gold_wyvern_armor=§fGoldene Drachenrüstung
 item.hfrlc:green_dragon_scales=§fGrüne Drachenschuppen
-item.hfrlc:ice_dragon_blood=§fEisdrachen-Geist
+item.hfrlc:ice_dragon_blood=§fEis-Drachensprit
 item.hfrlc:info_book=§fRLCraft Menü
-item.hfrlc:iron_wyvern_armor=§fEisen-Drachenrüstung
+item.hfrlc:iron_wyvern_armor=§fEiserne Drachenrüstung
 item.hfrlc:netherite_wyvern_armor=§fNetherit-Drachenrüstung
 item.hfrlc:paint=Pinsel
-item.hfrlc:plant_fibers_rope=§fPflanzenfaser-Seil
+item.hfrlc:plant_fibers_rope=§fPflanzenfaserseil
 item.hfrlc:plant_fibers=§fPflanzenfasern
 item.hfrlc:red_dragon_scales=§fRote Drachenschuppen
 
-## HANDELSWAREN
-item.hfrlc:pirate_armor_plates=§fKiste mit Fellen~LINEBREAK~§7Wert: 1
+## THINGS FOR SALE
+item.hfrlc:pirate_armor_plates=§fKiste mit Pelzen~LINEBREAK~§7Wert: 1
 item.hfrlc:pirate_cloth=§fPiratenstoff~LINEBREAK~§7Wert: 1
-item.leather.name=§fLeder~LINEBREAK~§7Wert: 1
-item.rabbit_hide.name=§fKaninchenfell~LINEBREAK~§7Wert: 1
+item.leather.name=Leder~LINEBREAK~§7Wert: 1
+item.rabbit_hide.name=Kaninfell~LINEBREAK~§7Wert: 1
 item.quartz.name=§fNetherquarz~LINEBREAK~§7Wert: 1
 item.nautilus_shell.name=§fNautilus-Schale~LINEBREAK~§7Wert: 1
-item.gold_ingot.name=§fGoldbarren~LINEBREAK~§7Wert: 2
-item.iron_ingot.name=§fEisenbarren~LINEBREAK~§7Wert: 1
+item.gold_ingot.name=Goldbarren~LINEBREAK~§7Wert: 2
+item.iron_ingot.name=Eisenbarren~LINEBREAK~§7Wert: 1
 item.netherite_ingot.name=§bNetheritbarren~LINEBREAK~§7Wert: 4
-item.netherite_scrap.name=§bNetheritbruchstück~LINEBREAK~§7Wert: 1
-item.echo_shard.name=§bEchoscherbe~LINEBREAK~§7Wert: 1
-item.diamond.name=§fDiamant~LINEBREAK~§7Wert: 3
-item.emerald.name=§fSmaragd~LINEBREAK~§7Wert: 1
+item.netherite_scrap.name=§bNetherit-Schrott~LINEBREAK~§7Wert: 1
+item.echo_shard.name=§bEcho-Splitter~LINEBREAK~§7Wert: 1
+item.diamond.name=Diamant~LINEBREAK~§7Wert: 3
+item.emerald.name=Smaragd~LINEBREAK~§7Wert: 1
 item.hfrlc:ancient_sprouts=§fUralte Triebe~LINEBREAK~§7Wert: 1
 item.hfrlc:scorpion_tails=§fSkorpionschwanz~LINEBREAK~§7Wert: 3
-item.hfrlc:samurai_armor_plates=§fAntike Platten~LINEBREAK~§7Wert: 3
-item.amethyst_shard.name=§fAmethystscherbe~LINEBREAK~§7Wert: 1
-item.spider_eye.name=§fSpinnenauge~LINEBREAK~§7Wert: 1
-item.fermented_spider_eye.name=§fFermentiertes Spinnenauge~LINEBREAK~§7Wert: 3
+item.hfrlc:samurai_armor_plates=§fUralte Platten~LINEBREAK~§7Wert: 3
+item.amethyst_shard.name=Amethyst-Splitter~LINEBREAK~§7Wert: 1
+item.spider_eye.name=Spinnenauge~LINEBREAK~§7Wert: 1
+item.fermented_spider_eye.name=Gärendes Spinnenauge~LINEBREAK~§7Wert: 3
 item.hfrlc:dragon_bone=§bDrachenknochen~LINEBREAK~§7Wert: 1
-item.hfrlc:wyvern_skull=§bDrachenschädelfragment~LINEBREAK~§7Wert: 2
-item.hfrlc:wither_bone=§fWitherknochen~LINEBREAK~§7Wert: 4
-item.slime_ball.name=§fSchleimball~LINEBREAK~§7Wert: 1
-item.wind_charge.name=§fWindladung~LINEBREAK~§7Wert: 1
-item.armadillo_scute.name=§fGürteltier-Panzerplatte~LINEBREAK~§7Wert: 2
-item.turtle_shell_piece.name=§fSchildkrötenpanzerstück~LINEBREAK~§7Wert: 2
-item.shulker_shell.name=§fShulker-Schale~LINEBREAK~§7Wert: 2
+item.hfrlc:wyvern_skull=§bDrachen-Schädel-Fragmet~LINEBREAK~§7Wert: 2
+item.hfrlc:wither_bone=§fWither-Knochen~LINEBREAK~§7Wert: 4
+item.slime_ball.name=Schleimball~LINEBREAK~§7Wert: 1
+item.wind_charge.name=Windladung~LINEBREAK~§7Wert: 1
+item.armadillo_scute.name=Gürteltierpanzer~LINEBREAK~§7Wert: 2
+item.turtle_shell_piece.name=Schildkrötenpanzer~LINEBREAK~§7Wert: 2
+item.shulker_shell.name=Shulker-Schale~LINEBREAK~§7Wert: 2
 item.book.name=§fBuch~LINEBREAK~§7Wert: 2
 item.heart_of_the_sea.name=§fHerz des Meeres~LINEBREAK~§7Wert: 1
-item.hfrlc:orcish_scribbles=§bOrkische Kritzeleien~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Diese Buchstaben sehen sehr primitiv aus,~LINEBREAK~§oaber ihre Bedeutung ist unbekannt."§r
-item.hfrlc:knight_orders=§bRitterbefehle~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Sie suchen~LINEBREAK~§oetwas...~LINEBREAK~§ooder jemanden..."§r
-item.hfrlc:dwarven_tome=§bZwergentome~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Selbst auf Papier~LINEBREAK~§owirkt die Zwergensprache,~LINEBREAK~§oals wäre sie mit einem Meißel eingraviert."§r
-item.hfrlc:tower_blessing=§bGöttliche Prophezeiung~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Man sieht in dieser Schriftrolle~LINEBREAK~§onur sein eigenes~LINEBREAK~§oSpiegelbild."§r
+item.hfrlc:orcish_scribbles=§bOrkische Notiz~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Buchstaben sehen sehr primitiv aus,~LINEBREAK~§o  doch ihre Bedeutung ist unbekannt."§r
+item.hfrlc:knight_orders=§bRitterbefehle~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Sie suchen nach etwas...~LINEBREAK~§o  Oder jemandem..."§r
+item.hfrlc:dwarven_tome=§bZwergentome~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Selbst auf Papier sieht Zwergisch~LINEBREAK~§o  aus, als wäre es mit Meißel gemeißelt."§r
+item.hfrlc:tower_blessing=§bGöttliche Prophezeiung~LINEBREAK~§7Wert: 1~LINEBREAK~~LINEBREAK~§7§o"Du siehst nur dein eigenes~LINEBREAK~§o  Spiegelbild in dieser Schriftrolle."§r
 
-
-## KRAFTKRISTALLE
-item.hfrlc:power_crystal=§bKraftkristall
-item.hfrlc:power_shard=§bKraft-Scherbe
-
-## GESUNDHEITSKRISTALLE
-item.hfrlc:health_crystal=§cGesundheitskristall~LINEBREAK~§7Regeneration II (0:03)~LINEBREAK~Erhöht die Gesundheit dauerhaft
-item.hfrlc:health_crystal_shard=§cGesundheits-Scherbe
-
-## ALLE CHARAKTERENTWICKLUNGS-GEGENSTÄNDE
-item.hfrlc:xp=§fErfahrungs-Foliant~LINEBREAK~§7+15 Stufen
-item.hfrlc:agility_token=§eMovements-Runenstein~LINEBREAK~§7+1 Stufe in Beweglichkeit
-item.hfrlc:melee_token=§eNahkampf-Runenstein~LINEBREAK~§7+1 Stufe in Nahkampf
-item.hfrlc:mining_token=§eBergbau-Runenstein~LINEBREAK~§7+1 Stufe in Bergbau
-item.hfrlc:armor_token=§eRüstungs-Runenstein~LINEBREAK~§7+1 Stufe in Rüstung
-
-## MENÜ
-item.hfrlc:system_level=§f§lCharakterentwicklungsmenü§r~LINEBREAK~§7Interagieren um Interface zu öffnen
-item.hfrlc:trinket_menu=§f§lTalisman-Tasche§r~LINEBREAK~§7Interagieren um Interface zu öffnen
-
-## HEILGEGENSTÄNDE
-item.hfrlc:bandage=§fBandage~LINEBREAK~§7Regeneration II (0:03)~LINEBREAK~Heilt gebrochene Gliedmaßen
-item.hfrlc:heal1=§fHeilfläschchen~LINEBREAK~§7Regeneration V (0:01)
-item.hfrlc:heal2=§bHeilflasche~LINEBREAK~§7Regeneration V (0:06)~LINEBREAK~Heilt gebrochene Gliedmaßen
-item.hfrlc:heal3=§dHeiltrank~LINEBREAK~§7Sofortige Heilung X~LINEBREAK~Heilt gebrochene Gliedmaßen
-item.hfrlc:blue_bush_fruit=Frostbeere~LINEBREAK~§7Hitzeresistenz I
-item.hfrlc:orange_bush_fruit=Glutfrucht~LINEBREAK~§7Kälteresistenz I
-item.hfrlc:red_root=Scharlachrote Wurzel
-
-## GEBRAUCHSGEGENSTÄNDE
-item.hfrlc:recover_potion=§fRückkehrtrank~LINEBREAK~§7Teleportiert dich zu deinem letzten Todesort
-item.hfrlc:sleeping_bag=§fSchlafsack~LINEBREAK~§7Setzt keinen Wiederbelebungspunkt
-item.hfrlc:teleport_scroll=§fTeleportationsschriftrolle~LINEBREAK~§7Teleportiert dich zu deinem letzten Wiederbelebungspunkt
-item.hfrlc:warpstone=§fTeleportationsstein~LINEBREAK~§7Schlagen um Interface zu öffnen
-item.hfrlc:water_flasks_empty=§fWasserflasche~LINEBREAK~§7Es sind 0 Verwendungen übrig.~LINEBREAK~Fülle sie mit Wasser
-item.hfrlc:water_flasks=§fWasserflasche
+## UTILITY ITEMS
+item.hfrlc:recover_potion=§fRückruf-Trank~LINEBREAK~§7Teleportiert dich zu deinem letzten Todespunkt
+item.hfrlc:sleeping_bag=§fSchlafsack~LINEBREAK~§7Setzt keinen Spawnpunkt
+item.hfrlc:teleport_scroll=§fTeleportationsrolle~LINEBREAK~§7Teleportiert dich zu deinem letzten Spawnpunkt
+item.hfrlc:warpstone=§fWarpstein~LINEBREAK~§7Anschlagen, um das Interface zu öffnen
+item.hfrlc:water_flasks_empty=§fWasserblase~LINEBREAK~§70 Nutzungen verbleiben.~LINEBREAK~Fülle sie mit Wasser
+item.hfrlc:water_flasks=§fWasserblase
 item.hfrlc:copper_coin=Kupfermünze
 item.hfrlc:silver_coin=Silbermünze
 item.hfrlc:gold_coin=Goldmünze
-item.hfrlc:air_essence=§bLuft-Essenz
-item.hfrlc:earth_essence=§bErd-Essenz
-item.hfrlc:fire_essence=§bFeuer-Essenz
-item.hfrlc:ice_essence=§bEis-Essenz
+item.hfrlc:air_essence=§bLuftessenz
+item.hfrlc:earth_essence=§bErdeessenz
+item.hfrlc:fire_essence=§bFeuressenz
+item.hfrlc:ice_essence=§bEisessenz
 item.hfrlc:thunder_essence=§dDonnerstein
-item.hfrlc:water_essence=§bWasser-Essenz
-item.hfrlc:briariron_ingot=§bDorneneisen-Barren
-item.hfrlc:neptunium_ingot=§bNeptunium-Barren
-item.hfrlc:shadow_stone=§bSchattensteín
-item.hfrlc:voidsteel_ingot=§dLeerenstahl-Barren
+item.hfrlc:water_essence=§bWasseressenz
+item.hfrlc:briariron_ingot=§bDorneneisenbarren
+item.hfrlc:neptunium_ingot=§bNeptuniumbarren
+item.hfrlc:shadow_stone=§bSchattenstein
+item.hfrlc:voidsteel_ingot=§dLeerenstahlbarren
 
 ## ARMOR
-item.turtle_helmet.name=§l§fSchildkrötenhelm§r§f~LINEBREAK~ 
-item.elytra.name=§l§fElytra§r§f~LINEBREAK~
+item.turtle_helmet.name=§l§fSchildkrötenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7275§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schildkrötenschild§r
+item.elytra.name=§l§fElytra§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7432§r~LINEBREAK~ §8Reparaturmaterial:§r §7Phantomhaut§r
 
-item.leather_boots.name=§l§fLederstiefel§r§f~LINEBREAK~ 
-item.leather_chestplate.name=§l§fLedertunika§r§f~LINEBREAK~ 
-item.leather_helmet.name=§l§fLederhelm§r§f~LINEBREAK~ 
-item.leather_leggings.name=§l§fLedergamaschen§r§f~LINEBREAK~ 
+item.leather_boots.name=§l§fLederschuhe§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §765§r~LINEBREAK~ §8Reparaturmaterial:§r §7Leder§r
+item.leather_chestplate.name=§l§fLederwams§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §780§r~LINEBREAK~ §8Reparaturmaterial:§r §7Leder§r
+item.leather_helmet.name=§l§fLederhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §755§r~LINEBREAK~ §8Reparaturmaterial:§r §7Leder§r
+item.leather_leggings.name=§l§fLederhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §775§r~LINEBREAK~ §8Reparaturmaterial:§r §7Leder§r
 
-item.golden_boots.name=§l§fGoldene Stiefel§r§f~LINEBREAK~ 
-item.golden_chestplate.name=§l§fGoldene Brustplatte§r§f~LINEBREAK~ 
-item.golden_helmet.name=§l§fGoldener Helm§r§f~LINEBREAK~ 
-item.golden_leggings.name=§l§fGoldene Gamaschen§r§f~LINEBREAK~ 
+item.golden_boots.name=§l§fGoldschuhe§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §791§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.golden_chestplate.name=§l§fGoldbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7112§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.golden_helmet.name=§l§fGoldhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §777§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.golden_leggings.name=§l§fGoldhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7105§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
 
-item.hfrlc:pirate_boots=§l§fKorsarenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)
-item.hfrlc:pirate_chestplate=§l§fKorsarentunika§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)
-item.hfrlc:pirate_helmet=§l§fKorsarendreispitz§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)
-item.hfrlc:pirate_leggings=§l§fKorsarengamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)
+item.hfrlc:pirate_boots=§l§fKorsarenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7195§r~LINEBREAK~ §8Reparaturmaterial:§r §7Piratenstoff§r
+item.hfrlc:pirate_chestplate=§l§fKorsarenwams§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7240§r~LINEBREAK~ §8Reparaturmaterial:§r §7Piratenstoff§r
+item.hfrlc:pirate_helmet=§l§fKorsaren-Dreispitz§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7165§r~LINEBREAK~ §8Reparaturmaterial:§r §7Piratenstoff§r
+item.hfrlc:pirate_leggings=§l§fKorsarenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Geschwindigkeit II (Komplettset)~LINEBREAK~+1 Wasseratmung (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7225§r~LINEBREAK~ §8Reparaturmaterial:§r §7Piratenstoff§r
 
-item.iron_boots.name=§l§fEisenstiefel§r§f~LINEBREAK~ 
-item.iron_chestplate.name=§l§fEisenbrustplatte§r§f~LINEBREAK~ 
-item.iron_helmet.name=§l§fEisenhelm§r§f~LINEBREAK~ 
-item.iron_leggings.name=§l§fEisengamaschen§r§f~LINEBREAK~ 
+item.iron_boots.name=§l§fEisenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7195§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.iron_chestplate.name=§l§fEisenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7240§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.iron_helmet.name=§l§fEisenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7165§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.iron_leggings.name=§l§fEisenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7225§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
 
-item.chainmail_boots.name=§l§fKettenstiefel§r§f~LINEBREAK~ 
-item.chainmail_chestplate.name=§l§fKettenbrustplatte§r§f~LINEBREAK~ 
-item.chainmail_helmet.name=§l§fKettenhelm§r§f~LINEBREAK~ 
-item.chainmail_leggings.name=§l§fKettengamaschen§r§f~LINEBREAK~ 
+item.chainmail_boots.name=§l§fKettenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7195§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kein Reparaturmaterial§r
+item.chainmail_chestplate.name=§l§fKettenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7240§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kein Reparaturmaterial§r
+item.chainmail_helmet.name=§l§fKettenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7165§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kein Reparaturmaterial§r
+item.chainmail_leggings.name=§l§fKettenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7225§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kein Reparaturmaterial§r
 
-item.diamond_boots.name=§l§fDiamantstiefel§r§f~LINEBREAK~ 
-item.diamond_chestplate.name=§l§fDiamantbrustplatte§r§f~LINEBREAK~ 
-item.diamond_helmet.name=§l§fDiamanthelm§r§f~LINEBREAK~ 
-item.diamond_leggings.name=§l§fDiamantgamaschen§r§f~LINEBREAK~ 
+item.diamond_boots.name=§l§fDiamantstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7429§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.diamond_chestplate.name=§l§fDiamantbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7528§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.diamond_helmet.name=§l§fDiamanthelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7363§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.diamond_leggings.name=§l§fDiamanthose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7495§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
 
-item.netherite_boots.name=§l§fNetheritstiefel§r§f~LINEBREAK~ 
-item.netherite_chestplate.name=§l§fNetheritbrustplatte§r§f~LINEBREAK~ 
-item.netherite_helmet.name=§l§fNetherithelm§r§f~LINEBREAK~ 
-item.netherite_leggings.name=§l§fNetheritgamaschen§r§f~LINEBREAK~ 
+item.netherite_boots.name=§l§fNetheritstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7481§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netheritbarren§r
+item.netherite_chestplate.name=§l§fNetheritbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7592§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netheritbarren§r
+item.netherite_helmet.name=§l§fNetherithelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7407§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netheritbarren§r
+item.netherite_leggings.name=§l§fNetherithose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7555§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netheritbarren§r
 
-item.hfrlc:blue_dragon_boots=§l§fBlaue Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzeschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:blue_dragon_chestplate=§l§fBlaue Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzeschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:blue_dragon_helmet=§l§fBlauer Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzeschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:blue_dragon_leggings=§l§fBlaue Drachengamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzeschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
+item.hfrlc:blue_dragon_boots=§l§fBlaue Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzebeständigkeit I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71655§r~LINEBREAK~ §8Reparaturmaterial:§r §7Blaue Drachenschuppen§r
+item.hfrlc:blue_dragon_chestplate=§l§fBlaue Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzebeständigkeit I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72035§r~LINEBREAK~ §8Reparaturmaterial:§r §7Blaue Drachenschuppen§r
+item.hfrlc:blue_dragon_helmet=§l§fBlauer Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzebeständigkeit I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71400§r~LINEBREAK~ §8Reparaturmaterial:§r §7Blaue Drachenschuppen§r
+item.hfrlc:blue_dragon_leggings=§l§fBlaue Drachenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Hitzebeständigkeit I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71910§r~LINEBREAK~ §8Reparaturmaterial:§r §7Blaue Drachenschuppen§r
 
+item.hfrlc:brown_dragon_boots=§l§fBraune Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7945§r~LINEBREAK~ §8Reparaturmaterial:§r §7Braune Drachenschuppen§r
+item.hfrlc:brown_dragon_chestplate=§l§fBraune Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71165§r~LINEBREAK~ §8Reparaturmaterial:§r §7Braune Drachenschuppen§r
+item.hfrlc:brown_dragon_helmet=§l§fBrauner Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7800§r~LINEBREAK~ §8Reparaturmaterial:§r §7Braune Drachenschuppen§r
+item.hfrlc:brown_dragon_leggings=§l§fBraune Drachenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71090§r~LINEBREAK~ §8Reparaturmaterial:§r §7Braune Drachenschuppen§r
 
-item.hfrlc:brown_dragon_boots=§l§fBraune Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:brown_dragon_chestplate=§l§fBraune Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:brown_dragon_helmet=§l§fBrauner Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:brown_dragon_leggings=§l§fBraune Drachengamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
+item.hfrlc:green_dragon_boots=§l§fGrüne Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71655§r~LINEBREAK~ §8Reparaturmaterial:§r §7Grüne Drachenschuppen§r
+item.hfrlc:green_dragon_chestplate=§l§fGrüne Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72035§r~LINEBREAK~ §8Reparaturmaterial:§r §7Grüne Drachenschuppen§r
+item.hfrlc:green_dragon_helmet=§l§fGrüner Drachenhelm§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7400§r~LINEBREAK~ §8Reparaturmaterial:§r §7Grüne Drachenschuppen§r
+item.hfrlc:green_dragon_leggings=§l§fGrüne Drachenhose§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71910§r~LINEBREAK~ §8Reparaturmaterial:§r §7Grüne Drachenschuppen§r
 
-item.hfrlc:green_dragon_boots=§l§fGrüne Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftschutz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:green_dragon_chestplate=§l§fGrüne Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftschutz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:green_dragon_helmet=§l§fGrüner Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftschutz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:green_dragon_leggings=§l§fGrüne Drachengamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Giftschutz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
+item.hfrlc:red_dragon_boots=§l§fRote Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostresistenz I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71655§r~LINEBREAK~ §8Reparaturmaterial:§r §7Rote Drachenschuppen§r
+item.hfrlc:red_dragon_chestplate=§l§fRote Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostresistenz I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72035§r~LINEBREAK~ §8Reparaturmaterial:§r §7Rote Drachenschuppen§r
+item.hfrlc:red_dragon_helmet=§l§fRoter Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostresistenz I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71400§r~LINEBREAK~ §8Reparaturmaterial:§r §7Rote Drachenschuppen§r
+item.hfrlc:red_dragon_leggings=§l§fRote Drachenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostresistenz I (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71910§r~LINEBREAK~ §8Reparaturmaterial:§r §7Rote Drachenschuppen§r
 
-item.hfrlc:red_dragon_boots=§l§fRote Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:red_dragon_chestplate=§l§fRote Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:red_dragon_helmet=§l§fRoter Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:red_dragon_leggings=§l§fRote Drachengamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Frostschutz I (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
+item.hfrlc:dark_dragon_boots=§l§fSchwarze Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsresistenz (Komplettset)~LINEBREAK~+1 Dunkelheitsresistenz (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71180§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schwarze Drachenschuppen§r
+item.hfrlc:dark_dragon_chestplate=§l§fSchwarze Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsresistenz (Komplettset)~LINEBREAK~+1 Dunkelheitsresistenz (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71455§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schwarze Drachenschuppen§r
+item.hfrlc:dark_dragon_helmet=§l§fSchwarzer Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsresistenz (Komplettset)~LINEBREAK~+1 Dunkelheitsresistenz (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schwarze Drachenschuppen§r
+item.hfrlc:dark_dragon_leggings=§l§fSchwarze Drachenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsresistenz (Komplettset)~LINEBREAK~+1 Dunkelheitsresistenz (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71360§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schwarze Drachenschuppen§r
 
-item.hfrlc:dark_dragon_boots=§l§fSchwarze Drachenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsschutz (Komplettset)~LINEBREAK~+1 Dunkelschutz (Komplettset)
-item.hfrlc:dark_dragon_chestplate=§l§fSchwarze Drachenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsschutz (Komplettset)~LINEBREAK~+1 Dunkelschutz (Komplettset)
-item.hfrlc:dark_dragon_helmet=§l§fSchwarzer Drachenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsschutz (Komplettset)~LINEBREAK~+1 Dunkelschutz (Komplettset)
-item.hfrlc:dark_dragon_leggings=§l§fSchwarze Drachengamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Blindheitsschutz (Komplettset)~LINEBREAK~+1 Dunkelschutz (Komplettset)
+item.hfrlc:earth_dragon_boots=§l§fDrachenknochenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7830§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:earth_dragon_chestplate=§l§fDrachenknochenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71020§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:earth_dragon_helmet=§l§fDrachenknochenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:earth_dragon_leggings=§l§fDrachenknochenhose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Resistenz I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7955§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
 
-item.hfrlc:earth_dragon_boots=§l§fDrachenknochenstiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:earth_dragon_chestplate=§l§fDrachenknochenbrustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:earth_dragon_helmet=§l§fDrachenknochenhelm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
-item.hfrlc:earth_dragon_leggings=§l§fDrachenknochengamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Rückstoßresistenz (Komplettset)~LINEBREAK~+1 Widerstand I (Komplettset)
+item.hfrlc:samurai_boots=§l§fRonin-Stiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Stärke I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7710§r~LINEBREAK~ §8Reparaturmaterial:§r §7Antike Platten§r
+item.hfrlc:samurai_chestplate=§l§fRonin-Brustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Stärke I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7875§r~LINEBREAK~ §8Reparaturmaterial:§r §7Antike Platten§r
+item.hfrlc:samurai_helmet=§l§fRonin-Helm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Stärke I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7600§r~LINEBREAK~ §8Reparaturmaterial:§r §7Antike Platten§r
+item.hfrlc:samurai_leggings=§l§fRonin-Hose§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliedmaßenschutz~LINEBREAK~+1 Stärke I (Komplettset)§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7820§r~LINEBREAK~ §8Reparaturmaterial:§r §7Antike Platten§r
 
-item.hfrlc:samurai_boots=§l§fRonin-Stiefel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Stärke I (Komplettset)
-item.hfrlc:samurai_chestplate=§l§fRonin-Brustplatte§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Stärke I (Komplettset)
-item.hfrlc:samurai_helmet=§l§fRonin-Helm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Stärke I (Komplettset)
-item.hfrlc:samurai_leggings=§l§fRonin-Gamaschen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 Gliederschutz~LINEBREAK~+1 Stärke I (Komplettset)
-
-## TRINKETS
-item.hfrlc:golden_ring=§l§fGoldener Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fühlt sich etwas~LINEBREAK~§o  schwerer an, als es aussieht."§r
-item.hfrlc:ancient_root=§l§fUralte Wurzel§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistenz gegen Langsamkeit~LINEBREAK~~LINEBREAK~§7§o"Verknotetes Holz~LINEBREAK~§o  absorbiert Erschöpfung."§r
-item.hfrlc:goat_horns=§l§fZiegenhörner§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistenz gegen Abbau-Müdigkeit~LINEBREAK~~LINEBREAK~§7§o"Mit Gold vergoldet."§r
-item.hfrlc:cyclops_eye=§l§fZyklopenauge§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistenz gegen Blindheit~LINEBREAK~Dunkelheitsresistenz~LINEBREAK~~LINEBREAK~§7§o"Nützlich, selbst wenn du~LINEBREAK~§o  zweiaugig bist."§r
+## SCHMUCKSTÜCKE
+item.hfrlc:golden_ring=§l§fGoldener Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Fühlt sich etwas~LINEBREAK~§o  schwerer an, als er aussieht."§r
+item.hfrlc:ancient_root=§l§fUralte Wurzel§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Widerstand gegen Langsamkeit~LINEBREAK~~LINEBREAK~§7§o"Verknotetes Holz~LINEBREAK~§o  absorbiert Ermüdung."§r
+item.hfrlc:goat_horns=§l§fZiegenhörner§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Widerstand gegen Bergbauerschöpfung~LINEBREAK~~LINEBREAK~§7§o"Mit Gold vergoldet."§r
+item.hfrlc:cyclops_eye=§l§fZyklopenauge§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Widerstand gegen Blindheit~LINEBREAK~Widerstand gegen Dunkelheit~LINEBREAK~~LINEBREAK~§7§o"Nützlich, auch wenn~LINEBREAK~§o  du nur ein Einäugiger bist."§r
 item.hfrlc:teddy_of_comfort=§l§fTrost-Teddy§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneration I~LINEBREAK~~LINEBREAK~§7§o"Umarmungen heilen~LINEBREAK~§o  alle Wunden."§r
-item.hfrlc:warmer=§l§fEwige Glut§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kälteresistenz~LINEBREAK~~LINEBREAK~§7§o"Eine kleine Glut ist~LINEBREAK~§o  von Flammen umgeben.~LINEBREAK~§o  Egal, wie kalt es ist,~LINEBREAK~§o  sie hält dich warm."§r
-item.hfrlc:ice_bag=§l§fEwiges Eis§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Hitzebeständigkeit~LINEBREAK~~LINEBREAK~§7§o"Eis schmilzt nicht,~LINEBREAK~§o  egal wie heiß es wird."§r
-item.hfrlc:antidote_vital=§l§fGegengiftfläschchen§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Giftschutz~LINEBREAK~~LINEBREAK~§7§o"Die Flüssigkeit bleibt~LINEBREAK~§o  ruhig, egal wie sehr~LINEBREAK~§o  du sie schüttelst."§r
-item.hfrlc:greatest_shield=§l§fGroßer Schild§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Rückstoßresistenz~LINEBREAK~Lebenspunkte I~LINEBREAK~~LINEBREAK~§7§o"Er absorbiert~LINEBREAK~§o  alle Erschütterungen."§r
-item.hfrlc:ring_jump=§l§fSprungring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Sprungkraft II~LINEBREAK~~LINEBREAK~§7§o"Du fühlst dich viel~LINEBREAK~§o  leichter als zuvor… Neugierig."§r
-item.hfrlc:ring_speed=§l§fSchnellfinger§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Geschwindigkeit I~LINEBREAK~~LINEBREAK~§7§o"Flüstert den Drang~LINEBREAK~§o  woanders zu sein."§r
-item.hfrlc:blessed_water=§l§fGeweihtes Wasser§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Wither-Resistenz~LINEBREAK~~LINEBREAK~§7§o"Ein Tropfen reicht~LINEBREAK~§o  um jede Verderbnis~LINEBREAK~§o  wegzuwaschen."§r
-item.hfrlc:mining_amulet=§l§fBergbauamulett§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Eile I~LINEBREAK~~LINEBREAK~§7§o"Erhellt den Weg~LINEBREAK~§o  voran."§r
-item.hfrlc:shulker_anchor=§l§fShulker-Anker§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Schwebe-Resistenz~LINEBREAK~~LINEBREAK~§7§o"Etwas Magisches~LINEBREAK~§o  zieht ihn zum Boden."§r
-item.hfrlc:dragon_eyes=§l§fDrachenauge§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Feuerresistenz~LINEBREAK~Nachtsicht~LINEBREAK~Dunkelheitsresistenz~LINEBREAK~~LINEBREAK~§7§o"Feuriger Blick verbrennt~LINEBREAK~§o  alle Schatten."§r
-item.hfrlc:ring_regeneration=§l§fRing der Regeneration§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneration I~LINEBREAK~~LINEBREAK~§7§o"Es pulsiert an deinem Finger."§r
-item.hfrlc:ring_resistance=§l§fRing des Widerstands§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Widerstand I~LINEBREAK~~LINEBREAK~§7§o"Gehärtet in Prüfungen der Ausdauer."§r
-item.hfrlc:ring_strength=§l§fRing der Kraft§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Stärke I~LINEBREAK~~LINEBREAK~§7§o"Die Kraft eines Riesen schläft in ihm."§r
-item.hfrlc:feather_swiftness=§l§fFederflinkheit§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Geschwindigkeit II~LINEBREAK~Langsamer Fall II~LINEBREAK~~LINEBREAK~§7§o"Egal wohin du gehst, der Wind folgt dir."§r
-item.hfrlc:great_horn_shield=§l§fGroßer Hornschild§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Rückstoßresistenz~LINEBREAK~Abbaumüdigkeitsresistenz~LINEBREAK~Lebensenergie I~LINEBREAK~~LINEBREAK~§7§o"Durchdrungen von einem schützenden Siegel."§r
-item.hfrlc:withering_necklace=§l§fNekrowirker-Halskette§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Wither-Effekt I~LINEBREAK~~LINEBREAK~§7§o"Der Wither-Schädel scheint zu ruhen."§r
-item.hfrlc:panacea=§p§lPanacea§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDÄRER GEGENSTAND§r§9~LINEBREAK~~LINEBREAK~Blindheitsresistenz~LINEBREAK~Langsamkeitsresistenz~LINEBREAK~Giftschutz~LINEBREAK~Wither-Resistenz~LINEBREAK~Abbaumüdigkeitsresistenz~LINEBREAK~Schwebe-Resistenz~LINEBREAK~~LINEBREAK~§7§o"Ein Heilmittel, um sie alle zu heilen."§r
-item.hfrlc:dragon_slayer_cape=§p§lDrachenbezwinger-Umhang§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDÄRER GEGENSTAND§r§9~LINEBREAK~~LINEBREAK~Blindheitsresistenz~LINEBREAK~Langsamkeitsresistenz~LINEBREAK~Giftschutz~LINEBREAK~Wither-Resistenz~LINEBREAK~Rückstoßresistenz~LINEBREAK~Explosionsresistenz~LINEBREAK~Feuerresistenz~LINEBREAK~Abbaumüdigkeitsresistenz~LINEBREAK~~LINEBREAK~§7§o"Gewebt aus dem Sieg über gefallene Bestien."§r
-item.hfrlc:dragon_slayer_ring=§p§lDrachenbezwinger-Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDÄRER GEGENSTAND§r§9~LINEBREAK~~LINEBREAK~Stärke II~LINEBREAK~Lebenspunkte V~LINEBREAK~Widerstand I~LINEBREAK~~LINEBREAK~§7§o"Derjenige, vor dem sie sich fürchten..."§r
-item.hfrlc:lapis_ring=§l§fLapis-Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Nicht so reflektierend, aber definitiv schick."§r
-item.hfrlc:silver_ring=§l§fEisenring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Er ist so glänzend, dass man ihn für Silber halten könnte."§r
-item.hfrlc:netherite_ring=§l§fNetherit-Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Er gehört nicht in diese Welt. Jemand sollte ihn in den Nether zurückbringen."§r
+item.hfrlc:warmer=§l§fEwige Glut§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Kälteresistenz~LINEBREAK~~LINEBREAK~§7§o"Eine kleine Glut~LINEBREAK~§o  in Flammen gehüllt.~LINEBREAK~§o  Egal wie kalt es ist, sie~LINEBREAK~§o  hält dich warm."§r
+item.hfrlc:ice_bag=§l§fEwiges Eis§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Hitzebeständigkeit~LINEBREAK~~LINEBREAK~§7§o"Eis schmilzt nicht~LINEBREAK~§o  egal wie heiß es wird."§r
+item.hfrlc:antidote_vital=§l§fGegengift-Fläschchen§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Giftresistenz~LINEBREAK~~LINEBREAK~§7§o"Flüssigkeit darin~LINEBREAK~§o  bleibt still, egal~LINEBREAK~§o  wie sehr du sie~LINEBREAK~§o  schüttelst."§r
+item.hfrlc:greatest_shield=§l§fGroßer Schild§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Rückstoßresistenz~LINEBREAK~Gesundheitsbonus I~LINEBREAK~~LINEBREAK~§7§o"Er absorbiert~LINEBREAK~§o  alle Vibrationen."§r
+item.hfrlc:ring_jump=§l§fRing des Sprungs§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Sprungverstärkung II~LINEBREAK~~LINEBREAK~§7§o"Du fühlst dich viel leichter~LINEBREAK~§o  als zuvor... Neugierig."§r
+item.hfrlc:ring_speed=§l§fSchnellfinger§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Geschwindigkeit I~LINEBREAK~~LINEBREAK~§7§o"Flüstert mit~LINEBREAK~§o  dem Drang,~LINEBREAK~§o  woanders zu sein."§r
+item.hfrlc:blessed_water=§l§fGesegnetes Wasser§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Wither-Resistenz~LINEBREAK~~LINEBREAK~§7§o"Ein Tropfen genügt,~LINEBREAK~§o  um alle Korruption~LINEBREAK~§o  wegzuwaschen."§r
+item.hfrlc:mining_amulet=§l§fBergbau-Amulett§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Eile I~LINEBREAK~~LINEBREAK~§7§o"Erleuchtet den Weg~LINEBREAK~§o  nach vorne."§r
+item.hfrlc:shulker_anchor=§l§fShulker-Anker§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Schwebewiderstand~LINEBREAK~~LINEBREAK~§7§o"Etwas Magisches~LINEBREAK~§o  hält es am Boden."§r
+item.hfrlc:dragon_eyes=§l§fDrachenauge§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Feuerresistenz~LINEBREAK~Nachtblick~LINEBREAK~Dunkelheitsresistenz~LINEBREAK~~LINEBREAK~§7§o"Feuriger Blick verbrennt~LINEBREAK~§o  alle Schatten."§r
+item.hfrlc:ring_regeneration=§l§fRing der Regeneration§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Regeneration I~LINEBREAK~~LINEBREAK~§7§o"Er pulsiert~LINEBREAK~§o  an deinem Finger."§r
+item.hfrlc:ring_resistance=§l§fRing des Widerstands§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Resistenz I~LINEBREAK~~LINEBREAK~§7§o"Geschmiedet in Prüfungen~LINEBREAK~§o  der Ausdauer."§r
+item.hfrlc:ring_strength=§l§fRing der Stärke§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Stärke I~LINEBREAK~~LINEBREAK~§7§o"Die Kraft der Riesen~LINEBREAK~§o  schlummert darin."§r
+item.hfrlc:feather_swiftness=§l§fFeder der Schnelligkeit§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Geschwindigkeit II~LINEBREAK~Langsames Fallen II~LINEBREAK~~LINEBREAK~§7§o"Egal wohin du gehst,~LINEBREAK~§o  der Wind folgt dir."§r
+item.hfrlc:great_horn_shield=§l§fGroßer Hornschild§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Rückstoßresistenz~LINEBREAK~Widerstand gegen Bergbauerschöpfung~LINEBREAK~Gesundheitsbonus I~LINEBREAK~~LINEBREAK~§7§o"Mit einem Schutzsiegel~LINEBREAK~§o  versehen."§r
+item.hfrlc:withering_necklace=§l§fVerwelkendes Halsband§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~Wither-Aspekt I~LINEBREAK~~LINEBREAK~§7§o"Der Wither-Schädel scheint~LINEBREAK~§o  ruhend zu sein."§r
+item.hfrlc:panacea=§p§lAllheilmittel§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDE§r§9~LINEBREAK~~LINEBREAK~Widerstand gegen Blindheit~LINEBREAK~Widerstand gegen Langsamkeit~LINEBREAK~Giftresistenz~LINEBREAK~Wither-Resistenz~LINEBREAK~Widerstand gegen Bergbauerschöpfung~LINEBREAK~Schwebewiderstand~LINEBREAK~~LINEBREAK~§7§o"Ein Heilmittel, um~LINEBREAK~§o  sie alle zu heilen."§r
+item.hfrlc:dragon_slayer_cape=§p§lDrachentöter-Umhang§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDE§r§9~LINEBREAK~~LINEBREAK~Widerstand gegen Blindheit~LINEBREAK~Widerstand gegen Langsamkeit~LINEBREAK~Giftresistenz~LINEBREAK~Wither-Resistenz~LINEBREAK~Rückstoßresistenz~LINEBREAK~Explosionsresistenz~LINEBREAK~Feuerresistenz~LINEBREAK~Widerstand gegen Bergbauerschöpfung~LINEBREAK~~LINEBREAK~§7§o"Gewoben aus~LINEBREAK~§o  Sieg über~LINEBREAK~§o  gefallene Bestien."§r
+item.hfrlc:dragon_slayer_ring=§p§lDrachentöter-Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDE§r§9~LINEBREAK~~LINEBREAK~Stärke I~LINEBREAK~Gesundheitsbonus V~LINEBREAK~Resistenz I~LINEBREAK~~LINEBREAK~§7§o"Der, den sie~LINEBREAK~§o  fürchten..."§r
+item.hfrlc:lapis_ring=§l§fLapislazuli-Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Nicht so reflektierend~LINEBREAK~§o  aber auf jeden Fall edel."§r
+item.hfrlc:silver_ring=§l§fEisenring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Er ist glänzend genug,~LINEBREAK~§o  dass man ihn für Silber~LINEBREAK~§o  halten könnte."§r
+item.hfrlc:netherite_ring=§l§fNetherrit-Ring§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Er gehört nicht~LINEBREAK~§o  zu dieser Ebene. Jemand~LINEBREAK~§o  sollte ihn zurück~LINEBREAK~§o  in den Nether bringen."§r
 
 
-## SWORDS
-item.wooden_sword.name=§l§fHolzschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dein erster Schritt~LINEBREAK~§o  zur Meisterschaft."§r
-item.stone_sword.name=§l§fSteinschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ein solides Fundament~LINEBREAK~§o  für einen Krieger."§r
-item.golden_sword.name=§l§fGoldschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Glänzend, aber~LINEBREAK~§o  nicht robust."§r
-item.hfrlc:spike_sword=§l§fImpulse§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand, um einen Impuls in der Luft zu erhalten.~LINEBREAK~Repariere mit Eisenbarren.~LINEBREAK~~LINEBREAK~§7§o"Trotze der Schwerkraft~LINEBREAK~§o  mit jedem Schlag."§r
-item.iron_sword.name=§l§fEisenschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zuverlässiger Stahl,~LINEBREAK~§o  fachmännisch geschmiedet."§r
-item.hfrlc:darkness_sword=§l§fShadowrend§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um dich in Schatten zu verbergen.~LINEBREAK~Repariere mit Schattenstein.~LINEBREAK~~LINEBREAK~§7§o"Erlegte Gegner werden~LINEBREAK~§o  ins Schattenreich gesandt."§r
-item.hfrlc:weapon_4=§l§fBone Sword§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Repariere mit Schattenstein.~LINEBREAK~~LINEBREAK~§7§o"Die scharfe Kante~LINEBREAK~§o  des Todes."§r
-item.hfrlc:water_sword=§l§fCurrent§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um ein Wasserprojektil abzufeuern.~LINEBREAK~Repariere mit Wasseressenz.~LINEBREAK~~LINEBREAK~§7§o"Reines Wasser fließt~LINEBREAK~§o  durch Stahl."§r
-item.diamond_sword.name=§l§fDiamantschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kristalline Perfektion~LINEBREAK~§o  in Waffenform."§r
-item.hfrlc:air_sword=§l§fVigilance§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um eine Windböe zu erzeugen.~LINEBREAK~Repariere mit Luftessenz.~LINEBREAK~~LINEBREAK~§7§o"Nutze die Kraft~LINEBREAK~§o  des Windes selbst."§r
-item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um einen Super-Sprung auszuführen.~LINEBREAK~Repariere mit Luftessenz.~LINEBREAK~~LINEBREAK~§7§o"Springe bis zu den~LINEBREAK~§o  Sternen."§r
-item.hfrlc:weapon_8=§l§fIce Sword§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~~LINEBREAK~§9Repariere mit Eisessenz.~LINEBREAK~~LINEBREAK~§7§o"Der Biss des Winters~LINEBREAK~§o  wird Wirklichkeit."§r
-item.netherite_sword.name=§l§fNetherit-Schwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Geschmiedet in den Tiefen~LINEBREAK~§o  des Nether."§r
-item.hfrlc:fire_sword=§l§fFlame Sword§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um ein Feuerprojektil abzufeuern.~LINEBREAK~Repariere mit Feueressenz.~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~~LINEBREAK~§7§o"Feurige Projektile~LINEBREAK~§o  versengen Feinde."§r
-item.hfrlc:ice_sword=§l§fGletscher§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand, um ein Eisprojektiel abzufeuern.~LINEBREAK~Erzeugt Eisspitzen, wenn du hockst und angreifst.~LINEBREAK~Repariere mit Eisessenz.~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~~LINEBREAK~§7§o"Eisspitzen durchbohren,~LINEBREAK~§o  wenn du dich duckst."§r
-item.hfrlc:ocean_sword=§l§fGezeitenbrecher§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+Ducken zum Abfeuern eines Wasserprojektils.~LINEBREAK~Nutze den Gegenstand, um eine Wasser-Schockwelle zu erzeugen.~LINEBREAK~Repariere mit Neptunium-Barren.~LINEBREAK~~LINEBREAK~§7§o"Flutwellen krachen~LINEBREAK~§o  auf dein Kommando."§r
-item.hfrlc:weapon_6=§l§fElden-Schwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Uralte Kraft~LINEBREAK~§o  durchströmt den Stahl."§r
-item.hfrlc:weapon_7=§l§fLangschwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Verlängerte Reichweite~LINEBREAK~§o  für ausgedehnte Kämpfe."§r
-item.hfrlc:weapon_5=§l§fHammer-Schwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zermalmende Kraft~LINEBREAK~§o  trifft auf schneidende Schärfe."§r
-item.hfrlc:dragon_bone_sword=§l§fDrachenknochen-Langschwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Aus uralten~LINEBREAK~§o  Drachenschädeln geschmiedet."§r
-item.hfrlc:earth_sword=§l§fErdenspalt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand, um Stalaktiten zu erzeugen,~LINEBREAK~die nahe Gegner verletzen.~LINEBREAK~Repariere mit Dornenstahl-Barren.~LINEBREAK~~LINEBREAK~§7§o"Steinspeere erheben sich~LINEBREAK~§o  aus dem Boden."§r
-item.hfrlc:ice_dragon_bone_sword=§l§fBlizzard§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Eis und Knochen~LINEBREAK~§o  zu einer Waffe geschmiedet."§r
-item.hfrlc:fire_dragon_bone_sword=§l§fEmbersong§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"In Drachenfeuer~LINEBREAK~§o  selbst geschmiedet."§r
-item.hfrlc:lava_sword=§l§fMeteorenschwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand, um Meteore zu beschwören.~LINEBREAK~Repariere mit Feueressenz.~LINEBREAK~~LINEBREAK~§7§o"Meteore regnen~LINEBREAK~§o  vom Himmel."§r
-item.hfrlc:ender_sword=§l§fBlink§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um dich zum Ziel zu teleportieren.~LINEBREAK~Repariere mit Leerstahl-Barren.~LINEBREAK~~LINEBREAK~§7§o"Teleportiere dorthin,~LINEBREAK~§o  wo du zielst."§r
-item.hfrlc:storm_sword=§l§fWirbelwind§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um einen Hurrikan zu erzeugen.~LINEBREAK~Repariere mit Donnerstein.~LINEBREAK~~LINEBREAK~§7§o"Stürme gehorchen~LINEBREAK~§o  deinem Willen."§r
-item.hfrlc:thunder_sword=§l§fStormbreak§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um einen Blitz zu entfesseln.~LINEBREAK~Repariere mit Donnerstein.~LINEBREAK~~LINEBREAK~§9Blitzaspekt~LINEBREAK~~LINEBREAK~§7§o"Donner gehorcht~LINEBREAK~§o  jedem deiner Schläge."§r
-item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDÄRER GEGENSTAND§r§9~LINEBREAK~~LINEBREAK~§r§dSchleichen zum Elementwechsel~LINEBREAK~~LINEBREAK~§7§o"Endlich...~LINEBREAK~§o  kann ich ruhen."§r
-item.hfrlc:dirt_sword=§l§fErdschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um ein Erdprojektil abzufeuern.~LINEBREAK~Repariere mit Erde.~LINEBREAK~~LINEBREAK~§7§o"Die Grundlage der~LINEBREAK~§o  Erde als Waffe."§r
-item.hfrlc:jungle_sword=§l§fImmergrün§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Nutze den Gegenstand, um einen Stein aus dem Boden~LINEBREAK~§o  hervorzubrechen.~LINEBREAK~Repariere mit Erdeßenz.~LINEBREAK~~LINEBREAK~§7§o"Es sehnt sich nach~LINEBREAK~§o  fruchtbarem Boden."§r
+## SCHWERTER
+item.wooden_sword.name=§l§fHolzschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Dein erster Schritt~LINEBREAK~§o  zur Meisterschaft."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §760§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
+item.stone_sword.name=§l§fSteinschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Solide Grundlage~LINEBREAK~§o  für einen Krieger."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7130§r~LINEBREAK~ §8Reparaturmaterial:§r §7Pflasterstein§r
+item.golden_sword.name=§l§fGoldschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Glänzend, aber~LINEBREAK~§o  nicht robust."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §735§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.hfrlc:spike_sword=§l§fImpuls§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um einen Impuls in der Luft zu erzeugen.~LINEBREAK~~LINEBREAK~§7§o"Trotze der Schwerkraft~LINEBREAK~§o  mit jedem Schwung."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7150§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.iron_sword.name=§l§fEisenschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zuverlässiger Stahl~LINEBREAK~§o  mit Geschick geschmiedet."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7250§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.hfrlc:darkness_sword=§l§fSchattenreißer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um dich in Schatten zu verstecken.~LINEBREAK~~LINEBREAK~§7§o"Erlegte Feinde werden~LINEBREAK~§o  ins Schattenreich~LINEBREAK~§o  gesandt."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7430§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schattenstein§r
+item.hfrlc:weapon_4=§l§fKnochenschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der geschärfte Rand~LINEBREAK~§o  des Todes."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71200§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schattenstein§r
+item.hfrlc:water_sword=§l§fStrom§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um ein Wasserprojektil zu starten.~LINEBREAK~~LINEBREAK~§7§o"Reines Wasser fließt~LINEBREAK~§o  durch Stahl."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71400§r~LINEBREAK~ §8Reparaturmaterial:§r §7Wasseressenz§r
+item.diamond_sword.name=§l§fDiamantschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Kristalline Perfektion~LINEBREAK~§o  in Waffenform."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71600§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.hfrlc:air_sword=§l§fWachsamkeit§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um eine Windböe zu erzeugen.~LINEBREAK~~LINEBREAK~§7§o"Nutze die Kraft~LINEBREAK~§o  des Windes selbst."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Luftessenz§r
+item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um einen Super-Sprung auszuführen.~LINEBREAK~~LINEBREAK~§7§o"Spring zu den Sternen~LINEBREAK~§o  selbst."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Luftessenz§r
+item.hfrlc:weapon_8=§l§fEisschwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~~LINEBREAK~§7§o"Der Biss des Winters~LINEBREAK~§o  wird sichtbar."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71800§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisessenz§r
+item.netherite_sword.name=§l§fNetherritschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Geschmiedet in den Tiefen~LINEBREAK~§o  des Nethers."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherritbarren§r
+item.hfrlc:fire_sword=§l§fFlammenschwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um ein Feuerprojektil zu starten.~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~~LINEBREAK~§7§o"Flammende Projektile~LINEBREAK~§o  versengen Feinde."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71580§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuressenz§r
+item.hfrlc:ice_sword=§l§fGletscher§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um ein Eisprojektil zu starten.~LINEBREAK~Erzeugt Eisspitzen, wenn~LINEBREAK~du in der Hocke angreifst.~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~~LINEBREAK~§7§o"Eisspitzen stechen~LINEBREAK~§o  beim Hocken."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71580§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisessenz§r
+item.hfrlc:ocean_sword=§l§fGezeitenstecher§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze + Hocken, um~LINEBREAK~ein Wasserprojektil zu schießen.~LINEBREAK~Benutze den Gegenstand,~LINEBREAK~um eine Wasser-Schockwelle zu erzeugen.~LINEBREAK~~LINEBREAK~§7§o"Gezeitenwellen krachen~LINEBREAK~§o  auf dein Kommando."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71590§r~LINEBREAK~ §8Reparaturmaterial:§r §7Neptuniumbarren§r
+item.hfrlc:weapon_6=§l§fElden-Schwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Uralte Kraft~LINEBREAK~§o  fließt durch Stahl."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71600§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherritbarren§r
+item.hfrlc:weapon_7=§l§fLangschwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Verlängerte Reichweite~LINEBREAK~§o  für längeren Kampf."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71600§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherritbarren§r
+item.hfrlc:weapon_5=§l§fHammer-Schwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zerschmetternde Kraft~LINEBREAK~§o  trifft scharfe Klinge."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71600§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherritbarren§r
+item.hfrlc:dragon_bone_sword=§l§fDrachenknochen-Langschwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Geschmiedet aus uralten~LINEBREAK~§o  Drachenresten."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenschädel§r
+item.hfrlc:earth_sword=§l§fLandsplitter§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um Stalaktiten zu erzeugen,~LINEBREAK~die nahe Entitäten verletzen.~LINEBREAK~~LINEBREAK~§7§o"Steinspieße ragen~LINEBREAK~§o  aus dem Boden."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Briarironbarren§r
+item.hfrlc:ice_dragon_bone_sword=§l§fBlizzard§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~§3Drachentöter~LINEBREAK~~LINEBREAK~§7§o"Eis und Knochen~LINEBREAK~§o  als eins geschmiedet."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eis-Drachenspirit§r
+item.hfrlc:fire_dragon_bone_sword=§l§fGlutgesang§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~§3Drachentöter~LINEBREAK~~LINEBREAK~§7§o"Geschmiedet im Feuer~LINEBREAK~§o  des Drachen selbst."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuer-Drachenspirit§r
+item.hfrlc:lava_sword=§l§fMeteor-Schwert§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um Meteore zu erzeugen.~LINEBREAK~~LINEBREAK~§7§o"Meteore regnen~LINEBREAK~§o  vom Himmel."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuressenz§r
+item.hfrlc:ender_sword=§l§fBlink§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um dich eine kurze Strecke zu teleportieren.~LINEBREAK~~LINEBREAK~§7§o"Teleportiere dorthin,~LINEBREAK~§o  wohin du zielst."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Voidsteelbarren§r
+item.hfrlc:storm_sword=§l§fWirbelwind§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um einen Hurrikan zu erzeugen.~LINEBREAK~~LINEBREAK~§7§o"Stürme beugen sich~LINEBREAK~§o  deinem Willen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Donnerstein§r
+item.hfrlc:thunder_sword=§l§fSturmbruch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um einen Blitz zu erzeugen.~LINEBREAK~~LINEBREAK~§9Blitzaspekt~LINEBREAK~~LINEBREAK~§7§o"Der Donner gehorcht~LINEBREAK~§o  jedem deiner Schläge."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Donnerstein§r
+item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDE§r§9~LINEBREAK~~LINEBREAK~§r§dSchleichen zum Wechseln der Elemente~LINEBREAK~~LINEBREAK~§7§o"Endlich...~LINEBREAK~§o  kann ich ruhen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Keines§r
+item.hfrlc:dirt_sword=§l§fErdschwert§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um ein Erdprojektil zu starten.~LINEBREAK~~LINEBREAK~§7§o"Humble Anfänge."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §790§r~LINEBREAK~ §8Reparaturmaterial:§r §7Erde§r
+item.hfrlc:jungle_sword=§l§fImmergrün§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand,~LINEBREAK~um einen Stein aus dem Boden zu sprengen.~LINEBREAK~~LINEBREAK~§7§o"Sehnt sich nach~LINEBREAK~§o  Erde darunter."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7630§r~LINEBREAK~ §8Reparaturmaterial:§r §7Erdessenz§r
 
-
-## GROSSE SCHWERTER
-item.hfrlc:wither_sword=§l§fSchlächter§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Verwende den Gegenstand, um Wither-Projektile abzuschießen.~LINEBREAK~Repariere mit Schwerem Kern.~LINEBREAK~~LINEBREAK~§uWither-Aspekt~LINEBREAK~~LINEBREAK~§7§o"Der Tod selbst führt~LINEBREAK~§o  diese Klinge."§r
-item.hfrlc:nether_sword=§l§fHöllenfeuer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Erzeuge damit einen Lavaangriff.~LINEBREAK~Repariere mit Schwerem Kern.~LINEBREAK~~LINEBREAK~§7§o"Höllenfeuer durchströmt~LINEBREAK~§o  seine Klinge."§r
-item.hfrlc:poison_sword=§l§fSumpfdorn§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Verwende den Gegenstand, um ein Giftprojektil abzufeuern.~LINEBREAK~Repariere mit Schwerem Kern.~LINEBREAK~~LINEBREAK~§2Giftig~LINEBREAK~~LINEBREAK~§7§o"Gift tropft von~LINEBREAK~§o  seiner Klinge."§r
+## GROSSSCHWERTER
+item.hfrlc:wither_sword=§l§fVernichter§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand, um~LINEBREAK~Wither-Projektile zu schießen.~LINEBREAK~~LINEBREAK~§uWither-Aspekt~LINEBREAK~~LINEBREAK~§7§o"Der Tod selbst lenkt~LINEBREAK~§o  diese Klinge."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schwerer Kern§r
+item.hfrlc:nether_sword=§l§fHöllenfeuer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze es, um eine Lava-Attacke zu erzeugen.~LINEBREAK~~LINEBREAK~§7§o"Höllenfeuer strömt~LINEBREAK~§o  durch die Klinge."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schwerer Kern§r
+item.hfrlc:poison_sword=§l§fMorastdorn§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Benutze den Gegenstand, um~LINEBREAK~ein Giftprojektil zu schleudern.~LINEBREAK~~LINEBREAK~§2Giftig~LINEBREAK~~LINEBREAK~§7§o"Gift tropft von~LINEBREAK~§o  seiner Klinge."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schwerer Kern§r
 
 ## KATANAS
-item.hfrlc:weapon_10=§l§fKatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der Weg der Klinge~LINEBREAK~§o  in Fleisch und Blut."§r
-item.hfrlc:dragon_bone_katana=§l§fDrachenknochen-Katana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Eine elegante Waffe~LINEBREAK~§o  für ein zivilisiertes~LINEBREAK~§o  Zeitalter."§r
-item.hfrlc:ice_dragon_bone_katana=§l§fFrostbiss§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Der Drachgeist, verschmolzen~LINEBREAK~§o  mit Eis, schuf eine Bindung~LINEBREAK~§o  stark genug, jedes Metall zu~LINEBREAK~§o  durchtrennen."§r
-item.hfrlc:fire_dragon_bone_katana=§l§fBrandwoge§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Der Feuerdrachengeist~LINEBREAK~§o  pulsiert im Heft."§r
-item.hfrlc:legendary_katana=§l§pGeisterkatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDÄRER GEGENSTAND§r~LINEBREAK~~LINEBREAK~§7§o"Der eldritsche Geist~LINEBREAK~§o  führt diese Klinge."§r
+item.hfrlc:weapon_10=§l§fKatana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der Weg der~LINEBREAK~§o  Klinge in Person."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71600§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.hfrlc:dragon_bone_katana=§l§fDrachenknochen-Katana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Eine elegante Waffe~LINEBREAK~§o  für eine zivilisiertere~LINEBREAK~§o  Zeit."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71660§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:ice_dragon_bone_katana=§l§fFrostbiss§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Drachenspirit verschmolzen~LINEBREAK~§o  mit Eis, erschuf~LINEBREAK~§o  eine Bindung, stark genug~LINEBREAK~§o  jedes Metall zu schneiden."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71710§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisdrachengeist§r
+item.hfrlc:fire_dragon_bone_katana=§l§fGlutwelle§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feuer-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Feuer-Drachenspirits~LINEBREAK~§o  pulsieren im Griff."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71760§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuerdrachengeist§r
+item.hfrlc:legendary_katana=§l§pGeister-Katana§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§lLEGENDÄRES GEGENSTAND§r~LINEBREAK~~LINEBREAK~§7§o"Eldritcher Geist~LINEBREAK~§o  lenkt diese Klinge."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Keins§r
 
 ## DOLCHE
-item.hfrlc:flint_dagger=§l§fFeuersteindolch§r§f~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Reicht aus, um Fasern~LINEBREAK~§o  aus Pflanzen zu gewinnen."§r
-item.hfrlc:wooden_dagger=§l§fHolzdolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Schneidet kaum Papier."§r
-item.hfrlc:golden_dagger=§l§fGolddolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Splittert bei jedem~LINEBREAK~§o  Schlag übel."§r
-item.hfrlc:stone_dagger=§l§fSteindolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Er ist schwer, aber~LINEBREAK~§o  nicht so stumpf, wie er wirkt."§r
-item.hfrlc:iron_dagger=§l§fEisendolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Seine scharfe Klinge giert~LINEBREAK~§o  danach, jemanden zu erstechen."§r
-item.hfrlc:weapon_9=§l§fJambiya§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Der goldene Griff ist~LINEBREAK~§o  mit Ornamenten verziert,~LINEBREAK~§o  die dir unbekannt sind."§r
-item.hfrlc:diamond_dagger=§l§fDiamantdolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Zart im Aussehen,~LINEBREAK~§o  tödlich in Präzision."§r
-item.hfrlc:netherite_dagger=§l§fNetheritdolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Dunkles Metall schimmert~LINEBREAK~§o  lila im Tageslicht."§r
-item.hfrlc:dragon_bone_dagger=§l§fDrachenknochendolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Chance auf doppelten Schaden~LINEBREAK~~LINEBREAK~§3Drachenbann~LINEBREAK~§pFaserngewinnung~LINEBREAK~~LINEBREAK~§7§o"Die Kralle des Drachens~LINEBREAK~§o  ist dein Kommando."§r
-item.hfrlc:ice_dragon_bone_dagger=§l§fHagelkorn§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Der Drachgeist, verschmolzen~LINEBREAK~§o  mit Eis, schuf eine Bindung~LINEBREAK~§o  stark genug, jedes Metall zu~LINEBREAK~§o  durchtrennen."§r
-item.hfrlc:fire_dragon_bone_dagger=§l§fFlammenkante§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Der Feuerdrachengeist~LINEBREAK~§o  pulsiert im Heft."§r
-
+item.hfrlc:flint_dagger=§l§fFeuersteinmesser§r§f~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Gut genug, um~LINEBREAK~§o  Fasern aus Pflanzen zu gewinnen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §750§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuerstein§r
+item.hfrlc:wooden_dagger=§l§fHolz-Dolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Schneidet kaum~LINEBREAK~§o  Papier."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §760§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
+item.hfrlc:golden_dagger=§l§fGoldener Dolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Bricht leicht~LINEBREAK~§o  bei jedem Schlag."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §731§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.hfrlc:stone_dagger=§l§fStein-Dolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Schwer, aber~LINEBREAK~§o  nicht so stumpf, wie es scheint."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7110§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kopfsteinpflaster§r
+item.hfrlc:iron_dagger=§l§fEisen-Dolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Seine scharfe Klinge~LINEBREAK~§o  sehnt sich danach, jemanden zu stechen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7170§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.hfrlc:weapon_9=§l§fJambiya§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Sein goldener Griff ist~LINEBREAK~§o  mit Ornamenten graviert,~LINEBREAK~§o  die dir unbekannt sind."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7190§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.hfrlc:diamond_dagger=§l§fDiamant-Dolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Zart im Aussehen~LINEBREAK~§o  tödlich in der Präzision."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7800§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.hfrlc:netherite_dagger=§l§fNetherit-Dolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Dunkles Metall~LINEBREAK~§o  funkelt violett~LINEBREAK~§o  im Tageslicht."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71870§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuersteinsplitter§r
+item.hfrlc:dragon_bone_dagger=§l§fDrachenknochen-Dolch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Chance auf Dopplerschaden~LINEBREAK~~LINEBREAK~§3Drachenbann~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Drachens Klaue~LINEBREAK~§o  liegt in deiner Hand."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71640§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:ice_dragon_bone_dagger=§l§fHagelsplitter§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~§pFasern-Ernte~LINEBREAK~~LINEBREAK~§7§o"Drachenspirit verschmolzen~LINEBREAK~§o  mit Eis, erschuf~LINEBREAK~§o  eine Bindung, stark genug~LINEBREAK~§o  jedes Metall zu schneiden."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisdrachengeist§r
+item.hfrlc:fire_dragon_bone_dagger=§l§fFlammenschneide§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feuer-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Feuer-Drachenspirits~LINEBREAK~§o  pulsieren im Griff."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71750§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuerdrachengeist§r
 
 ## SPEERE
-item.hfrlc:wooden_spear=§l§fHolzspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ein Stock mit~LINEBREAK~§o  spitzen Ambitionen."§r
-item.hfrlc:golden_spear=§l§fGoldener Speer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Goldfarben, aber~LINEBREAK~§o  nicht so kostbar."§r
-item.hfrlc:stone_spear=§l§fSteinspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiv, aber~LINEBREAK~§o  überraschend effektiv."§r
-item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ehre leitet~LINEBREAK~§o  jeden Stoß."§r
-item.hfrlc:iron_spear=§l§fEisenspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zuverlässig und~LINEBREAK~§o  gut ausbalanciert."§r
-item.hfrlc:diamond_spear=§l§fDiamantspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Durchdringende Exzellenz~LINEBREAK~§o  manifestiert."§r
-item.hfrlc:netherite_spear=§l§fNetherit­speer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Unzerbrechliche Dunkelheit~LINEBREAK~§o  in Stahl geschmiedet."§r
-item.hfrlc:dragon_bone_spear=§l§fDrachenknochen­speer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Drachenessenz~LINEBREAK~§o  schärft die Spitze."§r
-item.hfrlc:ice_dragon_bone_spear=§l§fWinterwyrm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Eingefrorener Hauch~LINEBREAK~§o  aus Stahl geschmiedet."§r
-item.hfrlc:fire_dragon_bone_spear=§l§fGluthauch§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Die Spitze brennt~LINEBREAK~§o  mit ewigem Flammen."§r
+item.hfrlc:wooden_spear=§l§fHolzspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ein Stock mit~LINEBREAK~§o  spitzen Ambitionen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §758§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
+item.hfrlc:golden_spear=§l§fGoldener Speer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Goldig, aber~LINEBREAK~§o  nicht so wertvoll."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §732§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.hfrlc:stone_spear=§l§fSteinspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiv, aber~LINEBREAK~§o  überraschend effektiv."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7120§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kopfsteinpflaster§r
+item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ehre leitet~LINEBREAK~§o  jeden Stoß."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7210§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.hfrlc:iron_spear=§l§fEisenspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zuverlässig und~LINEBREAK~§o  gut ausbalanciert."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7230§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.hfrlc:diamond_spear=§l§fDiamantspeer§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Durchdringende Exzellenz~LINEBREAK~§o  manifestiert."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.hfrlc:netherite_spear=§l§fNetherit Speer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Unzerbrechliche Dunkelheit~LINEBREAK~§o  in Stahl geschmiedet."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71950§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netheritbarren§r
+item.hfrlc:dragon_bone_spear=§l§fDrachenknochenspeer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Drachenessenz~LINEBREAK~§o  schärft die Spitze."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71650§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:ice_dragon_bone_spear=§l§fWinterwyrm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Eingefrorener Atem~LINEBREAK~§o  in Stahl verwandelt."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71720§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisdrachengeist§r
+item.hfrlc:fire_dragon_bone_spear=§l§fGlutwirbel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feuer-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Die Spitze brennt~LINEBREAK~§o  mit ewigem Feuer."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71770§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuerdrachengeist§r
 
-## DREIZÄNGER
-item.trident.name=§l§fDreizack§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Er riecht nach~LINEBREAK~§o  Fisch..."§r
-item.hfrlc:weapon_11=§l§fNeptuniumdreizack§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Projektilschaden~LINEBREAK~Treue~LINEBREAK~Repariere mit Neptuniumbarren.~LINEBREAK~~LINEBREAK~§7§o"Drei Zinken~LINEBREAK~§o  der aquatischen Wut."§r
+## DREIZÄNGE
+item.trident.name=§l§fDreizack§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Es riecht nach~LINEBREAK~§o  Fisch..."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7250§r~LINEBREAK~ §8Reparaturmaterial:§r §7Keins§r
+item.hfrlc:weapon_11=§l§fNeptunium-Dreizack§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Projektil-Schaden~LINEBREAK~Treue~LINEBREAK~~LINEBREAK~§7§o"Drei Zinken voller~LINEBREAK~§o  aquatischem Zorn."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Neptuniumbarren§r
 
 ## KRIEGSHAMMER
-item.hfrlc:dragon_bone_hammer=§l§fDrachenknochen-Warhammer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Rohe dra­chonische Kraft~LINEBREAK~§o  in Waffenform."§r
-item.hfrlc:ice_dragon_bone_hammer=§l§fDominion§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Ewiger Winter~LINEBREAK~§o  in Waffenform."§r
-item.hfrlc:fire_dragon_bone_hammer=§l§fSchmiede§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Geschmolzene Wut~LINEBREAK~§o  in physischer Form."§r
-item.mace.name=§l§fStreitkolben§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Jeder Schlag hat~LINEBREAK~§o  ein erderschütterndes Flair."§r
+item.hfrlc:dragon_bone_hammer=§l§fDrachenknochen-Kriegshammer§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Rohe drakonische Kraft~LINEBREAK~§o  in Waffenform."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71670§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:ice_dragon_bone_hammer=§l§fHerrschaft§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Ewiger Winter~LINEBREAK~§o  in Waffenform."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71730§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisdrachengeist§r
+item.hfrlc:fire_dragon_bone_hammer=§l§fOfen§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~§6Feuer-Aspekt~LINEBREAK~§3Drachenbann~LINEBREAK~~LINEBREAK~§7§o"Geschmolzene Wut in~LINEBREAK~§o  physischer Form."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71780§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuerdrachengeist§r
+item.mace.name=§l§fStreitkolben§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Jeder Schlag hat~LINEBREAK~§o  einen erderschütternden Klang."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7500§r~LINEBREAK~ §8Reparaturmaterial:§r §7Luftstab§r
 
 ## SCHILDE
-item.hfrlc:weapon_13=§l§fHolzschild§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Einfache­r Schutz~LINEBREAK~§o  aus der Gabe der Natur."§r
-item.shield.name=§l§fSchild§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ich könnte das den ganzen Tag tun..."§r
+item.hfrlc:weapon_13=§l§fHolzschild§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Einfache Schutz~LINEBREAK~§o  durch die Geschenke der Natur."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7400§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
+item.shield.name=§l§fSchild§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ich kann das den ganzen Tag machen..."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7336§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
 
 ## STÄBE
-item.hfrlc:weapon_12=§l§fZauberstab§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Arkane Energien~LINEBREAK~§o  fließen darin."§r
+item.hfrlc:weapon_12=§l§fMagischer Stab§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Arkanen Energien~LINEBREAK~§o  fließen darin."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Keins§r
 
-## BOWS
-item.crossbow.name=§l§fArmbrust§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Illagers Wahl."§r
-item.bow.name=§l§fBogen§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Möge dein Pfeil~LINEBREAK~§o treffen und durchbohren."§r
-item.hfrlc:weapon_1=§l§fLangbogen§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 Projektilschaden§r~LINEBREAK~~LINEBREAK~§7§o"Erweiterte Reichweite~LINEBREAK~§o für präzise Schüsse."§r
-item.hfrlc:dragon_bone_bow=§l§fDrachenknochenbogen§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 Projektilschaden§r~LINEBREAK~~LINEBREAK~§7§o"Uralte Kraft~LINEBREAK~§o leitet jeden Pfeil."§r
-item.hfrlc:fire_dragon_bow=§l§fEmbersnap§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feueraspekt~LINEBREAK~§9+20 Projektilschaden~LINEBREAK~~LINEBREAK~§7§o"Pfeile entfachen sich mit~LINEBREAK~§o Drachenflamme."§r
-item.hfrlc:ice_dragon_bone_bow=§l§fFrostsnap§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrostaspekt~LINEBREAK~§9+20 Projektilschaden~LINEBREAK~~LINEBREAK~§7§o"Pfeile gefrieren~LINEBREAK~§o im Flug."§r
+## BOGEN
+item.crossbow.name=§l§fArmbrust§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Die Wahl der Illager."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7464§r~LINEBREAK~ §8Reparaturmaterial:§r §7Keins§r
+item.bow.name=§l§fBogen§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Möge dein Pfeil~LINEBREAK~§o  treffen und durchdringen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7384§r~LINEBREAK~ §8Reparaturmaterial:§r §7Keins§r
+item.hfrlc:weapon_1=§l§fWurzelbogen§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 Projektilschaden§r~LINEBREAK~~LINEBREAK~§7§o"Vergrößerte Reichweite~LINEBREAK~§o  für präzise Schüsse."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71000§r~LINEBREAK~ §8Reparaturmaterial:§r §7Keins§r
+item.hfrlc:dragon_bone_bow=§l§fDrachenknochen-Bogen§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 Projektilschaden~LINEBREAK~~LINEBREAK~§7§o"Uralte Macht~LINEBREAK~§o  führt jeden Pfeil."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Drachenknochen§r
+item.hfrlc:fire_dragon_bow=§l§fGlutknall§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Feuer-Aspekt~LINEBREAK~§9+20 Projektilschaden~LINEBREAK~~LINEBREAK~§7§o"Pfeile entflammen~LINEBREAK~§o  mit Drachenglut."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuerdrachengeist§r
+item.hfrlc:ice_dragon_bone_bow=§l§fFrostknall§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost-Aspekt~LINEBREAK~§9+20 Projektilschaden~LINEBREAK~~LINEBREAK~§7§o"Pfeile frieren~LINEBREAK~§o  im Flug ein."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71700§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisdrachengeist§r
 
-## TOOLS
-item.wooden_axe.name=§l§fHolzaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sie ist wackelig, aber~LINEBREAK~§o sie erfüllt ihren Zweck."§r
-item.wooden_shovel.name=§l§fHolzschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der schlimmste Albtraum~LINEBREAK~§o der Erde! …bis sie bricht."§r
-item.wooden_pickaxe.name=§l§fHolzspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der unbeliebteste Freund~LINEBREAK~§o des Kopfsteinpflasters."§r
-item.wooden_hoe.name=§l§fHolzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der Erde bleibt keine~LINEBREAK~§o Chance... wahrscheinlich."§r
+## WERKZEUGE
+item.wooden_axe.name=§l§fHolzaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sie ist zerbrechlich,~LINEBREAK~  doch sie tut ihren Dienst."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §760§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
+item.wooden_shovel.name=§l§fHolzschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der schlimmste Albtraum~LINEBREAK~  des Schmutzes! ...Bis sie bricht."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §760§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
+item.wooden_pickaxe.name=§l§fHolzspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der unbeliebteste Freund~LINEBREAK~  des Kopfsteinpflasters."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §760§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
+item.wooden_hoe.name=§l§fHolzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Der Schmutz hat~LINEBREAK~  wohl keine Chance."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §760§r~LINEBREAK~ §8Reparaturmaterial:§r §7Holz§r
 
-item.stone_axe.name=§l§fSteinaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ausreichend, um~LINEBREAK~§o etwas Totholz zu schneiden."§r
-item.stone_shovel.name=§l§fSteinschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zeit für tiefere~LINEBREAK~§o Grabarbeiten."§r
-item.stone_pickaxe.name=§l§fSteinspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Mal sehen, wie viele~LINEBREAK~§o Steine ein Stein abbauen kann..."§r
-item.stone_hoe.name=§l§fSteinhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Farming bekommt ein~LINEBREAK~§o steiniges Upgrade."§r
+item.stone_axe.name=§l§fSteinaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Gut genug, um~LINEBREAK~  totes Holz zu schneiden."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7132§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kopfsteinpflaster§r
+item.stone_shovel.name=§l§fSteinschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Zeit für tiefere~LINEBREAK~  Erkundungen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7132§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kopfsteinpflaster§r
+item.stone_pickaxe.name=§l§fSteinspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Mal sehen, wie viele~LINEBREAK~  Steine ein Stein abbauen kann..."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7132§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kopfsteinpflaster§r
+item.stone_hoe.name=§l§fSteinhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Landwirtschaft bekommt~LINEBREAK~  ein steiniges Upgrade."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7132§r~LINEBREAK~ §8Reparaturmaterial:§r §7Kopfsteinpflaster§r
 
-item.iron_axe.name=§l§fEisenaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Verlässliche Eisenaxt."§r
-item.iron_shovel.name=§l§fEisenschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ich bin eins mit der Erde.~LINEBREAK~§o Und die Erde ist mit mir."§r
-item.iron_pickaxe.name=§l§fEisenspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Verwandelt Berge in Kiesel!~LINEBREAK~§o Ein Schlag nach dem anderen..."§r
-item.iron_hoe.name=§l§fEisenhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hier liegt ein Weizenfeld."§r
+item.iron_axe.name=§l§fEisenaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Verlässliche Holzfäller-Axt."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7250§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.iron_shovel.name=§l§fEisenschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ich bin eins mit der Erde.~LINEBREAK~  Und die Erde ist mit mir."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7250§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.iron_pickaxe.name=§l§fEisenspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Verwandelt Berge in Kiesel!~LINEBREAK~  Ein Schwung nach dem anderen..."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7250§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
+item.iron_hoe.name=§l§fEisensense§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hier wächst ein Weizenfeld."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §7250§r~LINEBREAK~ §8Reparaturmaterial:§r §7Eisenbarren§r
 
-item.golden_axe.name=§l§fGoldaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Wenn sie doch nur so~LINEBREAK~§o robust wäre wie sie schön ist..."§r
-item.golden_shovel.name=§l§fGoldschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Wunderschön...~LINEBREAK~§o aber zerbrechlich."§r
-item.golden_pickaxe.name=§l§fGoldspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Midas wäre stolz...~LINEBREAK~§o und pleite."§r
-item.golden_hoe.name=§l§fGoldhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hergestellt im Nether."§r
-item.diamond_axe.name=§l§fDiamant-Axt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Eine reicht aus, um~LINEBREAK~§o  einen kleinen Wald~LINEBREAK~§o  zu roden."§r
-item.diamond_shovel.name=§l§fDiamant-Schaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Weil man manchmal~LINEBREAK~§o  mit Stil graben~LINEBREAK~§o  muss."§r
-item.diamond_pickaxe.name=§l§fDiamant-Spitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Lässt selbst Obsidian~LINEBREAK~§o  nervös schwitzen..."§r
-item.diamond_hoe.name=§l§fDiamant-Hacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ein wenig Overkill~LINEBREAK~§o  für Kartoffeln?"§r
+item.golden_axe.name=§l§fGoldaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Wenn sie nur so robust~LINEBREAK~  wäre wie schön..."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §733§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.golden_shovel.name=§l§fGoldschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Schön...~LINEBREAK~  aber zerbrechlich."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §733§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.golden_pickaxe.name=§l§fGoldspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Midas wäre stolz...~LINEBREAK~  und pleite."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §733§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
+item.golden_hoe.name=§l§fGoldsense§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Hergestellt im Nether."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §733§r~LINEBREAK~ §8Reparaturmaterial:§r §7Goldbarren§r
 
-item.netherite_axe.name=§l§fNetherit-Axt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Geschmolzen aus Material~LINEBREAK~§o  jenseits dieser Welt."§r
-item.netherite_shovel.name=§l§fNetherit-Schaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Geschmiedet dort, wo Dämonen~LINEBREAK~§o  sich nicht hinwagen."§r
-item.netherite_pickaxe.name=§l§fNetherit-Spitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bis ans Grundgestein!~LINEBREAK~§o  und darüber hinaus!"§r
-item.netherite_hoe.name=§l§fNetherit-Hacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ackern?~LINEBREAK~§o  Ein Mann deiner Talente?"§r
+item.diamond_axe.name=§l§fDiamantaxt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Eine reicht, um~LINEBREAK~  einen kleinen Wald zu roden."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71560§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.diamond_shovel.name=§l§fDiamantschaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Manchmal muss man~LINEBREAK~  eben mit Stil graben."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71560§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.diamond_pickaxe.name=§l§fDiamantspitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Sogar Obsidian~LINEBREAK~  bringt zum Schwitzen..."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71560§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
+item.diamond_hoe.name=§l§fDiamantsense§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Etwas übertrieben~LINEBREAK~  für Kartoffeln?"§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71560§r~LINEBREAK~ §8Reparaturmaterial:§r §7Diamant§r
 
-item.hfrlc:flint_axe=§l§fFeuerstein-Axt§r§f~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiv, aber~LINEBREAK~§o  überraschend scharf."§r
-item.hfrlc:weapon_3=§l§fKnochenbeil§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9Mit Schattenstein reparieren.~LINEBREAK~~LINEBREAK~§7§o"Klein, aber~LINEBREAK~§o  verheerend scharf."§r
+item.netherite_axe.name=§l§fNetherit-Axt§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Geschmolzen aus Material~LINEBREAK~  von einer anderen Welt."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72030§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherit-Barren§r
+item.netherite_shovel.name=§l§fNetherit-Schaufel§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Geschmiedet dort, wo Dämonen~LINEBREAK~  sich nicht hinwagen."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72030§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherit-Barren§r
+item.netherite_pickaxe.name=§l§fNetherit-Spitzhacke§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Bis zum Grundgestein!~LINEBREAK~  Und darüber hinaus!"§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72030§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherit-Barren§r
+item.netherite_hoe.name=§l§fNetherit-Sense§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Ackerbau?~LINEBREAK~  Ein Mann mit deinem Talent?"§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §72030§r~LINEBREAK~ §8Reparaturmaterial:§r §7Netherit-Barren§r
 
-item.hfrlc:dungeon_door=Kerkertür
-item.hfrlc:dungeon_door_desert=Wüstenkerkertür
-item.hfrlc:dungeon_door_snow=Eiskerkertür
-item.hfrlc:dungeon_door_red_desert=Rote Wüstenkerkertür
-item.hfrlc:dungeon_door_key=Türschlüssel
+item.hfrlc:flint_axe=§l§fFeuerstein-Axt§r§f~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Primitiv, aber~LINEBREAK~§o  überraschend scharf."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §744§r~LINEBREAK~ §8Reparaturmaterial:§r §7Feuerstein§r
+item.hfrlc:weapon_3=§l§fKnochenbeil§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lSchaden§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"Klein, aber~LINEBREAK~§o  vernichtend scharf."§r~LINEBREAK~~LINEBREAK~ §8Haltbarkeit:§r §71560§r~LINEBREAK~ §8Reparaturmaterial:§r §7Schattenstein§r
+
+item.hfrlc:dungeon_door=Dungeon-Tür
+item.hfrlc:dungeon_door_desert=Wüsten-Dungeon-Tür
+item.hfrlc:dungeon_door_snow=Eis-Dungeon-Tür
+item.hfrlc:dungeon_door_red_desert=Rote Wüsten-Dungeon-Tür
+item.hfrlc:dungeon_door_key=Dungeon-Türschlüssel
 item.hfrlc:key=Schlüssel
 
-
-death.attack.anvil=F im Chat für %1$s
+death.attack.anvil=F für %1$s im Chat
 death.attack.arrow=MAMA, HOL DIE KAMERA!!
 death.attack.bullet=MAMA, HOL DIE KAMERA!!
-death.attack.cactus=Du bist wirklich der MVP, wertvollste Beute.
+death.attack.cactus=Du bist wirklich der MVP, Most Valuable Prey.
 death.attack.drown=War gar nicht so tief, %1$s.
-death.attack.explosion=Erfolg freigeschaltet: Profi-Respawner.
+death.attack.explosion=Erfolg freigeschaltet: Professioneller Respawner.
 death.attack.explosion.by.bed=Lass ihn KOCHEN!
-death.attack.explosion.player=Wie du deinen Drachen NICHT zähmst
-death.attack.fall=Die Schwerkraft sagte "Setz dich, %1$s"
-death.attack.fallingBlock=Changelog: Leben generft.
+death.attack.explosion.player=Wie man seinen Drachen NICHT trainiert
+death.attack.fall=Die Schwerkraft sagt „Setz dich, %1$s“
+death.attack.fallingBlock=Änderungsprotokoll: Leben abgeschwächt.
 death.attack.fireball=LEBROOON!
-death.attack.fireworks=Du hast vergessen, dich zu heilen, oder?
+death.attack.fireworks=Du hast vergessen zu heilen, oder?
 death.attack.flyIntoWall=Emotionaler Schaden!
 death.attack.generic=%1$s ist gestorben
 death.attack.indirectMagic=%1$s ist nicht der G.O.A.T.
-death.attack.inFire=Supa heißes Feuer, ohhhhh!!!
-death.attack.inWall=War das Lag oder nur mangelnde Fähigkeiten?
-death.attack.lava=Immerhin hast du dein Pferd nicht in die Lava geritten.
-death.attack.lightningBolt=Werd besser.
-death.attack.maceSmash.player=%1$s wurde von %2$s zertrümmert
-death.attack.maceSmash.player.item=%1$s wurde von %2$s mit %3$s zertrümmert
-death.attack.magic=Trinke regelmäßig Wasser – während der Mahlzeiten, bei Anstrengung und sobald dein Körper Durst signalisiert.
-death.attack.magma=Brauchst du eine Umarmung?
-death.attack.mob=%1$s hat die Voraussetzungen zum Überleben nicht erfüllt.
-death.attack.mob.item=%1$s hat die Voraussetzungen zum Überleben nicht erfüllt.
-death.attack.onFire=Der Tod naht in GLÜHENDEM FEUER!!!
-death.attack.outOfWorld=Bereits Stufe 50 im Respawning.
-death.attack.player=%1$s hat die Voraussetzungen zum Überleben nicht erfüllt.
-death.attack.player.item=%1$s hat die Voraussetzungen zum Überleben nicht erfüllt.
-death.attack.spit=%1$s wurde von %2$s angespuckt
-death.attack.starve=RIP, wenigstens hast du es versucht.
-death.attack.sweetBerry=Du bist wirklich der MVP, wertvollste Beute.
-death.attack.thorns=Du bist wirklich der MVP, wertvollste Beute.
-death.attack.trident=%1$s wurde von %2$s zu Tode aufgespießt
+death.attack.inFire=Super heißes Feuer, ohhhh!!!
+death.attack.inWall=Lag das oder einfach fehlende Skills?
+death.attack.lava=Zumindest hast du dein Pferd nicht in Lava getrieben.
+death.attack.lightningBolt=Werde besser.
+death.attack.maceSmash.player=%1$s wurde von %2$s zerschmettert
+death.attack.maceSmash.player.item=%1$s wurde von %2$s mit %3$s zerschmettert
+death.attack.magic=Trink regelmäßig Wasser; zu den Mahlzeiten, bei körperlicher Anstrengung und sobald Durstgefühle früh auftreten.
+death.attack.magma=Braucht du eine Umarmung?
+death.attack.mob=%1$s hat die Überlebensanforderungen nicht erfüllt.
+death.attack.mob.item=%1$s hat die Überlebensanforderungen nicht erfüllt.
+death.attack.onFire=Der Tod kommt in flammender Hitze!!!
+death.attack.outOfWorld=Schon Level 50 im Respawnen.
+death.attack.player=%1$s hat die Überlebensanforderungen nicht erfüllt.
+death.attack.player.item=%1$s hat die Überlebensanforderungen nicht erfüllt.
+death.attack.spit=%1$s wurde von %2$s ins Gesicht gespuckt
+death.attack.starve=Ruhe in Frieden, wenigstens hast du es versucht.
+death.attack.sweetBerry=Du bist wirklich der MVP, Most Valuable Prey.
+death.attack.thorns=Du bist wirklich der MVP, Most Valuable Prey.
+death.attack.trident=%1$s wurde von %2$s aufgespießt und getötet
 death.attack.wither=Hättest Milch mitbringen sollen
-death.attack.freeze=Hättest zu Johnny Dang gehen sollen
-death.attack.sonicBoom.player=Hättest X drücken sollen, um auszuweichen.
-death.attack.stalactite=Wenn es einen Erfolg fürs Sterben gäbe, hättest du ihn zweimal freigeschaltet.
-death.attack.stalagmite=%1$s hat sich so angestrengt, ist aber so tief gefallen.
-death.fell.accident.generic=Die Schwerkraft sagte "Setz dich, %1$s"
+death.attack.freeze=Hättest zu Jhonny Dang gehen sollen
+death.attack.sonicBoom.player=Hättest X zum Ausweichen drücken sollen.
+death.attack.stalactite=Wenn es einen Erfolg für Sterben gäbe, hättest du ihn zweimal freigeschaltet.
+death.attack.stalagmite=%1$s hat sich so angestrengt, aber ist tief gefallen.
+death.fell.accident.generic=Die Schwerkraft sagt „Setz dich, %1$s“
 
 pack.name=RLCraft Bedrock Edition RP
-pack.description=§l§c[!] Dieses Pack sollte über allen anderen liegen!§r | Basierend auf dem originalen Java-Modpack von Shivaxi | Von Honeyfrost mit Skybox von Hybred
+pack.description=§l§c[!] Dieses Pack sollte über allen anderen sein!§r | Basierend auf dem originalen Java Modpack von Shivaxi | Von Honeyfrost mit Skybox von Hybred

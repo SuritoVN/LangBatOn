@@ -1,11 +1,10 @@
 #!/bin/bash
-
 cd /workspaces/LangBatOn/Minecraft
 
-echo "🟢 Khởi động Minecraft Bedrock Server..."
-LD_LIBRARY_PATH=. ./bedrock_server > bedrock_log.txt 2>&1 &
+# Chạy playit trong nền
+tmux new-session -d -s playit './playit'
 
-sleep 2
+# Chạy server Minecraft trong phiên tmux khác
+tmux new-session -s mc './bedrock_server'
 
-echo "🟢 Khởi động Playit.gg tunnel..."
-./playit
+echo "✅ Server started in tmux sessions"

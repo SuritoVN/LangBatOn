@@ -347,7 +347,7 @@ tag @s[tag=do_tuto22] remove active_tuto20
 execute if entity @s[tag=do_tuto22] run event entity @e[r=15,family=guide] hfrlc:entity_death
 inputpermission set @s[tag=do_tuto22] camera disabled
 inputpermission set @s[tag=do_tuto22] movement disabled
-scoreboard players set @s[tag=do_tuto22] mining 1
+scoreboard players set @s[tag=do_tuto22] mining 3
 event entity @s[tag=do_tuto22,has_property={hfrlc:mining_unlock=0}] agility_unlock
 tag @s[tag=do_tuto22] remove active_tuto21
 tag @s[tag=do_tuto22] remove active_tuto20

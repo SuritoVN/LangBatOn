@@ -155,6 +155,7 @@ blocked.agility=§c§l敏捷性が低すぎてこのアイテムを使用でき�
 blocked.melee=§c§l近接戦闘が低すぎてこのアイテムを使用できません。
 blocked.mining=§c§l採掘が低すぎてこのアイテムを使用できません。
 blocked.armor=§c§l防御が低すぎてこのアイテムを使用できません。
+blocked.global=§c§lあなたのスキルレベルではこのアイテムを使用できません。
 action.dodge=§aおめでとう！弾丸を回避した。
 action.grave_hit=§c触るな、墓荒らし！この墓は君のものではない。
 action.warpstone_name=§c印象的！その名前の石は既に存在する。もっと独創的になれ。
@@ -749,331 +750,340 @@ item.hfrlc:raw_snake_meat=生の硬い肉
 item.hfrlc:raw_wolf_meat=生オオカミ肉
 item.hfrlc:pumpkin_slice=かぼちゃのスライス
 
-## クラフト材料
-item.hfrlc:black_dragon_scales=§f黒ドラゴンの鱗
-item.hfrlc:blue_dragon_scales=§f青ドラゴンの鱗
-item.hfrlc:brown_dragon_scales=§f茶ドラゴンの鱗
+## CRAFTING MATERIALS
+item.hfrlc:black_dragon_scales=§f黒いドラゴンの鱗
+item.hfrlc:blue_dragon_scales=§f青いドラゴンの鱗
+item.hfrlc:brown_dragon_scales=§f茶色いドラゴンの鱗
 item.hfrlc:diamond_wyvern_armor=§fダイヤモンドドラゴンアーマー
-item.hfrlc:dragon_heart=§dドラゴンハート
-item.hfrlc:dragon_skull=§dドラゴンスカル
-item.hfrlc:flaming_dragon_blood=§f炎ドラゴンの霊魂
-item.hfrlc:flint_shard=§f火打石の欠片
-item.hfrlc:gold_wyvern_armor=§fゴールドドラゴンアーマー
-item.hfrlc:green_dragon_scales=§f緑ドラゴンの鱗
-item.hfrlc:ice_dragon_blood=§f氷ドラゴンの霊魂
+item.hfrlc:dragon_heart=§dドラゴンの心臓
+item.hfrlc:dragon_skull=§dドラゴンの頭蓋骨
+item.hfrlc:flaming_dragon_blood=§f火のドラゴンの魂
+item.hfrlc:flint_shard=§f火打石の破片
+item.hfrlc:gold_wyvern_armor=§f金のドラゴンアーマー
+item.hfrlc:green_dragon_scales=§f緑のドラゴンの鱗
+item.hfrlc:ice_dragon_blood=§f氷のドラゴンの魂
 item.hfrlc:info_book=§fRLCraftメニュー
-item.hfrlc:iron_wyvern_armor=§f鉄ドラゴンアーマー
+item.hfrlc:iron_wyvern_armor=§f鉄のドラゴンアーマー
 item.hfrlc:netherite_wyvern_armor=§fネザライトドラゴンアーマー
-item.hfrlc:paint=筆
-item.hfrlc:plant_fibers_rope=§f植物繊維ロープ
+item.hfrlc:paint=ブラシ
+item.hfrlc:plant_fibers_rope=§f植物繊維のロープ
 item.hfrlc:plant_fibers=§f植物繊維
-item.hfrlc:red_dragon_scales=§f赤ドラゴンの鱗
+item.hfrlc:red_dragon_scales=§f赤いドラゴンの鱗
 
-## 販売用アイテム
+## THINGS FOR SALE
 item.hfrlc:pirate_armor_plates=§f毛皮の箱~LINEBREAK~§7価値: 1
 item.hfrlc:pirate_cloth=§f海賊の布~LINEBREAK~§7価値: 1
-item.leather.name=§f革~LINEBREAK~§7価値: 1
-item.rabbit_hide.name=§fウサギの皮~LINEBREAK~§7価値: 1
-item.quartz.name=§fネザークォーツ~LINEBREAK~§7価値: 1
-item.nautilus_shell.name=§fノーチラスの貝殻~LINEBREAK~§7価値: 1
-item.gold_ingot.name=§f金インゴット~LINEBREAK~§7価値: 2
-item.iron_ingot.name=§f鉄インゴット~LINEBREAK~§7価値: 1
+item.leather.name=革~LINEBREAK~§7価値: 1
+item.rabbit_hide.name=ウサギの皮~LINEBREAK~§7価値: 1
+item.quartz.name=§fネザー水晶~LINEBREAK~§7価値: 1
+item.nautilus_shell.name=§fオウムガイの殻~LINEBREAK~§7価値: 1
+item.gold_ingot.name=金のインゴット~LINEBREAK~§7価値: 2
+item.iron_ingot.name=鉄のインゴット~LINEBREAK~§7価値: 1
 item.netherite_ingot.name=§bネザライトインゴット~LINEBREAK~§7価値: 4
-item.netherite_scrap.name=§bネザライトの欠片~LINEBREAK~§7価値: 1
-item.echo_shard.name=§bエコーシャード~LINEBREAK~§7価値: 1
-item.diamond.name=§fダイヤモンド~LINEBREAK~§7価値: 3
-item.emerald.name=§fエメラルド~LINEBREAK~§7価値: 1
-item.hfrlc:ancient_sprouts=§f古代の新芽~LINEBREAK~§7価値: 1
+item.netherite_scrap.name=§bネザライトスクラップ~LINEBREAK~§7価値: 1
+item.echo_shard.name=§bエコーの欠片~LINEBREAK~§7価値: 1
+item.diamond.name=ダイヤモンド~LINEBREAK~§7価値: 3
+item.emerald.name=エメラルド~LINEBREAK~§7価値: 1
+item.hfrlc:ancient_sprouts=§f古代の芽~LINEBREAK~§7価値: 1
 item.hfrlc:scorpion_tails=§fサソリの尾~LINEBREAK~§7価値: 3
-item.hfrlc:samurai_armor_plates=§f古代のプレート~LINEBREAK~§7価値: 3
-item.amethyst_shard.name=§fアメジストシャード~LINEBREAK~§7価値: 1
-item.spider_eye.name=§fクモの目~LINEBREAK~§7価値: 1
-item.fermented_spider_eye.name=§f発酵したクモの目~LINEBREAK~§7価値: 3
+item.hfrlc:samurai_armor_plates=§f古代の鎧板~LINEBREAK~§7価値: 3
+item.amethyst_shard.name=アメジストの欠片~LINEBREAK~§7価値: 1
+item.spider_eye.name=クモの目~LINEBREAK~§7価値: 1
+item.fermented_spider_eye.name=発酵クモの目~LINEBREAK~§7価値: 3
 item.hfrlc:dragon_bone=§bドラゴンの骨~LINEBREAK~§7価値: 1
-item.hfrlc:wyvern_skull=§bドラゴンの頭蓋骨の欠片~LINEBREAK~§7価値: 2
+item.hfrlc:wyvern_skull=§bドラゴン頭蓋骨の欠片~LINEBREAK~§7価値: 2
 item.hfrlc:wither_bone=§fウィザーの骨~LINEBREAK~§7価値: 4
-item.slime_ball.name=§fスライムボール~LINEBREAK~§7価値: 1
-item.wind_charge.name=§f風のチャージ~LINEBREAK~§7価値: 1
-item.armadillo_scute.name=§fアルマジロの鱗板~LINEBREAK~§7価値: 2
-item.turtle_shell_piece.name=§f亀の鱗板~LINEBREAK~§7価値: 2
-item.shulker_shell.name=§fシュルカーの殻~LINEBREAK~§7価値: 2
+item.slime_ball.name=スライムボール~LINEBREAK~§7価値: 1
+item.wind_charge.name=風のチャージ~LINEBREAK~§7価値: 1
+item.armadillo_scute.name=アルマジロの甲羅片~LINEBREAK~§7価値: 2
+item.turtle_shell_piece.name=カメの甲羅片~LINEBREAK~§7価値: 2
+item.shulker_shell.name=シュルカーの殻~LINEBREAK~§7価値: 2
 item.book.name=§f本~LINEBREAK~§7価値: 2
 item.heart_of_the_sea.name=§f海の心臓~LINEBREAK~§7価値: 1
-item.hfrlc:orcish_scribbles=§bオークの走り書き~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"これらの文字は非常に原始的に見えるが、~LINEBREAK~§oその意味は~LINEBREAK~§o不明である。"§r
-item.hfrlc:knight_orders=§b騎士の命令~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"彼らは何かを探している...~LINEBREAK~§o  あるいは誰かを..."§r
-item.hfrlc:dwarven_tome=§bドワーフの書~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"紙の上ですら、ドワーフ語は~LINEBREAK~§oまるでノミで~LINEBREAK~§o刻まれたようだ。"§r
-item.hfrlc:tower_blessing=§b神聖な予言~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o"この巻物には~LINEBREAK~§o自分の姿しか~LINEBREAK~§o映らない。"§r
+item.hfrlc:orcish_scribbles=§bオークのメモ~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o「文字は非常に原始的に見えるが、~LINEBREAK~§o意味は不明だ。」§r
+item.hfrlc:knight_orders=§b騎士団の命令~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o「彼らは何かを探している...~LINEBREAK~§oあるいは誰かを...」§r
+item.hfrlc:dwarven_tome=§bドワーフの書物~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o「紙の上でもドワーフ語は~LINEBREAK~§oのみで彫られたように見える。」§r
+item.hfrlc:tower_blessing=§b神聖な予言~LINEBREAK~§7価値: 1~LINEBREAK~~LINEBREAK~§7§o「この巻物には自分の~LINEBREAK~§o姿しか映らない。」§r
 
+## POWER CRYSTALS
 item.hfrlc:power_crystal=§bパワークリスタル
-item.hfrlc:power_shard=§bパワーシャード
-item.hfrlc:health_crystal=§cヘルスクリスタル~LINEBREAK~§7再生 II (0:03)~LINEBREAK~体力が永久に増加
-item.hfrlc:health_crystal_shard=§cヘルスシャード
-item.hfrlc:xp=§e経験の書~LINEBREAK~§7+15 レベル
-item.hfrlc:agility_token=§e敏捷のルーンストーン~LINEBREAK~§7+1 敏捷性レベル
-item.hfrlc:melee_token=§e近接戦闘のルーンストーン~LINEBREAK~§7+1 近接レベル
-item.hfrlc:mining_token=§e採掘のルーンストーン~LINEBREAK~§7+1 採掘レベル
-item.hfrlc:armor_token=§e防具のルーンストーン~LINEBREAK~§7+1 防具レベル
-item.hfrlc:system_level=§f§lレベリングメニュー§r~LINEBREAK~§7操作してインターフェースを開く
-item.hfrlc:trinket_menu=§f§l装飾品バッグ§r~LINEBREAK~§7操作してインターフェースを開く
-item.hfrlc:bandage=§f包帯~LINEBREAK~§7再生 II (0:03)~LINEBREAK~骨折した部位を回復
-item.hfrlc:heal1=§f治癒のフラスコ~LINEBREAK~§7再生 V (0:01)
-item.hfrlc:heal2=§b治癒のボトル~LINEBREAK~§7再生 V (0:06)~LINEBREAK~骨折した部位を回復
-item.hfrlc:heal3=§d治癒の薬~LINEBREAK~§7瞬時回復 X~LINEBREAK~骨折した部位を回復
-item.hfrlc:blue_bush_fruit=フロストベリー~LINEBREAK~§7耐熱 I
-item.hfrlc:orange_bush_fruit=エンバーフルーツ~LINEBREAK~§7耐冷 I
+item.hfrlc:power_shard=§bパワーの欠片
+
+## HEALTH CRYSTALS
+item.hfrlc:health_crystal=§cヘルスクリスタル~LINEBREAK~§7再生 II (0:03)~LINEBREAK~体力増加（死亡時リセット）
+item.hfrlc:health_crystal_shard=§cヘルスの欠片
+
+## ALL THINGS LEVELING
+item.hfrlc:xp=§e経験の書~LINEBREAK~§7レベル +15
+item.hfrlc:agility_token=§e敏捷のルーンストーン~LINEBREAK~§7敏捷レベル +1
+item.hfrlc:melee_token=§e近接のルーンストーン~LINEBREAK~§7近接レベル +1
+item.hfrlc:mining_token=§e採掘のルーンストーン~LINEBREAK~§7採掘レベル +1
+item.hfrlc:armor_token=§e防具のルーンストーン~LINEBREAK~§7防具レベル +1
+
+## MENU
+item.hfrlc:system_level=§f§lレベリングメニュー§r~LINEBREAK~§7インターフェースを開くには操作してください
+item.hfrlc:trinket_menu=§f§lトリンケットバッグ§r~LINEBREAK~§7インターフェースを開くには操作してください
+
+## AID ITEMS
+item.hfrlc:bandage=§f包帯~LINEBREAK~§7再生 II (0:03)~LINEBREAK~折れた手足を治療
+item.hfrlc:heal1=§f回復のフラスコ~LINEBREAK~§7再生 V (0:01)
+item.hfrlc:heal2=§b回復の瓶~LINEBREAK~§7再生 V (0:06)~LINEBREAK~折れた手足を治療
+item.hfrlc:heal3=§d治癒の薬~LINEBREAK~§7即時回復 X~LINEBREAK~折れた手足を治療
+item.hfrlc:blue_bush_fruit=フロストベリー~LINEBREAK~§7熱耐性 I
+item.hfrlc:orange_bush_fruit=エンバーフルーツ~LINEBREAK~§7凍結耐性 I
 item.hfrlc:red_root=スカーレットルート
+
+## UTILITY ITEMS
 item.hfrlc:recover_potion=§fリコールポーション~LINEBREAK~§7最後に死亡した地点へテレポート
-item.hfrlc:sleeping_bag=§f寝袋~LINEBREAK~§7スポーンポイントは設定されない
+item.hfrlc:sleeping_bag=§fスリーピングバッグ~LINEBREAK~§7スポーンポイントは設定されません
 item.hfrlc:teleport_scroll=§fテレポートスクロール~LINEBREAK~§7最後に設定したスポーンポイントへテレポート
-item.hfrlc:warpstone=§fワープストーン~LINEBREAK~§7攻撃してインターフェースを開く
-item.hfrlc:water_flasks_empty=§f水袋~LINEBREAK~§7使用回数: 0~LINEBREAK~水を入れて満たす
+item.hfrlc:warpstone=§fワープストーン~LINEBREAK~§7操作でインターフェースを開く
+item.hfrlc:water_flasks_empty=§f水袋~LINEBREAK~§70回使用可能~LINEBREAK~水を入れてください
 item.hfrlc:water_flasks=§f水袋
 item.hfrlc:copper_coin=銅貨
 item.hfrlc:silver_coin=銀貨
 item.hfrlc:gold_coin=金貨
 item.hfrlc:air_essence=§b風のエッセンス
-item.hfrlc:earth_essence=§b大地のエッセンス
+item.hfrlc:earth_essence=§b土のエッセンス
 item.hfrlc:fire_essence=§b火のエッセンス
 item.hfrlc:ice_essence=§b氷のエッセンス
-item.hfrlc:thunder_essence=§d雷の石
+item.hfrlc:thunder_essence=§dサンダーストーン
 item.hfrlc:water_essence=§b水のエッセンス
 item.hfrlc:briariron_ingot=§bブライアアイアンインゴット
-item.hfrlc:neptunium_ingot=§bネプツニウムインゴット
-item.hfrlc:shadow_stone=§b影の石
-item.hfrlc:voidsteel_ingot=§dヴォイドスチールインゴット
+item.hfrlc:neptunium_ingot=§bネプチュニウムインゴット
+item.hfrlc:shadow_stone=§bシャドーストーン
+item.hfrlc:voidsteel_ingot=§dヴォイドスティールインゴット
 
 ## ARMOR
-item.turtle_helmet.name=§l§f亀のヘルメット§r§f~LINEBREAK~ 
-item.elytra.name=§l§fエリトラ§r§f~LINEBREAK~
+item.turtle_helmet.name=§l§fカメのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7275§r~LINEBREAK~ §8修理材料:§r §7カメの甲羅片§r
+item.elytra.name=§l§fエリトラ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7432§r~LINEBREAK~ §8修理材料:§r §7ファントム膜§r
 
-item.leather_boots.name=§l§f革のブーツ§r§f~LINEBREAK~ 
-item.leather_chestplate.name=§l§f革のチュニック§r§f~LINEBREAK~ 
-item.leather_helmet.name=§l§f革のヘルメット§r§f~LINEBREAK~ 
-item.leather_leggings.name=§l§f革のレギンス§r§f~LINEBREAK~ 
+item.leather_boots.name=§l§f革のブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §765§r~LINEBREAK~ §8修理材料:§r §7革§r
+item.leather_chestplate.name=§l§f革のチュニック§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §780§r~LINEBREAK~ §8修理材料:§r §7革§r
+item.leather_helmet.name=§l§f革のヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §755§r~LINEBREAK~ §8修理材料:§r §7革§r
+item.leather_leggings.name=§l§f革のレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §775§r~LINEBREAK~ §8修理材料:§r §7革§r
 
-item.golden_boots.name=§l§f金のブーツ§r§f~LINEBREAK~ 
-item.golden_chestplate.name=§l§f金のチェストプレート§r§f~LINEBREAK~ 
-item.golden_helmet.name=§l§f金のヘルメット§r§f~LINEBREAK~ 
-item.golden_leggings.name=§l§f金のレギンス§r§f~LINEBREAK~ 
+item.golden_boots.name=§l§f金のブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §791§r~LINEBREAK~ §8修理材料:§r §7金のインゴット§r
+item.golden_chestplate.name=§l§f金のチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7112§r~LINEBREAK~ §8修理材料:§r §7金のインゴット§r
+item.golden_helmet.name=§l§f金のヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §777§r~LINEBREAK~ §8修理材料:§r §7金のインゴット§r
+item.golden_leggings.name=§l§f金のレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7105§r~LINEBREAK~ §8修理材料:§r §7金のインゴット§r
 
-item.hfrlc:pirate_boots=§l§fコルセアブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
-item.hfrlc:pirate_chestplate=§l§fコルセアチュニック§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
-item.hfrlc:pirate_helmet=§l§fコルセア三角帽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
-item.hfrlc:pirate_leggings=§l§fコルセアレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II (フルセット)~LINEBREAK~+1 水中呼吸 (フルセット)
+item.hfrlc:pirate_boots=§l§fコルセアのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II（フルセット）~LINEBREAK~+1 水中呼吸（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7195§r~LINEBREAK~ §8修理材料:§r §7海賊の布§r
+item.hfrlc:pirate_chestplate=§l§fコルセアのチュニック§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II（フルセット）~LINEBREAK~+1 水中呼吸（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7240§r~LINEBREAK~ §8修理材料:§r §7海賊の布§r
+item.hfrlc:pirate_helmet=§l§fコルセアのトリコーン帽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II（フルセット）~LINEBREAK~+1 水中呼吸（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7165§r~LINEBREAK~ §8修理材料:§r §7海賊の布§r
+item.hfrlc:pirate_leggings=§l§fコルセアのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 スピード II（フルセット）~LINEBREAK~+1 水中呼吸（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7225§r~LINEBREAK~ §8修理材料:§r §7海賊の布§r
 
-item.iron_boots.name=§l§f鉄のブーツ§r§f~LINEBREAK~ 
-item.iron_chestplate.name=§l§f鉄のチェストプレート§r§f~LINEBREAK~ 
-item.iron_helmet.name=§l§f鉄のヘルメット§r§f~LINEBREAK~ 
-item.iron_leggings.name=§l§f鉄のレギンス§r§f~LINEBREAK~ 
+item.iron_boots.name=§l§f鉄のブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7195§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.iron_chestplate.name=§l§f鉄のチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7240§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.iron_helmet.name=§l§f鉄のヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7165§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.iron_leggings.name=§l§f鉄のレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7225§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
 
-item.chainmail_boots.name=§l§fチェーンメイルブーツ§r§f~LINEBREAK~ 
-item.chainmail_chestplate.name=§l§fチェーンメイルチェストプレート§r§f~LINEBREAK~ 
-item.chainmail_helmet.name=§l§fチェーンメイルヘルメット§r§f~LINEBREAK~ 
-item.chainmail_leggings.name=§l§fチェーンメイルレギンス§r§f~LINEBREAK~ 
+item.chainmail_boots.name=§l§fチェーンメイルのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7195§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.chainmail_chestplate.name=§l§fチェーンメイルのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7240§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.chainmail_helmet.name=§l§fチェーンメイルのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7165§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.chainmail_leggings.name=§l§fチェーンメイルのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7225§r~LINEBREAK~ §8修理材料:§r §7なし§r
 
-item.diamond_boots.name=§l§fダイヤモンドブーツ§r§f~LINEBREAK~ 
-item.diamond_chestplate.name=§l§fダイヤモンドチェストプレート§r§f~LINEBREAK~ 
-item.diamond_helmet.name=§l§fダイヤモンドヘルメット§r§f~LINEBREAK~ 
-item.diamond_leggings.name=§l§fダイヤモンドレギンス§r§f~LINEBREAK~ 
+item.diamond_boots.name=§l§fダイヤモンドのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7429§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.diamond_chestplate.name=§l§fダイヤモンドのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7528§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.diamond_helmet.name=§l§fダイヤモンドのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7363§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.diamond_leggings.name=§l§fダイヤモンドのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7495§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
 
-item.netherite_boots.name=§l§fネザライトブーツ§r§f~LINEBREAK~ 
-item.netherite_chestplate.name=§l§fネザライトチェストプレート§r§f~LINEBREAK~ 
-item.netherite_helmet.name=§l§fネザライトヘルメット§r§f~LINEBREAK~ 
-item.netherite_leggings.name=§l§fネザライトレギンス§r§f~LINEBREAK~ 
+item.netherite_boots.name=§l§fネザライトのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7481§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.netherite_chestplate.name=§l§fネザライトのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7592§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.netherite_helmet.name=§l§fネザライトのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7407§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.netherite_leggings.name=§l§fネザライトのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7555§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
 
-item.hfrlc:blue_dragon_boots=§l§fブルードラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:blue_dragon_chestplate=§l§fブルードラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:blue_dragon_helmet=§l§fブルードラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:blue_dragon_leggings=§l§fブルードラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐熱 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:blue_dragon_boots=§l§f青いドラゴンのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 熱耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71655§r~LINEBREAK~ §8修理材料:§r §7青いドラゴンの鱗§r
+item.hfrlc:blue_dragon_chestplate=§l§f青いドラゴンのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 熱耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72035§r~LINEBREAK~ §8修理材料:§r §7青いドラゴンの鱗§r
+item.hfrlc:blue_dragon_helmet=§l§f青いドラゴンのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 熱耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71400§r~LINEBREAK~ §8修理材料:§r §7青いドラゴンの鱗§r
+item.hfrlc:blue_dragon_leggings=§l§f青いドラゴンのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 熱耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71910§r~LINEBREAK~ §8修理材料:§r §7青いドラゴンの鱗§r
 
-item.hfrlc:brown_dragon_boots=§l§fブラウンドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:brown_dragon_chestplate=§l§fブラウンドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:brown_dragon_helmet=§l§fブラウンドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:brown_dragon_leggings=§l§fブラウンドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:brown_dragon_boots=§l§f茶色いドラゴンのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7945§r~LINEBREAK~ §8修理材料:§r §7茶色いドラゴンの鱗§r
+item.hfrlc:brown_dragon_chestplate=§l§f茶色いドラゴンのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71165§r~LINEBREAK~ §8修理材料:§r §7茶色いドラゴンの鱗§r
+item.hfrlc:brown_dragon_helmet=§l§f茶色いドラゴンのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7800§r~LINEBREAK~ §8修理材料:§r §7茶色いドラゴンの鱗§r
+item.hfrlc:brown_dragon_leggings=§l§f茶色いドラゴンのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71090§r~LINEBREAK~ §8修理材料:§r §7茶色いドラゴンの鱗§r
 
-item.hfrlc:green_dragon_boots=§l§fグリーンドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:green_dragon_chestplate=§l§fグリーンドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:green_dragon_helmet=§l§fグリーンドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:green_dragon_leggings=§l§fグリーンドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 毒耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:green_dragon_boots=§l§f緑のドラゴンのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 毒耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71655§r~LINEBREAK~ §8修理材料:§r §7緑のドラゴンの鱗§r
+item.hfrlc:green_dragon_chestplate=§l§f緑のドラゴンのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 毒耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72035§r~LINEBREAK~ §8修理材料:§r §7緑のドラゴンの鱗§r
+item.hfrlc:green_dragon_helmet=§l§f緑のドラゴンのヘルメット§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 毒耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7400§r~LINEBREAK~ §8修理材料:§r §7緑のドラゴンの鱗§r
+item.hfrlc:green_dragon_leggings=§l§f緑のドラゴンのレギンス§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 毒耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71910§r~LINEBREAK~ §8修理材料:§r §7緑のドラゴンの鱗§r
 
-item.hfrlc:red_dragon_boots=§l§fレッドドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:red_dragon_chestplate=§l§fレッドドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:red_dragon_helmet=§l§fレッドドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:red_dragon_leggings=§l§fレッドドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐氷 I (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:red_dragon_boots=§l§f赤いドラゴンのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 凍結耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71655§r~LINEBREAK~ §8修理材料:§r §7赤いドラゴンの鱗§r
+item.hfrlc:red_dragon_chestplate=§l§f赤いドラゴンのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 凍結耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72035§r~LINEBREAK~ §8修理材料:§r §7赤いドラゴンの鱗§r
+item.hfrlc:red_dragon_helmet=§l§f赤いドラゴンのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 凍結耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71400§r~LINEBREAK~ §8修理材料:§r §7赤いドラゴンの鱗§r
+item.hfrlc:red_dragon_leggings=§l§f赤いドラゴンのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 凍結耐性 I（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71910§r~LINEBREAK~ §8修理材料:§r §7赤いドラゴンの鱗§r
 
-item.hfrlc:dark_dragon_boots=§l§fブラックドラゴンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
-item.hfrlc:dark_dragon_chestplate=§l§fブラックドラゴンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
-item.hfrlc:dark_dragon_helmet=§l§fブラックドラゴンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
-item.hfrlc:dark_dragon_leggings=§l§fブラックドラゴンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 盲目耐性 (フルセット)~LINEBREAK~+1 暗闇耐性 (フルセット)
+item.hfrlc:dark_dragon_boots=§l§f黒いドラゴンのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 失明耐性（フルセット）~LINEBREAK~+1 闇耐性（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71180§r~LINEBREAK~ §8修理材料:§r §7黒いドラゴンの鱗§r
+item.hfrlc:dark_dragon_chestplate=§l§f黒いドラゴンのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 失明耐性（フルセット）~LINEBREAK~+1 闇耐性（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71455§r~LINEBREAK~ §8修理材料:§r §7黒いドラゴンの鱗§r
+item.hfrlc:dark_dragon_helmet=§l§f黒いドラゴンのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 失明耐性（フルセット）~LINEBREAK~+1 闇耐性（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71000§r~LINEBREAK~ §8修理材料:§r §7黒いドラゴンの鱗§r
+item.hfrlc:dark_dragon_leggings=§l§f黒いドラゴンのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 失明耐性（フルセット）~LINEBREAK~+1 闇耐性（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71360§r~LINEBREAK~ §8修理材料:§r §7黒いドラゴンの鱗§r
 
-item.hfrlc:earth_dragon_boots=§l§fドラゴンボーンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:earth_dragon_chestplate=§l§fドラゴンボーンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:earth_dragon_helmet=§l§fドラゴンボーンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
-item.hfrlc:earth_dragon_leggings=§l§fドラゴンボーンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性 (フルセット)~LINEBREAK~+1 耐性 I (フルセット)
+item.hfrlc:earth_dragon_boots=§l§fドラゴンボーンのブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7830§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:earth_dragon_chestplate=§l§fドラゴンボーンのチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71020§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:earth_dragon_helmet=§l§fドラゴンボーンのヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7700§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:earth_dragon_leggings=§l§fドラゴンボーンのレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 ノックバック耐性（フルセット）~LINEBREAK~+1 耐性 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7955§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
 
-item.hfrlc:samurai_boots=§l§fローニンブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
-item.hfrlc:samurai_chestplate=§l§fローニンチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
-item.hfrlc:samurai_helmet=§l§fローニンヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
-item.hfrlc:samurai_leggings=§l§fローニンレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I (フルセット)
+item.hfrlc:samurai_boots=§l§f浪人のブーツ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7710§r~LINEBREAK~ §8修理材料:§r §7古代の鎧板§r
+item.hfrlc:samurai_chestplate=§l§f浪人のチェストプレート§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7875§r~LINEBREAK~ §8修理材料:§r §7古代の鎧板§r
+item.hfrlc:samurai_helmet=§l§f浪人のヘルメット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7600§r~LINEBREAK~ §8修理材料:§r §7古代の鎧板§r
+item.hfrlc:samurai_leggings=§l§f浪人のレギンス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢保護~LINEBREAK~+1 力 I（フルセット）§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7820§r~LINEBREAK~ §8修理材料:§r §7古代の鎧板§r
 
 ## TRINKETS
-item.hfrlc:golden_ring=§l§f黄金の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"見た目より少し重いようだ。"§r
-item.hfrlc:ancient_root=§l§f古代の根§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~鈍足耐性~LINEBREAK~~LINEBREAK~§7§o"こぶのある木は疲労を吸収する。"§r
-item.hfrlc:goat_horns=§l§fヤギの角§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~採掘疲労耐性~LINEBREAK~~LINEBREAK~§7§o"金箔が施されている。"§r
-item.hfrlc:cyclops_eye=§l§fサイクロプスの目§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~盲目耐性~LINEBREAK~暗闇耐性~LINEBREAK~~LINEBREAK~§7§o"たとえ一つ目でも役に立つ。"§r
-item.hfrlc:teddy_of_comfort=§l§f安らぎのテディ§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"抱擁はすべての傷を癒す。"§r
-item.hfrlc:warmer=§l§f永遠の焔§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐寒 I~LINEBREAK~~LINEBREAK~§7§o"小さな火種は~LINEBREAK~§o  炎に包まれている。~LINEBREAK~§o  寒さに関係なく、暖かさを保つ。"§r
-item.hfrlc:ice_bag=§l§f永遠の氷§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐熱 I~LINEBREAK~~LINEBREAK~§7§o"いかなる熱にも~LINEBREAK~§o  氷は溶けない。"§r
-item.hfrlc:antidote_vital=§l§f解毒の小瓶§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~毒耐性~LINEBREAK~~LINEBREAK~§7§o"どれだけ振っても~LINEBREAK~§o  中の液体は動かない。"§r
-item.hfrlc:greatest_shield=§l§f偉大なる盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ノックバック耐性~LINEBREAK~体力増強 I~LINEBREAK~~LINEBREAK~§7§o"振動をすべて~LINEBREAK~§o  吸収する。"§r
-item.hfrlc:ring_jump=§l§f跳躍の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~跳躍強化 II~LINEBREAK~~LINEBREAK~§7§o"以前よりずっと~LINEBREAK~§o  軽く感じる…不思議だ。"§r
-item.hfrlc:ring_speed=§l§fクイックフィンガー§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 I~LINEBREAK~~LINEBREAK~§7§o"どこか別の~LINEBREAK~§o  場所へ行きたい~LINEBREAK~§o  欲求をささやく。"§r
-item.hfrlc:blessed_water=§l§f祝福の水§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ウィザー耐性~LINEBREAK~~LINEBREAK~§7§o"一滴で~LINEBREAK~§o  あらゆる汚れを~LINEBREAK~§o  洗い流す。"§r
-item.hfrlc:mining_amulet=§l§f採掘のお守り§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~加速 I~LINEBREAK~~LINEBREAK~§7§o"前方への~LINEBREAK~§o  道を照らす。"§r
-item.hfrlc:shulker_anchor=§l§fシュルカーアンカー§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~浮遊耐性~LINEBREAK~~LINEBREAK~§7§o"何か魔法の力が~LINEBREAK~§o  地面に引き寄せる。"§r
-item.hfrlc:dragon_eyes=§l§fドラゴンの目§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~火耐性~LINEBREAK~暗視~LINEBREAK~暗闇耐性~LINEBREAK~~LINEBREAK~§7§o"炎の視線は~LINEBREAK~§o  すべての影を~LINEBREAK~§o  焼き尽くす。"§r
-item.hfrlc:ring_regeneration=§l§f再生の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"指先で脈打つ。"§r
-item.hfrlc:ring_resistance=§l§f耐性の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐性 I~LINEBREAK~~LINEBREAK~§7§o"試練の中で鍛えられた。"§r
-item.hfrlc:ring_strength=§l§f力の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~力 I~LINEBREAK~~LINEBREAK~§7§o"巨人の力が内に眠る。"§r
-item.hfrlc:feather_swiftness=§l§fフェザー・スウィフトネス§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 II~LINEBREAK~落下軽減 II~LINEBREAK~~LINEBREAK~§7§o"どこへ行っても風がついてくる。"§r
-item.hfrlc:great_horn_shield=§l§f偉大なる角盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ノックバック耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~体力増強 I~LINEBREAK~~LINEBREAK~§7§o"保護の印が刻まれている。"§r
-item.hfrlc:withering_necklace=§l§f枯死のネックレス§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ウィザーアスペクト I~LINEBREAK~~LINEBREAK~§7§o"ウィザーの頭蓋骨は休眠しているようだ。"§r
-item.hfrlc:panacea=§p§l万病薬§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~盲目耐性~LINEBREAK~鈍足耐性~LINEBREAK~毒耐性~LINEBREAK~ウィザー耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~浮遊耐性~LINEBREAK~~LINEBREAK~§7§o"すべてを癒す一つの薬。"§r
-item.hfrlc:dragon_slayer_cape=§p§l竜狩りのケープ§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~盲目耐性~LINEBREAK~鈍足耐性~LINEBREAK~毒耐性~LINEBREAK~ウィザー耐性~LINEBREAK~ノックバック耐性~LINEBREAK~爆発耐性~LINEBREAK~火耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~~LINEBREAK~§7§o"勝利の証が織り込まれている。"§r
-item.hfrlc:dragon_slayer_ring=§p§l竜狩りの指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~力 II~LINEBREAK~体力増強 V~LINEBREAK~耐性 I~LINEBREAK~~LINEBREAK~§7§o"彼らが恐れる一振り。"§r
-item.hfrlc:lapis_ring=§l§fラピスの指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"反射性は劣るが確かに上品だ。"§r
-item.hfrlc:silver_ring=§l§f鉄の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"十分に輝き、~LINEBREAK~§o誰かに~LINEBREAK~§o銀と間違えられるほどだ。"§r
-item.hfrlc:netherite_ring=§l§fネザライトの指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"この世界に属していない~LINEBREAK~§oこの平面のものではない~LINEBREAK~§o誰かがこれを~LINEBREAK~§o下層のネザーへ返すべきだ。"§r
-
+item.hfrlc:golden_ring=§l§fゴールデンリング§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「見た目よりも~LINEBREAK~§o重く感じる。」§r
+item.hfrlc:ancient_root=§l§f古代の根§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~鈍足耐性~LINEBREAK~~LINEBREAK~§7§o「ねじれた木は~LINEBREAK~§o疲労を吸収する。」§r
+item.hfrlc:goat_horns=§l§fヤギの角§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~採掘疲労耐性~LINEBREAK~~LINEBREAK~§7§o「金で飾られている。」§r
+item.hfrlc:cyclops_eye=§l§fサイクロプスの目§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~失明耐性~LINEBREAK~闇耐性~LINEBREAK~~LINEBREAK~§7§o「一つ目でも役に立つ。」§r
+item.hfrlc:teddy_of_comfort=§l§f慰めのテディ§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o「抱きしめると~LINEBREAK~§oすべての傷が癒える。」§r
+item.hfrlc:warmer=§l§f永遠の焔§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~寒さ耐性~LINEBREAK~~LINEBREAK~§7§o「小さな焔が~LINEBREAK~§o炎に包まれている。~LINEBREAK~§oどんな寒さでも~LINEBREAK~§oあなたを暖める。」§r
+item.hfrlc:ice_bag=§l§f永遠の氷§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~熱さ耐性~LINEBREAK~~LINEBREAK~§7§o「氷は~LINEBREAK~§oどんな熱さでも溶けない。」§r
+item.hfrlc:antidote_vital=§l§f解毒剤の瓶§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~毒耐性~LINEBREAK~~LINEBREAK~§7§o「中の液体は~LINEBREAK~§oどんなに振っても~LINEBREAK~§o動かない。」§r
+item.hfrlc:greatest_shield=§l§f最強の盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ノックバック耐性~LINEBREAK~体力増強 I~LINEBREAK~~LINEBREAK~§7§o「すべての振動を吸収する。」§r
+item.hfrlc:ring_jump=§l§fジャンプリング§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ジャンプ増強 II~LINEBREAK~~LINEBREAK~§7§o「前よりずっと軽く感じる…不思議だ。」§r
+item.hfrlc:ring_speed=§l§fクイックフィンガー§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~スピード I~LINEBREAK~~LINEBREAK~§7§o「どこかへ行きたくて~LINEBREAK~§oささやいている。」§r
+item.hfrlc:blessed_water=§l§f祝福の水§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ウィザー耐性~LINEBREAK~~LINEBREAK~§7§o「一滴で全ての汚れを洗い流す。」§r
+item.hfrlc:mining_amulet=§l§f採掘の護符§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~加速 I~LINEBREAK~~LINEBREAK~§7§o「前方の道を照らす。」§r
+item.hfrlc:shulker_anchor=§l§fシュルカーアンカー§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~浮遊耐性~LINEBREAK~~LINEBREAK~§7§o「魔法の何かが~LINEBREAK~§o地面に引きつけている。」§r
+item.hfrlc:dragon_eyes=§l§fドラゴンの目§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~火耐性~LINEBREAK~夜間視力~LINEBREAK~闇耐性~LINEBREAK~~LINEBREAK~§7§o「燃える視線が~LINEBREAK~§oすべての影を焼き払う。」§r
+item.hfrlc:ring_regeneration=§l§f再生の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o「指で鼓動している。」§r
+item.hfrlc:ring_resistance=§l§f耐性の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐性 I~LINEBREAK~~LINEBREAK~§7§o「耐久の試練で鍛えられた。」§r
+item.hfrlc:ring_strength=§l§f力の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~力 I~LINEBREAK~~LINEBREAK~§7§o「巨人の力が~LINEBREAK~§o眠っている。」§r
+item.hfrlc:feather_swiftness=§l§f羽の速さ§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~スピード II~LINEBREAK~ゆっくり落下 II~LINEBREAK~~LINEBREAK~§7§o「どこへ行っても~LINEBREAK~§o風がついてくる。」§r
+item.hfrlc:great_horn_shield=§l§fグレートホーンシールド§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ノックバック耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~体力増強 I~LINEBREAK~~LINEBREAK~§7§o「保護の印が込められている。」§r
+item.hfrlc:withering_necklace=§l§fウィザリングネックレス§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~ウィザー効果 I~LINEBREAK~~LINEBREAK~§7§o「ウィザースカルは~LINEBREAK~§o休眠状態のようだ。」§r
+item.hfrlc:panacea=§p§l万能薬§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~失明耐性~LINEBREAK~鈍足耐性~LINEBREAK~毒耐性~LINEBREAK~ウィザー耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~浮遊耐性~LINEBREAK~~LINEBREAK~§7§o「これ一つで~LINEBREAK~§oすべてを治す。」§r
+item.hfrlc:dragon_slayer_cape=§p§lドラゴンスレイヤーのマント§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~失明耐性~LINEBREAK~鈍足耐性~LINEBREAK~毒耐性~LINEBREAK~ウィザー耐性~LINEBREAK~ノックバック耐性~LINEBREAK~爆発耐性~LINEBREAK~火耐性~LINEBREAK~採掘疲労耐性~LINEBREAK~~LINEBREAK~§7§o「倒れた獣たちに勝利を刻んだ織物。」§r
+item.hfrlc:dragon_slayer_ring=§p§lドラゴンスレイヤーの指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~力 I~LINEBREAK~体力増強 V~LINEBREAK~耐性 I~LINEBREAK~~LINEBREAK~§7§o「みんなが~LINEBREAK~§o恐れる存在…」§r
+item.hfrlc:lapis_ring=§l§fラピスリング§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「反射は劣るが~LINEBREAK~§o確かに上品。」§r
+item.hfrlc:silver_ring=§l§f鉄の指輪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「銀と間違われるほど~LINEBREAK~§o輝いている。」§r
+item.hfrlc:netherite_ring=§l§fネザライトリング§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「この世界のものではない。~LINEBREAK~§o誰かがこれをネザーに返すべきだ。」§r
 
 ## SWORDS
-item.wooden_sword.name=§l§f木の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"熟練への第一歩。"§r
-item.stone_sword.name=§l§f石の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"戦士のための確かな基盤。"§r
-item.golden_sword.name=§l§f金の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"光沢はあるが頑丈ではない。"§r
-item.hfrlc:spike_sword=§l§fインパルス§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して空中で勢いを得る。~LINEBREAK~鉄インゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"一振りごとに重力を無視する。"§r
-item.iron_sword.name=§l§f鉄の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"技術で鍛えられた頼れる鋼。"§r
-item.hfrlc:darkness_sword=§l§fシャドウレンド§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して影に隠れる。~LINEBREAK~シャドウストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"倒した者は影の領域へ送られる。"§r
-item.hfrlc:weapon_4=§l§f骨の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9シャドウストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"死神の鋭い刃。"§r
-item.hfrlc:water_sword=§l§fカレント§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して水流の弾を発射する。~LINEBREAK~水のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"純粋な水が鋼を流れる。"§r
-item.diamond_sword.name=§l§fダイヤモンドソード§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"武器としての結晶的な完璧さ。"§r
-item.hfrlc:air_sword=§l§fビジランス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して突風を発生させる。~LINEBREAK~風のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"風の力を自在に操る。"§r
-item.hfrlc:light_sword=§l§fエアリスリル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用してスーパージャンプを行う。~LINEBREAK~風のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"星々へと跳ぶ。"§r
-item.hfrlc:weapon_8=§l§f氷の剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~~LINEBREAK~§9氷のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"冬の咬みつきが具現化する。"§r
-item.netherite_sword.name=§l§fネザライトソード§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ネザーの深淵で鍛えられた。"§r
-item.hfrlc:fire_sword=§l§fフレイムソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して炎の飛翔体を発射する。~LINEBREAK~火のエッセンスで修理。~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~~LINEBREAK~§7§o"炎の飛翔体が敵を焼き尽くす。"§r
-item.hfrlc:ice_sword=§l§fグレイシア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して氷の飛翔体を発射する。~LINEBREAK~しゃがんで攻撃すると氷の槍を生成する。~LINEBREAK~氷のエッセンスで修理。~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~~LINEBREAK~§7§o"氷の槍はしゃがむと突き刺さる。"§r
-item.hfrlc:ocean_sword=§l§fタイドピアサー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9しゃがみ使用で水の飛翔体を発射する。~LINEBREAK~アイテムを使用して水の衝撃波を発生させる。~LINEBREAK~ネプツニウムインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"命令ひとつで潮の波が押し寄せる。"§r
-item.hfrlc:weapon_6=§l§fエルデンソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古の力が鋼を流れる。"§r
-item.hfrlc:weapon_7=§l§fロングソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"リーチを伸ばし戦闘を拡張する。"§r
-item.hfrlc:weapon_5=§l§fハンマーソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"破壊力が切れ味と融合する。"§r
-item.hfrlc:dragon_bone_sword=§l§fドラゴンボーンロングソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古のドラゴンの残骸から鍛えられた。"§r
-item.hfrlc:earth_sword=§l§fランドスプリット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して、近くの敵にダメージを与える鍾乳石を生成する。~LINEBREAK~ブライアアイアンインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"大地から石の槍が立ち上がる。"§r
-item.hfrlc:ice_dragon_bone_sword=§l§fブリザード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"氷と骨が一体となって鍛え上げられた。"§r
-item.hfrlc:fire_dragon_bone_sword=§l§fエンバーソング§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"ドラゴンの炎そのもので鍛えられた。"§r
-item.hfrlc:lava_sword=§l§fメテオソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して隕石を生成する。~LINEBREAK~火のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"天より隕石が降り注ぐ。"§r
-item.hfrlc:ender_sword=§l§fブリンク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して対象へテレポートする。~LINEBREAK~ヴォイドスチールインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"狙った場所へテレポートする。"§r
-item.hfrlc:storm_sword=§l§f旋風§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用してハリケーンを発生。~LINEBREAK~サンダーストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"嵐はお前の意志に従う。"§r
-item.hfrlc:thunder_sword=§l§fストームブレイク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して稲妻を呼び起こす。~LINEBREAK~サンダーストーンで修理。~LINEBREAK~~LINEBREAK~§9Lightning Aspect~LINEBREAK~~LINEBREAK~§7§o"雷は一撃ごとに従う。"§r
-item.hfrlc:elemental_sword=§l§pアルガヴェイルド§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~§r§dスニークで属性を切り替え~LINEBREAK~~LINEBREAK~§7§o"ついに…休息できる。"§r
-item.hfrlc:dirt_sword=§l§fアースソード§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して土の飛翔体を発射。~LINEBREAK~土で修理。~LINEBREAK~~LINEBREAK~§7§o"大地の基盤が武器となる。"§r
-item.hfrlc:jungle_sword=§l§fエバーグリーン§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して地中から岩を噴出。~LINEBREAK~大地のエッセンスで修理。~LINEBREAK~~LINEBREAK~§7§o"大地の息吹を望む。"§r
+item.wooden_sword.name=§l§f木の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「熟練への~LINEBREAK~§o最初の一歩。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §760§r~LINEBREAK~ §8修理材料:§r §7木材§r
+item.stone_sword.name=§l§f石の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「戦士の~LINEBREAK~§o堅実な基盤。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7130§r~LINEBREAK~ §8修理材料:§r §7丸石§r
+item.golden_sword.name=§l§f金の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「光っているが~LINEBREAK~§o丈夫ではない。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §735§r~LINEBREAK~ §8修理材料:§r §7金のインゴット§r
+item.hfrlc:spike_sword=§l§fインパルス§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9空中で使うと~LINEBREAK~勢いを得る。~LINEBREAK~~LINEBREAK~§7§o「振るたびに~LINEBREAK~§o重力に逆らえ。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7150§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.iron_sword.name=§l§f鉄の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「技術で鍛えられた~LINEBREAK~§o頼れる鋼鉄。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7250§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.hfrlc:darkness_sword=§l§fシャドウレンド§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9影に隠れるために使う。~LINEBREAK~~LINEBREAK~§7§o「倒した敵は~LINEBREAK~§o影の領域へ送られる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7430§r~LINEBREAK~ §8修理材料:§r §7シャドウストーン§r
+item.hfrlc:weapon_4=§l§f骨の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「死が研ぎ澄ました刃。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71200§r~LINEBREAK~ §8修理材料:§r §7シャドウストーン§r
+item.hfrlc:water_sword=§l§fカレント§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9水の飛翔体を発射できる。~LINEBREAK~~LINEBREAK~§7§o「純水が鋼鉄を流れる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71400§r~LINEBREAK~ §8修理材料:§r §7水のエッセンス§r
+item.diamond_sword.name=§l§fダイヤモンドの剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「武器の結晶の完璧さ。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71600§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.hfrlc:air_sword=§l§fヴィジランス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9風の突風を起こせる。~LINEBREAK~~LINEBREAK~§7§o「風の力を操る。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7風のエッセンス§r
+item.hfrlc:light_sword=§l§fエアリスリル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9スーパージャンプができる。~LINEBREAK~~LINEBREAK~§7§o「星へ跳べ。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7風のエッセンス§r
+item.hfrlc:weapon_8=§l§f氷の剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~~LINEBREAK~§7§o「冬の牙が形となる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71800§r~LINEBREAK~ §8修理材料:§r §7氷のエッセンス§r
+item.netherite_sword.name=§l§fネザライトの剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「ネザーの深淵で鍛えられた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.hfrlc:fire_sword=§l§f炎の剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9火の飛翔体を発射できる。~LINEBREAK~~LINEBREAK~§6火の効果~LINEBREAK~~LINEBREAK~§7§o「燃え盛る飛翔体が~LINEBREAK~§o敵を焼き尽くす。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71580§r~LINEBREAK~ §8修理材料:§r §7火のエッセンス§r
+item.hfrlc:ice_sword=§l§fグレイシア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9氷の飛翔体を発射できる。~LINEBREAK~しゃがんで攻撃すると氷の棘が発生。~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~~LINEBREAK~§7§o「しゃがむと氷の棘が突き刺さる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71580§r~LINEBREAK~ §8修理材料:§r §7氷のエッセンス§r
+item.hfrlc:ocean_sword=§l§f潮撃ち§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9しゃがみ+使用で水の飛翔体を発射。~LINEBREAK~水の衝撃波を生成。~LINEBREAK~~LINEBREAK~§7§o「潮の波が~LINEBREAK~§o命じるままに打ち寄せる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71590§r~LINEBREAK~ §8修理材料:§r §7ネプテュニウムインゴット§r
+item.hfrlc:weapon_6=§l§fエルデンスウォード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「古の力が~LINEBREAK~§o鋼に流れる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71600§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.hfrlc:weapon_7=§l§fロングソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「戦闘のための~LINEBREAK~§oリーチ延長。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71600§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.hfrlc:weapon_5=§l§fハンマースウォード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「破壊力が~LINEBREAK~§o切れ味と出会う。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71600§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.hfrlc:dragon_bone_sword=§l§fドラゴンボーンロングソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「古代のドラゴンの残骸から鍛えられた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:earth_sword=§l§fランドスプリット§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9槍状の石筍を生成し、周囲の敵にダメージを与える。~LINEBREAK~~LINEBREAK~§7§o「地面から石の槍が立ち上がる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7ブライアアイアンインゴット§r
+item.hfrlc:ice_dragon_bone_sword=§l§fブリザード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「氷と骨が一体となって鍛えられた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7氷のドラゴンスピリット§r
+item.hfrlc:fire_dragon_bone_sword=§l§fエンバーソング§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「ドラゴンの炎で鍛えられた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7火のドラゴンスピリット§r
+item.hfrlc:lava_sword=§l§fメテオソード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9隕石を生成する。~LINEBREAK~~LINEBREAK~§7§o「隕石が天から降り注ぐ。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7火のエッセンス§r
+item.hfrlc:ender_sword=§l§fブリンク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9短距離テレポートできる。~LINEBREAK~~LINEBREAK~§7§o「狙った場所へ瞬間移動。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7ヴォイドスティールインゴット§r
+item.hfrlc:storm_sword=§l§f旋風§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9このアイテムを使うと~LINEBREAK~ハリケーンを発生させる。~LINEBREAK~~LINEBREAK~§7§o「嵐はあなたの~LINEBREAK~§o意のままに。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7サンダーストーン§r
+item.hfrlc:thunder_sword=§l§fストームブレイク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9このアイテムを使うと~LINEBREAK~稲妻を発生させる。~LINEBREAK~~LINEBREAK~§9雷の効果~LINEBREAK~~LINEBREAK~§7§o「雷はあなたの~LINEBREAK~§o一撃一撃に従う。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7サンダーストーン§r
+item.hfrlc:elemental_sword=§l§pアルガヴェイルド§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r§9~LINEBREAK~~LINEBREAK~§r§dしゃがみで属性を切り替え~LINEBREAK~~LINEBREAK~§7§o「ついに…~LINEBREAK~§o休める。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.hfrlc:dirt_sword=§l§f大地の剣§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9このアイテムを使うと~LINEBREAK~土の飛翔体を発射する。~LINEBREAK~~LINEBREAK~§7§o「謙虚な始まり。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §790§r~LINEBREAK~ §8修理材料:§r §7土§r
+item.hfrlc:jungle_sword=§l§f常緑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9このアイテムを使うと~LINEBREAK~地面から石を噴き出させる。~LINEBREAK~~LINEBREAK~§7§o「土の下を~LINEBREAK~§o恋しがっている。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7630§r~LINEBREAK~ §8修理材料:§r §7大地のエッセンス§r
 
-## 大剣
-item.hfrlc:wither_sword=§l§fスレイヤー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用してウィザー飛翔体を発射。~LINEBREAK~ヘビーコアで修理。~LINEBREAK~~LINEBREAK~§uWither Aspect~LINEBREAK~~LINEBREAK~§7§o"死神そのものがこの刃を導く。"§r
-item.hfrlc:nether_sword=§l§fヘルファイア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して溶岩攻撃を発生。~LINEBREAK~ヘビーコアで修理。~LINEBREAK~~LINEBREAK~§7§o"地獄の炎が刃を貫く。"§r
-item.hfrlc:poison_sword=§l§fミアソーン§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9アイテムを使用して毒の飛翔体を発射。~LINEBREAK~ヘビーコアで修理。~LINEBREAK~~LINEBREAK~§2Poisonous~LINEBREAK~~LINEBREAK~§7§o"毒が刃先から滴る。"§r
+## GREATSWORDS
+item.hfrlc:wither_sword=§l§fスレイヤー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9このアイテムを使うと~LINEBREAK~ウィザーの飛翔体を発射する。~LINEBREAK~~LINEBREAK~§uウィザー効果~LINEBREAK~~LINEBREAK~§7§o「死そのものが~LINEBREAK~§oこの刃を導く。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7ヘビーコア§r
+item.hfrlc:nether_sword=§l§fヘルファイア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9溶岩攻撃を生成する。~LINEBREAK~~LINEBREAK~§7§o「地獄の炎が~LINEBREAK~§o刃を駆け巡る。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7ヘビーコア§r
+item.hfrlc:poison_sword=§l§fマイアソーン§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9毒の飛翔体を発射できる。~LINEBREAK~~LINEBREAK~§2毒効果~LINEBREAK~~LINEBREAK~§7§o「刃から毒が滴る。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7ヘビーコア§r
 
-## 刀
-item.hfrlc:weapon_10=§l§f刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"刀の道、その体現。"§r
-item.hfrlc:dragon_bone_katana=§l§fドラゴンボーン刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"文明の時代に相応しい優雅な武器。"§r
-item.hfrlc:ice_dragon_bone_katana=§l§fフロストバイト§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"氷と竜の魂が融合し金属を断つ。"§r
-item.hfrlc:fire_dragon_bone_katana=§l§fバーンウェイク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"炎竜の魂が柄に宿る。"§r
-item.hfrlc:legendary_katana=§l§pスピリット刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r~LINEBREAK~~LINEBREAK~§7§o"古の魂がこの刃を導く。"§r
+## KATANAS
+item.hfrlc:weapon_10=§l§fカタナ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「刀の道を体現した。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71600§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.hfrlc:dragon_bone_katana=§l§fドラゴンボーンカタナ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「より文明的な時代のための優雅な武器。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71660§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:ice_dragon_bone_katana=§l§fフロストバイト§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「氷と融合したドラゴンの魂が~LINEBREAK~§o金属をも切り裂く強い絆を生んだ。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71710§r~LINEBREAK~ §8修理材料:§r §7氷のドラゴンスピリット§r
+item.hfrlc:fire_dragon_bone_katana=§l§fバーンウェイク§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「炎のドラゴンスピリットが~LINEBREAK~§o柄に宿る。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71760§r~LINEBREAK~ §8修理材料:§r §7火のドラゴンスピリット§r
+item.hfrlc:legendary_katana=§l§pスピリットカタナ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l伝説のアイテム§r~LINEBREAK~~LINEBREAK~§7§o「エルドリッチの魂が~LINEBREAK~§oこの刃を導く。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72000§r~LINEBREAK~ §8修理材料:§r §7なし§r
 
 ## DAGGERS
-item.hfrlc:flint_dagger=§l§f火打ち石の短剣§r§f~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"植物から繊維を~LINEBREAK~§o  抽出するには十分だ。"§r
-item.hfrlc:wooden_dagger=§l§f木の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"かろうじて~LINEBREAK~§o  紙を切るだけだ。"§r
-item.hfrlc:golden_dagger=§l§f金の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"一撃ごとに~LINEBREAK~§o  刃がひどく欠ける。"§r
-item.hfrlc:stone_dagger=§l§f石の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"重いが~LINEBREAK~§o  見た目ほど鈍くない。"§r
-item.hfrlc:iron_dagger=§l§f鉄の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"鋭い刃は~LINEBREAK~§o  誰かを刺したがっている。"§r
-item.hfrlc:weapon_9=§l§fジャンビーヤ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"黄金の柄は~LINEBREAK~§o  あなたにはわからない装飾で~LINEBREAK~§o  彫られている。"§r
-item.hfrlc:diamond_dagger=§l§fダイヤモンドダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"見た目は繊細だが~LINEBREAK~§o  正確さでは致命的だ。"§r
-item.hfrlc:netherite_dagger=§l§fネザライトダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"暗い金属が~LINEBREAK~§o  日光の下で紫に輝く。"§r
-item.hfrlc:dragon_bone_dagger=§l§fドラゴンボーンダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9稀に二倍ダメージを与える~LINEBREAK~~LINEBREAK~§3Dragonbane~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"竜の爪は~LINEBREAK~§o  お前の手中にある。"§r
-item.hfrlc:ice_dragon_bone_dagger=§l§fヘイルシャード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"氷の槍はしゃがむと~LINEBREAK~§o  突き刺さる。"§r
-item.hfrlc:fire_dragon_bone_dagger=§l§fブレイジングエッジ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o"炎竜の魂が~LINEBREAK~§o  柄に宿る。"§r
+item.hfrlc:flint_dagger=§l§f火打石のナイフ§r§f~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「植物から繊維を採取するのに十分な刃物。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §750§r~LINEBREAK~ §8修理材料:§r §7火打石§r
+item.hfrlc:wooden_dagger=§l§f木製の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「紙をかろうじて切れる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §760§r~LINEBREAK~ §8修理材料:§r §7木材§r
+item.hfrlc:golden_dagger=§l§f金の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「一振りごとに欠けやすい。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §731§r~LINEBREAK~ §8修理材料:§r §7金のインゴット§r
+item.hfrlc:stone_dagger=§l§f石の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「重いが鈍くは見えない。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7110§r~LINEBREAK~ §8修理材料:§r §7丸石§r
+item.hfrlc:iron_dagger=§l§f鉄の短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「鋭い刃が誰かを刺したがっている。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7170§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.hfrlc:weapon_9=§l§fジャンビーヤ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「金の柄には~LINEBREAK~§o知らない装飾が刻まれている。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7190§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.hfrlc:diamond_dagger=§l§fダイヤモンド短剣§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「繊細な外見で~LINEBREAK~§o致命的な精度。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7800§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.hfrlc:netherite_dagger=§l§fネザライトダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「暗い金属が昼間に紫色に輝く。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71870§r~LINEBREAK~ §8修理材料:§r §7火打石の欠片§r
+item.hfrlc:dragon_bone_dagger=§l§fドラゴンボーンダガー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9二倍ダメージのチャンス~LINEBREAK~~LINEBREAK~§3ドラゴンベイン~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「ドラゴンの爪があなたのものに。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71640§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:ice_dragon_bone_dagger=§l§fヘイルシャード§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「氷と融合したドラゴンの魂が~LINEBREAK~§oあらゆる金属を切り裂く強い絆を生み出した。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7氷のドラゴンスピリット§r
+item.hfrlc:fire_dragon_bone_dagger=§l§fブレイジングエッジ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~§p繊維採取~LINEBREAK~~LINEBREAK~§7§o「火のドラゴンスピリットが~LINEBREAK~§o柄に宿る。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71750§r~LINEBREAK~ §8修理材料:§r §7火のドラゴンスピリット§r
 
-## 槍
-item.hfrlc:wooden_spear=§l§f木の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"先端に野心を宿す棒。"§r
-item.hfrlc:golden_spear=§l§f金の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"金色だがそれほど貴重ではない。"§r
-item.hfrlc:stone_spear=§l§f石の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始的だが驚くほど効果的だ。"§r
-item.hfrlc:weapon_2=§l§fNaginata§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"栄誉が一突きごとに導く。"§r
-item.hfrlc:iron_spear=§l§f鉄の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"信頼できてバランスが良い。"§r
-item.hfrlc:diamond_spear=§l§fダイヤモンドの槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"刺突の極致を具現化した。"§r
-item.hfrlc:netherite_spear=§l§fネザライトの槍§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"折れない闇を鋼に鍛え上げた。"§r
-item.hfrlc:dragon_bone_spear=§l§fドラゴンボーンの槍§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"竜の精髄が先端を研ぎ澄ます。"§r
-item.hfrlc:ice_dragon_bone_spear=§l§fWinterwyrm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"凍りついた息が鋼となった。"§r
-item.hfrlc:fire_dragon_bone_spear=§l§fCinderspine§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"先端は永遠の炎で燃え盛る。"§r
+## SPEARS
+item.hfrlc:wooden_spear=§l§f木の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「尖った野望を持った棒。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §758§r~LINEBREAK~ §8修理材料:§r §7木材§r
+item.hfrlc:golden_spear=§l§f金の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「金色だがそれほど貴重ではない。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §732§r~LINEBREAK~ §8修理材料:§r §7金のインゴット§r
+item.hfrlc:stone_spear=§l§f石の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「原始的だが驚くほど効果的。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7120§r~LINEBREAK~ §8修理材料:§r §7丸石§r
+item.hfrlc:weapon_2=§l§f薙刀§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「名誉がすべての突きを導く。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7210§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.hfrlc:iron_spear=§l§f鉄の槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「信頼性があり~LINEBREAK~§oバランスも良い。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7230§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
+item.hfrlc:diamond_spear=§l§fダイヤモンドの槍§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「貫通の卓越性が具現化。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71000§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.hfrlc:netherite_spear=§l§fネザライトスピア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「壊れない闇が鋼に鍛えられた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71950§r~LINEBREAK~ §8修理材料:§r §7ネザライトのインゴット§r
+item.hfrlc:dragon_bone_spear=§l§fドラゴンボーンスピア§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「ドラゴンの精髄が先端を鋭くする。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71650§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:ice_dragon_bone_spear=§l§fウィンターウィルム§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「凍った息が鋼となった。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71720§r~LINEBREAK~ §8修理材料:§r §7氷のドラゴンスピリット§r
+item.hfrlc:fire_dragon_bone_spear=§l§fシンダースパイン§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「先端は永遠の炎で燃えている。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71770§r~LINEBREAK~ §8修理材料:§r §7火のドラゴンスピリット§r
 
-## 三叉槍
-item.trident.name=§l§fトライデント§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"魚の匂いがする…"§r
-item.hfrlc:weapon_11=§l§fNeptunium Trident§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 Projectile Damage~LINEBREAK~Loyalty~LINEBREAK~ネプツニウムインゴットで修理。~LINEBREAK~~LINEBREAK~§7§o"三叉の牙が水の怒りを呼び起こす。"§r
+## TRIDENTS
+item.trident.name=§l§fトライデント§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「魚の匂いがする…」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7250§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.hfrlc:weapon_11=§l§fネプトニウムトライデント§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 投射物ダメージ~LINEBREAK~忠誠~LINEBREAK~~LINEBREAK~§7§o「水の怒りの三又槍。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7700§r~LINEBREAK~ §8修理材料:§r §7ネプトニウムインゴット§r
 
 ## WARHAMMERS
-item.hfrlc:dragon_bone_hammer=§l§fドラゴンボーンウォーハンマー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"武器となった原始の竜の力。"§r
-item.hfrlc:ice_dragon_bone_hammer=§l§fドミニオン§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"永遠の冬が武器となる。"§r
-item.hfrlc:fire_dragon_bone_hammer=§l§fファーネス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§3Dragonbane~LINEBREAK~~LINEBREAK~§7§o"溶岩の怒りが具現化した。"§r
-item.mace.name=§l§fメイス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一撃ごとに大地を震わす衝撃。"§r
+item.hfrlc:dragon_bone_hammer=§l§fドラゴンボーンウォーハンマー§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「武器の形をした生の竜の力。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71670§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:ice_dragon_bone_hammer=§l§fドミニオン§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「永遠の冬が武器となった。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71730§r~LINEBREAK~ §8修理材料:§r §7氷のドラゴンスピリット§r
+item.hfrlc:fire_dragon_bone_hammer=§l§fファーネス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火の効果~LINEBREAK~§3ドラゴンベイン~LINEBREAK~~LINEBREAK~§7§o「溶けた怒りが形となった。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71780§r~LINEBREAK~ §8修理材料:§r §7火のドラゴンスピリット§r
+item.mace.name=§l§fメイス§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「一撃ごとに地を揺るがす味わいがある。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7500§r~LINEBREAK~ §8修理材料:§r §7ブリーズロッド§r
 
 ## SHIELDS
-item.hfrlc:weapon_13=§l§f木の盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"大自然の贈り物からのシンプルな守り。"§r
-item.shield.name=§l§f盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一日中これをやっていられるぜ…"§r
-
+item.hfrlc:weapon_13=§l§f木の盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「自然の贈り物からのシンプルな防御。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7400§r~LINEBREAK~ §8修理材料:§r §7木材§r
+item.shield.name=§l§f盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「これなら一日中できる…」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7336§r~LINEBREAK~ §8修理材料:§r §7鉄のインゴット§r
 
 ## STAVES
-item.hfrlc:weapon_12=§l§f魔法の杖§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"秘術のエネルギーが内に満ちる。"§r
+item.hfrlc:weapon_12=§l§f魔法の杖§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「秘術のエネルギーが内に流れる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71000§r~LINEBREAK~ §8修理材料:§r §7なし§r
 
 ## BOWS
-item.crossbow.name=§l§fクロスボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"イリジャーの選択。"§r
-item.bow.name=§l§f弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"汝の矢が貫き通さんことを。"§r
-item.hfrlc:weapon_1=§l§fロングボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"精密射撃のための射程延長。"§r
-item.hfrlc:dragon_bone_bow=§l§fドラゴンボーンボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"古の力が一矢ごとに導く。"§r
-item.hfrlc:fire_dragon_bow=§l§fエンバーギア§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6Fire Aspect~LINEBREAK~§9+20 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"龍の炎が矢に宿る。"§r
-item.hfrlc:ice_dragon_bone_bow=§l§fフロストスナップ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§bFrost Aspect~LINEBREAK~§9+20 飛翔体ダメージ§r~LINEBREAK~~LINEBREAK~§7§o"飛翔中の矢が凍りつく。"§r
+item.crossbow.name=§l§fクロスボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「イリジャーの選択。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7464§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.bow.name=§l§f弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「矢よ、的を射抜け。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7384§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.hfrlc:weapon_1=§l§fルートボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 投射物ダメージ§r~LINEBREAK~~LINEBREAK~§7§o「正確な射撃のための射程延長。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71000§r~LINEBREAK~ §8修理材料:§r §7なし§r
+item.hfrlc:dragon_bone_bow=§l§fドラゴンボーンボウ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 投射物ダメージ~LINEBREAK~~LINEBREAK~§7§o「古の力が矢を導く。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7ドラゴンの骨§r
+item.hfrlc:fire_dragon_bow=§l§fエンバーズナップ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火の効果~LINEBREAK~§9+20 投射物ダメージ~LINEBREAK~~LINEBREAK~§7§o「矢は竜の炎で燃え上がる。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7火のドラゴンスピリット§r
+item.hfrlc:ice_dragon_bone_bow=§l§fフロストスナップ§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜の効果~LINEBREAK~§9+20 投射物ダメージ~LINEBREAK~~LINEBREAK~§7§o「矢は飛行中に凍りつく。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71700§r~LINEBREAK~ §8修理材料:§r §7氷のドラゴンスピリット§r
 
 ## TOOLS
-item.wooden_axe.name=§l§f木の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"頼りないが、仕事はこなす。"§r
-item.wooden_shovel.name=§l§f木のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"土の最悪の悪夢！~LINEBREAK~…壊れるまでは。"§r
-item.wooden_pickaxe.name=§l§f木のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"丸石の一番苦手な相棒。"§r
-item.wooden_hoe.name=§l§f木のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"土には勝ち目がない…たぶん。"§r
+item.wooden_axe.name=§l§f木の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「頼りないけど、仕事はこなす。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §760§r~LINEBREAK~ §8修理材料:§r §7木材§r
+item.wooden_shovel.name=§l§f木のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「土の最大の天敵！...壊れるまでは。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §760§r~LINEBREAK~ §8修理材料:§r §7木材§r
+item.wooden_pickaxe.name=§l§f木のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「丸石の嫌われ者の友達。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §760§r~LINEBREAK~ §8修理材料:§r §7木材§r
+item.wooden_hoe.name=§l§f木のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「土に勝ち目はない...多分ね。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §760§r~LINEBREAK~ §8修理材料:§r §7木材§r
 
-item.stone_axe.name=§l§f石の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"枯れ木を切るには十分。"§r
-item.stone_shovel.name=§l§f石のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"もっと深く掘る時だ。"§r
-item.stone_pickaxe.name=§l§f石のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"岩がどれだけ岩を掘れるか見てみよう…"§r
-item.stone_hoe.name=§l§f石のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"農作業が岩だらけにパワーアップ。"§r
+item.stone_axe.name=§l§f石の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「枯れ木を切るには十分。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7132§r~LINEBREAK~ §8修理材料:§r §7丸石§r
+item.stone_shovel.name=§l§f石のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「もっと深く掘る時。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7132§r~LINEBREAK~ §8修理材料:§r §7丸石§r
+item.stone_pickaxe.name=§l§f石のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「石でどれだけ掘れるか試してみよう。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7132§r~LINEBREAK~ §8修理材料:§r §7丸石§r
+item.stone_hoe.name=§l§f石のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「農業が石の力で進化した。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7132§r~LINEBREAK~ §8修理材料:§r §7丸石§r
 
-item.iron_axe.name=§l§f鉄の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"頼れる伐採斧。"§r
-item.iron_shovel.name=§l§f鉄のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"私は土と一体。~LINEBREAK~そして土も私と共にある。"§r
-item.iron_pickaxe.name=§l§f鉄のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"山を小石に変える！~LINEBREAK~一振りずつ…"§r
-item.iron_hoe.name=§l§f鉄のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ここに小麦畑を作ろう。"§r
+item.iron_axe.name=§l§f鉄の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「信頼できる伐採用斧。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7250§r~LINEBREAK~ §8修理材料:§r §7鉄インゴット§r
+item.iron_shovel.name=§l§f鉄のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「土と一体となり、土もまた私と共にある。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7250§r~LINEBREAK~ §8修理材料:§r §7鉄インゴット§r
+item.iron_pickaxe.name=§l§f鉄のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「山を小石に変える！一振りずつ…」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7250§r~LINEBREAK~ §8修理材料:§r §7鉄インゴット§r
+item.iron_hoe.name=§l§f鉄のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「ここに小麦畑がある。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §7250§r~LINEBREAK~ §8修理材料:§r §7鉄インゴット§r
 
-item.golden_axe.name=§l§f金の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"美しさと同じくらい~LINEBREAK~頑丈であればなぁ…"§r
-item.golden_shovel.name=§l§f金のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"美しい…~LINEBREAK~だが繊細すぎる。"§r
-item.golden_pickaxe.name=§l§f金のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ミダス王も誇りに思うだろう…~LINEBREAK~破産したが。"§r
-item.golden_hoe.name=§l§f金のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"ネザー製。"§r
+item.golden_axe.name=§l§f金の斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「見た目の美しさほど~LINEBREAK~  頑丈であればいいのに…」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §733§r~LINEBREAK~ §8修理材料:§r §7金インゴット§r
+item.golden_shovel.name=§l§f金のシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「美しいけれど~LINEBREAK~  繊細。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §733§r~LINEBREAK~ §8修理材料:§r §7金インゴット§r
+item.golden_pickaxe.name=§l§f金のツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「ミダスも喜ぶだろうが…壊れた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §733§r~LINEBREAK~ §8修理材料:§r §7金インゴット§r
+item.golden_hoe.name=§l§f金のクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「ネザー製。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §733§r~LINEBREAK~ §8修理材料:§r §7金インゴット§r
 
-item.diamond_axe.name=§l§fダイヤモンドの斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"これがあれば~LINEBREAK~小さな森を~LINEBREAK~切り倒すのに十分だ。"§r
-item.diamond_shovel.name=§l§fダイヤモンドのシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"時には~LINEBREAK~スタイルよく~LINEBREAK~掘る必要があるから。"§r
-item.diamond_pickaxe.name=§l§fダイヤモンドのツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"黒曜石でさえ~LINEBREAK~緊張して汗をかく…"§r
-item.diamond_hoe.name=§l§fダイヤモンドのクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"じゃがいもには~LINEBREAK~少し大げさかな？"§r
+item.diamond_axe.name=§l§fダイヤモンドの斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「小さな森なら~LINEBREAK~  この一本で楽々だ。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71560§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.diamond_shovel.name=§l§fダイヤモンドのシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「時にはスタイリッシュに~LINEBREAK~  掘る必要があるからね。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71560§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.diamond_pickaxe.name=§l§fダイヤモンドのツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「黒曜石さえ~LINEBREAK~  緊張して汗をかく…」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71560§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
+item.diamond_hoe.name=§l§fダイヤモンドのクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「ジャガイモには~LINEBREAK~  ちょっと過剰装備？」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71560§r~LINEBREAK~ §8修理材料:§r §7ダイヤモンド§r
 
-item.netherite_axe.name=§l§fネザライトの斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"この世ならざる素材で~LINEBREAK~溶岩のごとく鍛え上げられた。"§r
-item.netherite_shovel.name=§l§fネザライトのシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"悪魔でさえ~LINEBREAK~踏み込むのを恐れる場所で鍛えられた。"§r
-item.netherite_pickaxe.name=§l§fネザライトのツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"岩盤まで！~LINEBREAK~さらにその先へ！"§r
-item.netherite_hoe.name=§l§fネザライトのクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"農作業？~LINEBREAK~お前の才覚なら？"§r
+item.netherite_axe.name=§l§fネザライトの斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「この世ならざる~LINEBREAK~  素材から溶かされた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72030§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.netherite_shovel.name=§l§fネザライトのシャベル§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「悪魔も足を踏み入れぬ~LINEBREAK~  場所で鍛えられた。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72030§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.netherite_pickaxe.name=§l§fネザライトのツルハシ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「岩盤まで！~LINEBREAK~  そしてその先へ！」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72030§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
+item.netherite_hoe.name=§l§fネザライトのクワ§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「農業？~LINEBREAK~  あなたの才能に合うかもね？」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §72030§r~LINEBREAK~ §8修理材料:§r §7ネザライトインゴット§r
 
-item.hfrlc:flint_axe=§l§f火打ち石の斧§r§f~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始的だが~LINEBREAK~驚くほど鋭い。"§r
-item.hfrlc:weapon_3=§l§f骨の手斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9シャドウストーンで修理。~LINEBREAK~~LINEBREAK~§7§o"小さいが~LINEBREAK~破壊的に鋭い。"§r
+item.hfrlc:flint_axe=§l§f火打石の斧§r§f~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「原始的だが~LINEBREAK~§o  意外と鋭い。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §744§r~LINEBREAK~ §8修理材料:§r §7火打石§r
+item.hfrlc:weapon_3=§l§f骨の手斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §lダメージ§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o「小さいが~LINEBREAK~§o  驚くほど鋭い。」§r~LINEBREAK~~LINEBREAK~ §8耐久値:§r §71560§r~LINEBREAK~ §8修理材料:§r §7影石§r
 
 item.hfrlc:dungeon_door=ダンジョンの扉
 item.hfrlc:dungeon_door_desert=砂漠のダンジョンの扉
@@ -1082,46 +1092,46 @@ item.hfrlc:dungeon_door_red_desert=赤い砂漠のダンジョンの扉
 item.hfrlc:dungeon_door_key=扉の鍵
 item.hfrlc:key=鍵
 
-death.attack.anvil=チャットで%1$sのためにFを
-death.attack.arrow=ママ！カメラ持ってきて！！
-death.attack.bullet=ママ！カメラ持ってきて！！
-death.attack.cactus=君はまさにMVP、最高の獲物だ。
-death.attack.drown=そんなに深くなかっただろ、%1$s。
-death.attack.explosion=実績解除：プロのリスポナー
-death.attack.explosion.by.bed=彼に料理させろ！
-death.attack.explosion.player=ドラゴン育成の失敗例
-death.attack.fall=重力曰く「座れ、%1$s」
-death.attack.fallingBlock=更新履歴：人生が弱体化された
+death.attack.anvil=%1$s にFを送ろう
+death.attack.arrow=お母さん！カメラを持ってきて！！
+death.attack.bullet=お母さん！カメラを持ってきて！！
+death.attack.cactus=君はまさにMVP、最も価値ある獲物だ。
+death.attack.drown=%1$s、そんなに深くなかったよね。
+death.attack.explosion=実績解除：プロのリスポーナー。
+death.attack.explosion.by.bed=料理開始！
+death.attack.explosion.player=ドラゴンを育てない方法
+death.attack.fall=重力が「座れ」と言った、%1$s
+death.attack.fallingBlock=アップデート：人生がナーフされた。
 death.attack.fireball=レブローン！
-death.attack.fireworks=回復を忘れたな？
-death.attack.flyIntoWall=心のダメージ！
-death.attack.generic=%1$s が死亡しました
-death.attack.indirectMagic=%1$s は史上最高ではない
-death.attack.inFire=超熱い炎ぅぅ！！！
-death.attack.inWall=ラグだった？それとも腕が足りなかった？
-death.attack.lava=少なくとも馬で溶岩には突っ込まなかったな。
-death.attack.lightningBolt=上手くなれ
-death.attack.maceSmash.player=%1$s は %2$s に叩き潰された
-death.attack.maceSmash.player.item=%1$s は %2$s が %3$s で叩き潰した
-death.attack.magic=食事中、運動中、喉の渇きを感じたら、定期的に水を飲みましょう。
-death.attack.magma=ハグが必要？
-death.attack.mob=%1$s は生存条件を満たさなかった
-death.attack.mob.item=%1$s は生存条件を満たさなかった
-death.attack.onFire=灼熱の死が近づいている！！！
-death.attack.outOfWorld=もうリスポーンはレベル50だ
-death.attack.player=%1$s は生存条件を満たさなかった
-death.attack.player.item=%1$s は生存条件を満たさなかった
-death.attack.spit=%1$s は %2$s に唾を顔に吹きかけられた
-death.attack.starve=安らかに眠れ、頑張ったじゃないか。
-death.attack.sweetBerry=君はまさにMVP、最高の獲物だ。
-death.attack.thorns=君はまさにMVP、最高の獲物だ。
-death.attack.trident=%1$s は %2$s に貫き殺された
-death.attack.wither=牛乳を持ってくるべきだった
-death.attack.freeze=ジョニー・ダングに行くべきだった
-death.attack.sonicBoom.player=Xボタンで回避すべきだった
-death.attack.stalactite=もし死亡実績があったら、二回解除できていたな。
-death.attack.stalagmite=%1$s は全力を尽くしたが、遠くまで落ちた。
-death.fell.accident.generic=重力曰く「座れ、%1$s」
+death.attack.fireworks=回復を忘れてたでしょ？
+death.attack.flyIntoWall=精神的ダメージ！
+death.attack.generic=%1$s が死亡した
+death.attack.indirectMagic=%1$s は史上最高ではない。
+death.attack.inFire=超熱い火だあああ！！！
+death.attack.inWall=ラグだった？それとも単なる技術不足？
+death.attack.lava=馬を溶岩に突っ込まなかっただけマシだよ。
+death.attack.lightningBolt=上手くなれ。
+death.attack.maceSmash.player=%2$s が %1$s を粉砕した
+death.attack.maceSmash.player.item=%3$s で %2$s が %1$s を粉砕した
+death.attack.magic=こまめに水を飲もう。食事中や運動時、喉の渇きを感じたら特にね。
+death.attack.magma=ハグが必要かい？
+death.attack.mob=%1$s は生き残る条件を満たせなかった。
+death.attack.mob.item=%1$s は生き残る条件を満たせなかった。
+death.attack.onFire=燃え盛る死がやってくる！！！
+death.attack.outOfWorld=もうレベル50のリスポーン達人だな。
+death.attack.player=%1$s は生き残る条件を満たせなかった。
+death.attack.player.item=%1$s は生き残る条件を満たせなかった。
+death.attack.spit=%2$s が %1$s の顔にツバを吐いた
+death.attack.starve=安らかに…でも頑張ったね。
+death.attack.sweetBerry=君はまさにMVP、最も価値ある獲物だ。
+death.attack.thorns=君はまさにMVP、最も価値ある獲物だ。
+death.attack.trident=%2$s が %1$s を串刺しにした
+death.attack.wither=ミルクを持ってくればよかったのに
+death.attack.freeze=ジョニー・ダングのところに行くべきだった
+death.attack.sonicBoom.player=Xを押して回避すべきだった。
+death.attack.stalactite=もし「死ぬ」実績があったら、君は2回解除してるよ。
+death.attack.stalagmite=%1$s は必死だったけど、遠くまで落ちた。
+death.fell.accident.generic=重力が「座れ」と言った、%1$s
 
 pack.name=RLCraft Bedrock Edition RP
 pack.description=§l§c[!] このパックは他のすべてよりも上に配置すべきです！§r | ShivaxiのJava Modpackをベースに | Hybred製Skyboxを用いたHoneyfrost作

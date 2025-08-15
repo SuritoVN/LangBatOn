@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","render_controllers":{"controller.render.hippocampus":{"arrays":{"textures":{"Array.textures":["Texture.default","Texture.blue","Texture.green","Texture.pink","Texture.purple"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["Array.textures[q.property('hfrlc:texture_variant')]"]}}}

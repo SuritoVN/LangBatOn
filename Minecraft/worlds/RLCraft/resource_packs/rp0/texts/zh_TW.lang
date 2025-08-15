@@ -2,207 +2,210 @@ action.guidebook.title=§lRLCraft 菜单
 action.guidebook.how_to_play=§l§2如何游玩
 action.guidebook.how_to_start=§l§2如何开始
 action.guidebook.thirst_title=§l§b口渴
-action.guidebook.grave_title=§l§4墳墓
+action.guidebook.grave_title=§l§4坟墓
 action.guidebook.level_title=§l§e升级
 action.guidebook.temp_title=§l§6温度
 action.guidebook.trinket_title=§l§d饰品
-action.guidebook.way_title=§l§b旅行世界
+action.guidebook.way_title=§l§b环游世界
 action.guidebook.taming_title=§l§9驯服
 action.guidebook.dungeons_title=§l§5地牢
 action.guidebook.gameplay_settings_title=§l§8游戏设置
 action.guidebook.visual_settings_title=§l§8视觉设置
-action.guidebook.social_title=§l§9加入我们的 Discord！
+action.guidebook.social_title=§l§9加入我们的Discord！
 action.guidebook.youtube_title=§l§c观看教程！
-action.guidebook.creditsandlicenses_title=§l§6鸣谢与许可
+action.guidebook.creditsandlicenses_title=§l§6鸣谢与许可证
 action.guidebook.credits_title=§l§6鸣谢
-action.guidebook.licenses_title=§l§9许可
+action.guidebook.licenses_title=§l§9许可证
 action.guidebook.rlcraft_title=§l§8RLCraft
 action.guidebook.notreepunching_title=§l§c禁止徒手砍树
 action.guidebook.weapons_title=§l§3武器
 action.guidebook.skybox_title=§l§t天空盒
 action.guidebook.back=<< 返回
 action.guidebook.trinket_fix=§l修复饰品
-action.guidebook.adding_packs_title=§l§n添加模组包
-action.guidebook.adding_packs2_title=§l§8将 RLCraft 与其他模组包一起使用
+action.guidebook.adding_packs_title=§l§n添加资源包
+action.guidebook.adding_packs2_title=§l§8与其他包一起使用RLCraft
 action.guidebook.video_explaination_title=§l§8视频教程
-action.guidebook.add_aands_title=§l§8使用 §lActions & Stuff
-action.guidebook.add_more_packs_title=§l§8使用其他模组包
+action.guidebook.add_aands_title=§l§8与 §lActions & Stuff 一起游玩
+action.guidebook.add_more_packs_title=§l§8与其他包一起游玩
 action.guidebook.realms_disclaimer_title=§l§8Realms 免责声明
-action.guidebook.play_title=§l§8继续游戏
+action.guidebook.play_title=§l§8继续
+
 
 action.guidebook.thirst_disable=口渴条
 action.guidebook.temp_disable=温度条
-action.guidebook.lens_disable=光晕效果
-action.guidebook.wood_punching=手工采矿削弱
-action.guidebook.lagwarn=清除卡顿消息
-action.guidebook.damage_indicator=伤害指示器
-action.guidebook.natural_regen=自然再生
+action.guidebook.lens_disable=镜头光晕
+action.guidebook.wood_punching=徒手采集削弱
+action.guidebook.lagwarn=清除延迟消息
+action.guidebook.damage_indicator=伤害指示
+action.guidebook.natural_regen=自然回复
 action.guidebook.skyspires=天空尖塔生成
 action.guidebook.dungeons=地牢生成
 action.guidebook.structure_speed=结构生成速度
-action.guidebook.vv_optimization=精彩视觉优化
-action.guidebook.bodyparts_posx=身体部件位置 X
-action.guidebook.bodyparts_posy=身体部件位置 Y
+action.guidebook.vv_optimization=生动视觉优化
+action.guidebook.bodyparts_posx=角色部位位置 X
+action.guidebook.bodyparts_posy=角色部位位置 Y
 
-action.guidebook.how_start_text=~LINEBREAK~§l1. 收集沙砾：§r 寻找并挖掘沙砾以获得燧石。~LINEBREAK~~LINEBREAK~§l2. 处理燧石：§r 在石头上敲击燧石以打磨尖锐。（手持燧石敲击任何石质方块）~LINEBREAK~~LINEBREAK~§l3. 收集木棍：§r 破坏树叶以获得木棍。~LINEBREAK~~LINEBREAK~§l4. 制作刀具：§r 使用燧石和木棍制作基本刀具。~LINEBREAK~~LINEBREAK~§l5. 收集植物纤维：§r 使用刀具割草以收集植物纤维。~LINEBREAK~~LINEBREAK~§l6. 制作植物纤维绳：§r 将植物纤维合成为绳索。~LINEBREAK~~LINEBREAK~§l7. 制作燧石斧：§r 合成一块燧石、一根木棍和植物纤维绳制作燧石斧。~LINEBREAK~~LINEBREAK~§l8. 砍伐木材：§r 使用燧石斧砍倒树木。~LINEBREAK~~LINEBREAK~§l9. 制作木制工具：§r 使用木材合成基础工具。~LINEBREAK~~LINEBREAK~§l10. §r 一旦可以使用§l升级菜单§r，就立刻开始！~LINEBREAK~~LINEBREAK~恭喜！你现在可以独立生存了！~LINEBREAK~ 
-action.guidebook.thirst_body=~LINEBREAK~§r§l§b口渴§r 是一个关键存活机制，需要你保持水分。你可以通过饮水、吃水果和喝汤来补充水分。~LINEBREAK~~LINEBREAK~§r如果脱水，将产生负面效果，降低存活几率！~LINEBREAK~ 
-action.guidebook.grave_body=~LINEBREAK~§r墳墓將在你死亡的地方生成。與墳墓互動以取回你的物品。~LINEBREAK~~LINEBREAK~§7§o注意：如果你死於熔岩中、啟用了困難模式或開啟了keepInventory遊戲規則，墳墓將不會生成。~LINEBREAK~
-action.guidebook.level_body=~LINEBREAK~§rRLCraft 增加了独特的 §l§a升级 系统。~LINEBREAK~~LINEBREAK~§r§l§a升级菜单§r 是你背包中最重要的物品，§l获得经验后务必使用它。~LINEBREAK~~LINEBREAK~§r要使用强力物品和工具，需达到指定等级要求。~LINEBREAK~~LINEBREAK~§r通过经验等级提升技能等级。~LINEBREAK~~LINEBREAK~§r每提升 10 级，可解锁新能力，最高可达 50 级！~LINEBREAK~ 
-action.guidebook.temp_body=~LINEBREAK~§r在 RLCraft 中，不同生物群系会影响你的体温！炎热群系会让你§6过热§r，寒冷群系会让你§b冻结§r。~LINEBREAK~~LINEBREAK~§l§b永恒冰石[饰品]§r 或待在§b寒冷方块§r附近可抵御§6高温§r。~LINEBREAK~~LINEBREAK~§l§6永恒火石[饰品]§r 或待在§6炽热方块§r附近可抵御§b寒冷§r。~LINEBREAK~ 
-action.guidebook.trinket_body=~LINEBREAK~§l§6饰品包§r 在 RLCraft 中有 6 个槽位：3 个特殊饰品（如 §l§b永恒冰石[饰品]§r）和 3 个戒指槽。~LINEBREAK~~LINEBREAK~§r饰品可通过合成、挑战地牢或击杀 Boss 与普通怪物获得。~LINEBREAK~~LINEBREAK~§7§o小提示：如果饰品失效，点击“修复饰品”按钮。~LINEBREAK~ 
-action.guidebook.way_body=~LINEBREAK~§r§l§7位面石：§r 激活遍布世界的位面石，可快速在地点间传送。~LINEBREAK~~LINEBREAK~§r§l§d传送卷轴：§r 可瞬间传回设定重生点。~LINEBREAK~~LINEBREAK~§r§l§b回忆药水：§r 可传送回上次死亡地点。~LINEBREAK~~LINEBREAK~§r§l§b睡袋：§r 可跳过夜晚且保留床位重生点。~LINEBREAK~ 
-action.guidebook.taming_body=~LINEBREAK~§r你可以通过互动驯服击杀的龙。驯服后可骑乘并装备龙铠。龙铠可合成或在箱子中获得。~LINEBREAK~ 
-action.guidebook.dungeons_body=~LINEBREAK~§r探索地牢充满危险，但丰厚战利品和经验值得冒险！~LINEBREAK~~LINEBREAK~别急于冲进地牢，先提升能力并获取更好装备再来挑战。~LINEBREAK~~LINEBREAK~§l地牢分级：§r 废弃小屋可提供基础生存物资，而海盗船或天空尖塔更易获得强力神器。~LINEBREAK~~LINEBREAK~§l地下地牢§r 有最强大的 Boss，风险最高但战利品最丰厚。想要甜甜圈吗？~LINEBREAK~ 
-action.guidebook.social_body=~LINEBREAK~§r扫描下方二维码或访问链接加入我们的 Discord！~LINEBREAK~honeyfrost.net/discord~LINEBREAK~ 
-action.guidebook.youtube_body=~LINEBREAK~§r扫描下方二维码或访问我们的 YouTube 频道！~LINEBREAK~youtube.com/@Honeyfrost~LINEBREAK~ 
-action.guidebook.credits_body=~LINEBREAK~感谢以下个人与组织对 RLCraft: 基岩版 的贡献：~LINEBREAK~~LINEBREAK~§lRLCraft 创作者：§r~LINEBREAK~- Shivaxi~LINEBREAK~~LINEBREAK~§l制作人：§r~LINEBREAK~- Benjamin Deconihout~LINEBREAK~- Haik Ishacian~LINEBREAK~- Mikhail Kuznetsov~LINEBREAK~- Nathan Gaillot~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~~LINEBREAK~§l开发者：§r~LINEBREAK~- Amman~LINEBREAK~- Ashfaqur Rahman Chowdhury~LINEBREAK~- Alan Capellino~LINEBREAK~- Christian Mari Cabral~LINEBREAK~- Furkan Sancak~LINEBREAK~- Mathias Santos~LINEBREAK~- Muhammet Vebi~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~§l美术：§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Alexander Shimarov~LINEBREAK;- Andrey Voshin~LINEBREAK;- Artem Baklin~LINEBREAK;- Benjamin Goicoechea~LINEBREAK;- Cao Xiao Dong~LINEBREAK;- Eduardo Da Costa~LINEBREAK;- Egor Chiganenko~LINEBREAK;- Isaac Jeremy Rivera Moran~LINEBREAK;- Ivan Perminov~LINEBREAK;- Ivanovo Deryabikha~LINEBREAK;- Jeremy Ben Ammar~LINEBREAK;- Josiah Hockett~LINEBREAK;- Jules Graire~LINEBREAK;- Julien Rouget~LINEBREAK;- Kirill Kruglov~LINEBREAK;- Kirill Vorontsov~LINEBREAK;- Lu Runzi~LINEBREAK;- Mads Lykke-Bertelsen~LINEBREAK;- Mark van Voornveld~LINEBREAK;- Omar Hafiz~LINEBREAK;- Oleh Batozhskyi~LINEBREAK;- ORCS004~LINEBREAK;- Pierre Malot~LINEBREAK;- Samuel Lepage~LINEBREAK;- Semyon Alexeyevich Uski~LINEBREAK;- Theo Lestavel~LINEBREAK;- Uliana Shvadchenko~LINEBREAK;- Victor Rouget~LINEBREAK;- Vladimir Savelev~LINEBREAK;- XP Games~LINEBREAK~~LINEBREAK~以及更多！~LINEBREAK~~LINEBREAK~§l插画作者：§r~LINEBREAK;- Alessandra Pires~LINEBREAK;- Dennis Wonneberger~LINEBREAK;- Ethan Mulwee~LINEBREAK;- Mathieu Lavaissiere~LINEBREAK;- Nathan Regina De Morais~LINEBREAK;- Obi.Blue~LINEBREAK;- Oleg Fedorov~LINEBREAK;- Paul-Louis Burguet~LINEBREAK;- Sedov Denis~LINEBREAK;- Terry Gillaux~LINEBREAK~~LINEBREAK~§l测试人员：§r~LINEBREAK;- Amman~LINEBREAK;- Ivanov Oleg~LINEBREAK;- Kirill Vorontsov~LINEBREAK;- Pierre Pujol~LINEBREAK;- Rareloot~LINEBREAK;- Robert~LINEBREAK~ 
-action.guidebook.rlcraft_body=~LINEBREAK~RLCraft — 与 Shivaxi 合作制作~LINEBREAK~ 
-action.guidebook.notreepunching_body=~LINEBREAK~MIT 许可证~LINEBREAK~~LINEBREAK~版权所有 (C) [2021] [Alex O'Neill (AlcatrazEscapee)]~LINEBREAK~~LINEBREAK~特此免费授予任何获得本软件及相关文档文件副本的人无限制使用权，包括但不限于使用、复制、修改、合并、发布、分发、再许可及/或销售本软件副本，并允许向其提供本软件的人在符合以下条件的前提下行使上述权利：~LINEBREAK~~LINEBREAK~上述版权声明和本许可声明应包含在本软件的所有副本或重要部分中。~LINEBREAK~~LINEBREAK~本软件按“原样”提供，不附带任何明示或暗示的保证，包括但不限于适销性、特定用途适用性及非侵权。在任何情况下，作者或版权持有人均不对因软件或其使用或其他交易引起的任何索赔、损害或其他责任负责。~LINEBREAK~ 
-action.guidebook.weapons_body=~LINEBREAK~武器 — 来自 XP Games 的授权许可~LINEBREAK~ 
-action.guidebook.skybox_body=~LINEBREAK~Minecraft Better Skybox by Hybred~LINEBREAK~ 
-action.guidebook.video_explaination_body=~LINEBREAK~打开 §lYouTube§r，搜索：Honeyfrost RLCraft 如何使用 A&S 和模组包，或扫描下方二维码：~LINEBREAK~
-action.guidebook.add_aands_body=~LINEBREAK~上一页菜单中提供了视频说明。~LINEBREAK~~LINEBREAK~§l使用 A&S 的步骤：§r~LINEBREAK~1：全局资源中不应启用任何模组包~LINEBREAK~2：RLCraft 必须置于已启用资源包的顶部，A&S 放在其下~LINEBREAK~~LINEBREAK~§l如何移除全局资源中的模组包§r~LINEBREAK~1：从 Minecraft 主菜单开始~LINEBREAK~2：进入设置~LINEBREAK~3：向下滚动至全局资源~LINEBREAK~4：移除所有启用的模组包~LINEBREAK~5：完成！~LINEBREAK~~LINEBREAK~§l如何将 RLCraft 设置为顶层资源包§r~LINEBREAK~1：返回 Minecraft 主菜单~LINEBREAK~2：点击“开始游戏”~LINEBREAK~3：点击 RLCraft Bedrock Edition 右侧的“编辑”~LINEBREAK~4：若尚未操作，请点击蓝色按钮“解锁设置”，然后点击“仍要解锁”~LINEBREAK~5：向下滚动菜单，点击“资源包”~LINEBREAK~6：进入“可用”~LINEBREAK~7：打开“已拥有”~LINEBREAK~8：点击 A&S 右侧的“启用”~LINEBREAK~9：点击“已启用”按钮~LINEBREAK~11：将 RLCraft 上移至第一位（必须置顶）~LINEBREAK~12：完成！~LINEBREAK~~LINEBREAK~本产品与 Actions and Stuff 无任何关联或官方认可。所有名称、品牌及内容均归其原始所有者所有。~LINEBREAK~
-action.guidebook.add_more_packs_body=~LINEBREAK~上一页菜单中提供了视频说明。~LINEBREAK~~LINEBREAK~RLCraft 基岩版被设计为完整体验，尽管通常与大多数模组包兼容，但添加非视觉类附加内容可能会导致游戏崩溃或卡顿，尤其在性能较低设备上。若您仍希望添加，请按以下步骤操作：~LINEBREAK~~LINEBREAK~§l使用其他模组包的步骤：§r~LINEBREAK~1：全局资源中不应启用任何模组包~LINEBREAK~2：RLCraft 必须置于资源包和行为包的顶部~LINEBREAK~~LINEBREAK~§l如何移除全局资源中的模组包§r~LINEBREAK~1：从 Minecraft 主菜单开始~LINEBREAK~2：进入设置~LINEBREAK~3：向下滚动至全局资源~LINEBREAK~4：移除所有启用的模组包~LINEBREAK~5：完成！~LINEBREAK~~LINEBREAK~§l如何将 RLCraft 置于资源包与行为包的顶部：§r~LINEBREAK~1：返回 Minecraft 主菜单~LINEBREAK~2：点击“开始游戏”~LINEBREAK~3：点击 RLCraft Bedrock Edition 右侧的“编辑”~LINEBREAK~4：若尚未操作，请点击蓝色按钮“解锁设置”，然后点击“仍要解锁”~LINEBREAK~5：向下滚动菜单，点击“资源包”或“行为包”~LINEBREAK~6：在所选分类中点击“可用”~LINEBREAK~7：打开“已拥有”~LINEBREAK~8：启用右侧的资源包和所有想添加的数据包~LINEBREAK~9：点击“已启用”按钮~LINEBREAK~11：将 RLCraft 上移至第一位（必须置顶）~LINEBREAK~12：完成！~LINEBREAK~
-action.guidebook.realms_disclaimer_body=~LINEBREAK~Realms 有时会扰乱资源包和行为包的顺序，例如在重新连接时重置或锁定其位置。这是已知问题，无法控制。~LINEBREAK~~LINEBREAK~如果遇到此问题，建议移除所有附加模组包，仅使用 RLCraft 以获得最佳体验。~LINEBREAK~~LINEBREAK~尽管如此，若您仍希望尝试添加其他模组包，请参阅下方步骤，并查看上一页菜单中的视频说明。但请注意，可能会遇到问题。~LINEBREAK~~LINEBREAK~§l使用其他模组包的步骤：§r~LINEBREAK~1：RLCraft 必须置于 Realm 的资源包与行为包的顶部~LINEBREAK~2：必须启用 Realms 附加设置顶部的“要求玩家下载可选资源包以加入”选项~LINEBREAK~3：您的全局资源中不应启用任何模组包~LINEBREAK~~LINEBREAK~§l如何移除全局资源中的模组包：§r~LINEBREAK~1：从 Minecraft 主菜单开始~LINEBREAK~2：进入设置~LINEBREAK~3：向下滚动至全局资源~LINEBREAK~4：移除所有启用的模组包~LINEBREAK~5：完成！~LINEBREAK~
+action.guidebook.how_start_text=~LINEBREAK~§l1. 收集沙砾:§r 寻找并开采沙砾以获取燧石。~LINEBREAK~~LINEBREAK~§l2. 打磨燧石:§r 在石头上敲击燧石将其打磨锋利。（手持燧石对任意石质方块右击）~LINEBREAK~~LINEBREAK~§l3. 收集树枝:§r 破坏树叶以收集树枝。~LINEBREAK~~LINEBREAK~§l4. 制作小刀:§r 使用燧石和树枝制作小刀。~LINEBREAK~~LINEBREAK~§l5. 收集植物纤维:§r 使用小刀切割草方块以收集植物纤维。~LINEBREAK~~LINEBREAK~§l6. 制作植物纤维绳:§r 合成植物纤维以制作植物纤维绳。~LINEBREAK~~LINEBREAK~§l7. 制作燧石斧:§r 使用一块燧石、一个树枝和植物纤维绳合成燧石斧。~LINEBREAK~~LINEBREAK~§l8. 砍伐木材:§r 使用燧石斧砍伐树木。~LINEBREAK~~LINEBREAK~§l9. 制作木制工具:§r 使用木材制作工具。~LINEBREAK~~LINEBREAK~§l10.§r 一旦你能§l使用升级菜单§r，立刻开始使用！~LINEBREAK~~LINEBREAK~恭喜！你现在可以独立生存了！~LINEBREAK~
+action.guidebook.thirst_body=~LINEBREAK~§r§l§b口渴§r 是一项关键的生存新机制，需要你保持水分。你可以通过饮用水、食用水果和喝汤来维持水分。~LINEBREAK~~LINEBREAK~§r未能保持水分将导致负面效果，影响你的生存几率！~LINEBREAK~
+action.guidebook.grave_body=~LINEBREAK~§r你的死亡地点会生成一个墓碑。与墓碑互动以找回物品。~LINEBREAK~~LINEBREAK~§7§o注意：如果你在熔岩中死亡、启用了困难模式，或已开启 keepInventory 游戏规则，则不会生成墓碑。~LINEBREAK~
+action.guidebook.level_body=~LINEBREAK~§rRLCraft 增加了一个独特的 §l§a升级 系统。~LINEBREAK~~LINEBREAK~§r§l§a升级菜单§r 是你物品栏中最重要的物品，§l一旦获得经验就立即使用它。~LINEBREAK~~LINEBREAK~§r要使用强力物品和工具，你必须达到特定的等级门槛。~LINEBREAK~~LINEBREAK~§r通过经验等级提升你的技能。~LINEBREAK~~LINEBREAK~§r每个类别每提升10级就解锁新能力，最高可达50级！~LINEBREAK~
+action.guidebook.temp_body=~LINEBREAK~§r在 RLCraft 中，每种生物群系都会影响你的体温！温暖的生物群系会使你§6过热§r，而寒冷的生物群系则会使你§b冻结§r。~LINEBREAK~~LINEBREAK~§l§b永恒寒冰[饰品]§r 并待在§b寒冰方块§r附近可帮助你抵御§6热量§r。~LINEBREAK~~LINEBREAK~§l§6永恒余烬[饰品]§r 并待在§6炽热方块§r附近可帮助你抵御§b寒冷§r。~LINEBREAK~
+action.guidebook.trinket_body=~LINEBREAK~§l§6饰品袋§r 在 RLCraft 中共有6个格位：§r3个用于特殊物品（例如§l§b永恒寒冰[饰品]§r），3个用于戒指。~LINEBREAK~~LINEBREAK~§r饰品可以通过合成、在挑战性地牢中发现，或通过击杀Boss及普通怪物获得。~LINEBREAK~~LINEBREAK~§7§o小贴士：若饰品失效，点击“修复饰品”按钮即可。~LINEBREAK~
+action.guidebook.way_body=~LINEBREAK~§r§l§7位面石：§r 激活世界各地的位面石以快速在地点间旅行。~LINEBREAK~~LINEBREAK~§r§l§d传送卷轴：§r 允许你瞬间返回设置的重生点。~LINEBREAK~~LINEBREAK~§r§l§b召回药水：§r 允许你传送回上一次死亡的位置。~LINEBREAK~~LINEBREAK~§r§l§b睡袋：§r 允许你跳过夜晚且不移除床的重生点。~LINEBREAK~
+action.guidebook.taming_body=~LINEBREAK~§r你可以通过与被击杀的龙互动来驯服它们。驯服后，你可以骑乘并为它们装备护甲。龙甲可以合成或在箱子中发现。~LINEBREAK~
+action.guidebook.dungeons_body=~LINEBREAK~§r探索地牢充满危险，但你获得的宝贵战利品和经验让冒险十分值得！~LINEBREAK~~LINEBREAK~不要急于冲进地牢，它们可能非常具有挑战性！在尝试前提升能力并获取更好的装备。~LINEBREAK~~LINEBREAK~§l地牢有不同的等级：§r废弃小屋会提供基本的生存工具，而海盗船或天空尖塔中更容易找到强力神器。~LINEBREAK~~LINEBREAK~§l地下地牢§r 拥有强大的Boss，是最危险的，但也拥有最丰厚的战利品。有人想要甜甜圈吗？~LINEBREAK~
+action.guidebook.social_body=~LINEBREAK~§r扫描下方二维码，或使用此链接加入我们的 Discord！~LINEBREAK~honeyfrost.net/discord~LINEBREAK~
+action.guidebook.youtube_body=~LINEBREAK~§r扫描下方二维码，或访问我们的 YouTube 频道！~LINEBREAK~youtube.com/@Honeyfrost~LINEBREAK~
+action.guidebook.credits_body=~LINEBREAK~我们感谢以下个人和组织对 RLCraft：基岩版 的贡献。~LINEBREAK~~LINEBREAK~§lRLCraft 创造者：§r~LINEBREAK~- Shivaxi~LINEBREAK~~LINEBREAK~§l制作人：§r~LINEBREAK~- Benjamin Deconihout~LINEBREAK~- Haik Ishacian~LINEBREAK~- Mikhail Kuznetsov~LINEBREAK~- Nathan Gaillot~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~~LINEBREAK~§l开发者：§r~LINEBREAK~- Amman~LINEBREAK~- Ashfaqur Rahman Chowdhury~LINEBREAK~- Alan Capellino~LINEBREAK~- Christian Mari Cabral~LINEBREAK~- Furkan Sancak~LINEBREAK~- Mathias Santos~LINEBREAK~- Muhammet Vebi~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~§l美术：§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Alexander Shimarov~LINEBREAK~- Andrey Voshin~LINEBREAK~- Artem Baklin~LINEBREAK~- Benjamin Goicoechea~LINEBREAK~- Cao Xiao Dong~LINEBREAK~- Eduardo Da Costa~LINEBREAK~- Egor Chiganenko~LINEBREAK~- Isaac Jeremy Rivera Moran~LINEBREAK~- Ivan Perminov~LINEBREAK~- Ivanovo Deryabikha~LINEBREAK~- Jeremy Ben Ammar~LINEBREAK~- Josiah Hockett~LINEBREAK~- Jules Graire~LINEBREAK~- Julien Rouget~LINEBREAK~- Kirill Kruglov~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Lu Runzi~LINEBREAK~- Mads Lykke-Bertelsen~LINEBREAK~- Mark van Voornveld~LINEBREAK~- Omar Hafiz~LINEBREAK~- Oleh Batozhskyi~LINEBREAK~- ORCS004~LINEBREAK~- Pierre Malot~LINEBREAK~- Samuel Lepage~LINEBREAK~- Semyon Alexeyevich Uski~LINEBREAK~- Theo Lestavel~LINEBREAK~- Uliana Shvadchenko~LINEBREAK~- Victor Rouget~LINEBREAK~- Vladimir Savelev~LINEBREAK~- XP Games~LINEBREAK~~LINEBREAK~还有更多精彩贡献者！~LINEBREAK~~LINEBREAK~§l原画：§r~LINEBREAK~- Alessandra Pires~LINEBREAK~- Dennis Wonneberger~LINEBREAK~- Ethan Mulwee~LINEBREAK~- Mathieu Lavaissiere~LINEBREAK~- Nathan Regina De Morais~LINEBREAK~- Obi.Blue~LINEBREAK~- Oleg Fedorov~LINEBREAK~- Paul-Louis Burguet~LINEBREAK~- Sedov Denis~LINEBREAK~- Terry Gillaux~LINEBREAK~~LINEBREAK~§l测试人员：§r~LINEBREAK~- Amman~LINEBREAK~- Ivanov Oleg~LINEBREAK~- Kirill Vorontsov~LINEBREAK~- Pierre Pujol~LINEBREAK~- Rareloot~LINEBREAK~- Robert~LINEBREAK~
+action.guidebook.rlcraft_body=~LINEBREAK~RLCraft - 与 Shivaxi 合作~LINEBREAK~
+action.guidebook.notreepunching_body=~LINEBREAK~MIT 许可证~LINEBREAK~~LINEBREAK~版权所有 (C) [2021] [Alex O'Neill (AlcatrazEscapee)]~LINEBREAK~~LINEBREAK~特此免费授予任何获得本软件及相关文档文件（“软件”）副本的人无限制使用本软件的权利，包括但不限于使用、复制、修改、合并、发布、分发、再许可及/或销售本软件的副本，并允许向其提供本软件的人在符合以下条件的前提下拥有上述权利。~LINEBREAK~~LINEBREAK~以上版权声明和本许可声明应包含在本软件的所有副本或实质性部分中。~LINEBREAK~~LINEBREAK~本软件按“原样”提供，不附带任何明示或暗示的保证，包括但不限于对适销性、特定用途适用性及非侵权的保证。在任何情况下，无论是在合同、侵权或其他诉讼中，作者或版权持有人均不对因本软件或本软件使用或其他交易而产生的任何索赔、损害或其他责任承担责任。~LINEBREAK~
+action.guidebook.weapons_body=~LINEBREAK~武器 - 来自 XP Games 的许可证~LINEBREAK~
+action.guidebook.skybox_body=~LINEBREAK~Minecraft Better Skybox 作者：Hybred~LINEBREAK~
+action.guidebook.video_explaination_body=~LINEBREAK~进入 §lYouTube§r 并搜索：Honeyfrost RLCraft How to use A&S and Packs，或扫描下方二维码：~LINEBREAK~
+action.guidebook.add_aands_body=~LINEBREAK~之前的菜单页面中已有视频说明。~LINEBREAK~~LINEBREAK~§l如何使用 A&S:§r~LINEBREAK~1：全局资源中不应激活任何资源包~LINEBREAK~2：在活动资源包中将 RLCraft 放在首位，并将 A&S 放在其下方~LINEBREAK~~LINEBREAK~§l如何移除全局资源中的资源包§r~LINEBREAK~1：从主 Minecraft 菜单开始~LINEBREAK~2：进入设置~LINEBREAK~3：向下滚动至 全局资源~LINEBREAK~4：移除全局资源中所有激活的资源包~LINEBREAK~5：完成！~LINEBREAK~~LINEBREAK~§l如何将 RLCraft 设置为首个资源包§r~LINEBREAK~1：进入主 Minecraft 菜单~LINEBREAK~2：点击“游玩”~LINEBREAK~3：点击 RLCraft 基岩版 右侧的“编辑”~LINEBREAK~4：如果尚未解锁，点击蓝色“解锁设置”，然后点击“仍要解锁”~LINEBREAK~5：向下滚动至资源包~LINEBREAK~6：进入“可用”~LINEBREAK~7：打开“拥有”~LINEBREAK~8：点击 A&S 右侧的“激活”~LINEBREAK~9：点击“已激活”按钮~LINEBREAK~11：将 RLCraft 移动到第一个位置（必须在最上方）~LINEBREAK~12：完成！~LINEBREAK~~LINEBREAK~本产品与 Action's and Stuff 无关联或认可。所有名称、品牌及内容均为其各自所有者所有。~LINEBREAK~
+action.guidebook.add_more_packs_body=~LINEBREAK~之前的菜单页面中已有视频说明。~LINEBREAK~~LINEBREAK~§l如何使用其他资源包:§r~LINEBREAK~1：全局资源中不应激活任何资源包~LINEBREAK~2：在活动的资源包和行为包中，将 RLCraft 放在首位~LINEBREAK~~LINEBREAK~§l如何移除全局资源中的资源包:§r~LINEBREAK~1：从主 Minecraft 菜单开始~LINEBREAK~2：进入设置~LINEBREAK~3：向下滚动至 全局资源~LINEBREAK~4：移除全局资源中所有激活的资源包~LINEBREAK~5：完成！~LINEBREAK~~LINEBREAK~§l如何将 RLCraft 设置为首位资源包和行为包:§r~LINEBREAK~1：进入主 Minecraft 菜单~LINEBREAK~2：点击“游玩”~LINEBREAK~3：点击 RLCraft 基岩版 右侧的“编辑”~LINEBREAK~4：如果尚未解锁，点击蓝色“解锁设置”，然后点击“仍要解锁”~LINEBREAK~5：向下滚动至资源包或行为包~LINEBREAK~6：进入“可用”~LINEBREAK~7：打开“拥有”~LINEBREAK~8：点击所需包右侧的“激活”~LINEBREAK~9：点击“已激活”按钮~LINEBREAK~11：将 RLCraft 移动到第一个位置（必须在最上方）~LINEBREAK~12：完成！~LINEBREAK~
+action.guidebook.realms_disclaimer_body=~LINEBREAK~§rRealms 有时会在你重新连接时扰乱资源包和行为包的顺序，例如重置或锁定位置。这是他们那边的已知错误，我们无法控制。~LINEBREAK~~LINEBREAK~如果出现此问题，我们建议移除任何已添加的包，仅单独游玩 RLCraft 以获得最佳体验。~LINEBREAK~~LINEBREAK~尽管如此，如果你仍想尝试添加其他包，下面列出了步骤，之前的菜单页面中也有视频说明。但要留意可能会出现问题。~LINEBREAK~~LINEBREAK~§l如何使用其他资源包:§r~LINEBREAK~1：在你的 Realms 中，将 RLCraft 放在活动的资源包和行为包首位~LINEBREAK~2：在 Realms 附加设置顶部，勾选“要求玩家下载可选资源包才能加入”~LINEBREAK~3：你的个人全局资源中不应有任何激活的资源包~LINEBREAK~~LINEBREAK~§l如何从全局资源中移除资源包:§r~LINEBREAK~1：从主 Minecraft 菜单开始~LINEBREAK~2：进入设置~LINEBREAK~3：向下滚动至 全局资源~LINEBREAK~4：移除全局资源中所有激活的资源包~LINEBREAK~5：完成！~LINEBREAK~
 
 action.guidebook.retry_tutorial=§l§8重试教程
-action.guidebook.already_doing_tutorial=§c哟，看谁突然忘了自己还在教程里。你已经在做了，天才。
-action.guidebook.tuto_nearby=§c别想了，现在不能在这里重试教程。去别处跌跤，或浪费几分钟你宝贵的生命等着。
-action.guidebook.be_full_health_first=§c哇，半条命就想用？你得先满血，天才。
-translate.tutorial.crouch_to_skip=长按 :_input_key.sneak: 跳过场景！
-translate.tutorial.break_grass_with_knife=§c用刀砍断草丛！
+action.guidebook.already_doing_tutorial=§c哦，看谁突然忘记自己还在教程里。你正在进行教程，天才。
+action.guidebook.tuto_nearby=§c好尝试，但不行。你现在无法在这里重试教程。要么去别处瞎晃，要么浪费几分钟你宝贵的生命等待吧。
+action.guidebook.be_full_health_first=§c哇，半死状态还想使用，真大胆。你需要在满血时才能使用此物品，天才。
+translate.tutorial.crouch_to_skip=按住 :_input_key.sneak: 跳过场景！
+translate.tutorial.break_grass_with_knife=§c用小刀砍断草方块！
 translate.tutorial.break_log_with_axe=§c用斧头砍断原木！
-translate.tutorial.break_stone_with_pickaxe=§c用稿子砍断石头！
-action.item_block=§c不行，现在不能使用这个物品。
-action.guidebook.tutorial_body=~LINEBREAK~感觉迷失？想重播教程吗？~LINEBREAK~~LINEBREAK~重启教程时，你的物品会被保留并在教程结束后归还。~LINEBREAK~ 
+translate.tutorial.break_stone_with_pickaxe=§c用镐子敲碎石头！
+action.item_block=§c不行，你现在无法使用此物品。
+action.guidebook.tutorial_body=~LINEBREAK~感觉迷茫？想重新播放教程吗？~LINEBREAK~~LINEBREAK~当你重新开始教程时，你的物品会被保存，并在教程结束后返还给你。~LINEBREAK~
 action.guidebook.yes=是
 action.guidebook.no=否
 
+
 tuto_dragon.idle_bored=快点！
 tuto_dragon.idle_bored2=你还在吗？
-tuto_dragon.idle_bored3=拜托！我可没那么多时间。
+tuto_dragon.idle_bored3=拜托！我可没那么多时间等你。
 tuto_dragon.dialogue.1=你好！欢迎来到 RLCraft。
-tuto_dragon.dialogue.2=在开始之前，你必须签署契约！
-tuto_dragon.dialogue.3=让我们看看你到底有什么本事！
-tuto_dragon.dialogue.4=请选择你的难度！
-tuto_dragon.dialogue.5=又怕又理智！
-tuto_dragon.dialogue.6=完美平衡，如同万物应有之道！
-tuto_dragon.dialogue.7=勇敢……还是愚蠢，时间会证明一切。
-tuto_dragon.dialogue.8=你对 RLCraft 一无所知，不是吗？让我们来补习一下。
+tuto_dragon.dialogue.2=开始之前，你得签署合同！
+tuto_dragon.dialogue.3=让我们看看你到底有多厉害！
+tuto_dragon.dialogue.4=选择你的难度！
+tuto_dragon.dialogue.5=胆小又理智！
+tuto_dragon.dialogue.6=完美平衡，就像万物应有的样子！
+tuto_dragon.dialogue.7=勇敢…还是愚蠢。时间会证明一切。
+tuto_dragon.dialogue.8=你对 RLCraft 一无所知吧？让我来纠正你。
 tuto_dragon.dialogue.9=啊……自以为比别人聪明的人。真可爱。
 tuto_dragon.dialogue.10=你确定要跳过吗？
 tuto_dragon.dialogue.11=好吧，让我们看看你能坚持多久。
 tuto_dragon.dialogue.12=祝你好运！
 
-tutorial.dialogue.subtitles1=§7字幕： §6让我们先砍点木头吧。
-tutorial.dialogue.subtitles2=§7字幕： §6比看起来要难，对吧？在RLCraft中，一切运作方式不同，常规Minecraft中的做法并不总能帮你。让我教你如何收集木材。
-tutorial.dialogue.subtitles3=§7字幕： §6先挖沙砾来收集燧石，这是制作起始工具的关键材料。
-tutorial.dialogue.subtitles4=§7字幕： §6现在，用燧石敲击石头来制作燧石碎片。
-tutorial.dialogue.subtitles5=§7字幕： §6接着，破坏一些树叶以收集木棍。
-tutorial.dialogue.subtitles6=§7字幕： §6干得好，你现在可以合成第一个工具——将燧石碎片和木棍合成为燧石刀！
-tutorial.dialogue.subtitles7=§7字幕： §6用它从草丛中收集三根植物纤维，然后合成制作植物纤维绳。
-tutorial.dialogue.subtitles8=§7字幕： §6好极了！你已经收集到制作燧石斧的材料，这是你的第一个木材采集工具！
-tutorial.dialogue.subtitles9=§7字幕： §6使用它来收集三块木头。
-tutorial.dialogue.subtitles10=§7字幕： §6太棒了，用这些木头来合成一把木镐。
-tutorial.dialogue.subtitles11=§7字幕： §6现在，要在RLCraft中使用物品，你需要达到它们的等级要求。将鼠标悬停在库存中的镐上查看等级需求，或尝试使用它来确认。
-tutorial.dialogue.subtitles12=§7字幕： §6你需要经验来升级采矿技能。来吧，出战那些蚂蚁。
-tutorial.dialogue.subtitles13=§7字幕： §6既然你有了经验，使用快捷栏中的升级物品打开升级菜单。
-tutorial.dialogue.subtitles14=§7字幕： §6在这里，你可以查看并升级攻击、防御、敏捷和采矿技能。升级是RLCraft的核心，它能让你使用更好的工具，每提升10级解锁新能力。现在，把经验投入到采矿上。
-tutorial.dialogue.subtitles15=§7字幕： §6太好了，你的采矿技能已达3级。试着使用你的木镐。
-tutorial.dialogue.subtitles16=§7字幕： §6不错，记住：在RLCraft里，死亡无妨，你的技能等级会保留。真正重要的是在旅程中不断提升自己！
-tutorial.dialogue.subtitles17=§7字幕： §6我们来谈谈治疗，现在看看你与蚂蚁战斗时受到的伤害？在RLCraft中，当身体某些部位受损过多时会出现负面状态，所以保持良好状态并及时恢复非常重要。
-tutorial.dialogue.subtitles18=§7字幕： §6要治疗自己，使用诸如绷带之类的治疗物品。你可以在世界中的建筑里找到它们，或自己合成。打开箱子并进行治疗。
-tutorial.dialogue.subtitles19=§7字幕： §6在RLCraft中，除非你睡在床上，否则每次死亡都会在世界的随机位置重生。所以一旦找到心仪地点，一定要制作床并睡下以设置重生点！
-tutorial.dialogue.subtitles20=§7字幕： §6现在，让我们谈谈体温。在RLCraft中，炎热和寒冷环境会逐渐打破你的体温平衡，暴露过久会导致中暑或冻死。让我们确保在前五分钟内避免这些状况。
-tutorial.dialogue.subtitles21=§7字幕： §6看，我把温度调高了！跳进水中冷却并稳定体温，以防热衰竭。
-tutorial.dialogue.subtitles22=§7字幕： §6不错，但现在你快要冻僵了！靠近热源来回温。
-tutorial.dialogue.subtitles23=§7字幕： §6干得好，还有其他平衡体温的方法，比如吃某些水果，你会在游戏中发现它们。
-tutorial.dialogue.subtitles24=§7字幕： §6让我们进入下一个主题：饰品。它们是强力物品，在旅程中提供增益和免疫效果，从箱子中拿一个来看看它的效果。
-tutorial.dialogue.subtitles25=§7字幕： §6每个饰品都有自己的背景说明，展示其效果及在饰品包中的摆放位置。一般魔法物品放左侧，戒指放右侧。去装备山羊角饰品吧。
-tutorial.dialogue.subtitles26=§7字幕： §6干得好！所有训练让你有点口渴；你可以通过喝水、吃食物或游泳来解渴。我在箱子里放了一些食物和饮料，去拿点吧。
-tutorial.dialogue.subtitles27=§7字幕： §6太棒了，你已完成教程，但这只是开始。现在是时候开启冒险了！如果想切换功能，可在RLCraft菜单的“设置”中操作；想了解更多内容或重播教程，可在菜单的“帮助”中找到。祝你好运。
+tutorial.dialogue.subtitles1=§7字幕: §6让我们从砍些木头开始。
+tutorial.dialogue.subtitles2=§7字幕: §6比看起来难多了，对吧？在 RLCraft 中，玩法不同，普通 Minecraft 的方法不一定管用。让我来教你如何采集木材。
+tutorial.dialogue.subtitles3=§7字幕: §6先采集一些沙砾以获得燧石。燧石是制作初级工具的重要材料。
+tutorial.dialogue.subtitles4=§7字幕: §6现在，拿着燧石敲击石头，制作燧石碎片。
+tutorial.dialogue.subtitles5=§7字幕: §6接着，砍断树叶收集树枝。
+tutorial.dialogue.subtitles6=§7字幕: §6干得好，现在你可以用燧石碎片和树枝合成你的第一件工具——燧石小刀！
+tutorial.dialogue.subtitles7=§7字幕: §6用它从草丛中采集三根植物纤维，然后合成成植物纤维绳。
+tutorial.dialogue.subtitles8=§7字幕: §6太棒了！你已经收集到制作燧石斧的材料了，这是你的第一个采木工具！
+tutorial.dialogue.subtitles9=§7字幕: §6用它采集三块木材。
+tutorial.dialogue.subtitles10=§7字幕: §6非常好，用它制作一把木镐。
+tutorial.dialogue.subtitles11=§7字幕: §6在 RLCraft 中使用物品需要达到它们要求的等级。将木镐移到物品栏查看等级要求，或者试用一下。
+tutorial.dialogue.subtitles12=§7字幕: §6你需要经验来提升采矿等级。来，击杀那些蚂蚁。
+tutorial.dialogue.subtitles13=§7字幕: §6有了经验后，用快捷栏中的升级物品打开升级菜单。
+tutorial.dialogue.subtitles14=§7字幕: §6这里你可以查看并提升攻击、防御、敏捷和采矿技能。升级在 RLCraft 中至关重要，它让你能使用更好的工具并每提升10级解锁新能力。现在，把经验投入采矿技能。
+tutorial.dialogue.subtitles15=§7字幕: §6太棒了，你的采矿技能已达到3级。试试用你的木镐吧。
+tutorial.dialogue.subtitles16=§7字幕: §6很好，记住：在 RLCraft 中死亡是正常的，且死亡时你会保留所有技能等级。重要的是不断升级技能和提升自己！
+tutorial.dialogue.subtitles17=§7字幕: §6现在来讲治疗，看到你打蚂蚁受的伤了吗？在 RLCraft 中，身体某些部位受伤过重会有负面效果，所以保持健康状态和适时恢复至关重要。
+tutorial.dialogue.subtitles18=§7字幕: §6用绷带等治疗物品治疗自己。它们可以在世界各处的建筑中找到，或者自己制作。打开箱子疗伤吧。
+tutorial.dialogue.subtitles19=§7字幕: §6在 RLCraft 中，除非睡在床上，否则每次死亡都会在世界随机地点重生。所以找到喜欢的地方后，一定要制作床并睡觉设置重生点！
+tutorial.dialogue.subtitles20=§7字幕: §6现在讲体温。在 RLCraft 中，冷热环境会逐渐影响你的体温，暴露过久会导致过热或冻死。我们保证你头五分钟不会遇到这种情况。
+tutorial.dialogue.subtitles21=§7字幕: §6我调高了温度！跳入水中冷却，稳定体温，防止中暑。
+tutorial.dialogue.subtitles22=§7字幕: §6很好，但你现在在冻！靠近热源取暖。
+tutorial.dialogue.subtitles23=§7字幕: §6干得漂亮，还有其他调节体温的方法，比如吃某些水果，游戏中你会慢慢发现。
+tutorial.dialogue.subtitles24=§7字幕: §6接下来讲饰品。它们是强力道具，提供各种增益和免疫效果，从箱子里拿一个试试。
+tutorial.dialogue.subtitles25=§7字幕: §6每个饰品都有自己的背景故事，说明它的效果和在饰品袋中的放置位置。通常魔法物品放左边，戒指放右边。装备上山羊角饰品吧。
+tutorial.dialogue.subtitles26=§7字幕: §6干得不错！这些训练让你有点口渴了；你可以喝水、吃食物或游泳来解渴。箱子里放了些吃的喝的，拿点吧。
+tutorial.dialogue.subtitles27=§7字幕: §6太棒了，你完成了教程，也只是刚刚开始了解 RLCraft。现在是开始冒险的时候了！你可以在 RLCraft 菜单的设置里切换功能。如果想了解更多未涵盖内容或重玩教程，也能在帮助菜单里操作。祝你好运。
 
 
-action.temp.hot=§7§l[警告]： §c你太热了！
-action.temp.cold=§7§l[警告]： §b你太冷了！
-action.thirst.low=§7§l[警告]： §6你脱水了！
-action.backpack.jump=§6:_input_key.sneak: + :_input_key.jump: + :_input_key.attack: 来卸下背包
+action.temp.hot=§7§l[警告]: §c你太热了！
+action.temp.cold=§7§l[警告]: §b你太冷了！
+action.thirst.low=§7§l[警告]: §6你脱水了！
+action.backpack.jump=§6:_input_key.sneak: + :_input_key.jump: + :_input_key.attack: 取下背包
 action.wind_sword.stop_using=- 停止使用以投掷 -
-action.elemental_sword.cycle=- :_input_key.sneak: 切换§6元素§f -
+action.elemental_sword.cycle=- :_input_key.sneak: 切换 §6元素§f -
 action.elemental_sword.earth=- §2大地§f -
 action.elemental_sword.fire=- §4火焰§f -
 action.elemental_sword.water=- §9水§f -
 action.elemental_sword.air=- §7空气§f -
 action.elemental_sword.lightning=- §b闪电§f -
-detect.lag=§5§l[世界]： §r§a正在优化性能！ §7将在30秒后清理掉落物品。
-detect.lag.low_ram=§5§l[世界]： §r§a正在优化性能！ §7将在10秒后清理掉落物品。
-detect.lag10=§5§l[世界]： §r§7已清理！
-action.wyvern.tamed=你想放过并驯服这只巨龙吗？
-action.wyvern.spare=放过
-action.wyvern.slay=杀死
-generate.boss_tower=§l§2[世界]： §r§7天空尖塔已生成于
-generate.dungeon=§l§2[世界]： §r§7地牢已生成于
-generate.boss= §7内含Boss
-action.warpstone.title=位面石 名称
-action.warpstone.list=位面石 列表
+detect.lag=§5§l[世界]: §r§a正在优化性能！ §730秒后清理掉落物品。
+detect.lag.low_ram=§5§l[世界]: §r§a正在优化性能！ §710秒后清理掉落物品。
+detect.lag10=§5§l[世界]: §r§7已清理！
+action.wyvern.tamed=你想要饶恕并驯服这条龙吗？
+action.wyvern.spare=饶恕
+action.wyvern.slay=屠杀
+generate.boss_tower=§l§2[世界]: §r§7天空尖塔已生成于
+generate.dungeon=§l§2[世界]: §r§7地牢已生成于
+generate.boss= §7内有Boss
+action.warpstone.title=位面石名称
+action.warpstone.list=位面石列表
 action.warpstone.body=为此位面石添加名称
 action.warpstone.name=名称
-action.system_level.only_use=§c别激动，你只能在教程中提升3次技能等级。
-action.system_level.only_mining=§c在教程中你只能提升采矿技能。
+action.system_level.only_use=§c冷静点，过度追求者！教程期间你只能升级3级技能。
+action.system_level.only_mining=§c教程期间你只能升级采矿技能。
 water_flasks.uses= 次使用
-action.teleport_scroll.cancel=§c太棒了！你还没有设置重生点。
-active.saving_grace=§a哟哟，看谁这么走运。保命恩典再次激活，别马上浪费它。
-blocked.agility=§c§l你的敏捷等级太低，无法使用此物品。
+action.teleport_scroll.cancel=§c真棒！你还没有设置重生点。
+active.saving_grace=§a好家伙，看谁这么幸运。救赎之恩再次生效，别急着浪费它。
+blocked.agility=§c§l你的敏捷太低，无法使用此物品。
 blocked.melee=§c§l你的近战等级太低，无法使用此物品。
 blocked.mining=§c§l你的采矿等级太低，无法使用此物品。
 blocked.armor=§c§l你的防御等级太低，无法使用此物品。
-action.dodge=§a恭喜！你躲开了一支箭。
-action.grave_hit=§c退后，偷墓贼！这座坟墓不是你的，不能打开。
-action.warpstone_name=§c真了不起！你已经有一个同名的位面石了。下次试试有创意的名字吧。
-action.max_hearts=§c看看你，满血状态。你的心之数已达上限，别再做梦了。
+blocked.global=§c§l你的技能等级太低，无法使用此物品。
+action.dodge=§a恭喜！你成功躲开了一支箭。
+action.grave_hit=§c别过来，盗墓者！这墓不是你的，不能打开。
+action.warpstone_name=§c厉害！你已经有一个同名的位面石了。试试换个名字吧。
+action.max_hearts=§c看看你，全满了。心跳数已达最大，别再做白日梦了。
 action.reach_level=§a达到等级
 action.in_melee= 近战
 action.in_agility= 敏捷
 action.in_mining= 采矿
 action.in_armor= 防御
 action.you_need=§c你需要 
-action.need_xp= 等级经验来提升此类别。
-action.stop_move=§c放轻松，急速狂人！你必须停止移动才能使用该物品。
-action.limit_level=§c你在此类别中已达到最高等级，别再期待了。
-action.duplicate_trinket=§c同种饰品一次只能装备一个。
+action.need_xp= 级经验来提升此类别。
+action.stop_move=§c别动，冲刺者！你必须停止移动才能使用该物品。
+action.limit_level=§c你已达到该类别的最高等级，坐下休息吧。
+action.duplicate_trinket=§c每种饰品一次只能装备一个。
 action.dead=§c你死于 
-action.dead_burned=试图在岩浆中游泳时被§c烧毁§r。
-action.dead_hard=没有坟墓留下……§c你选择了困难模式。你选择了苦难！
+action.dead_burned=试图游过熔岩时，§c被烧死§r。
+action.dead_hard=没有留下坟墓……§c你选择了困难模式。你选择了苦难！
 action.cooling_down=冷却中...
-action.warpstone_break=§c自然生成的位面石无法移除。
-action.speed_skill=§l§d--速度技能 解锁： §r§6永久获得 §l速度 I§r§6。§r
-action.arrow_skill=§l§d--漂浮箭技能 解锁： §r§6你的§l远程攻击§r§6有§a+20%概率§6附加§7漂浮§6效果。§r
-action.dodge_skill=§l§d--闪避技能 解锁： §r§6获得 §a+10%§6 闪避攻击的概率，每§a5点敏捷增加§a5%§6。§r
-action.critical_skill=§l§d--暴击弓技能 解锁： §r§6你的§l远程攻击§r§6有§a+50%概率§6造成§7暴击伤害§r。 
-action.mastery_skill=§l§d--敏捷精通技能 解锁： §r§6免疫§l摔落伤害§r§6，箭矢永不耗尽。§r
-action.haste_skill=§l§d--迅捷技能 解锁： §r§6永久获得 §l急速 II§r§6。§r
-action.obsidian_skill=§l§d--黑曜石破坏者技能 解锁： §r§6在采矿§5黑曜石§r§6时获得 §l急速 IV§r§6。§r
-action.sustaining_skill=§l§d--持久打击技能 解锁： §r§6每采矿§a10块§6，恢复§a+1和§a+1。§r
-action.material_skill=§l§d--珍贵物资技能 解锁： §r§6采石时有§a+0.5%§6概率获得§l珍贵物资§r。§r
-action.luck_skill=§l§d--幸运技能 解锁： §r§6获得 §l幸运 II§r§6，采矿矿物时额外获得材料。§r
-action.chance_skill=§l§d--暴击几率技能 解锁： §r§6你的§l攻击§r§6获得§a+20%概率§6造成§l暴击§6伤害。§r
-action.stun_skill=§l§d--眩晕技能 解锁： §r§6你的§l攻击§r§6获得§a+10%概率§6造成§l眩晕§6效果。§r
-action.area_skill=§l§d--范围伤害技能 解锁： §r§6你的§l攻击§r§6获得§a+15%概率§6伤害附近敌人。§r
-action.vampirism_skill=§l§d--吸血技能 解锁： §r§6你的§l攻击§r§6每造成§l10点伤害§r§6，为你恢复§a+1。§r
-action.melee_skill=§l§d--近战精通技能 解锁： §r§6你的§l攻击§r§7造成§a+50%§6额外伤害。§r
-action.thorns_skill=§l§d--荆棘 II 技能 解锁： §r§6攻击命中时，反弹等量伤害给敌人。§r
-action.boost_skill=§l§d--生命提升技能 解锁： §r§6每§b10点护甲等级§r§6，获得§a+2血。§r
-action.bodyparts_skill=§l§d--身体部位抗性技能 解锁： §r§6对§l身体部位§r获得额外抗性，每§b5点护甲等级§r§6，增加§a+0.5。§r
-action.heal_skill=§l§d--治疗技能 解锁： §r§6攻击命中时，有§a+15%概率§6恢复§a+5血。§r
-action.saving_skill=§l§d--保命恩典技能 解锁： §r§6每§a5分钟§6§l避免死亡§r一次。§r
-translate.hfrlc.need_key=§c你需要一把钥匙才能打开此门。
+action.warpstone_break=§c自然生成的位面石无法被移除。
+action.speed_skill=§l§d--速度技能解锁：§r§6你永久获得 §l速度 I§r§6。§r
+action.arrow_skill=§l§d--悬浮箭技能解锁：§r§6你的 §l远程攻击§r§6有 §a+20% 概率§6附加 §7悬浮效果§r。
+action.dodge_skill=§l§d--闪避技能解锁：§r§6获得 §a+10%§6 概率 §l闪避§r§6 攻击，§a每提升5点敏捷增加5%。§r
+action.critical_skill=§l§d--暴击弓技能解锁：§r§6你的 §l远程攻击§r§6有 §a+50% 概率§6造成 §7暴击伤害§r。
+action.mastery_skill=§l§d--敏捷精通技能解锁：§r§6免疫 §l摔落伤害§r§6，且箭矢不会耗尽。§r
+action.haste_skill=§l§d--急速技能解锁：§r§6你永久获得 §l急速 II§r§6。§r
+action.obsidian_skill=§l§d--黑曜石破坏者技能解锁：§r§6采掘 §5黑曜石时获得 §l急速 IV§r§6。§r
+action.sustaining_skill=§l§d--持续打击技能解锁：§r§6每采矿§a10个方块§6回复 §a+1 & +1§r。§r
+action.material_skill=§l§d--珍贵材料技能解锁：§r§6采矿石头时有 §a+0.5%§6 概率获得 §l珍贵材料§r。§r
+action.luck_skill=§l§d--幸运技能解锁：§r§6获得 §l幸运 II§r§6，采矿矿物时获得额外材料。§r
+action.chance_skill=§l§d--暴击率技能解锁：§r§6你的 §l攻击§r§6获得 §a+20% 造成 §l暴击§6 伤害的概率。§r
+action.stun_skill=§l§d--眩晕技能解锁：§r§6你的 §l攻击§r§6获得 §a+10% 造成 §l眩晕§r§6 的概率。§r
+action.area_skill=§l§d--范围伤害技能解锁：§r§6你的 §l攻击§r§6获得 §a+15% 概率伤害附近敌人。§r
+action.vampirism_skill=§l§d--吸血技能解锁：§r§6你的 §l攻击§r§6每造成 §l10点伤害§r，回复 §a+1§6。§r
+action.melee_skill=§l§d--近战精通技能解锁：§r§6你的 §l攻击§r§7 造成 §a+50%§6 额外伤害。§r
+action.thorns_skill=§l§d--荆棘 II 技能解锁：§r§6被击时，对敌人造成同等伤害。§r
+action.boost_skill=§l§d--生命提升技能解锁：§r§6每提升 §b10 点防御§6，获得 §a+2§r。§r
+action.bodyparts_skill=§l§d--身体部位抗性技能解锁：§r§6对 §l身体部位§r 获得额外抗性，§a每提升 §b5 点防御§6，获得 §a+0.5§r。§r
+action.heal_skill=§l§d--治疗技能解锁：§r§6攻击时，§a+15% 概率回复 §a+5§r。§r
+action.saving_skill=§l§d--救赎之恩技能解锁：§r§6§l每 §a5 分钟§r§6避免一次死亡。§r
+translate.hfrlc.need_key=§c你需要钥匙才能打开这扇门。
 
 tile.hfrlc:jar1.name=罐子
 tile.hfrlc:jar2.name=罐子
 tile.hfrlc:barrier_collision.name=障碍碰撞
 tile.hfrlc:barrier_collision2.name=实体障碍碰撞
-tile.hfrlc:blue_bush.name=霜莓丛
-tile.hfrlc:orange_bush.name=炽果丛
+tile.hfrlc:blue_bush.name=霜莓灌木
+tile.hfrlc:orange_bush.name=余烬果灌木
 tile.hfrlc:clover.name=三叶草
 tile.hfrlc:mushroom.name=蘑菇
 tile.hfrlc:pebble.name=卵石
@@ -211,119 +214,119 @@ tile.hfrlc:grass.name=草
 tile.hfrlc:cattail.name=香蒲
 tile.hfrlc:wheat_grass.name=麦草
 tile.hfrlc:arctic_flowers.name=北极花
-tile.hfrlc:arid_flowers.name=荒漠花
+tile.hfrlc:arid_flowers.name=干旱花
 tile.hfrlc:tropical_flowers.name=热带花
 tile.hfrlc:brown_mushroom.name=褐蘑菇
 tile.hfrlc:red_mushroom.name=红蘑菇
 tile.hfrlc:cactus.name=仙人掌
 tile.hfrlc:lavender.name=薰衣草
-tile.hfrlc:bellflower.name=桔梗
+tile.hfrlc:bellflower.name=风铃草
 tile.hfrlc:jungle_flower.name=丛林花
 tile.hfrlc:pansy.name=三色堇
-tile.hfrlc:bracken.name=蕨类
-tile.hfrlc:fireweed.name=柳叶菜
+tile.hfrlc:bracken.name=蕨类植物
+tile.hfrlc:fireweed.name=柳叶稷
 tile.hfrlc:pink_lupine.name=粉色羽扇豆
-tile.hfrlc:purple_heather.name=紫石南花
+tile.hfrlc:purple_heather.name=紫色石南花
 tile.hfrlc:purple_lupine.name=紫色羽扇豆
-tile.hfrlc:white_heather.name=白石南花
+tile.hfrlc:white_heather.name=白色石南花
 tile.hfrlc:white_lupine.name=白色羽扇豆
 tile.hfrlc:jungle_bush.name=丛林灌木
-tile.hfrlc:red_roots.name=红根
-tile.hfrlc:sweet_pea.name=豌豆花
+tile.hfrlc:red_roots.name=红色根茎
+tile.hfrlc:sweet_pea.name=甜豌豆
 tile.hfrlc:canola_flower.name=油菜花
-tile.hfrlc:hogweed_flower.name=荨麻花
+tile.hfrlc:hogweed_flower.name=猪殃殃花
 tile.hfrlc:carcass.name=尸体
 tile.hfrlc:clam.name=蛤蜊
 tile.hfrlc:cow_skull.name=牛头骨
-tile.hfrlc:seashells.name=贝壳
+tile.hfrlc:seashells.name=海贝壳
 tile.hfrlc:starfish.name=海星
 tile.hfrlc:pumpkin.name=南瓜
-tile.hfrlc:dungeon_door.name=地牢之门
-tile.hfrlc:dungeon_door_desert.name=沙漠地牢之门
-tile.hfrlc:dungeon_door_snow.name=冰雪地牢之门
-tile.hfrlc:dungeon_door_red_desert.name=赤沙地牢之门
-tile.hfrlc:dungeon_door_key.name=钥匙之门
-tile.hfrlc:key_block.name=钥匙方块
+tile.hfrlc:dungeon_door.name=地牢门
+tile.hfrlc:dungeon_door_desert.name=沙漠地牢门
+tile.hfrlc:dungeon_door_snow.name=冰雪地牢门
+tile.hfrlc:dungeon_door_red_desert.name=红色沙漠地牢门
+tile.hfrlc:dungeon_door_key.name=钥匙门
+tile.hfrlc:key_block.name=钥匙
 
-## ===== BACKPACK VISUAL ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:backpack_visual_big.name=§f大背包
-item.spawn_egg.entity.hfrlc:backpack_visual_mid.name=§f中背包
-item.spawn_egg.entity.hfrlc:backpack_visual.name=§f小背包
+## ===== 背包视觉实体 =====
+## 生成蛋
+item.spawn_egg.entity.hfrlc:backpack_visual_big.name=§f大号背包
+item.spawn_egg.entity.hfrlc:backpack_visual_mid.name=§f中号背包
+item.spawn_egg.entity.hfrlc:backpack_visual.name=§f小号背包
 
-## Entities
-entity.hfrlc:backpack_visual_big.name=大背包
-entity.hfrlc:backpack_visual_mid.name=中背包
-entity.hfrlc:backpack_visual.name=小背包
+## 实体
+entity.hfrlc:backpack_visual_big.name=大号背包
+entity.hfrlc:backpack_visual_mid.name=中号背包
+entity.hfrlc:backpack_visual.name=小号背包
 
-## ===== BOSS ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:dwarf_king.name=§p矮人王奥托鲁姆生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:god_boss.name=§p大宗师图卢姆生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:knight_king.name=§p守护者斯凯洛生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:orc_boss.name=§p首领达洛库格生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:pirate_king.name=§p七海船长瓦雷克生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:rlc_golem.name=§p塔楼守护者生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:skeleton_boss.name=§p死亡骑士生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:death_knight.name=§p死亡骑士生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:spider_king.name=§p织网者卡拉克生成蛋§r~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:frog_king.name=§p青蛙弗罗基生成蛋~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:griffin.name=§p云织者诺弗里格生成蛋~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:leshen.name=§p森林野人生成蛋~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:ogre.name=§p食人魔奥格罗生成蛋~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:orc_king.name=§p兽人奥库尔生成蛋~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:spider_queen.name=§p蜘蛛女王生成蛋~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:werewolf.name=§p狼人首领生成蛋~LINEBREAK~§7首领
-item.spawn_egg.entity.hfrlc:ant_queen.name=§p蚁后生成蛋~LINEBREAK~§7首领
+## ===== Boss 实体 =====
+## 生成蛋
+item.spawn_egg.entity.hfrlc:dwarf_king.name=§p矮人王奥托鲁姆生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:god_boss.name=§p大师图鲁姆生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:knight_king.name=§p守护者斯凯罗生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:orc_boss.name=§p领袖达洛库格生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:pirate_king.name=§p七海船长瓦雷克生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:rlc_golem.name=§p塔楼守卫生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:skeleton_boss.name=§p死亡骑士生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:death_knight.name=§p死亡骑士生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:spider_king.name=§p织网者卡拉克生成蛋§r~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:frog_king.name=§p青蛙王生成蛋~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:griffin.name=§p云织者诺弗里格生成蛋~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:leshen.name=§p森林野人生成蛋~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:ogre.name=§p食人魔奥格罗生成蛋~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:orc_king.name=§p兽人奥库尔生成蛋~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:spider_queen.name=§p蜘蛛女王生成蛋~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:werewolf.name=§p首领狼人生成蛋~LINEBREAK~§7Boss
+item.spawn_egg.entity.hfrlc:ant_queen.name=§p蚁后生成蛋~LINEBREAK~§7Boss
 
-## Entities
+## 实体
 entity.hfrlc:dwarf_king_death.name=§l§a矮人王奥托鲁姆
 entity.hfrlc:dwarf_king.name=§l§a矮人王奥托鲁姆
-entity.hfrlc:god_boss_death.name=§l§6大宗师图卢姆
-entity.hfrlc:god_boss.name=§l§6大宗师图卢姆
-entity.hfrlc:knight_king_death.name=§l§u守护者斯凯洛
-entity.hfrlc:knight_king.name=§l§u守护者斯凯洛
-entity.hfrlc:orc_boss_death.name=§l§4首领达洛库格
-entity.hfrlc:orc_boss.name=§l§4首领达洛库格
+entity.hfrlc:god_boss_death.name=§l§6大师图鲁姆
+entity.hfrlc:god_boss.name=§l§6大师图鲁姆
+entity.hfrlc:knight_king_death.name=§l§u守护者斯凯罗
+entity.hfrlc:knight_king.name=§l§u守护者斯凯罗
+entity.hfrlc:orc_boss_death.name=§l§4领袖达洛库格
+entity.hfrlc:orc_boss.name=§l§4领袖达洛库格
 entity.hfrlc:pirate_king.name=§3§l七海船长瓦雷克
-entity.hfrlc:rlc_golem.name=§l§f塔楼守护者
+entity.hfrlc:rlc_golem.name=§l§f塔楼守卫
 entity.hfrlc:skeleton_boss.name=§l§4死亡骑士
 entity.hfrlc:death_knight.name=死亡骑士
 entity.hfrlc:spider_king.name=§l§n织网者卡拉克
-entity.hfrlc:frog_king.name=§l§a青蛙弗罗基
+entity.hfrlc:frog_king.name=§l§a青蛙王
 entity.hfrlc:griffin.name=§l云织者诺弗里格
 entity.hfrlc:leshen.name=§l森林野人
 entity.hfrlc:ogre.name=§l§8食人魔奥格罗
 entity.hfrlc:orc_king.name=§l§2兽人奥库尔
 entity.hfrlc:spider_queen.name=§l§4蜘蛛女王
-entity.hfrlc:werewolf.name=§l§8狼人首领
+entity.hfrlc:werewolf.name=§l§8首领狼人
 entity.hfrlc:ant_queen.name=蚁后
 
-## ===== DRAGON ENTITIES (HOSTILE - DEFEAT TO MOUNT) =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:wyvern_air.name=风龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_dark.name=暗龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_earth.name=土龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_fire.name=火龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_ice.name=冰龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_lightning.name=雷龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_nature.name=自然龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_poison.name=毒龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
-item.spawn_egg.entity.hfrlc:wyvern_water.name=水龙生成蛋~LINEBREAK~§7敌对（击败后可骑乘）
+## ===== 龙类实体（敌对 - 击败后可骑乘） =====
+## 生成蛋
+item.spawn_egg.entity.hfrlc:wyvern_air.name=空气龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_dark.name=暗影龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_earth.name=大地龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_fire.name=火焰龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_ice.name=冰霜龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_lightning.name=闪电龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_nature.name=自然龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_poison.name=毒液龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
+item.spawn_egg.entity.hfrlc:wyvern_water.name=水龙生成蛋~LINEBREAK~§7敌对（击败后骑乘）
 
-## Entities
-entity.hfrlc:wyvern_air.name=§7§l风龙
-entity.hfrlc:wyvern_dark.name=§8§l暗龙
-entity.hfrlc:wyvern_earth.name=§6§l土龙
-entity.hfrlc:wyvern_fire.name=§c§l火龙
-entity.hfrlc:wyvern_ice.name=§b§l冰龙
-entity.hfrlc:wyvern_lightning.name=§e§l雷龙
+## 实体
+entity.hfrlc:wyvern_air.name=§7§l空气龙
+entity.hfrlc:wyvern_dark.name=§8§l暗影龙
+entity.hfrlc:wyvern_earth.name=§6§l大地龙
+entity.hfrlc:wyvern_fire.name=§c§l火焰龙
+entity.hfrlc:wyvern_ice.name=§b§l冰霜龙
+entity.hfrlc:wyvern_lightning.name=§e§l闪电龙
 entity.hfrlc:wyvern_nature.name=§a§l自然龙
-entity.hfrlc:wyvern_poison.name=§d§l毒龙
+entity.hfrlc:wyvern_poison.name=§d§l毒液龙
 entity.hfrlc:wyvern_water.name=§9§l水龙
 
-## ===== HOSTILE ENTITIES =====
-## Spawn Eggs
+## ===== 敌对实体 =====
+## 生成蛋
 item.spawn_egg.entity.hfrlc:dwarf.name=矮人生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:knight.name=骑士生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:orc.name=兽人生成蛋~LINEBREAK~§7敌对
@@ -332,29 +335,29 @@ item.spawn_egg.entity.hfrlc:pirate.name=海盗生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:frog.name=青蛙生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:yeti.name=雪人生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:snake.name=蛇生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:sworm.name=虫群生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:ancient_titan.name=远古泰坦生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:sworm.name=沙虫生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:ancient_titan.name=古代泰坦生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:bee_queen.name=蜂后生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:cyclop.name=独眼巨人生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:divine_warrior.name=神圣战士生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:golem.name=傀儡生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:icebutterfly.name=冰蝶生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:monkey_king.name=猴王生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:orc_leader.name=兽人首领生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:orc_leader.name=兽人领袖生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:pumpkinkido.name=死神生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:samurai.name=武士生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:satyre.name=萨提尔生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:shogun.name=死亡将军生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:satyre.name=萨梯生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:shogun.name=死将军生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:crocodile.name=鳄鱼生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:dead_shooter.name=死亡射手生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:dead_shooter.name=死射手生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:little_ant.name=小蚂蚁生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:sea_serpent.name=海蛇生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:mosquito.name=蚊子生成蛋~LINEBREAK~§7敌对
 item.spawn_egg.entity.hfrlc:rat.name=老鼠生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:big_bad_fish.name=大恶鱼生成蛋~LINEBREAK~§7敌对
-item.spawn_egg.entity.hfrlc:sandworm_head.name=沙虫生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:big_bad_fish.name=大坏鱼生成蛋~LINEBREAK~§7敌对
+item.spawn_egg.entity.hfrlc:sandworm_head.name=沙虫头生成蛋~LINEBREAK~§7敌对
 
-## Entities
+## 实体
 entity.hfrlc:dwarf.name=矮人
 entity.hfrlc:knight.name=骑士
 entity.hfrlc:orc.name=兽人
@@ -363,8 +366,8 @@ entity.hfrlc:pirate.name=海盗
 entity.hfrlc:frog.name=青蛙
 entity.hfrlc:yeti.name=雪人
 entity.hfrlc:snake.name=蛇
-entity.hfrlc:sworm.name=虫群
-entity.hfrlc:sworm_mouth.name=虫群
+entity.hfrlc:sworm.name=沙虫
+entity.hfrlc:sworm_mouth.name=沙虫
 entity.hfrlc:ancient_titan.name=远古泰坦
 entity.hfrlc:bee_queen.name=蜂后
 entity.hfrlc:cyclop.name=独眼巨人
@@ -372,24 +375,24 @@ entity.hfrlc:divine_warrior.name=神圣战士
 entity.hfrlc:golem.name=傀儡
 entity.hfrlc:icebutterfly.name=冰蝶
 entity.hfrlc:monkey_king.name=猴王
-entity.hfrlc:orc_leader.name=兽人首领
+entity.hfrlc:orc_leader.name=兽人领袖
 entity.hfrlc:pumpkinkido.name=死神
 entity.hfrlc:samurai.name=武士
-entity.hfrlc:satyre.name=萨提尔
-entity.hfrlc:shogun.name=死亡将军
+entity.hfrlc:satyre.name=萨梯
+entity.hfrlc:shogun.name=亡将军
 entity.hfrlc:crocodile.name=鳄鱼
-entity.hfrlc:dead_shooter.name=死亡射手
+entity.hfrlc:dead_shooter.name=亡射手
 entity.hfrlc:little_ant.name=小蚂蚁
 entity.hfrlc:sea_serpent.name=海蛇
 entity.hfrlc:mosquito.name=蚊子
 entity.hfrlc:rat.name=老鼠
-entity.hfrlc:big_bad_fish.name=大恶鱼
-entity.hfrlc:sandworm_head.name=沙虫
+entity.hfrlc:big_bad_fish.name=大坏鱼
+entity.hfrlc:sandworm_head.name=沙虫头
 entity.hfrlc:sandworm_wheel.name=沙虫
-entity.hfrlc:sandworm_tail.name=沙虫
+entity.hfrlc:sandworm_tail.name=沙虫尾
 
-## ===== NEUTRAL ENTITIES =====
-## Spawn Eggs
+## ===== 中立实体 =====
+## 生成蛋
 item.spawn_egg.entity.hfrlc:bear.name=灰熊生成蛋~LINEBREAK~§7中立
 item.spawn_egg.entity.hfrlc:boar.name=野猪生成蛋~LINEBREAK~§7中立
 item.spawn_egg.entity.hfrlc:skunk.name=臭鼬生成蛋~LINEBREAK~§7中立
@@ -402,7 +405,7 @@ item.spawn_egg.entity.hfrlc:scorpion.name=蝎子生成蛋~LINEBREAK~§7中立
 item.spawn_egg.entity.hfrlc:baby_scorpion.name=小蝎子生成蛋~LINEBREAK~§7中立
 item.spawn_egg.entity.hfrlc:giant_snail.name=巨型蜗牛生成蛋~LINEBREAK~§7中立
 
-## Entities
+## 实体
 entity.hfrlc:bear.name=灰熊
 entity.hfrlc:boar.name=野猪
 entity.hfrlc:skunk.name=臭鼬
@@ -415,152 +418,152 @@ entity.hfrlc:scorpion.name=蝎子
 entity.hfrlc:baby_scorpion.name=小蝎子
 entity.hfrlc:giant_snail.name=巨型蜗牛
 
-## ===== FRIENDLY ENTITIES =====
-## Spawn Eggs
+## ===== 友好实体 =====
+## 生成蛋
 item.spawn_egg.entity.hfrlc:firefly.name=萤火虫生成蛋~LINEBREAK~§7友好
 item.spawn_egg.entity.hfrlc:eagle.name=鹰生成蛋~LINEBREAK~§7友好
-item.spawn_egg.entity.hfrlc:healingfairy.name=治疗仙女生成蛋~LINEBREAK~§7友好
+item.spawn_egg.entity.hfrlc:healingfairy.name=治疗仙子生成蛋~LINEBREAK~§7友好
 item.spawn_egg.entity.hfrlc:pigeon.name=鸽子生成蛋~LINEBREAK~§7友好
 item.spawn_egg.entity.hfrlc:deer.name=鹿生成蛋~LINEBREAK~§7友好
 item.spawn_egg.entity.hfrlc:mini_snail.name=小蜗牛生成蛋~LINEBREAK~§7友好
 
-## Entities
+## 实体
 entity.hfrlc:firefly.name=萤火虫
 entity.hfrlc:eagle.name=鹰
-entity.hfrlc:healingfairy.name=治疗仙女
+entity.hfrlc:healingfairy.name=治疗仙子
 entity.hfrlc:pigeon.name=鸽子
 entity.hfrlc:deer.name=鹿
 entity.hfrlc:mini_snail.name=小蜗牛
 
-## ===== MOUNT ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:aeris.name=艾瑞斯生成蛋~LINEBREAK~§7中立（坐骑）
+## ===== 坐骑实体 =====
+## 生成蛋
+item.spawn_egg.entity.hfrlc:aeris.name=Aeris生成蛋~LINEBREAK~§7中立（坐骑）
 item.spawn_egg.entity.hfrlc:biglizard.name=大蜥蜴生成蛋~LINEBREAK~§7中立（坐骑）
 item.spawn_egg.entity.hfrlc:hippocampus.name=海马生成蛋~LINEBREAK~§7友好（坐骑）
 
-## Entities
-entity.hfrlc:aeris.name=艾瑞斯
+## 实体
+entity.hfrlc:aeris.name=Aeris
 entity.hfrlc:biglizard.name=大蜥蜴
 entity.hfrlc:hippocampus.name=海马
 
-## ===== TRADER NPC ENTITIES =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:ant_women.name=蚁女生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:cowbow.name=牛仔生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:dark_sensei.name=黑暗导师生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:divine_island.name=神圣岛屿生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:dragon_hunter.name=屠龙者生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:harry.name=哈利生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:merchant_orc.name=商人兽人生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:port_sailor.name=船长生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:white_sensei.name=白色导师生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:witch.name=女巫生成蛋~LINEBREAK~§7商人NPC
-item.spawn_egg.entity.hfrlc:wizard_golem.name=法师傀儡生成蛋~LINEBREAK~§7商人NPC
+## ===== 交易商NPC实体 =====
+## 生成蛋
+item.spawn_egg.entity.hfrlc:ant_women.name=蚂蚁女郎生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:cowbow.name=牛仔生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:dark_sensei.name=黑暗师范生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:divine_island.name=神圣岛生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:dragon_hunter.name=猎龙者生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:harry.name=哈利生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:merchant_orc.name=商人兽人生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:port_sailor.name=船长生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:white_sensei.name=白师范生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:witch.name=女巫生成蛋~LINEBREAK~§7交易商NPC
+item.spawn_egg.entity.hfrlc:wizard_golem.name=巫师傀儡生成蛋~LINEBREAK~§7交易商NPC
 
-## Entities
-entity.hfrlc:ant_women.name=蚁女
+## 实体
+entity.hfrlc:ant_women.name=蚂蚁女郎
 entity.hfrlc:cowbow.name=牛仔
-entity.hfrlc:dark_sensei.name=黑暗导师
-entity.hfrlc:divine_island.name=神圣岛屿
-entity.hfrlc:dragon_hunter.name=屠龙者
+entity.hfrlc:dark_sensei.name=黑暗师范
+entity.hfrlc:divine_island.name=神圣岛
+entity.hfrlc:dragon_hunter.name=猎龙者
 entity.hfrlc:harry.name=哈利
 entity.hfrlc:merchant_orc.name=商人兽人
 entity.hfrlc:port_sailor.name=船长
-entity.hfrlc:white_sensei.name=白色导师
+entity.hfrlc:white_sensei.name=白师范
 entity.hfrlc:witch.name=女巫
-entity.hfrlc:wizard_golem.name=法师傀儡
+entity.hfrlc:wizard_golem.name=巫师傀儡
 
-## ===== SPECIAL ITEMS =====
-## Spawn Eggs
-item.spawn_egg.entity.hfrlc:djinn.name=古老神灯~LINEBREAK~§7摩擦它！
+## ===== 特殊物品 =====
+## 生成蛋
+item.spawn_egg.entity.hfrlc:djinn.name=古老神灯~LINEBREAK~§7擦它！
 item.spawn_egg.entity.hfrlc:sleepingbag.name=睡袋
 
-## Entities
+## 实体
 entity.hfrlc:djinn.name=精灵
 entity.hfrlc:sleepingbag.name=睡袋
 
-## ===== PROJECTILES AND ARROWS =====
+## ===== 投射物与箭矢 =====
 entity.hfrlc:cannon_ball.name=炮弹
-entity.hfrlc:dwarf_arrow.name=矮人
-entity.hfrlc:knight_arrow.name=骑士
-entity.hfrlc:orc_arrow.name=兽人
-entity.hfrlc:pirate_arrow.name=海盗
-entity.hfrlc:pirate_shot.name=海盗
-entity.hfrlc:deadshooter_arrow.name=死亡射手
-entity.hfrlc:fire_arrow.name=箭
-entity.hfrlc:ice_arrow.name=箭
-entity.hfrlc:player_bow.name=箭
+entity.hfrlc:dwarf_arrow.name=矮人箭
+entity.hfrlc:knight_arrow.name=骑士箭
+entity.hfrlc:orc_arrow.name=兽人箭
+entity.hfrlc:pirate_arrow.name=海盗箭
+entity.hfrlc:pirate_shot.name=海盗弹
+entity.hfrlc:deadshooter_arrow.name=亡射手箭
+entity.hfrlc:fire_arrow.name=火焰箭
+entity.hfrlc:ice_arrow.name=冰箭
+entity.hfrlc:player_bow.name=箭矢
 entity.hfrlc:player_trident.name=三叉戟
 
-## ===== DRAGON PROJECTILES =====
+## ===== 龙类投射物 =====
 entity.hfrlc:wyvern_fire_loot.name=火龙
-entity.hfrlc:wyvern_air_knockback_player.name=风龙
-entity.hfrlc:wyvern_air_knockback.name=风龙
-entity.hfrlc:wyvern_air_projectile_player.name=风龙
-entity.hfrlc:wyvern_dark_projectile_player.name=暗龙
-entity.hfrlc:wyvern_earth_projectile_player.name=土龙
-entity.hfrlc:wyvern_fire_projectile_player.name=火龙
-entity.hfrlc:wyvern_ice_projectile_player.name=冰龙
-entity.hfrlc:wyvern_lightning_projectile_player.name=雷龙
+entity.hfrlc:wyvern_air_knockback_player.name=空气龙
+entity.hfrlc:wyvern_air_knockback.name=空气龙
+entity.hfrlc:wyvern_air_projectile_player.name=空气龙
+entity.hfrlc:wyvern_dark_projectile_player.name=暗影龙
+entity.hfrlc:wyvern_earth_projectile_player.name=大地龙
+entity.hfrlc:wyvern_fire_projectile_player.name=火焰龙
+entity.hfrlc:wyvern_ice_projectile_player.name=冰霜龙
+entity.hfrlc:wyvern_lightning_projectile_player.name=闪电龙
 entity.hfrlc:wyvern_nature_projectile_player.name=自然龙
-entity.hfrlc:wyvern_poison_projectile_player.name=毒龙
+entity.hfrlc:wyvern_poison_projectile_player.name=毒液龙
 entity.hfrlc:wyvern_water_projectile_player.name=水龙
-entity.hfrlc:wyvern_air_tame.name=风龙
-entity.hfrlc:wyvern_dark_tame.name=暗龙
-entity.hfrlc:wyvern_earth_tame.name=土龙
-entity.hfrlc:wyvern_fire_tame.name=火龙
-entity.hfrlc:wyvern_ice_tame.name=冰龙
-entity.hfrlc:wyvern_lightning_tame.name=雷龙
+entity.hfrlc:wyvern_air_tame.name=空气龙
+entity.hfrlc:wyvern_dark_tame.name=暗影龙
+entity.hfrlc:wyvern_earth_tame.name=大地龙
+entity.hfrlc:wyvern_fire_tame.name=火焰龙
+entity.hfrlc:wyvern_ice_tame.name=冰霜龙
+entity.hfrlc:wyvern_lightning_tame.name=闪电龙
 entity.hfrlc:wyvern_nature_tame.name=自然龙
-entity.hfrlc:wyvern_poison_tame.name=毒龙
+entity.hfrlc:wyvern_poison_tame.name=毒液龙
 entity.hfrlc:wyvern_water_tame.name=水龙
-entity.hfrlc:wyvern_air_projectile1.name=风龙
-entity.hfrlc:wyvern_air_projectile2.name=风龙
-entity.hfrlc:wyvern_air_projectile3.name=风龙
-entity.hfrlc:wyvern_air_projectile4.name=风龙
-entity.hfrlc:wyvern_air_projectile5.name=风龙
-entity.hfrlc:wyvern_dark_projectile1.name=暗龙
-entity.hfrlc:wyvern_dark_projectile2.name=暗龙
-entity.hfrlc:wyvern_dark_projectile3.name=暗龙
-entity.hfrlc:wyvern_dark_projectile4.name=暗龙
-entity.hfrlc:wyvern_dark_projectile5.name=暗龙
-entity.hfrlc:wyvern_earth_projectile1.name=土龙
-entity.hfrlc:wyvern_earth_projectile2.name=土龙
-entity.hfrlc:wyvern_earth_projectile3.name=土龙
-entity.hfrlc:wyvern_earth_projectile4.name=土龙
-entity.hfrlc:wyvern_earth_projectile5.name=土龙
-entity.hfrlc:wyvern_fire_projectile1.name=火龙
-entity.hfrlc:wyvern_fire_projectile2.name=火龙
-entity.hfrlc:wyvern_fire_projectile3.name=火龙
-entity.hfrlc:wyvern_fire_projectile4.name=火龙
-entity.hfrlc:wyvern_fire_projectile5.name=火龙
-entity.hfrlc:wyvern_ice_projectile1.name=冰龙
-entity.hfrlc:wyvern_ice_projectile2.name=冰龙
-entity.hfrlc:wyvern_ice_projectile3.name=冰龙
-entity.hfrlc:wyvern_ice_projectile4.name=冰龙
-entity.hfrlc:wyvern_ice_projectile5.name=冰龙
-entity.hfrlc:wyvern_lightning_projectile1.name=雷龙
-entity.hfrlc:wyvern_lightning_projectile2.name=雷龙
-entity.hfrlc:wyvern_lightning_projectile3.name=雷龙
-entity.hfrlc:wyvern_lightning_projectile4.name=雷龙
-entity.hfrlc:wyvern_lightning_projectile5.name=雷龙
+entity.hfrlc:wyvern_air_projectile1.name=空气龙
+entity.hfrlc:wyvern_air_projectile2.name=空气龙
+entity.hfrlc:wyvern_air_projectile3.name=空气龙
+entity.hfrlc:wyvern_air_projectile4.name=空气龙
+entity.hfrlc:wyvern_air_projectile5.name=空气龙
+entity.hfrlc:wyvern_dark_projectile1.name=暗影龙
+entity.hfrlc:wyvern_dark_projectile2.name=暗影龙
+entity.hfrlc:wyvern_dark_projectile3.name=暗影龙
+entity.hfrlc:wyvern_dark_projectile4.name=暗影龙
+entity.hfrlc:wyvern_dark_projectile5.name=暗影龙
+entity.hfrlc:wyvern_earth_projectile1.name=大地龙
+entity.hfrlc:wyvern_earth_projectile2.name=大地龙
+entity.hfrlc:wyvern_earth_projectile3.name=大地龙
+entity.hfrlc:wyvern_earth_projectile4.name=大地龙
+entity.hfrlc:wyvern_earth_projectile5.name=大地龙
+entity.hfrlc:wyvern_fire_projectile1.name=火焰龙
+entity.hfrlc:wyvern_fire_projectile2.name=火焰龙
+entity.hfrlc:wyvern_fire_projectile3.name=火焰龙
+entity.hfrlc:wyvern_fire_projectile4.name=火焰龙
+entity.hfrlc:wyvern_fire_projectile5.name=火焰龙
+entity.hfrlc:wyvern_ice_projectile1.name=冰霜龙
+entity.hfrlc:wyvern_ice_projectile2.name=冰霜龙
+entity.hfrlc:wyvern_ice_projectile3.name=冰霜龙
+entity.hfrlc:wyvern_ice_projectile4.name=冰霜龙
+entity.hfrlc:wyvern_ice_projectile5.name=冰霜龙
+entity.hfrlc:wyvern_lightning_projectile1.name=闪电龙
+entity.hfrlc:wyvern_lightning_projectile2.name=闪电龙
+entity.hfrlc:wyvern_lightning_projectile3.name=闪电龙
+entity.hfrlc:wyvern_lightning_projectile4.name=闪电龙
+entity.hfrlc:wyvern_lightning_projectile5.name=闪电龙
 entity.hfrlc:wyvern_nature_projectile1.name=自然龙
 entity.hfrlc:wyvern_nature_projectile2.name=自然龙
 entity.hfrlc:wyvern_nature_projectile3.name=自然龙
 entity.hfrlc:wyvern_nature_projectile4.name=自然龙
 entity.hfrlc:wyvern_nature_projectile5.name=自然龙
-entity.hfrlc:wyvern_poison_projectile1.name=毒龙
-entity.hfrlc:wyvern_poison_projectile2.name=毒龙
-entity.hfrlc:wyvern_poison_projectile3.name=毒龙
-entity.hfrlc:wyvern_poison_projectile4.name=毒龙
-entity.hfrlc:wyvern_poison_projectile5.name=毒龙
+entity.hfrlc:wyvern_poison_projectile1.name=毒液龙
+entity.hfrlc:wyvern_poison_projectile2.name=毒液龙
+entity.hfrlc:wyvern_poison_projectile3.name=毒液龙
+entity.hfrlc:wyvern_poison_projectile4.name=毒液龙
+entity.hfrlc:wyvern_poison_projectile5.name=毒液龙
 entity.hfrlc:wyvern_water_projectile1.name=水龙
 entity.hfrlc:wyvern_water_projectile2.name=水龙
 entity.hfrlc:wyvern_water_projectile3.name=水龙
 entity.hfrlc:wyvern_water_projectile4.name=水龙
 entity.hfrlc:wyvern_water_projectile5.name=水龙
 
-## ===== WEAPON ENTITIES =====
+## ===== 武器实体 =====
 entity.hfrlc:wand_lightning_projectile.name=魔法棒
 entity.hfrlc:fire_aspect.name=火焰附魔
 entity.hfrlc:wyvern1.name=龙
@@ -572,88 +575,88 @@ entity.hfrlc:dragon_attack_knockback.name=龙
 entity.hfrlc:holdfire.name=龙
 entity.hfrlc:wyvern_attack_knockback.name=龙
 
-## ===== SPECIAL SWORD ENTITIES =====
-entity.hfrlc:air_sword.controller.name=风之剑
-entity.hfrlc:air_sword.throw.name=风之剑
-entity.hfrlc:dirt_projectile.name=大地之剑
-entity.hfrlc:earth_sword.attack.explode.name=地形之剑
-entity.hfrlc:earth_sword.attack2.name=地形之剑
-entity.hfrlc:earth_sword.attack.name=地形之剑
-entity.hfrlc:earth_sword.attack.target.name=地形之剑
-entity.hfrlc:fire_sword.defense.name=烈焰之剑
-entity.hfrlc:fire_sword.projectile.name=烈焰之剑
-entity.hfrlc:fire_sword_boost.name=烈焰之剑
-entity.hfrlc:ice_cube.projectile.name=寒霜之剑
-entity.hfrlc:ice_cube.explode.name=寒霜之剑
-entity.hfrlc:ice_spikes.name=寒霜之剑
-entity.hfrlc:ice_sword.target.name=寒霜之剑
-entity.hfrlc:ice_sword.attack.name=寒霜之剑
-entity.hfrlc:rocks.name=雨林之剑
-entity.hfrlc:lava_sword.explode.name=流星之剑
-entity.hfrlc:lava_sword.projectile.name=流星之剑
-entity.hfrlc:light_sword_boost.name=光辉之剑
-entity.hfrlc:light_sword.glow.name=光辉之剑
-entity.hfrlc:nether_sword.target.name=下界之剑
-entity.hfrlc:nether_sword.fire_attack.name=下界之剑
-entity.hfrlc:nether_sword.fire_attack.explode.name=下界之剑
-entity.hfrlc:spawn.controller.name=下界之剑
-entity.hfrlc:ocean_sword.attack.ripple.name=海洋之剑
-entity.hfrlc:ocean_sword.attack.name=海洋之剑
-entity.hfrlc:ocean_sword.boost.name=海洋之剑
-entity.hfrlc:thunder_sword.explode_small.name=雷鸣之剑
-entity.hfrlc:thunder_sword.impact.name=雷鸣之剑
-entity.hfrlc:thunder_sword.explode.name=雷鸣之剑
+## ===== 特殊剑实体 =====
+entity.hfrlc:air_sword.controller.name=风剑
+entity.hfrlc:air_sword.throw.name=风剑
+entity.hfrlc:dirt_projectile.name=大地剑
+entity.hfrlc:earth_sword.attack.explode.name=地形剑
+entity.hfrlc:earth_sword.attack2.name=地形剑
+entity.hfrlc:earth_sword.attack.name=地形剑
+entity.hfrlc:earth_sword.attack.target.name=地形剑
+entity.hfrlc:fire_sword.defense.name=烈焰剑
+entity.hfrlc:fire_sword.projectile.name=烈焰剑
+entity.hfrlc:fire_sword_boost.name=烈焰剑
+entity.hfrlc:ice_cube.projectile.name=霜剑
+entity.hfrlc:ice_cube.explode.name=霜剑
+entity.hfrlc:ice_spikes.name=霜剑
+entity.hfrlc:ice_sword.target.name=霜剑
+entity.hfrlc:ice_sword.attack.name=霜剑
+entity.hfrlc:rocks.name=雨林剑
+entity.hfrlc:lava_sword.explode.name=陨石剑
+entity.hfrlc:lava_sword.projectile.name=陨石剑
+entity.hfrlc:light_sword_boost.name=辉光剑
+entity.hfrlc:light_sword.glow.name=辉光剑
+entity.hfrlc:nether_sword.target.name=下界剑
+entity.hfrlc:nether_sword.fire_attack.name=下界剑
+entity.hfrlc:nether_sword.fire_attack.explode.name=下界剑
+entity.hfrlc:spawn.controller.name=下界剑
+entity.hfrlc:ocean_sword.attack.ripple.name=海洋剑
+entity.hfrlc:ocean_sword.attack.name=海洋剑
+entity.hfrlc:ocean_sword.boost.name=海洋剑
+entity.hfrlc:thunder_sword.explode_small.name=雷霆剑
+entity.hfrlc:thunder_sword.impact.name=雷霆剑
+entity.hfrlc:thunder_sword.explode.name=雷霆剑
 entity.hfrlc:particle_rider.name=粒子
-entity.hfrlc:poison_projectile.name=毒素之剑
-entity.hfrlc:spike_sword_boost.name=冲击之剑
-entity.hfrlc:spike_sword.target.name=冲击之剑
+entity.hfrlc:poison_projectile.name=毒剑
+entity.hfrlc:spike_sword_boost.name=冲击剑
+entity.hfrlc:spike_sword.target.name=冲击剑
 entity.hfrlc:tornado.name=龙卷风
-entity.hfrlc:toxic.name=毒素之剑
-entity.hfrlc:water_beam_projectile.name=水流之剑
+entity.hfrlc:toxic.name=毒剑
+entity.hfrlc:water_beam_projectile.name=水剑
 entity.hfrlc:weapon13_knockback.name=木盾
 
-## ===== GENERATOR AND RANDOMIZER ENTITIES =====
-entity.hfrlc:web.name=蜘蛛网
-entity.hfrlc:2_boss.name=首领随机器2
-entity.hfrlc:boss_tower_random.name=首领随机器
-entity.hfrlc:skysmall_random.name=首领随机器
-entity.hfrlc:boss_tower.name=天空塔生成器
+## ===== 生成器与随机器实体 =====
+entity.hfrlc:web.name=蛛网
+entity.hfrlc:2_boss.name=Boss随机器2
+entity.hfrlc:boss_tower_random.name=Boss随机器
+entity.hfrlc:skysmall_random.name=Boss随机器
+entity.hfrlc:boss_tower.name=天空尖塔生成器
 entity.hfrlc:dungeon.name=地牢生成器
 entity.hfrlc:random_npc_dungeon.name=地牢NPC随机器
 entity.hfrlc:random_npc.name=NPC随机器
 entity.hfrlc:random_wyvern.name=龙随机器
 
-## ===== SPECIAL EFFECT ENTITIES =====
-entity.hfrlc:lens_sun.name=镜头眩光
-entity.hfrlc:npcsign.name=NPC标牌
+## ===== 特效实体 =====
+entity.hfrlc:lens_sun.name=镜头光晕
+entity.hfrlc:npcsign.name=NPC标志
 entity.hfrlc:explode_tower.name=塔爆炸器
 entity.hfrlc:explode.name=爆炸器
-entity.hfrlc:knockback.name=击退器
-entity.hfrlc:sing.name=歌唱
+entity.hfrlc:knockback.name=击退者
+entity.hfrlc:sing.name=歌唱者
 entity.hfrlc:wyvern_explode.name=龙爆炸
-entity.hfrlc:wither_skull_dangerous.name=危险凋零头骨
+entity.hfrlc:wither_skull_dangerous.name=凋灵骷髅危险
 entity.hfrlc:ender_tp_dummy.name=末影珍珠
 entity.hfrlc:drop_item.name=掉落物品
 entity.hfrlc:play_the_tutorial.name=龙
 entity.hfrlc:acid.name=酸液
-entity.hfrlc:leshen_scream.name=§l森林野人
-entity.hfrlc:ogre_attack.name=§l§8食人魔奥格罗
+entity.hfrlc:leshen_scream.name=§l野性森林人
+entity.hfrlc:ogre_attack.name=§l§8奥格罗食人魔
 entity.hfrlc:roots.name=树根
 entity.hfrlc:black_room.name=黑暗房间
 
-## ===== SURVIVAL/CRAFTING SYSTEM ENTITIES =====
+## ===== 生存/制作系统实体 =====
 entity.hfrlc:bodyparts.name=身体部位
 entity.hfrlc:cold_temperature.name=寒冷温度
 entity.hfrlc:hot_temperature.name=炎热温度
 entity.hfrlc:temperature.name=温度
-entity.hfrlc:fiber_string.name=纤维绳
+entity.hfrlc:fiber_string.name=纤维线
 entity.hfrlc:fiber.name=纤维
 entity.hfrlc:flint_axe.name=燧石斧
 entity.hfrlc:flint_dagger.name=燧石匕首
 entity.hfrlc:flint_shard.name=燧石碎片
 entity.hfrlc:flint.name=燧石
 entity.hfrlc:goat_horn.name=山羊角
-entity.hfrlc:stick.name=木棍
+entity.hfrlc:stick.name=树枝
 entity.hfrlc:stone_axe.name=石斧
 entity.hfrlc:stone_pickaxe.name=石镐
 entity.hfrlc:stone_sword.name=石剑
@@ -662,64 +665,64 @@ entity.hfrlc:wood_pickaxe.name=木镐
 entity.hfrlc:wood_sword.name=木剑
 entity.hfrlc:wood.name=木材
 
-## ===== UI AND SYSTEM ENTITIES =====
-entity.hfrlc:guide_texts.name=指导文本
+## ===== 界面与系统实体 =====
+entity.hfrlc:guide_texts.name=指南文本
 entity.hfrlc:heal_items.name=治疗物品
-entity.hfrlc:thirts_items.name=解渴物品
+entity.hfrlc:thirts_items.name=口渴物品
 entity.hfrlc:trinket_bag.name=饰品袋
-entity.hfrlc:trinket_lore.name=饰品背景
+entity.hfrlc:trinket_lore.name=饰品说明
 entity.hfrlc:trinket_ui.name=饰品界面
 entity.hfrlc:system_level_item.name=系统等级物品
 entity.hfrlc:system_level_ui.name=系统等级界面
 entity.hfrlc:system_level.name=升级菜单
 entity.hfrlc:trinket_menu.name=饰品菜单
 
-## ===== WORLD INTERACTION ENTITIES =====
+## ===== 世界交互实体 =====
 entity.hfrlc:tombs.name=坟墓
 entity.hfrlc:warpstone.name=传送石
 
 
 action.interact.rotate=旋转
-action.interact.paint=涂装
+action.interact.paint=涂色
 action.interact.wear=互动穿戴
 action.interact.sit=坐下
 action.interact.ride=骑乘
-action.interact.wyvern.saddle=装鞍
-action.interact.wyvern.armor=装备盔甲
+action.interact.wyvern.saddle=鞍
+action.interact.wyvern.armor=装备护甲
 action.interact.wyvern.shoot=射击
 action.interact.pick_up=拾取
 
-action.hint.tuto_dragon.hint.1=§6[!] 你可以稍后在设置中更改难度。~LINEBREAK~   
-action.hint.tuto_dragon.hint.2=§6[!] 强烈推荐完成教程。~LINEBREAK~   
-action.hint.tuto_dragon.hint.3=§6[!] 仅在你已完成教程后才跳过。~LINEBREAK~   
-action.hint.tuto_dragon.hint.4=§6[!] RLCraft：基岩版 与 RLCraft：Java版 不同。~LINEBREAK~   
-action.hint.tuto_dragon.hint.5=§6[!] RLCraft 完全改变了 Minecraft 的原生游戏循环。 
+action.hint.tuto_dragon.hint.1=§6[!] 你可以稍后在设置中更改难度。~LINEBREAK~
+action.hint.tuto_dragon.hint.2=§6[!] 强烈建议玩教程模式。~LINEBREAK~
+action.hint.tuto_dragon.hint.3=§6[!] 只有当你已经玩过教程时才跳过。~LINEBREAK~
+action.hint.tuto_dragon.hint.4=§6[!] RLCraft: 基岩版与 RLCraft: Java版不同。~LINEBREAK~
+action.hint.tuto_dragon.hint.5=§6[!] RLCraft彻底改变了Minecraft的原版游戏循环。~LINEBREAK~
 
-action.hint.exit.hfrlc:sleepingbag=:_input_key.sneak: 退出
-action.hint.warpstone=§b:_input_key.attack:§r 打开菜单。 §b:_input_key.sneak:§r + §b:_input_key.attack:§r 摧毁。
-action.hint.exit.hfrlc:stool=:_input_key.sneak: 退出
-action.hint.exit.hfrlc:woodchair=:_input_key.sneak: 退出
-action.hint.exit.hfrlc:woolchair=:_input_key.sneak: 退出
-action.hint.exit.hfrlc:woolcouch=:_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_air=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_dark=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_earth=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_fire=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_ice=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_lightning=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_nature=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_poison=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:wyvern_water=:_input_key.use: 射击, :_input_key.sneak: 退出
-action.hint.exit.hfrlc:hippocampus=:_input_key.sneak: 退出海马
-action.hint.exit.hfrlc:aeris=上下视角以飞行
-action.hint.exit.hfrlc:biglizard=:_input_key.sneak: 退出巨蜥
+action.hint.exit.hfrlc:sleepingbag=按 :_input_key.sneak: 退出
+action.hint.warpstone=§b按 :_input_key.attack:§r 打开菜单。§b按 :_input_key.sneak:§r + §b:_input_key.attack:§r 销毁。
+action.hint.exit.hfrlc:stool=按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:woodchair=按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:woolchair=按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:woolcouch=按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_air=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_dark=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_earth=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_fire=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_ice=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_lightning=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_nature=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_poison=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:wyvern_water=按 :_input_key.use: 射击，按 :_input_key.sneak: 退出
+action.hint.exit.hfrlc:hippocampus=按 :_input_key.sneak: 退出海马坐骑
+action.hint.exit.hfrlc:aeris=上下看以飞行
+action.hint.exit.hfrlc:biglizard=按 :_input_key.sneak: 退出大蜥蜴
 
 action.black_room.start=开始
-action.sleepingbag=§c这是什么，午休时间？白天不能睡觉，所以和其他人一样保持清醒受苦吧。
+action.sleepingbag=§c这是什么，午睡时间吗？白天不能睡觉，所以保持清醒，像其他人一样受苦吧。
 
 
 hfrlc:bow=RLCraft 弓
-hfrlc:dragon_armor=龙之盔甲
+hfrlc:dragon_armor=龙甲
 hfrlc:healing_capsule=治疗胶囊
 hfrlc:levelup_token=升级令牌
 hfrlc:travel=旅行
@@ -733,14 +736,14 @@ hfrlc:backpack=背包
 hfrlc:furniture=家具
 
 
-## FOOD
+## 食物
 item.hfrlc:cooked_boar_meat=熟野猪肉
 item.hfrlc:cooked_deer_meat=熟鹿肉
 item.hfrlc:cooked_eagle_meat=熟鹰肉
 item.hfrlc:cooked_grizzly_meat=熟灰熊肉
 item.hfrlc:cooked_rat_meat=熟鼠肉
 item.hfrlc:cooked_skunk_meat=熟臭鼬肉
-item.hfrlc:cooked_snake_meat=熟坚韧肉
+item.hfrlc:cooked_snake_meat=熟蛇肉
 item.hfrlc:cooked_wolf_meat=熟狼肉
 item.hfrlc:raw_boar_meat=生野猪肉
 item.hfrlc:raw_deer_meat=生鹿肉
@@ -748,31 +751,31 @@ item.hfrlc:raw_eagle_meat=生鹰肉
 item.hfrlc:raw_grizzly_meat=生灰熊肉
 item.hfrlc:raw_rat_meat=生鼠肉
 item.hfrlc:raw_skunk_meat=生臭鼬肉
-item.hfrlc:raw_snake_meat=生坚韧肉
+item.hfrlc:raw_snake_meat=生蛇肉
 item.hfrlc:raw_wolf_meat=生狼肉
 item.hfrlc:pumpkin_slice=南瓜片
 
-## CRAFTING MATERIALS
+## 制作材料
 item.hfrlc:black_dragon_scales=§f黑龙鳞
 item.hfrlc:blue_dragon_scales=§f蓝龙鳞
 item.hfrlc:brown_dragon_scales=§f棕龙鳞
-item.hfrlc:diamond_wyvern_armor=§f钻石龙之盔甲
+item.hfrlc:diamond_wyvern_armor=§f钻石龙甲
 item.hfrlc:dragon_heart=§d龙之心
 item.hfrlc:dragon_skull=§d龙头骨
-item.hfrlc:flaming_dragon_blood=§f火焰龙精华
+item.hfrlc:flaming_dragon_blood=§f燃烧龙魂
 item.hfrlc:flint_shard=§f燧石碎片
-item.hfrlc:gold_wyvern_armor=§f金龙之盔甲
+item.hfrlc:gold_wyvern_armor=§f金龙甲
 item.hfrlc:green_dragon_scales=§f绿龙鳞
-item.hfrlc:ice_dragon_blood=§f冰龙精华
+item.hfrlc:ice_dragon_blood=§f冰龙魂
 item.hfrlc:info_book=§fRLCraft 菜单
-item.hfrlc:iron_wyvern_armor=§f铁龙之盔甲
-item.hfrlc:netherite_wyvern_armor=§f下界合金龙之盔甲
+item.hfrlc:iron_wyvern_armor=§f铁龙甲
+item.hfrlc:netherite_wyvern_armor=§f下界合金龙甲
 item.hfrlc:paint=画笔
 item.hfrlc:plant_fibers_rope=§f植物纤维绳
 item.hfrlc:plant_fibers=§f植物纤维
 item.hfrlc:red_dragon_scales=§f红龙鳞
 
-## THINGS FOR SALE
+## 待售物品
 item.hfrlc:pirate_armor_plates=§f一箱兽皮~LINEBREAK~§7价值：1
 item.hfrlc:pirate_cloth=§f海盗布料~LINEBREAK~§7价值：1
 item.leather.name=皮革~LINEBREAK~§7价值：1
@@ -782,66 +785,66 @@ item.nautilus_shell.name=§f鹦鹉螺壳~LINEBREAK~§7价值：1
 item.gold_ingot.name=金锭~LINEBREAK~§7价值：2
 item.iron_ingot.name=铁锭~LINEBREAK~§7价值：1
 item.netherite_ingot.name=§b下界合金锭~LINEBREAK~§7价值：4
-item.netherite_scrap.name=§b下界合金残片~LINEBREAK~§7价值：1
-item.echo_shard.name=§b回音碎片~LINEBREAK~§7价值：1
+item.netherite_scrap.name=§b下界合金碎片~LINEBREAK~§7价值：1
+item.echo_shard.name=§b回声碎片~LINEBREAK~§7价值：1
 item.diamond.name=钻石~LINEBREAK~§7价值：3
 item.emerald.name=绿宝石~LINEBREAK~§7价值：1
-item.hfrlc:ancient_sprouts=§f远古嫩芽~LINEBREAK~§7价值：1
-item.hfrlc:scorpion_tails=§f蝎尾~LINEBREAK~§7价值：3
-item.hfrlc:samurai_armor_plates=§f远古铠甲板~LINEBREAK~§7价值：3
+item.hfrlc:ancient_sprouts=§f远古幼芽~LINEBREAK~§7价值：1
+item.hfrlc:scorpion_tails=§f蝎子尾巴~LINEBREAK~§7价值：3
+item.hfrlc:samurai_armor_plates=§f古代护甲板~LINEBREAK~§7价值：3
 item.amethyst_shard.name=紫水晶碎片~LINEBREAK~§7价值：1
 item.spider_eye.name=蜘蛛眼~LINEBREAK~§7价值：1
 item.fermented_spider_eye.name=发酵蜘蛛眼~LINEBREAK~§7价值：3
 item.hfrlc:dragon_bone=§b龙骨~LINEBREAK~§7价值：1
 item.hfrlc:wyvern_skull=§b龙颅碎片~LINEBREAK~§7价值：2
-item.hfrlc:wither_bone=§f凋零之骨~LINEBREAK~§7价值：4
+item.hfrlc:wither_bone=§f凋灵骨~LINEBREAK~§7价值：4
 item.slime_ball.name=史莱姆球~LINEBREAK~§7价值：1
-item.wind_charge.name=风之电荷~LINEBREAK~§7价值：1
-item.armadillo_scute.name=犰狳甲片~LINEBREAK~§7价值：2
-item.turtle_shell_piece.name=龟甲片~LINEBREAK~§7价值：2
-item.shulker_shell.name=潜影盒壳~LINEBREAK~§7价值：2
-item.book.name=书籍~LINEBREAK~§7价值：2
-item.heart_of_the_sea.name=§f海洋之心~LINEBREAK~§7价值：1
-item.hfrlc:orcish_scribbles=§b兽族笔记~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“这些字母看起来非常原始，~LINEBREAK~§o  但含义未知。”§r
-item.hfrlc:knight_orders=§b骑士命令~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“他们在寻找~LINEBREAK~§o  某物...~LINEBREAK~§o  或某人...”§r
-item.hfrlc:dwarven_tome=§b矮人书卷~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“即使是纸上的矮人文字，~LINEBREAK~§o  看起来也是用凿子~LINEBREAK~§o  雕刻而成。”§r
-item.hfrlc:tower_blessing=§b神圣预言~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“你只在这卷轴中~LINEBREAK~§o  看到自己的倒影。”§r
+item.wind_charge.name=风能充能~LINEBREAK~§7价值：1
+item.armadillo_scute.name=犰狳甲壳~LINEBREAK~§7价值：2
+item.turtle_shell_piece.name=龟甲碎片~LINEBREAK~§7价值：2
+item.shulker_shell.name=潜影贝壳~LINEBREAK~§7价值：2
+item.book.name=§f书籍~LINEBREAK~§7价值：2
+item.heart_of_the_sea.name=§f海之心~LINEBREAK~§7价值：1
+item.hfrlc:orcish_scribbles=§b兽人符文~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“字迹非常原始，~LINEBREAK~§o但含义未知。”§r
+item.hfrlc:knight_orders=§b骑士命令~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“他们在寻找...~LINEBREAK~§o或者某人...”§r
+item.hfrlc:dwarven_tome=§b矮人宝典~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“连纸张上的矮人文~LINEBREAK~§o看起来都像被凿刻过。”§r
+item.hfrlc:tower_blessing=§b神圣预言~LINEBREAK~§7价值：1~LINEBREAK~~LINEBREAK~§7§o“你只能在这卷轴中~LINEBREAK~§o看到你自己的倒影。”§r
 
-## POWER CRYSTALS
+## 能量水晶
 item.hfrlc:power_crystal=§b能量水晶
 item.hfrlc:power_shard=§b能量碎片
 
-## HEALTH CRYSTALS
+## 生命水晶
 item.hfrlc:health_crystal=§c生命水晶~LINEBREAK~§7再生 II (0:03)~LINEBREAK~永久增加生命值
 item.hfrlc:health_crystal_shard=§c生命碎片
 
-## ALL THINGS LEVELING
+## 所有升级相关物品
 item.hfrlc:xp=§e经验卷轴~LINEBREAK~§7+15 级
 item.hfrlc:agility_token=§e敏捷符文石~LINEBREAK~§7敏捷 +1 级
 item.hfrlc:melee_token=§e近战符文石~LINEBREAK~§7近战 +1 级
 item.hfrlc:mining_token=§e采矿符文石~LINEBREAK~§7采矿 +1 级
 item.hfrlc:armor_token=§e护甲符文石~LINEBREAK~§7护甲 +1 级
 
-## MENU
-item.hfrlc:system_level=§f§l升级菜单§r~LINEBREAK~§7交互以打开界面
-item.hfrlc:trinket_menu=§f§l饰品包§r~LINEBREAK~§7交互以打开界面
+## 菜单
+item.hfrlc:system_level=§f§l升级菜单§r~LINEBREAK~§7互动以打开界面
+item.hfrlc:trinket_menu=§f§l饰品袋§r~LINEBREAK~§7互动以打开界面
 
-## AID ITEMS
+## 辅助物品
 item.hfrlc:bandage=§f绷带~LINEBREAK~§7再生 II (0:03)~LINEBREAK~治疗断肢
-item.hfrlc:heal1=§f治疗药瓶~LINEBREAK~§7再生 V (0:01)
-item.hfrlc:heal2=§b治疗之瓶~LINEBREAK~§7再生 V (0:06)~LINEBREAK~治疗断肢
-item.hfrlc:heal3=§d治疗药剂~LINEBREAK~§7瞬间生命 X~LINEBREAK~治疗断肢
-item.hfrlc:blue_bush_fruit=霜莓~LINEBREAK~§7抗热 I
-item.hfrlc:orange_bush_fruit=炽果~LINEBREAK~§7抗寒 I
-item.hfrlc:red_root=绯红根
+item.hfrlc:heal1=§f治疗药水~LINEBREAK~§7再生 V (0:01)
+item.hfrlc:heal2=§b治疗瓶~LINEBREAK~§7再生 V (0:06)~LINEBREAK~治疗断肢
+item.hfrlc:heal3=§d治疗药剂~LINEBREAK~§7瞬间回复 X~LINEBREAK~治疗断肢
+item.hfrlc:blue_bush_fruit=霜莓~LINEBREAK~§7耐热 I
+item.hfrlc:orange_bush_fruit=余烬果~LINEBREAK~§7耐寒 I
+item.hfrlc:red_root=猩红根
 
-## UTILITY ITEMS
-item.hfrlc:recover_potion=§f回忆药水~LINEBREAK~§7将你传送到上次死亡地点
-item.hfrlc:sleeping_bag=§f睡袋~LINEBREAK~§7不会设置重生点
-item.hfrlc:teleport_scroll=§f传送卷轴~LINEBREAK~§7将你传送到上次重生点
-item.hfrlc:warpstone=§f位面石~LINEBREAK~§7击打以打开界面
-item.hfrlc:water_flasks_empty=§f皮囊~LINEBREAK~§7剩余使用次数：0~LINEBREAK~用水填充
-item.hfrlc:water_flasks=§f皮囊
+## 实用物品
+item.hfrlc:recover_potion=§f回忆药水~LINEBREAK~§7传送到你上一次死亡地点
+item.hfrlc:sleeping_bag=§f睡袋~LINEBREAK~§7不设置重生点
+item.hfrlc:teleport_scroll=§f传送卷轴~LINEBREAK~§7传送到你上一次的重生点
+item.hfrlc:warpstone=§f传送石~LINEBREAK~§7点击打开界面
+item.hfrlc:water_flasks_empty=§f水袋~LINEBREAK~§7剩余使用次数：0~LINEBREAK~请装满水
+item.hfrlc:water_flasks=§f水袋
 item.hfrlc:copper_coin=铜币
 item.hfrlc:silver_coin=银币
 item.hfrlc:gold_coin=金币
@@ -851,17 +854,17 @@ item.hfrlc:fire_essence=§b火焰精华
 item.hfrlc:ice_essence=§b冰霜精华
 item.hfrlc:thunder_essence=§d雷霆石
 item.hfrlc:water_essence=§b水之精华
-item.hfrlc:briariron_ingot=§b荆铁锭
-item.hfrlc:neptunium_ingot=§b海王合金锭
+item.hfrlc:briariron_ingot=§b荆棘铁锭
+item.hfrlc:neptunium_ingot=§b海王星合金锭
 item.hfrlc:shadow_stone=§b暗影石
 item.hfrlc:voidsteel_ingot=§d虚空钢锭
 
-## ARMOR
+## 盔甲
 item.turtle_helmet.name=§l§f海龟头盔§r§f~LINEBREAK~ 
 item.elytra.name=§l§f鞘翅§r§f~LINEBREAK~
 
 item.leather_boots.name=§l§f皮革靴§r§f~LINEBREAK~ 
-item.leather_chestplate.name=§l§f皮革战袍§r§f~LINEBREAK~ 
+item.leather_chestplate.name=§l§f皮革胸甲§r§f~LINEBREAK~ 
 item.leather_helmet.name=§l§f皮革头盔§r§f~LINEBREAK~ 
 item.leather_leggings.name=§l§f皮革护腿§r§f~LINEBREAK~ 
 
@@ -870,10 +873,10 @@ item.golden_chestplate.name=§l§f金胸甲§r§f~LINEBREAK~ 
 item.golden_helmet.name=§l§f金头盔§r§f~LINEBREAK~ 
 item.golden_leggings.name=§l§f金护腿§r§f~LINEBREAK~ 
 
-item.hfrlc:pirate_boots=§l§f海盗长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 急速 II（全套）~LINEBREAK~+1 水下呼吸（全套）
-item.hfrlc:pirate_chestplate=§l§f海盗外套§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 急速 II（全套）~LINEBREAK~+1 水下呼吸（全套）
-item.hfrlc:pirate_helmet=§l§f海盗三角帽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 急速 II（全套）~LINEBREAK~+1 水下呼吸（全套）
-item.hfrlc:pirate_leggings=§l§f海盗护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 急速 II（全套）~LINEBREAK~+1 水下呼吸（全套）
+item.hfrlc:pirate_boots=§l§f海盗靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 速度 II (全套)~LINEBREAK~+1 水下呼吸 (全套)
+item.hfrlc:pirate_chestplate=§l§f海盗外套§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 速度 II (全套)~LINEBREAK~+1 水下呼吸 (全套)
+item.hfrlc:pirate_helmet=§l§f海盗三角帽§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 速度 II (全套)~LINEBREAK~+1 水下呼吸 (全套)
+item.hfrlc:pirate_leggings=§l§f海盗护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 速度 II (全套)~LINEBREAK~+1 水下呼吸 (全套)
 
 item.iron_boots.name=§l§f铁靴§r§f~LINEBREAK~ 
 item.iron_chestplate.name=§l§f铁胸甲§r§f~LINEBREAK~ 
@@ -895,246 +898,245 @@ item.netherite_chestplate.name=§l§f下界合金胸甲§r§f~LINEBREAK~�
 item.netherite_helmet.name=§l§f下界合金头盔§r§f~LINEBREAK~ 
 item.netherite_leggings.name=§l§f下界合金护腿§r§f~LINEBREAK~ 
 
-item.hfrlc:blue_dragon_boots=§l§f蓝龙长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗热 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:blue_dragon_chestplate=§l§f蓝龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗热 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:blue_dragon_helmet=§l§f蓝龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗热 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:blue_dragon_leggings=§l§f蓝龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗热 I（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:blue_dragon_boots=§l§f蓝龙靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐热 I (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:blue_dragon_chestplate=§l§f蓝龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐热 I (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:blue_dragon_helmet=§l§f蓝龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐热 I (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:blue_dragon_leggings=§l§f蓝龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐热 I (全套)~LINEBREAK~+1 抗性 I (全套)
 
-item.hfrlc:brown_dragon_boots=§l§f棕龙长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:brown_dragon_chestplate=§l§f棕龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:brown_dragon_helmet=§l§f棕龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:brown_dragon_leggings=§l§f棕龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:brown_dragon_boots=§l§f棕龙靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:brown_dragon_chestplate=§l§f棕龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:brown_dragon_helmet=§l§f棕龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:brown_dragon_leggings=§l§f棕龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 抗性 I (全套)
 
-item.hfrlc:green_dragon_boots=§l§f绿龙长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗毒 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:green_dragon_chestplate=§l§f绿龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗毒 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:green_dragon_helmet=§l§f绿龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗毒 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:green_dragon_leggings=§l§f绿龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗毒 I（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:green_dragon_boots=§l§f绿龙靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 毒抗 (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:green_dragon_chestplate=§l§f绿龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 毒抗 (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:green_dragon_helmet=§l§f绿龙头盔§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 毒抗 (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:green_dragon_leggings=§l§f绿龙护腿§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 毒抗 (全套)~LINEBREAK~+1 抗性 I (全套)
 
-item.hfrlc:red_dragon_boots=§l§f红龙长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗寒 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:red_dragon_chestplate=§l§f红龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗寒 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:red_dragon_helmet=§l§f红龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗寒 I（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:red_dragon_leggings=§l§f红龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗寒 I（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:red_dragon_boots=§l§f红龙靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐寒 I (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:red_dragon_chestplate=§l§f红龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐寒 I (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:red_dragon_helmet=§l§f红龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐寒 I (全套)~LINEBREAK~+1 抗性 I (全套)
+item.hfrlc:red_dragon_leggings=§l§f红龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 耐寒 I (全套)~LINEBREAK~+1 抗性 I (全套)
 
-item.hfrlc:dark_dragon_boots=§l§f黑龙长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗失明（全套）~LINEBREAK~+1 抗黑暗（全套）
-item.hfrlc:dark_dragon_chestplate=§l§f黑龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗失明（全套）~LINEBREAK~+1 抗黑暗（全套）
-item.hfrlc:dark_dragon_helmet=§l§f黑龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗失明（全套）~LINEBREAK~+1 抗黑暗（全套）
-item.hfrlc:dark_dragon_leggings=§l§f黑龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗失明（全套）~LINEBREAK~+1 抗黑暗（全套)
+item.hfrlc:dark_dragon_boots=§l§f黑龙靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 失明抗性 (全套)~LINEBREAK~+1 黑暗抗性 (全套)
+item.hfrlc:dark_dragon_chestplate=§l§f黑龙胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 失明抗性 (全套)~LINEBREAK~+1 黑暗抗性 (全套)
+item.hfrlc:dark_dragon_helmet=§l§f黑龙头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 失明抗性 (全套)~LINEBREAK~+1 黑暗抗性 (全套)
+item.hfrlc:dark_dragon_leggings=§l§f黑龙护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 抗击退 (全套)~LINEBREAK~+1 失明抗性 (全套)~LINEBREAK~+1 黑暗抗性 (全套)
 
-item.hfrlc:earth_dragon_boots=§l§f龙骨长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:earth_dragon_chestplate=§l§f龙骨胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:earth_dragon_helmet=§l§f龙骨头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
-item.hfrlc:earth_dragon_leggings=§l§f龙骨护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 击退抗性（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:earth_dragon_boots=§l§f龙骨靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 抗击退（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:earth_dragon_chestplate=§l§f龙骨胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 抗击退（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:earth_dragon_helmet=§l§f龙骨头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 抗击退（全套）~LINEBREAK~+1 抗性 I（全套）
+item.hfrlc:earth_dragon_leggings=§l§f龙骨护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 抗击退（全套）~LINEBREAK~+1 抗性 I（全套）
 
-item.hfrlc:samurai_boots=§l§f浪人长靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 力量 I（全套）
-item.hfrlc:samurai_chestplate=§l§f浪人胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 力量 I（全套）
-item.hfrlc:samurai_helmet=§l§f浪人头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 力量 I（全套）
-item.hfrlc:samurai_leggings=§l§f浪人护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 肢体保护~LINEBREAK~+1 力量 I（全套）
+item.hfrlc:samurai_boots=§l§f浪人靴§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 力量 I（全套）
+item.hfrlc:samurai_chestplate=§l§f浪人胸甲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 力量 I（全套）
+item.hfrlc:samurai_helmet=§l§f浪人头盔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 力量 I（全套）
+item.hfrlc:samurai_leggings=§l§f浪人护腿§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§9+1 四肢防护~LINEBREAK~+1 力量 I（全套）
 
 ## TRINKETS
-item.hfrlc:golden_ring=§l§f金戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"感觉比看起来的要沉一些。"§r
-item.hfrlc:ancient_root=§l§f远古根茎§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~减速抗性~LINEBREAK~~LINEBREAK~§7§o"扭曲的木头能吸收疲劳。"§r
-item.hfrlc:goat_horns=§l§f山羊角§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~采矿疲劳抗性~LINEBREAK~~LINEBREAK~§7§o"镀金的。"§r
-item.hfrlc:cyclops_eye=§l§f独眼巨人之眼§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~失明抗性~LINEBREAK~黑暗抗性~LINEBREAK~~LINEBREAK~§7§o"即使只有一只眼也有用。"§r
-item.hfrlc:teddy_of_comfort=§l§f安慰泰迪熊§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"拥抱能愈合所有创伤。"§r
-item.hfrlc:warmer=§l§f永恒火石§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗寒 I~LINEBREAK~~LINEBREAK~§7§o"小火焰被~LINEBREAK~§o  火焰包裹。~LINEBREAK~§o  无论多冷，它~LINEBREAK~§o  都会让你保持温暖。"§r
-item.hfrlc:ice_bag=§l§f永恒冰石§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗热 I~LINEBREAK~~LINEBREAK~§7§o"无论多热，冰都不会融化。"§r
-item.hfrlc:antidote_vital=§l§f解毒药瓶§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗毒 I~LINEBREAK~~LINEBREAK~§7§o"无论如何摇晃，瓶内液体始终静止。"§r
-item.hfrlc:greatest_shield=§l§f巨盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~击退抗性~LINEBREAK~生命提升 I~LINEBREAK~~LINEBREAK~§7§o"它能吸收所有震动。"§r
-item.hfrlc:ring_jump=§l§f跳跃戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~跳跃提升 II~LINEBREAK~~LINEBREAK~§7§o"你感觉比以前轻盈多了……好奇怪。"§r
-item.hfrlc:ring_speed=§l§f灵指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 I~LINEBREAK~~LINEBREAK~§7§o"低语着想去别处的冲动。"§r
-item.hfrlc:blessed_water=§l§f祝福之水§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~凋零抗性~LINEBREAK~~LINEBREAK~§7§o"一滴便足以洗去所有腐败。"§r
-item.hfrlc:mining_amulet=§l§f采矿护身符§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~急速 I~LINEBREAK~~LINEBREAK~§7§o"照亮前行的道路。"§r
-item.hfrlc:shulker_anchor=§l§f潜影盒锚§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~悬浮抗性~LINEBREAK~~LINEBREAK~§7§o"有什么魔力将它吸附于地面。"§r
-item.hfrlc:dragon_eyes=§l§f龙之眼§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~火焰抗性~LINEBREAK~夜视~LINEBREAK~黑暗抗性~LINEBREAK~~LINEBREAK~§7§o"炽热的目光烧尽一切阴影。"§r
-item.hfrlc:ring_regeneration=§l§f再生戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"它在指尖脉动。"§r
-item.hfrlc:ring_resistance=§l§f抗性戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗性 I~LINEBREAK~~LINEBREAK~§7§o"在耐久考验中锻造而成。"§r
-item.hfrlc:ring_strength=§l§f力量戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~力量 I~LINEBREAK~~LINEBREAK~§7§o"巨人的力量沉睡其中。"§r
-item.hfrlc:feather_swiftness=§l§f羽毛迅捷§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 II~LINEBREAK~缓降 II~LINEBREAK~~LINEBREAK~§7§o"无论你去向何方，风都会追随。"§r
-item.hfrlc:great_horn_shield=§l§f巨角盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~击退抗性~LINEBREAK~采矿疲劳抗性~LINEBREAK~生命提升 I~LINEBREAK~~LINEBREAK~§7§o"注入了防护封印。"§r
-item.hfrlc:withering_necklace=§l§f凋零项链§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~凋零附加 I~LINEBREAK~~LINEBREAK~§7§o"凋零骷髅似乎处于休眠状态。"§r
-item.hfrlc:panacea=§p§l灵丹妙药§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~失明抗性~LINEBREAK~减速抗性~LINEBREAK~抗毒抗性~LINEBREAK~凋零抗性~LINEBREAK~采矿疲劳抗性~LINEBREAK~悬浮抗性~LINEBREAK~~LINEBREAK~§7§o"一剂妙药治愈一切。"§r
-item.hfrlc:dragon_slayer_cape=§p§l屠龙者斗篷§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~失明抗性~LINEBREAK~减速抗性~LINEBREAK~抗毒抗性~LINEBREAK~凋零抗性~LINEBREAK~击退抗性~LINEBREAK~爆炸抗性~LINEBREAK~火焰抗性~LINEBREAK~采矿疲劳抗性~LINEBREAK~~LINEBREAK~§7§o"由对亡兽的胜利编织而成。"§r
-item.hfrlc:dragon_slayer_ring=§p§l屠龙者戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~力量 II~LINEBREAK~生命提升 V~LINEBREAK~抗性 I~LINEBREAK~~LINEBREAK~§7§o"那是所有人都恐惧的存在……"§r
-item.hfrlc:lapis_ring=§l§f青金石戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"虽不如宝石璀璨，却显得格外高贵。"§r
-item.hfrlc:silver_ring=§l§f铁戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"它光泽足以让人误以为它是银制的。"§r
-item.hfrlc:netherite_ring=§l§f下界合金戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"它不属于这个世界。~LINEBREAK~§o  有人应该将它归还至下界。"§r
+item.hfrlc:golden_ring=§l§f金戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"感觉比看起来~LINEBREAK~§o  更沉重。"§r
+item.hfrlc:ancient_root=§l§f古老根须§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~迟缓抗性~LINEBREAK~~LINEBREAK~§7§o"扭曲的木头~LINEBREAK~§o  吸收疲劳。"§r
+item.hfrlc:goat_horns=§l§f山羊角§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~采矿疲劳抗性~LINEBREAK~~LINEBREAK~§7§o"镀金的角。"§r
+item.hfrlc:cyclops_eye=§l§f独眼巨人之眼§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~失明抗性~LINEBREAK~黑暗抗性~LINEBREAK~~LINEBREAK~§7§o"即使是独眼人~LINEBREAK~§o  也很有用。"§r
+item.hfrlc:teddy_of_comfort=§l§f安慰泰迪§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"拥抱能治愈~LINEBREAK~§o  所有伤口。"§r
+item.hfrlc:warmer=§l§f永恒余烬§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~寒冷抗性~LINEBREAK~~LINEBREAK~§7§o"小余烬被火焰包围，~LINEBREAK~§o  无论多冷，都会~LINEBREAK~§o  保持温暖。"§r
+item.hfrlc:ice_bag=§l§f永恒冰霜§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~耐热抗性~LINEBREAK~~LINEBREAK~§7§o"冰霜不会融化，~LINEBREAK~§o  无论多热。"§r
+item.hfrlc:antidote_vital=§l§f解毒瓶§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗毒性~LINEBREAK~~LINEBREAK~§7§o"瓶中液体~LINEBREAK~§o  无论如何摇晃，~LINEBREAK~§o  仍然保持静止。"§r
+item.hfrlc:greatest_shield=§l§f巨盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗击退~LINEBREAK~生命提升 I~LINEBREAK~~LINEBREAK~§7§o"它吸收~LINEBREAK~§o  所有震动。"§r
+item.hfrlc:ring_jump=§l§f跳跃戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~跳跃提升 II~LINEBREAK~~LINEBREAK~§7§o"你感觉比以前~LINEBREAK~§o  轻盈许多……真奇怪。"§r
+item.hfrlc:ring_speed=§l§f敏捷戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 I~LINEBREAK~~LINEBREAK~§7§o"低语着~LINEBREAK~§o  让你渴望~LINEBREAK~§o  去别处。"§r
+item.hfrlc:blessed_water=§l§f祝福之水§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~凋零抗性~LINEBREAK~~LINEBREAK~§7§o"一滴足以~LINEBREAK~§o  洗净所有腐败。"§r
+item.hfrlc:mining_amulet=§l§f采矿护符§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~急速 I~LINEBREAK~~LINEBREAK~§7§o"照亮前方的路。"§r
+item.hfrlc:shulker_anchor=§l§f潜影盒锚§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~悬浮抗性~LINEBREAK~~LINEBREAK~§7§o"神秘的力量~LINEBREAK~§o  将它吸附在地面。"§r
+item.hfrlc:dragon_eyes=§l§f龙之眼§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~火焰抗性~LINEBREAK~夜视~LINEBREAK~黑暗抗性~LINEBREAK~~LINEBREAK~§7§o"炽热的目光~LINEBREAK~§o  燃烧所有阴影。"§r
+item.hfrlc:ring_regeneration=§l§f再生戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~再生 I~LINEBREAK~~LINEBREAK~§7§o"在你的指间~LINEBREAK~§o  脉动。"§r
+item.hfrlc:ring_resistance=§l§f抗性戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗性 I~LINEBREAK~~LINEBREAK~§7§o"在考验中~LINEBREAK~§o  被锻造的坚韧。"§r
+item.hfrlc:ring_strength=§l§f力量戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~力量 I~LINEBREAK~~LINEBREAK~§7§o"巨人的力量~LINEBREAK~§o  藏于其中。"§r
+item.hfrlc:feather_swiftness=§l§f羽毛迅捷§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~速度 II~LINEBREAK~缓降 II~LINEBREAK~~LINEBREAK~§7§o"无论你去哪里~LINEBREAK~§o  风都会追随。"§r
+item.hfrlc:great_horn_shield=§l§f大角盾§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~抗击退~LINEBREAK~采矿疲劳抗性~LINEBREAK~生命提升 I~LINEBREAK~~LINEBREAK~§7§o"赋予了~LINEBREAK~§o  保护的封印。"§r
+item.hfrlc:withering_necklace=§l§f凋零项链§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~§9~LINEBREAK~凋零效果 I~LINEBREAK~~LINEBREAK~§7§o"凋零骷髅似乎~LINEBREAK~§o  处于休眠状态。"§r
+item.hfrlc:panacea=§p§l万能药§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~失明抗性~LINEBREAK~迟缓抗性~LINEBREAK~抗毒性~LINEBREAK~凋零抗性~LINEBREAK~采矿疲劳抗性~LINEBREAK~悬浮抗性~LINEBREAK~~LINEBREAK~§7§o"唯一的解药~LINEBREAK~§o  治愈一切。"§r
+item.hfrlc:dragon_slayer_cape=§p§l屠龙者披风§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~失明抗性~LINEBREAK~迟缓抗性~LINEBREAK~抗毒性~LINEBREAK~凋零抗性~LINEBREAK~抗击退~LINEBREAK~抗爆炸~LINEBREAK~抗火焰~LINEBREAK~采矿疲劳抗性~LINEBREAK~~LINEBREAK~§7§o"由~LINEBREAK~§o  击败的野兽~LINEBREAK~§o  编织而成。"§r
+item.hfrlc:dragon_slayer_ring=§p§l屠龙戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~力量 I~LINEBREAK~生命提升 V~LINEBREAK~抗性 I~LINEBREAK~~LINEBREAK~§7§o"他们所~LINEBREAK~§o  畏惧的存在..."§r
+item.hfrlc:lapis_ring=§l§f青金石戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"没那么反光，~LINEBREAK~§o  但肯定很高贵。"§r
+item.hfrlc:silver_ring=§l§f铁戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"足够闪亮，~LINEBREAK~§o  会被误认为~LINEBREAK~§o  是银制的。"§r
+item.hfrlc:netherite_ring=§l§f下界戒指§r§f~LINEBREAK~  ~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"它不属于这个世界，~LINEBREAK~§o  应该有人~LINEBREAK~§o  把它送回~LINEBREAK~§o  下界。"§r
 
 ## SWORDS
-item.wooden_sword.name=§l§f木剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"你迈向精通的第一步。"§r
-item.stone_sword.name=§l§f石剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"为战士奠定坚实基础。"§r
-item.golden_sword.name=§l§f金剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"华而不坚。"§r
-item.hfrlc:spike_sword=§l§f冲击之剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可在空中获得冲击力。使用铁锭修复。~LINEBREAK~~LINEBREAK~§7§o"每次挥砍都挑战重力。"§r
-item.iron_sword.name=§l§f铁剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"可靠钢铁，技艺铸成。"§r
-item.hfrlc:darkness_sword=§l§f影裂§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可潜入暗影。使用暗影石修复。~LINEBREAK~~LINEBREAK~§7§o"被斩之敌魂归暗影界。"§r
-item.hfrlc:weapon_4=§l§f骨剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用暗影石修复。~LINEBREAK~~LINEBREAK~§7§o"死亡之刃。"§r
-item.hfrlc:water_sword=§l§f流水剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可发射水流。使用水之精华修复。~LINEBREAK~~LINEBREAK~§7§o"纯水贯穿钢铁。"§r
-item.diamond_sword.name=§l§f钻石剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"如晶体般完美的武器。"§r
-item.hfrlc:air_sword=§l§f警戒§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可生成一股风。使用空气精华修复。~LINEBREAK~~LINEBREAK~§7§o"驾驭风之力量。"§r
-item.hfrlc:light_sword=§l§fAerithril§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可进行超级跳。使用空气精华修复。~LINEBREAK~~LINEBREAK~§7§o"跃向星辰。"§r
-item.hfrlc:weapon_8=§l§f冰剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜之附魔~LINEBREAK~~LINEBREAK~§9使用冰之精华修复。~LINEBREAK~~LINEBREAK~§7§o"寒冬之咬。"§r
-item.netherite_sword.name=§l§f下界合金剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"铸于下界深渊。"§r
-item.hfrlc:fire_sword=§l§f烈焰之剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可发射火焰。使用火焰精华修复。~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~~LINEBREAK~§7§o"炽热飞弹灼烧敌人。"§r
-item.hfrlc:ice_sword=§l§f冰川§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可发射冰冷弹。蹲伏攻击时生成冰刺。使用冰之精华修复。~LINEBREAK~~LINEBREAK~§b霜之附魔~LINEBREAK~~LINEBREAK~§7§o"冰刺在蹲伏时穿透敌人。"§r
-item.hfrlc:ocean_sword=§l§f破浪者§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用+蹲伏可发射水弹。使用此物品可生成水震。使用海王合金锭修复。~LINEBREAK~~LINEBREAK~§7§o"潮汐随令击碎一切。"§r
-item.hfrlc:weapon_6=§l§f艾尔登剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古代力量流转于钢铁。"§r
-item.hfrlc:weapon_7=§l§f长剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"更长的挥击范围，拓展战斗。"§r
-item.hfrlc:weapon_5=§l§f锤击剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"破坏之力与锋刃合一。"§r
-item.hfrlc:dragon_bone_sword=§l§f龙骨长剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"以古龙遗骸铸成。"§r
-item.hfrlc:earth_sword=§l§f裂地者§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可生成地矛。使用荆铁锭修复。~LINEBREAK~~LINEBREAK~§7§o"大地之矛从地面升起。"§r
-item.hfrlc:ice_dragon_bone_sword=§l§f暴雪§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜之附魔~LINEBREAK~§3龙息杀手~LINEBREAK~~LINEBREAK~§7§o"冰雪与龙骨融为一体。"§r
-item.hfrlc:fire_dragon_bone_sword=§l§f余烬之歌§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3龙息杀手~LINEBREAK~~LINEBREAK~§7§o"由龙焰铸就。"§r
-item.hfrlc:lava_sword=§l§f流星之剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可生成陨石雨。使用火焰精华修复。~LINEBREAK~~LINEBREAK~§7§o"流星自天而降。"§r
-item.hfrlc:ender_sword=§l§f闪烁§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可传送至目标。使用虚空钢锭修复。~LINEBREAK~~LINEBREAK~§7§o"传送至瞄准之处。"§r
-item.hfrlc:storm_sword=§l§f旋风§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可生成飓风。使用雷霆石修复。~LINEBREAK~~LINEBREAK~§7§o"风暴随你意志而动。"§r
-item.hfrlc:thunder_sword=§l§f裂雷§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可召唤闪电。使用雷霆石修复。~LINEBREAK~~LINEBREAK~§9闪电附魔~LINEBREAK~~LINEBREAK~§7§o"雷电听命于你的挥击。"§r
-item.hfrlc:elemental_sword=§l§pAlgaveild§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~§r§d潜行可切换元素~LINEBREAK~~LINEBREAK~§7§o"终于…我可以歇息了。"§r
-item.hfrlc:dirt_sword=§l§f大地之剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可发射泥土弹。使用泥土修复。~LINEBREAK~~LINEBREAK~§7§o"以大地之基铸剑。"§r
-item.hfrlc:jungle_sword=§l§f常青§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可从地面爆发岩石。使用大地精华修复。~LINEBREAK~~LINEBREAK~§7§o"它渴望脚下的土地。"§r
+item.wooden_sword.name=§l§f木剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"迈向大师之路的~LINEBREAK~§o  第一步。"§r
+item.stone_sword.name=§l§f石剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"坚实的战士之基。"§r
+item.golden_sword.name=§l§f金剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"闪亮却不坚固。"§r
+item.hfrlc:spike_sword=§l§f冲击§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可在空中获得冲刺力。~LINEBREAK~用铁锭修理。~LINEBREAK~~LINEBREAK~§7§o"每一次挥击~LINEBREAK~§o  都抗拒重力。"§r
+item.iron_sword.name=§l§f铁剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"可靠的钢铁~LINEBREAK~§o  精湛锻造。"§r
+item.hfrlc:darkness_sword=§l§f暗影裂刃§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可隐藏于阴影中。~LINEBREAK~用暗影石修理。~LINEBREAK~~LINEBREAK~§7§o"被斩杀的敌人~LINEBREAK~§o  被送往阴影界。"§r
+item.hfrlc:weapon_4=§l§f骨剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9用暗影石修理。~LINEBREAK~~LINEBREAK~§7§o"死亡本身~LINEBREAK~§o  锻造的锋刃。"§r
+item.hfrlc:water_sword=§l§f水流§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品发射水流弹。~LINEBREAK~用水之精华修理。~LINEBREAK~~LINEBREAK~§7§o"纯净的水流~LINEBREAK~§o  流淌于钢铁之中。"§r
+item.diamond_sword.name=§l§f钻石剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"结晶完美~LINEBREAK~§o  的武器形态。"§r
+item.hfrlc:air_sword=§l§f警觉§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品制造一阵风。~LINEBREAK~用风之精华修理。~LINEBREAK~~LINEBREAK~§7§o"驾驭风之~LINEBREAK~§o  力量。"§r
+item.hfrlc:light_sword=§l§f艾瑞斯铠尔§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品执行超级跳跃。~LINEBREAK~用风之精华修理。~LINEBREAK~~LINEBREAK~§7§o"跳向~LINEBREAK~§o  星辰。"§r
+item.hfrlc:weapon_8=§l§f冰剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~~LINEBREAK~§9用冰之精华修理。~LINEBREAK~~LINEBREAK~§7§o"冬日之咬~LINEBREAK~§o  具象化。"§r
+item.netherite_sword.name=§l§f下界合金剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"锻造于~LINEBREAK~§o  下界深渊。"§r
+item.hfrlc:fire_sword=§l§f烈焰剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品发射火焰弹。~LINEBREAK~用火之精华修理。~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~~LINEBREAK~§7§o"炽热的火焰~LINEBREAK~§o  灼烧敌人。"§r
+item.hfrlc:ice_sword=§l§f冰川§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品发射冰弹。~LINEBREAK~蹲下攻击时生成冰刺。~LINEBREAK~用冰之精华修理。~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~~LINEBREAK~§7§o"蹲伏时~LINEBREAK~§o  冰刺穿透敌人。"§r
+item.hfrlc:ocean_sword=§l§f潮汐穿刺者§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9蹲下 + 使用发射水弹。~LINEBREAK~使用此物品制造~LINEBREAK~水冲击波。~LINEBREAK~用海王合金锭修理。~LINEBREAK~~LINEBREAK~§7§o"潮水随命令~LINEBREAK~§o  冲击。"§r
+item.hfrlc:weapon_6=§l§f艾尔登剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古老力量~LINEBREAK~§o  流淌于钢铁之中。"§r
+item.hfrlc:weapon_7=§l§f长剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"延伸的攻击~LINEBREAK~§o  适合长时间战斗。"§r
+item.hfrlc:weapon_5=§l§f锤剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"碾碎力量~LINEBREAK~§o  与切割锋芒相遇。"§r
+item.hfrlc:dragon_bone_sword=§l§f龙骨长剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"由古老~LINEBREAK~§o  龙之遗骸锻造。"§r
+item.hfrlc:earth_sword=§l§f裂地剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品生成损伤附近实体的钟乳石。~LINEBREAK~用蔷薇铁锭修理。~LINEBREAK~~LINEBREAK~§7§o"石矛从地面升起。"§r
+item.hfrlc:ice_dragon_bone_sword=§l§f暴风雪§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~§3克龙·毒牙~LINEBREAK~~LINEBREAK~§7§o"冰与骨~LINEBREAK~§o  融为一体。"§r
+item.hfrlc:fire_dragon_bone_sword=§l§f余烬之歌§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3克龙·毒牙~LINEBREAK~~LINEBREAK~§7§o"由龙焰~LINEBREAK~§o  亲自锻造。"§r
+item.hfrlc:lava_sword=§l§f陨星剑§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品召唤陨石。~LINEBREAK~用火之精华修理。~LINEBREAK~~LINEBREAK~§7§o"陨星自天而降。"§r
+item.hfrlc:ender_sword=§l§f闪烁§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品传送至目标。~LINEBREAK~用虚钢锭修理。~LINEBREAK~~LINEBREAK~§7§o"传送至你的目标位置。"§r
+item.hfrlc:storm_sword=§l§f旋风§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品召唤飓风。~LINEBREAK~用雷霆石修理。~LINEBREAK~~LINEBREAK~§7§o"风暴随你的意志弯曲。"§r
+item.hfrlc:thunder_sword=§l§f雷霆破§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品召唤闪电。~LINEBREAK~用雷霆石修理。~LINEBREAK~~LINEBREAK~§9雷电附魔~LINEBREAK~~LINEBREAK~§7§o"雷霆服从你的每一次攻击。"§r
+item.hfrlc:elemental_sword=§l§p艾尔加维尔德§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r§9~LINEBREAK~~LINEBREAK~§r§d潜行切换元素~LINEBREAK~~LINEBREAK~§7§o"终于……~LINEBREAK~§o  我可以休息了。"§r
+item.hfrlc:dirt_sword=§l§f大地之剑§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品发射泥土弹。~LINEBREAK~用泥土修理。~LINEBREAK~~LINEBREAK~§7§o"大地的根基~LINEBREAK~§o  制成的武器。"§r
+item.hfrlc:jungle_sword=§l§f常青§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品使
 
 ## GREATSWORDS
-item.hfrlc:wither_sword=§l§f灭世者§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可发射凋零弹。使用重核修复。~LINEBREAK~~LINEBREAK~§u凋零附魔~LINEBREAK~~LINEBREAK~§7§o"死亡本身引导此刃。"§r
-item.hfrlc:nether_sword=§l§f地狱火§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可生成岩浆攻击。使用重核修复。~LINEBREAK~~LINEBREAK~§7§o"地狱火焰贯穿刃身。"§r
-item.hfrlc:poison_sword=§l§f沼刺§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品可发射毒液弹。使用重核修复。~LINEBREAK~~LINEBREAK~§2中毒附魔~LINEBREAK~~LINEBREAK~§7§o"毒液自刃滴下。"§r
+item.hfrlc:wither_sword=§l§f死神斩§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品发射凋零弹。~LINEBREAK~用重核修理。~LINEBREAK~~LINEBREAK~§u凋零附魔~LINEBREAK~~LINEBREAK~§7§o"死亡本身指引~LINEBREAK~§o  此剑。"§r
+item.hfrlc:nether_sword=§l§f地狱火§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品发动熔岩攻击。~LINEBREAK~用重核修理。~LINEBREAK~~LINEBREAK~§7§o"地狱火焰~LINEBREAK~§o  流转于剑刃。"§r
+item.hfrlc:poison_sword=§l§f泥刺§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用此物品发射毒素弹。~LINEBREAK~用重核修理。~LINEBREAK~~LINEBREAK~§2剧毒~LINEBREAK~~LINEBREAK~§7§o"毒液从剑锋~LINEBREAK~§o  滴落。"§r
 
 ## KATANAS
-item.hfrlc:weapon_10=§l§f武士刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"刀道化身。"§r
-item.hfrlc:dragon_bone_katana=§l§f龙骨武士刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"为更文明时代而铸的一件优雅武器。"§r
-item.hfrlc:ice_dragon_bone_katana=§l§f霜咬§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"龙之灵与冰合一，铸就可破金断铁的坚韧之刃。"§r
-item.hfrlc:fire_dragon_bone_katana=§l§f焚痕§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"灼热龙灵在剑柄中脉动。"§r
-item.hfrlc:legendary_katana=§l§p灵魂武士刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古秘灵魂指引此刃。"§r
+item.hfrlc:weapon_10=§l§f武士刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"刀道化身之路。"§r
+item.hfrlc:dragon_bone_katana=§l§f龙骨武士刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"文明时代的~LINEBREAK~§o  优雅之剑。"§r
+item.hfrlc:ice_dragon_bone_katana=§l§f冰霜咬§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"龙魂与冰霜~LINEBREAK~§o  融合成能切金属的~LINEBREAK~§o  强力羁绊。"§r
+item.hfrlc:fire_dragon_bone_katana=§l§f焰痕§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"火龙之魂~LINEBREAK~§o  在剑柄中跳动。"§r
+item.hfrlc:legendary_katana=§l§p灵魂武士刀§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p§l传奇物品§r~LINEBREAK~~LINEBREAK~§7§o"古老之魂~LINEBREAK~§o  指引此剑。"§r
 
 ## DAGGERS
-item.hfrlc:flint_dagger=§l§f燧石刀§r§f~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"足以提取植物纤维。"§r
-item.hfrlc:wooden_dagger=§l§f木制匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"几乎切不断纸张。"§r
-item.hfrlc:golden_dagger=§l§f金匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"每次攻击都会严重崩口。"§r
-item.hfrlc:stone_dagger=§l§f石匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"它很沉重，但并不像看上去那么迟钝。"§r
-item.hfrlc:iron_dagger=§l§f铁匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"其锋利的刃口渴望刺入目标。"§r
-item.hfrlc:weapon_9=§l§f詹比亚§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"黄金柄饰刻有你不知的纹饰。"§r
-item.hfrlc:diamond_dagger=§l§f钻石匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"外观精致，精准致命。"§r
-item.hfrlc:netherite_dagger=§l§f下界合金匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"黑暗金属在日光下闪现紫色光芒。"§r
-item.hfrlc:dragon_bone_dagger=§l§f龙骨匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9有几率造成双倍伤害~LINEBREAK~~LINEBREAK~§3龙息杀手~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"龙之爪刃，唯你主宰。"§r
-item.hfrlc:ice_dragon_bone_dagger=§l§f霜裂匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜之附魔~LINEBREAK~§3龙息杀手~LINEBREAK~§p植物纤维采集~LINEBREAK~~LINEBREAK~§7§o"龙之灵与冰合一，铸就可破金断铁的坚韧之刃。"§r
-item.hfrlc:fire_dragon_bone_dagger=§l§f炽焰之刃§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3龙息杀手~LINEBREAK~~LINEBREAK~§7§o"火龙之灵在刀柄中脉动。"§r
+item.hfrlc:flint_dagger=§l§f燧石刀§r§f~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"足够用来~LINEBREAK~§o  从植物中采集纤维。"§r
+item.hfrlc:wooden_dagger=§l§f木匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"几乎切不断纸张。"§r
+item.hfrlc:golden_dagger=§l§f金匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"每击都易碎。"§r
+item.hfrlc:stone_dagger=§l§f石匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"沉重但不钝。"§r
+item.hfrlc:iron_dagger=§l§f铁匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"锋利的刀刃~LINEBREAK~§o  渴望刺杀目标。"§r
+item.hfrlc:weapon_9=§l§f匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"镶有你不熟悉的~LINEBREAK~§o  花纹的金柄。"§r
+item.hfrlc:diamond_dagger=§l§f钻石匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"外观精致~LINEBREAK~§o  击杀致命。"§r
+item.hfrlc:netherite_dagger=§l§f下界合金匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"黑暗金属~LINEBREAK~§o  在日光下泛紫光。"§r
+item.hfrlc:dragon_bone_dagger=§l§f龙骨匕首§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9有几率造成双倍伤害。~LINEBREAK~~LINEBREAK~§3克龙毒牙~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"龙爪~LINEBREAK~§o  听你指挥。"§r
+item.hfrlc:ice_dragon_bone_dagger=§l§f冰雹碎片§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~§p采集纤维~LINEBREAK~~LINEBREAK~§7§o"龙魂与冰霜~LINEBREAK~§o  融合成能切金属的~LINEBREAK~§o  强力羁绊。"§r
+item.hfrlc:fire_dragon_bone_dagger=§l§f燃烧刃§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"火龙之魂~LINEBREAK~§o  在剑柄中跳动。"§r
 
 ## SPEARS
-item.hfrlc:wooden_spear=§l§f木矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一根怀抱尖锐抱负的木棍。"§r
-item.hfrlc:golden_spear=§l§f金矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"金光闪耀，却价值平平。"§r
-item.hfrlc:stone_spear=§l§f石矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始却出奇实用。"§r
-item.hfrlc:weapon_2=§l§f薙刀§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"荣誉引导每一次刺击。"§r
-item.hfrlc:iron_spear=§l§f铁矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"可靠且平衡。"§r
-item.hfrlc:diamond_spear=§l§f钻石矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"穿透之优，显现无遗。"§r
-item.hfrlc:netherite_spear=§l§f下界合金矛§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"不可破碎的黑暗锻入钢铁。"§r
-item.hfrlc:dragon_bone_spear=§l§f龙骨矛§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"龙之精髓锻造尖端。"§r
-item.hfrlc:ice_dragon_bone_spear=§l§f寒冬龙矛§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜之附魔~LINEBREAK~§3龙息杀手~LINEBREAK~~LINEBREAK~§7§o"冰冷龙息化作钢刃。"§r
-item.hfrlc:fire_dragon_bone_spear=§l§f灰烬脊矛§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3龙息杀手~LINEBREAK~~LINEBREAK~§7§o"矛尖燃烧着永恒火焰。"§r
+item.hfrlc:wooden_spear=§l§f木矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一根带着~LINEBREAK~§o  尖锐抱负的木棍。"§r
+item.hfrlc:golden_spear=§l§f金矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"金光闪闪~LINEBREAK~§o  但并不珍贵。"§r
+item.hfrlc:stone_spear=§l§f石矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始但~LINEBREAK~§o  出奇地有效。"§r
+item.hfrlc:weapon_2=§l§f长柄武士刀§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"荣誉引领~LINEBREAK~§o  每一次刺击。"§r
+item.hfrlc:iron_spear=§l§f铁矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"可靠且~LINEBREAK~§o  平衡良好。"§r
+item.hfrlc:diamond_spear=§l§f钻石矛§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"穿透之极致~LINEBREAK~§o  的体现。"§r
+item.hfrlc:netherite_spear=§l§f下界合金矛§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"坚不可摧的黑暗~LINEBREAK~§o  锻铸成钢。"§r
+item.hfrlc:dragon_bone_spear=§l§f龙骨矛§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"龙之精华~LINEBREAK~§o  锐化了矛尖。"§r
+item.hfrlc:ice_dragon_bone_spear=§l§f冬 wyrm§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"冰冻之息~LINEBREAK~§o  化作钢铁。"§r
+item.hfrlc:fire_dragon_bone_spear=§l§f灰烬脊骨§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"矛尖燃烧着~LINEBREAK~§o  永恒之火。"§r
 
 ## TRIDENTS
-item.trident.name=§l§f三叉戟§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"它有鱼的味道……"§r
-item.hfrlc:weapon_11=§l§f海王合金三叉戟§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 投射伤害~LINEBREAK~忠诚~LINEBREAK~使用海王合金锭修复。~LINEBREAK~~LINEBREAK~§7§o"三叉尽显海洋之怒。"§r
+item.trident.name=§l§f三叉戟§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"闻起来像~LINEBREAK~§o  鱼的味道..."§r
+item.hfrlc:weapon_11=§l§f海神合金三叉戟§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+6 投射物伤害~LINEBREAK~忠诚~LINEBREAK~用海神合金锭修理。~LINEBREAK~~LINEBREAK~§7§o"三叉怒火~LINEBREAK~§o  来自水域。"§r
 
 ## WARHAMMERS
-item.hfrlc:dragon_bone_hammer=§l§f龙骨战锤§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始龙族之力，以武器形态释放。"§r
-item.hfrlc:ice_dragon_bone_hammer=§l§f主宰§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜之附魔~LINEBREAK~§3龙息杀手~LINEBREAK~~LINEBREAK~§7§o"以武器形态展现永恒寒冬。"§r
-item.hfrlc:fire_dragon_bone_hammer=§l§f熔炉§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3龙息杀手~LINEBREAK~~LINEBREAK~§7§o"以实体形态释放炽热之怒。"§r
-item.mace.name=§l§f钉头锤§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"每一次打击都带有撼地之力。"§r
+item.hfrlc:dragon_bone_hammer=§l§f龙骨战锤§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始龙之力~LINEBREAK~§o  蕴含于此武器。"§r
+item.hfrlc:ice_dragon_bone_hammer=§l§f统御§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"永恒的冬日~LINEBREAK~§o  蕴含于此武器。"§r
+item.hfrlc:fire_dragon_bone_hammer=§l§f熔炉§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§3克龙毒牙~LINEBREAK~~LINEBREAK~§7§o"熔岩怒火~LINEBREAK~§o  化为实体。"§r
+item.mace.name=§l§f锤锤§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"每一次挥击~LINEBREAK~§o  都有震天动地之感。"§r
 
 ## SHIELDS
-item.hfrlc:weapon_13=§l§f木盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"为大自然的馈赠提供简单防护。"§r
-item.shield.name=§l§f盾牌§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"我可以这样干一整天..."§r
-
+item.hfrlc:weapon_13=§l§f木盾§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"简单的防护~LINEBREAK~§o  来自大自然的礼物。"§r
+item.shield.name=§l§f盾牌§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"我能持续防御一整天..."§r
 
 ## STAVES
-item.hfrlc:weapon_12=§l§f魔杖§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"奥术能量在其中流动。"§r
+item.hfrlc:weapon_12=§l§f魔杖§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"奥术能量~LINEBREAK~§o  在其中流动。"§r
 
 ## BOWS
-item.crossbow.name=§l§f弩§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"劣魔的选择。"§r
-item.bow.name=§l§f弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"愿你的箭矢命中并穿透。"§r
-item.hfrlc:weapon_1=§l§f长弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 投射物伤害~LINEBREAK~~LINEBREAK~§7§o"更远的射程，精准射击。"§r
-item.hfrlc:dragon_bone_bow=§l§f龙骨弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"古老力量引导每一支箭矢。"§r
-item.hfrlc:fire_dragon_bow=§l§f余烬裂弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§9+20 投射物伤害~LINEBREAK~~LINEBREAK~§7§o"箭矢燃烧着龙焰。"§r
-item.hfrlc:ice_dragon_bone_bow=§l§f霜裂弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b霜之附魔~LINEBREAK~§9+20 投射物伤害~LINEBREAK~~LINEBREAK~§7§o"箭矢在飞行中冰冻。"§r
+item.crossbow.name=§l§f弩§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"掠夺者的~LINEBREAK~§o  选择。"§r
+item.bow.name=§l§f弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"愿你的箭~LINEBREAK~§o  命中并穿透目标。"§r
+item.hfrlc:weapon_1=§l§f长弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+15 投射物伤害§r~LINEBREAK~~LINEBREAK~§7§o"更远的射程~LINEBREAK~§o  以精准射击。"§r
+item.hfrlc:dragon_bone_bow=§l§f龙骨弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9+20 投射物伤害~LINEBREAK~~LINEBREAK~§7§o"古老的力量~LINEBREAK~§o  指引每一支箭。"§r
+item.hfrlc:fire_dragon_bow=§l§f灰烬断裂弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§6火焰附魔~LINEBREAK~§9+20 投射物伤害~LINEBREAK~~LINEBREAK~§7§o"箭矢燃烧着~LINEBREAK~§o  龙焰之火。"§r
+item.hfrlc:ice_dragon_bone_bow=§l§f霜裂弓§r§f~LINEBREAK~~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§b冰霜附魔~LINEBREAK~§9+20 投射物伤害~LINEBREAK~~LINEBREAK~§7§o"箭矢在飞行中~LINEBREAK~§o  被冰冻凝结。"§r
 
 ## TOOLS
-item.wooden_axe.name=§l§f木斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"它很脆弱，但能胜任工作。"§r
-item.wooden_shovel.name=§l§f木铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"泥土的噩梦！……直到它坏掉为止。"§r
-item.wooden_pickaxe.name=§l§f木镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"圆石最不喜欢的伙伴。"§r
-item.wooden_hoe.name=§l§f木锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"泥土没有任何机会……可能吧。"§r
+item.wooden_axe.name=§l§f木斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"它很脆弱，但~LINEBREAK~  仍能完成工作。"§r
+item.wooden_shovel.name=§l§f木铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"泥土的最大噩梦！~LINEBREAK~  ……直到它坏掉。"§r
+item.wooden_pickaxe.name=§l§f木镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"最不受鹅卵石欢迎的朋友。"§r
+item.wooden_hoe.name=§l§f木锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"泥土几乎没有~LINEBREAK~  还手之力……可能。"§r
 
-item.stone_axe.name=§l§f石斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"足以砍伐枯木。"§r
-item.stone_shovel.name=§l§f石铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"是时候更深层次挖掘了。"§r
-item.stone_pickaxe.name=§l§f石镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"让我们看看石头能挖多少石块……"§r
-item.stone_hoe.name=§l§f石锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"耕作获得岩石般的升级。"§r
+item.stone_axe.name=§l§f石斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"足够砍断~LINEBREAK~  一些枯木。"§r
+item.stone_shovel.name=§l§f石铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"是时候深入挖掘了。"§r
+item.stone_pickaxe.name=§l§f石镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"让我们看看~LINEBREAK~  一块岩石能开采多少岩石……"§r
+item.stone_hoe.name=§l§f石锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"农耕获得了~LINEBREAK~  岩石般的升级。"§r
 
-item.iron_axe.name=§l§f铁斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"可靠的伐木斧。"§r
-item.iron_shovel.name=§l§f铁铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"我与泥土合二为一，泥土也与我同在。"§r
-item.iron_pickaxe.name=§l§f铁镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一次挥击，将山峦击碎成卵石……"§r
-item.iron_hoe.name=§l§f铁锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"这里有一片麦田。"§r
+item.iron_axe.name=§l§f铁斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"值得信赖的伐木斧。"§r
+item.iron_shovel.name=§l§f铁铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"我与泥土为一体。~LINEBREAK~  泥土与我同在。"§r
+item.iron_pickaxe.name=§l§f铁镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"把山峰变成小石子！~LINEBREAK~  一次挥击。"§r
+item.iron_hoe.name=§l§f铁锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"这是一片麦田。"§r
 
-item.golden_axe.name=§l§f金斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"要是它像美观一样坚固就好了……"§r
-item.golden_shovel.name=§l§f金铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"美丽……但脆弱。"§r
-item.golden_pickaxe.name=§l§f金镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"迈达斯会为此自豪……然后破产。"§r
-item.golden_hoe.name=§l§f金锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"产自下界。"§r
+item.golden_axe.name=§l§f金斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"要是它能像~LINEBREAK~  这么漂亮一样结实就好了.."§r
+item.golden_shovel.name=§l§f金铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"漂亮……~LINEBREAK~  但很脆弱。"§r
+item.golden_pickaxe.name=§l§f金镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"米达斯会为它感到骄傲……~LINEBREAK~但他也会破产。"§r
+item.golden_hoe.name=§l§f金锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"来自下界制造。"§r
 
-item.diamond_axe.name=§l§f钻石斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一把即可撼动小森林。"§r
-item.diamond_shovel.name=§l§f钻石铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"因为有时你需要优雅地挖掘。"§r
-item.diamond_pickaxe.name=§l§f钻石镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"让黑曜石也忐忑出汗……"§r
-item.diamond_hoe.name=§l§f钻石锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"对土豆来说有点过头？"§r
+item.diamond_axe.name=§l§f钻石斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"一把斧头足以~LINEBREAK~  劈开一小片森林。"§r
+item.diamond_shovel.name=§l§f钻石铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"有时挖掘~LINEBREAK~  也要有风格。"§r
+item.diamond_pickaxe.name=§l§f钻石镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"连黑曜石都~LINEBREAK~  紧张得出汗..."§r
+item.diamond_hoe.name=§l§f钻石锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"土豆用这个~LINEBREAK~  会不会太过了？"§r
 
-item.netherite_axe.name=§l§f下界合金斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"以异界物质熔铸。"§r
-item.netherite_shovel.name=§l§f下界合金铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"铸于魔鬼畏惧之地。"§r
-item.netherite_pickaxe.name=§l§f下界合金镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"直达基岩！更向深处！"§r
-item.netherite_hoe.name=§l§f下界合金锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"耕作？匹配你的才能？"§r
+item.netherite_axe.name=§l§f下界合金斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"熔炼自非凡之物~LINEBREAK~  来自异界的材料。"§r
+item.netherite_shovel.name=§l§f下界合金铲§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"在恶魔畏惧的地方~LINEBREAK~  锻造而成。"§r
+item.netherite_pickaxe.name=§l§f下界合金镐§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"向基岩进发！~LINEBREAK~  甚至更远！"§r
+item.netherite_hoe.name=§l§f下界合金锄§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"耕作？~LINEBREAK~  你这样的人才配耕作？"§r
 
-item.hfrlc:flint_axe=§l§f燧石斧§r§f~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始但出奇锋利。"§r
-item.hfrlc:weapon_3=§l§f骨柄斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用暗影石修复。~LINEBREAK~~LINEBREAK~§7§o"小巧却异常锋利。"§r
+item.hfrlc:flint_axe=§l§f燧石斧§r§f~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§7§o"原始但出奇地锋利。"§r
+item.hfrlc:weapon_3=§l§f骨斧§r§f~LINEBREAK~ ~LINEBREAK~~LINEBREAK~§f §l伤害§r~LINEBREAK~~LINEBREAK~~LINEBREAK~§9使用影石修复。~LINEBREAK~~LINEBREAK~§7§o"虽小却~LINEBREAK~§o  锋利致命。"§r
 
-item.hfrlc:dungeon_door=地牢之门
-item.hfrlc:dungeon_door_desert=沙漠地牢之门
-item.hfrlc:dungeon_door_snow=冰雪地牢之门
-item.hfrlc:dungeon_door_red_desert=红沙漠地牢之门
-item.hfrlc:dungeon_door_key=钥匙门
+item.hfrlc:dungeon_door=地牢门
+item.hfrlc:dungeon_door_desert=沙漠地牢门
+item.hfrlc:dungeon_door_snow=冰霜地牢门
+item.hfrlc:dungeon_door_red_desert=红沙漠地牢门
+item.hfrlc:dungeon_door_key=地牢钥匙
 item.hfrlc:key=钥匙
 
-death.attack.anvil=为 %1$s 默哀  
-death.attack.arrow=妈，快拿手机录视频！！  
-death.attack.bullet=妈，快拿手机录视频！！  
-death.attack.cactus=你真是MVP——最有价值的猎物！  
-death.attack.drown=就这点水都憋死，%1$s？  
-death.attack.explosion=成就解锁：专业重生玩家  
-death.attack.explosion.by.bed=让他大显身手！  
-death.attack.explosion.player=如何不驯龙  
-death.attack.fall=重力说：“%1$s，坐下！”  
-death.attack.fallingBlock=更新日志：生命被削弱。  
-death.attack.fireball=火球来袭！  
-death.attack.fireworks=你忘了补血，对吧？  
-death.attack.flyIntoWall=心灵受创！  
-death.attack.generic=%1$s 已阵亡  
-death.attack.indirectMagic=%1$s 连“最强”都算不上  
-death.attack.inFire=火焰灼烧！  
-death.attack.inWall=那是卡顿，还是操作不足？  
-death.attack.lava=幸好你没把马骑进岩浆。  
-death.attack.lightningBolt=练好技术  
-death.attack.maceSmash.player=%1$s 被 %2$s 锤扁了  
-death.attack.maceSmash.player.item=%1$s 被 %2$s 的 %3$s 锤扁了  
-death.attack.magic=建议定期饮水：用餐时、运动后及口渴时。  
-death.attack.magma=需要个拥抱吗？  
-death.attack.mob=%1$s 未达到生存要求。  
-death.attack.mob.item=%1$s 未达到生存要求。  
-death.attack.onFire=死亡正以炽热来临！！！  
-death.attack.outOfWorld=重生已满级 50 级。  
-death.attack.player=%1$s 未达到生存要求。  
-death.attack.player.item=%1$s 未达到生存要求。  
-death.attack.spit=%1$s 被 %2$s 吐的口水砸脸。  
-death.attack.starve=安息吧，至少你努力过。  
-death.attack.sweetBerry=你真是MVP——最有价值的猎物！  
-death.attack.thorns=你真是MVP——最有价值的猎物！  
-death.attack.trident=%1$s 被 %2$s 用三叉戟刺死。  
-death.attack.wither=下次记得喝牛奶解除凋零。  
-death.attack.freeze=要是多带件御寒装备就好了。  
-death.attack.sonicBoom.player=早该按 X 键躲避了。  
-death.attack.stalactite=如果死亡也能得成就，你已经解锁两次了。  
-death.attack.stalagmite=%1$s 努力一搏，却跌得更惨。  
-death.fell.accident.generic=重力说：“%1$s，坐下！”
+death.attack.anvil=为%1$s默哀
+death.attack.arrow=妈妈，快拿相机！！
+death.attack.bullet=妈妈，快拿相机！！
+death.attack.cactus=你真是MVP，最有价值的猎物。
+death.attack.drown=%1$s，水没那么深。
+death.attack.explosion=成就达成：专业重生者。
+death.attack.explosion.by.bed=让他烧起来！
+death.attack.explosion.player=如何不训练你的龙
+death.attack.fall=重力说“坐下，%1$s”
+death.attack.fallingBlock=更新日志：生命被削弱。
+death.attack.fireball=轰隆！
+death.attack.fireworks=你忘了补血吧？
+death.attack.flyIntoWall=情感伤害！
+death.attack.generic=%1$s 死了
+death.attack.indirectMagic=%1$s 不是最强的。
+death.attack.inFire=超级热火，哇哦！
+death.attack.inWall=是延迟还是技术差？
+death.attack.lava=至少你没骑马跳进熔岩。
+death.attack.lightningBolt=练好点。
+death.attack.maceSmash.player=%1$s 被 %2$s 砸扁了
+death.attack.maceSmash.player.item=%1$s 被 %2$s 用 %3$s 砸扁了
+death.attack.magic=多喝水，饭后、运动时，和感觉口渴时。
+death.attack.magma=需要拥抱吗？
+death.attack.mob=%1$s 未能存活。
+death.attack.mob.item=%1$s 未能存活。
+death.attack.onFire=死亡正炙热来临！
+death.attack.outOfWorld=已达重生等级50。
+death.attack.player=%1$s 未能存活。
+death.attack.player.item=%1$s 未能存活。
+death.attack.spit=%1$s 被 %2$s 朝脸吐口水
+death.attack.starve=安息吧，至少你尝试了。
+death.attack.sweetBerry=你真是MVP，最有价值的猎物。
+death.attack.thorns=你真是MVP，最有价值的猎物。
+death.attack.trident=%1$s 被 %2$s 刺死了
+death.attack.wither=本该带牛奶的
+death.attack.freeze=本该去找Johnny Dang
+death.attack.sonicBoom.player=本该按X闪避。
+death.attack.stalactite=如果有死亡成就，你会解锁两次。
+death.attack.stalagmite=%1$s 努力过，但失败了。
+death.fell.accident.generic=重力说“坐下，%1$s”
 
-pack.name=RLCraft Bedrock Edition RP
-pack.description=§l§c[!] 此资源包应置顶！§r | 原版 Java Mod 包：Shivaxi | Bedrock RP by Honeyfrost，Skybox 来自 Hybred
+pack.name=RLCraft基岩版资源包
+pack.description=§l§c[!] 本资源包应置于所有其他资源包之上！§r | 基于Shivaxi原版Java Modpack | 由Honeyfrost制作，背景由Hybred提供
